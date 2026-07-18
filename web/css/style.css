@@ -1,0 +1,920 @@
+/* ===========================================
+   DYNARCTU - Sistem Evaluasi Belajar
+   Stylesheet
+   =========================================== */
+
+        :root { 
+            /* Kombinasi Warna Utama Logo */
+            --primary: #0F2439;    /* Biru Gelap */
+            --primary-hover: #14304c;
+            --secondary: #D32F2E;  /* Merah */
+            --secondary-hover: #b72727;
+            --putih: #ffffff;      /* Putih */
+            
+            /* Warna Pendukung Teks & Status */
+            --bg-body: #ffffff;    
+            --text-dark: #0F2439;  
+            --text-muted: #5a6b7c;
+            --hijau: #10b981;      
+            --merah-salah: #D32F2E; 
+            --border-color: #e2e8f0;
+        }
+        
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 85px; /* Menyesuaikan tinggi navbar kamu agar pas */
+        }
+
+        body { 
+            font-family: 'Poppins', sans-serif; 
+            background-color: var(--bg-body);
+            color: var(--text-dark); 
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            overflow-x: hidden;
+        }
+
+        /* =========================================
+           1. LANDING PAGE STYLES
+           ========================================= */
+        
+        /* Header / Navbar */
+        .top-navbar img {
+            height: 40px;
+            width: auto;
+        }
+        /* Update Navbar Container agar logo di kiri & menu di kanan */
+        .top-navbar {
+            background-color: var(--putih);
+            padding: 20px 40px;
+            box-shadow: 0 2px 15px rgba(15, 36, 57, 0.1); 
+            display: flex;
+            justify-content: space-between; /* Memisahkan logo dan menu */
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 3px solid var(--primary);
+        }
+
+        /* Style Menu Navigasi (Desktop) */
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--primary);
+            font-weight: 600;
+            font-size: 1.05em;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: var(--secondary);
+        }
+
+        /* Style Tombol Hamburger */
+        .hamburger {
+            display: none; /* Sembunyikan di layar laptop/desktop */
+            flex-direction: column;
+            gap: 6px;
+            cursor: pointer;
+            z-index: 101; /* Pastikan selalu di atas menu */
+        }
+
+        .hamburger span {
+            width: 30px;
+            height: 4px;
+            background-color: var(--primary);
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        /* =========================================
+        RESPONSIVE DESIGN (HP & Tablet)
+        ========================================= */
+        @media screen and (max-width: 768px) {
+            .top-navbar {
+                padding: 15px 20px;
+            }
+
+            /* Tampilkan tombol hamburger di layar kecil */
+            .hamburger {
+                display: flex;
+            }
+
+            /* Sembunyikan menu navigasi ke atas dan buat styling dropdown */
+            .nav-links {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 100%;
+                background-color: var(--putih);
+                flex-direction: column;
+                gap: 0;
+                max-height: 0; /* Sembunyikan dengan max-height */
+                overflow: hidden;
+                transition: max-height 0.4s ease-in-out;
+                box-shadow: 0 10px 15px rgba(15, 36, 57, 0.1);
+                border-bottom: 0px solid var(--primary);
+            }
+
+            /* Class yang akan ditambahkan via JavaScript saat hamburger diklik */
+            .nav-links.active {
+                max-height: 300px; /* Buka menu ke bawah */
+                border-bottom: 3px solid var(--primary);
+            }
+
+            .nav-links a {
+                padding: 15px 20px;
+                width: 100%;
+                text-align: center;
+                border-top: 1px solid var(--border-color);
+                box-sizing: border-box;
+            }
+
+            /* Efek garis 3 berubah jadi tombol "X" saat menu terbuka */
+            .hamburger.active span:nth-child(1) {
+                transform: translateY(10px) rotate(45deg);
+            }
+            .hamburger.active span:nth-child(2) {
+                opacity: 0;
+            }
+            .hamburger.active span:nth-child(3) {
+                transform: translateY(-10px) rotate(-45deg);
+            }
+        }
+
+            .hero-section {
+                background-color: var(--primary); /* Menggunakan warna biru gelap kamu */
+                color: var(--putih);
+                padding: 100px 5%;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 60vh;
+                box-sizing: border-box;
+                /* Efek hiasan dekoratif samar bawaan di background hero */
+                background-image: radial-gradient(circle at 80% 20%, rgba(213, 47, 46, 0.15) 0%, transparent 40%),
+                                radial-gradient(circle at 10% 80%, rgba(255, 255, 255, 0.05) 0%, transparent 30%);
+            }
+
+            .hero-content {
+                max-width: 850px;
+            }
+
+            .hero-content h1 {
+                font-size: 3.2em;
+                font-weight: 800;
+                line-height: 1.2;
+                margin-bottom: 20px;
+                margin-top: 0;
+                letter-spacing: -1px;
+            }
+
+            .hero-content p {
+                font-size: 1.2em;
+                line-height: 1.8;
+                margin-bottom: 40px;
+                opacity: 0.9;
+                font-weight: 400;
+            }
+
+            /* Tombol CTA Hero - Warna Oranye Kontras */
+            .btn-hero {
+                display: inline-block;
+                background-color: #f59e0b; /* Warna kuning/oranye aksen */
+                color: var(--putih);
+                text-decoration: none;
+                padding: 16px 35px;
+                border-radius: 30px;
+                font-size: 1.15em;
+                font-weight: 700;
+                transition: all 0.3s ease;
+                box-shadow: 0 6px 20px rgba(245, 158, 11, 0.3);
+            }
+
+            .btn-hero:hover {
+                background-color: #d97706;
+                transform: translateY(-3px);
+                box-shadow: 0 8px 25px rgba(245, 158, 11, 0.4);
+            }
+
+            /* Responsif untuk Layar HP */
+            @media screen and (max-width: 768px) {
+                .hero-section {
+                    padding: 60px 20px;
+                    min-height: auto;
+                }
+                .hero-content h1 {
+                    font-size: 2.2em;
+                }
+                .hero-content p {
+                    font-size: 1.05em;
+                }
+            }
+
+        /* Section 1: Apa itu TKA? */
+        .section-about {
+            background-color: var(--putih);
+            padding: 80px 5%;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+        }
+        .about-content {
+            max-width: 800px;
+        }
+        .about-content h1 {
+            font-size: 3em;
+            font-weight: 800;
+            color: var(--primary); 
+            margin-bottom: 20px;
+            margin-top: 0;
+        }
+        .about-content p {
+            font-size: 1.15em;
+            line-height: 1.8;
+            color: var(--text-dark);
+            font-weight: 500;
+        }
+
+        /* Section 2: Persiapan TKA (Background Merah) */
+        .section-prep {
+            background-color: var(--secondary); 
+            color: var(--putih);
+            padding: 80px 5%;
+            position: relative;
+            overflow: hidden;
+            border-top: 5px solid var(--primary); 
+            border-bottom: 5px solid var(--primary);
+        }
+        .section-prep h2 {
+            font-size: 2.5em;
+            font-weight: 800;
+            margin-top: 0;
+            margin-bottom: 40px;
+            line-height: 1.3;
+        }
+        .checklist {
+            list-style: none;
+            padding: 0;
+            max-width: 700px;
+        }
+        .checklist li {
+            font-size: 1.15em;
+            font-weight: 500;
+            margin-bottom: 25px;
+            display: flex;
+            align-items: flex-start;
+            line-height: 1.5;
+        }
+        .check-icon {
+            background-color: var(--putih);
+            color: var(--secondary);
+            min-width: 30px;
+            height: 30px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 20px;
+            margin-top: 2px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+        }
+        .check-icon::after {
+            content: "✓";
+            color: var(--secondary); 
+            font-weight: 900;
+            font-size: 1.2em;
+        }
+
+        /* Section 3: Pilihan Tingkatan (Cards) */
+        .section-programs {
+            background-color: var(--putih);
+            padding: 80px 5%;
+            text-align: center;
+        }
+        .section-programs h2 {
+            font-size: 2.2em;
+            color: var(--primary);
+            font-weight: 800;
+            margin-bottom: 50px;
+        }
+        .cards-container {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .program-card {
+            background: var(--primary); 
+            border-radius: 20px;
+            width: 320px;
+            overflow: hidden;
+            box-shadow: 0 15px 35px rgba(15, 36, 57, 0.25);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s ease;
+            border: 2px solid var(--primary);
+        }
+        .program-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(211, 47, 46, 0.2); 
+        }
+        .card-top {
+            background-color: var(--putih);
+            padding: 30px 20px;
+            text-align: center;
+            border-bottom: 5px solid var(--secondary); 
+        }
+        .card-top h3 {
+            font-size: 2.5em;
+            color: var(--primary);
+            margin: 0;
+            font-weight: 800;
+        }
+        .card-top p {
+            color: var(--secondary); 
+            font-weight: 700;
+            margin: 5px 0 0 0;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .card-bottom {
+            padding: 30px 25px;
+            color: var(--putih);
+            text-align: left;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .card-bottom p.desc {
+            font-size: 0.85em;
+            line-height: 1.6;
+            margin-top: 0;
+            margin-bottom: 25px;
+            opacity: 0.9;
+        }
+        
+        /* Dropdowns inside Cards */
+        .config-group {
+            margin-bottom: 15px;
+        }
+        .config-group label {
+            font-size: 0.8em;
+            font-weight: 600;
+            color: var(--putih);
+            display: block;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .config-group select {
+            width: 100%;
+            padding: 12px;
+            border-radius: 8px;
+            border: 2px solid var(--putih);
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            color: var(--primary);
+            background-color: var(--putih);
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%230F2439%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+            background-repeat: no-repeat, repeat;
+            background-position: right .7em top 50%, 0 0;
+            background-size: .65em auto, 100%;
+        }
+
+        .btn-mulai {
+            background-color: #f59e0b; /* Kuning */
+            color: var(--putih);
+            border: none;
+            padding: 15px;
+            width: 100%;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: auto;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+            font-family: 'Poppins', sans-serif;
+        }
+        .btn-mulai:hover {
+            background-color: #d97706;
+            transform: scale(1.02);
+        }
+
+        /* =========================================
+           FOOTER BARU (Berisi Sosial Media & Bantuan)
+           ========================================= */
+        .footer-section {
+            background-color: var(--primary); 
+            border-top: 5px solid var(--secondary); 
+            color: var(--putih);
+            padding: 60px 5% 30px 5%;
+            display: flex;
+            flex-direction: column;
+        }
+        .footer-top {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+        .footer-col {
+            flex: 1;
+            min-width: 250px;
+        }
+        .footer-logo-box {
+            background: var(--putih);
+            padding: 15px 20px;
+            border-radius: 12px;
+            display: inline-block;
+            margin-bottom: 20px;
+            border: 2px solid var(--secondary);
+        }
+        .footer-logo-box img {
+            width: 180px;
+            height: auto;
+            display: block;
+        }
+        .footer-col h3 {
+            font-size: 1.4em;
+            margin-top: 0;
+            margin-bottom: 20px;
+            font-weight: 700;
+            color: var(--putih);
+        }
+        .footer-col p {
+            line-height: 1.8;
+            font-size: 0.95em;
+            opacity: 0.9;
+            margin-top: 0;
+        }
+        .help-links {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .help-links li {
+            margin-bottom: 15px;
+            font-size: 0.95em;
+            line-height: 1.6;
+            opacity: 0.9;
+        }
+        .help-links strong {
+            color: #f59e0b; /* Kuning aksen */
+        }
+        .help-links a {
+            color: var(--putih);
+            text-decoration: none;
+            transition: 0.3s;
+            font-weight: 500;
+        }
+        .help-links a:hover {
+            color: var(--secondary);
+        }
+        .btn-reset-db {
+            background: transparent;
+            border: 2px solid var(--secondary);
+            color: var(--putih);
+            padding: 10px 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 15px;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            transition: 0.3s;
+            font-size: 0.85em;
+        }
+        .btn-reset-db:hover {
+            background-color: var(--secondary);
+        }
+        
+        /* Baris Bawah Footer (Copyright & Sosmed) */
+        .footer-bottom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            border-top: 1px solid rgba(255,255,255,0.2);
+            padding-top: 25px;
+            gap: 20px;
+        }
+        .copyright {
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+        .social-icons {
+            display: flex;
+            gap: 20px;
+        }
+        .social-icons a {
+            color: var(--putih);
+            transition: transform 0.3s ease, color 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .social-icons a:hover {
+            color: var(--secondary);
+            transform: scale(1.15);
+        }
+
+        /* =========================================
+           2. QUIZ INTERFACE STYLES 
+           ========================================= */
+        .quiz-wrapper {
+            display: none; 
+            width: 100%;
+            min-height: 100vh;
+            background-color: var(--putih);
+            align-items: center;
+            justify-content: center;
+            padding: 40px 15px;
+            box-sizing: border-box;
+        }
+        .container { 
+            width: 100%;
+            max-width: 700px; 
+            background: var(--putih); 
+            padding: 45px; 
+            border-radius: 20px; 
+            box-shadow: 0 20px 50px rgba(15, 36, 57, 0.15); 
+            border-top: 8px solid var(--primary); 
+            margin: auto;
+            border-bottom: 8px solid var(--secondary); 
+        }
+        #timer-header { 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            background: var(--primary);
+            color: var(--putih);
+            padding: 18px 25px; 
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border-left: 5px solid var(--secondary);
+        }
+        #timer { font-size: 1.3em; font-weight: 800;}
+        .progress { font-weight: 600; font-size: 1em; opacity: 0.9; }
+        
+        .soal-teks { font-size: 1.2em; margin-bottom: 30px; line-height: 1.7; font-weight: 600; color: var(--primary);}
+
+        /* MathJax CHTML has no font of its own for bold weights, so it
+           inherited font-weight:600/500 from .soal-teks/.option-label and
+           the browser faux-bolded it. Faux-bold distorts stretchy/assembled
+           glyphs (matrix parentheses, radical bars) because they're built
+           from multiple pieces tiled to exact pixel metrics. Force math
+           back to normal weight/style regardless of its container. */
+        mjx-container {
+            font-weight: normal !important;
+            font-style: normal !important;
+        }
+        
+        .option-label { 
+            display: flex; 
+            align-items: center;
+            padding: 18px 20px; 
+            background: var(--putih); 
+            border: 2px solid var(--border-color); 
+            margin: 12px 0; 
+            border-radius: 12px; 
+            cursor: pointer; 
+            transition: all 0.2s ease; 
+            font-weight: 500;
+        }
+        .option-label:hover { 
+            background: #fafafa; 
+            border-color: var(--primary);
+        }
+        input[type="radio"] { 
+            margin-right: 18px; 
+            transform: scale(1.3);
+            accent-color: var(--secondary);
+            cursor: pointer;
+        }
+        input[type="text"] {
+            width: 100%; 
+            padding: 15px 18px; 
+            border-radius: 10px; 
+            border: 2px solid var(--border-color); 
+            font-size: 1em; 
+            font-family: 'Poppins', sans-serif;
+            font-weight: 500;
+            box-sizing: border-box;
+            color: var(--primary);
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        
+        .explanation-box { 
+            background: #f0fdf4; 
+            border-left: 6px solid var(--hijau); 
+            padding: 25px; 
+            margin-top: 30px; 
+            border-radius: 8px; 
+            display: none; 
+        }
+        .explanation-box.salah {
+            background: #fff5f5;
+            border-left-color: var(--merah-salah);
+        }
+        
+        .hidden { display: none !important; }
+        .btn-mulai:disabled,
+        .btn-mulai.btn-loading {
+            opacity: 0.55;
+            cursor: not-allowed;
+            filter: grayscale(40%);
+        }
+        .correct { background-color: #f0fdf4 !important; border-color: var(--hijau) !important; color: #047857; font-weight: 600;}
+        .wrong { background-color: #fff5f5 !important; border-color: var(--merah-salah) !important; color: var(--secondary); font-weight: 600;}
+        hr { border: none; height: 2px; background: var(--border-color); margin: 35px 0; }
+
+        .btn-cek { background-color: var(--secondary); color: var(--putih); border: none; padding: 16px; border-radius: 10px; width: 100%; font-size: 1.05em; font-weight: 700; cursor: pointer; font-family: 'Poppins', sans-serif;}
+        .btn-next { background-color: var(--secondary); color: var(--putih); border: none; padding: 16px; border-radius: 10px; width: 100%; font-size: 1.05em; font-weight: 700; cursor: pointer; font-family: 'Poppins', sans-serif;}
+        .btn-cek:hover { background-color: var(--secondary-hover); }
+        .btn-next:hover { background-color: var(--secondary-hover); }
+
+        /* Result Screen */
+        .result-box {
+            background: var(--putih); border: 2px solid var(--border-color); border-radius: 15px; padding: 50px 20px; margin: 30px 0; text-align: center;
+        }
+        .score-circle {
+            width: 150px; height: 150px; background: var(--putih); border: 8px solid var(--secondary); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px auto;
+        }
+        h2.section-title { color: var(--primary); margin-top: 0; margin-bottom: 25px; font-weight: 800; text-align: center; border-bottom: 3px solid var(--border-color); padding-bottom: 15px;}
+        
+                /* =========================================
+        STYLE TOMBOL DARK MODE
+        ========================================= */
+        .btn-toggle {
+            background: none;
+            border: none;
+            font-size: 1.5em;
+            cursor: pointer;
+            padding: 5px 10px;
+            margin-left: 15px;
+            transition: transform 0.3s ease;
+            color: var(--text-dark);
+        }
+        .btn-toggle:hover {
+            transform: scale(1.15);
+        }
+
+        /* =========================================
+        TEMA DARK MODE (Midnight Navy)
+        ========================================= */
+
+        /* Perbaikan warna teks judul yang masih biru gelap */
+        body.dark-mode .about-content h1,
+        body.dark-mode .section-programs h2 {
+            color: #f1f5f9; /* Mengubah judul menjadi putih/abu terang */
+        }
+
+        /* Mengubah warna teks paragraf penjelasan TKA agar lebih nyaman dibaca */
+        body.dark-mode .about-content p {
+            color: var(--text-muted); 
+        }
+
+        body.dark-mode {
+            --bg-body: #08121e;       /* Biru Midnight Gelap */
+            --text-dark: #f1f5f9;     /* Putih/Abu Terang untuk teks */
+            --text-muted: #94a3b8;    /* Abu redup */
+        }
+
+        /* Navbar & Navigasi */
+        body.dark-mode .top-navbar {
+            background-color: #152535;
+            border-bottom: 3px solid #1e3a5f;
+        }
+        body.dark-mode .nav-links a {
+            color: #f1f5f9;
+        }
+        body.dark-mode .nav-links a:hover {
+            color: var(--secondary);
+        }
+
+        /* Background Section */
+        body.dark-mode .section-about,
+        body.dark-mode .section-programs,
+        body.dark-mode .quiz-wrapper {
+            background-color: var(--bg-body);
+        }
+
+        /* Redam Warna Merah di Persiapan TKA */
+        body.dark-mode .section-prep {
+            background-color: #991b1b;
+            border-color: #152535;
+        }
+
+        /* Kartu Program (SD/SMP/SMA) */
+        body.dark-mode .program-card {
+            background-color: #152535;
+            border-color: #152535;
+        }
+        body.dark-mode .card-top {
+            background-color: #0b1a2a;
+            border-bottom: 5px solid #991b1b;
+        }
+        body.dark-mode .card-top h3 {
+            color: #f1f5f9;
+        }
+        body.dark-mode .config-group select {
+            background-color: #0b1a2a;
+            color: #f1f5f9;
+            border-color: #1e3a5f;
+            /* Ubah ikon panah dropdown jadi warna terang */
+            background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23f1f5f9%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+        }
+
+        /* Tampilan Kuis (Soal & Opsi) */
+        body.dark-mode .container {
+            background-color: #152535;
+            border-top-color: #1e3a5f;
+            border-bottom-color: #991b1b;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+        }
+        body.dark-mode #timer-header {
+            background-color: #0b1a2a;
+            border-left-color: #991b1b;
+        }
+        body.dark-mode .soal-teks, 
+        body.dark-mode h2.section-title {
+            color: #f1f5f9;
+        }
+        body.dark-mode .option-label {
+            background-color: #0b1a2a;
+            border-color: #1e3a5f;
+            color: #f1f5f9;
+        }
+        body.dark-mode .option-label:hover {
+            background-color: #1e3a5f;
+        }
+        body.dark-mode input[type="text"] {
+            background-color: #0b1a2a;
+            color: #f1f5f9;
+            border-color: #1e3a5f;
+        }
+
+        /* Pembahasan & Hasil Akhir */
+        body.dark-mode .explanation-box {
+            background-color: #0b1a2a;
+            border-left-color: var(--hijau);
+        }
+        body.dark-mode .explanation-box.salah {
+            background-color: #2a1111;
+            border-left-color: #d32f2e;
+        }
+        body.dark-mode .result-box {
+            background-color: #0b1a2a;
+            border-color: #1e3a5f;
+        }
+        body.dark-mode .score-circle {
+            background-color: #152535;
+            border-color: #991b1b;
+        }
+
+        /* Footer */
+        body.dark-mode .footer-section {
+            background-color: #0b1a2a;
+            border-top: 5px solid #991b1b;
+        }
+        body.dark-mode .footer-logo-box {
+            background-color: #152535;
+            border-color: #1e3a5f;
+        }
+
+                /* =========================================
+        PERBAIKAN TAMPILAN KUIS & HASIL (DARK MODE)
+        ========================================= */
+
+        /* 1. Menerangkan sedikit warna hijau & merah bawaan agar kontras di latar gelap */
+        body.dark-mode {
+            --hijau: #34d399;
+            --merah-salah: #ef4444;
+        }
+
+        /* 2. Fix Kotak Jawaban (Benar/Salah) agar tidak menyilaukan */
+        body.dark-mode .correct {
+            background-color: #064e3b !important; /* Hijau lumut gelap */
+            border-color: #10b981 !important; /* Border hijau terang */
+            color: #a7f3d0 !important; /* Teks hijau pucat */
+        }
+        body.dark-mode .wrong {
+            background-color: #450a0a !important; /* Merah maroon gelap */
+            border-color: #ef4444 !important; /* Border merah terang */
+            color: #fca5a5 !important; /* Teks merah pucat */
+        }
+
+        /* 3. Fix Teks Pembahasan yang tidak terbaca */
+        body.dark-mode .explanation-box div[style*="var(--primary)"],
+        body.dark-mode .explanation-box b[style*="var(--primary)"],
+        body.dark-mode .explanation-box li[style*="var(--primary)"] {
+            color: #f1f5f9 !important; /* Mengubah teks biru gelap jadi putih terang */
+        }
+
+        /* 4. Fix Teks Skor di Halaman Hasil Evaluasi */
+        body.dark-mode #skor-akhir,
+        body.dark-mode #detail-skor {
+            color: #f1f5f9 !important; /* Mengubah angka skor dan ringkasan jadi putih terang */
+        }
+
+            /* Responsif Mobile Menu */
+        @media screen and (max-width: 768px) {
+            /* UBAH BAGIAN INI: Menyamakan layout tombol dengan menu lainnya */
+            .btn-toggle {
+                width: 100%; /* Membentang penuh dari ujung ke ujung */
+                padding: 15px 20px; /* Jarak disamakan dengan menu Home/About */
+                margin: 0; /* Menghapus margin sebelumnya */
+                border-top: 1px solid var(--border-color); /* Ini yang memunculkan garis atasnya! */
+                display: block;
+                text-align: center; /* Memastikan ikon tetap rapi di tengah */
+                box-sizing: border-box;
+            }
+            
+            body.dark-mode .nav-links {
+                background-color: #152535;
+                border-bottom-color: #1e3a5f;
+            }
+            body.dark-mode .hamburger span {
+                background-color: #f1f5f9;
+            }
+        }
+
+        /* =========================================
+        STYLE TAMBAHAN: MCMA & BENAR/SALAH
+        ========================================= */
+        /* Custom Checkbox untuk MCMA */
+        input[type="checkbox"] {
+            margin-right: 18px;
+            transform: scale(1.3);
+            accent-color: var(--secondary);
+            cursor: pointer;
+        }
+
+        /* Tabel Benar Salah */
+        .bs-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0 25px 0;
+            background: var(--putih);
+            border: 2px solid var(--border-color);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .bs-table th {
+            background-color: var(--primary);
+            color: var(--putih);
+            padding: 14px 15px;
+            text-align: center;
+            font-weight: 600;
+        }
+        .bs-table th:first-child {
+            text-align: left;
+        }
+        .bs-table td {
+            padding: 14px 15px;
+            border-bottom: 1px solid var(--border-color);
+            border-right: 1px solid var(--border-color);
+            font-weight: 500;
+        }
+        .bs-table tr:last-child td {
+            border-bottom: none;
+        }
+        .bs-table input[type="radio"] {
+            margin: 0;
+        }
+        /* Baris Indikator Benar/Salah setelah dijawab */
+        .correct-row { background-color: #f0fdf4 !important; }
+        .wrong-row { background-color: #fff5f5 !important; }
+
+        /* Dark Mode untuk Tabel Benar/Salah */
+        body.dark-mode .bs-table {
+            background-color: #0b1a2a;
+            border-color: #1e3a5f;
+            color: #f1f5f9;
+        }
+        body.dark-mode .bs-table th {
+            background-color: #1e3a5f;
+        }
+        body.dark-mode .bs-table td {
+            border-color: #1e3a5f;
+        }
+        body.dark-mode .correct-row { background-color: #064e3b !important; color: #a7f3d0 !important;}
+        body.dark-mode .wrong-row { background-color: #450a0a !important; color: #fca5a5 !important;}

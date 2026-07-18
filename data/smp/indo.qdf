@@ -1,0 +1,3327 @@
+Type: PilihanGanda
+ID: SMP_INDO_1
+Question: Analogi kata: MOBIL : BENSIN = MANUSIA : ...
+Answer: MAKANAN
+Explanation: Bensin adalah sumber energi yang dibutuhkan agar mobil dapat bergerak dan berfungsi. Demikian pula, makanan adalah sumber energi yang dibutuhkan oleh manusia agar dapat hidup dan beraktivitas.
+Options:
+  - Text: MINUMAN
+  - Text: MAKANAN
+  - Text: DARAH
+  - Text: TULANG
+  - Text: ENERGI
+---
+Type: PilihanGanda
+ID: SMP_INDO_2
+Question: Analogi kata: GURU : MURID = DOKTER : ...
+Answer: PASIEN
+Explanation: Seorang guru memberikan layanan pendidikan, bimbingan, dan pengajaran kepada muridnya. Secara analogi, seorang dokter memberikan layanan kesehatan, perawatan, dan pengobatan kepada pasiennya.
+Options:
+  - Text: RUMAH SAKIT
+  - Text: PENYAKIT
+  - Text: OBAT
+  - Text: PASIEN
+  - Text: PERAWAT
+---
+Type: PilihanGanda
+ID: SMP_INDO_3
+Question: Analogi kata: PIKIRAN : OTAK = AWAN : ...
+Answer: LANGIT
+Explanation: Pikiran merupakan sesuatu yang berada atau diproses di dalam otak manusia. Dengan cara pandang spasial dan letak, awan merupakan sesuatu yang berada atau berarak di langit.
+Options:
+  - Text: MENDUNG
+  - Text: HUJAN
+  - Text: ANGIN
+  - Text: LANGIT
+  - Text: AIR
+---
+Type: PilihanGanda
+ID: SMP_INDO_4
+Question: Sinonim (persamaan makna) dari kata "EVOKASI" adalah ...
+Answer: PENGGUGAH RASA
+Explanation: Menurut Kamus Besar Bahasa Indonesia (KBBI), evokasi bermakna daya penggugah rasa; pemunculan dalam ingatan. Oleh karena itu, padanan kata yang paling tepat adalah penggugah rasa.
+Options:
+  - Text: PENGGUGAH RASA
+  - Text: PENILAIAN
+  - Text: PROVOKASI
+  - Text: PERUBAHAN CEPAT
+  - Text: EVAKUASI
+---
+Type: PilihanGanda
+ID: SMP_INDO_5
+Question: Sinonim (persamaan makna) dari kata "ELABORASI" adalah ...
+Answer: PENJELASAN TERPERINCI
+Explanation: Kata elaborasi dalam KBBI memiliki arti penggarapan secara tekun dan cermat; atau penjelasan yang sangat terperinci dan mendalam terhadap suatu gagasan.
+Options:
+  - Text: PENJELASAN TERPERINCI
+  - Text: RINGKASAN
+  - Text: PENGHAPUSAN
+  - Text: PENGGABUNGAN
+  - Text: PERPISAHAN
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_6
+Question: >
+  Dalam Tes Kemampuan Akademik, memahami padanan kata sangat penting. 
+  Manakah dari pasangan kata berikut ini yang bersinonim?
+Explanation: Taraf dan tingkat memiliki arti yang sama (level). Begitu pula dengan adaptasi dan penyesuaian yang maknanya sama. Anomali adalah penyimpangan, bukan kesamaan. Agitasi bermakna hasutan, bukan ketenangan.
+Options:
+  - Text: Taraf = Tingkat
+    IsCorrect: true
+  - Text: Adaptasi = Penyesuaian
+    IsCorrect: true
+  - Text: Anomali = Kesamaan
+    IsCorrect: false
+  - Text: Agitasi = Ketenangan
+    IsCorrect: false
+  - Text: Konvensi = Kesepakatan
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_7
+Question: >
+  Analogi ganda digunakan untuk menguji kemampuan logika berfikir. 
+  Pilihlah pasangan analogi di bawah ini yang memiliki pola hubungan "Bagian : Keseluruhan".
+Explanation: Roda adalah bagian dari mobil, dan daun adalah bagian dari pohon. Keduanya berpolakan "bagian dari keseluruhan". Baju dan Celana adalah sejenis (pakaian). Pilot dan Pesawat adalah hubungan profesi dan alat.
+Options:
+  - Text: Roda : Mobil
+    IsCorrect: true
+  - Text: Daun : Pohon
+    IsCorrect: true
+  - Text: Baju : Celana
+    IsCorrect: false
+  - Text: Jari : Tangan
+    IsCorrect: true
+  - Text: Pilot : Pesawat
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_8
+Question: >
+  Pengelompokan kata menguji kemampuan mengenali kategori semantik. 
+  Manakah di antara kata-kata berikut yang termasuk dalam kelompok alat transportasi laut?
+Explanation: Kapal, perahu, dan feri adalah kendaraan yang beroperasi di wilayah perairan laut, sungai, atau danau. Trem beroperasi di darat (rel), dan helikopter di udara.
+Options:
+  - Text: Kapal
+    IsCorrect: true
+  - Text: Perahu
+    IsCorrect: true
+  - Text: Trem
+    IsCorrect: false
+  - Text: Feri
+    IsCorrect: true
+  - Text: Helikopter
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_9
+Question: Tentukan Benar atau Salah pernyataan mengenai analogi kata berikut ini!
+Explanation: Gelap adalah keadaan tanpa cahaya, bodoh adalah keadaan tanpa ilmu. Ini analogi yang tepat. Pancing adalah alat mendapatkan ikan, bedil adalah alat menembak burung, bukan berburu hutan, sehingga polanya tidak sejajar sempurna tetapi kalimat satu benar.
+Options:
+  - Text: Pasangan GELAP : CAHAYA bersesuaian analoginya dengan BODOH : ILMU.
+    IsCorrect: Benar
+  - Text: Hubungan antara BUKU : DIBACA sama persis dengan NASI : DIMINUM.
+    IsCorrect: Salah
+  - Text: Pasangan IKAN : INSANG analog dengan MANUSIA : PARU-PARU (hubungan makhluk dan alat pernapasan).
+    IsCorrect: Benar
+  - Text: Pasangan BENSIN : MOBIL memiliki pola yang berlawanan arah dengan MOTOR : SOLAR.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_10
+Question: Tentukan Benar atau Salah pernyataan tentang sinonim kata dalam bahasa Indonesia berikut!
+Explanation: Mutakhir bersinonim dengan terbaru/terkini. Kedap berarti rapat/tidak tembus. Paradoks adalah sesuatu yang bertentangan. Implisit bermakna tersirat, bukan tersurat.
+Options:
+  - Text: Kata MUTAKHIR memiliki sinonim dengan kata TERBARU.
+    IsCorrect: Benar
+  - Text: Kata KEDAP bersinonim dengan kata TEMBUS.
+    IsCorrect: Salah
+  - Text: Kata PARADOKS bersinonim dengan kata KEADAAN YANG BERTENTANGAN.
+    IsCorrect: Benar
+  - Text: Kata IMPLISIT bersinonim dengan kata TERSURAT.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_INDO_11
+Question: Antonim (lawan kata) dari kata "APATIS" adalah ...
+Answer: PEDULI
+Explanation: Apatis adalah sikap acuh tak acuh, tidak peduli, atau masa bodoh terhadap sesuatu yang terjadi di sekitarnya. Oleh karena itu, antonim dari apatis adalah peduli atau proaktif.
+Options:
+  - Text: PEDULI
+  - Text: PASIF
+  - Text: SOMBONG
+  - Text: BINGUNG
+  - Text: TAKUT
+---
+Type: PilihanGanda
+ID: SMP_INDO_12
+Question: Antonim (lawan kata) dari kata "PROLOG" adalah ...
+Answer: EPILOG
+Explanation: Prolog adalah bagian pengantar, pendahuluan, atau pembukaan dalam sebuah karya sastra, drama, atau puisi. Lawan dari pembukaan adalah penutup, yang dalam karya sastra disebut epilog.
+Options:
+  - Text: MONOLOG
+  - Text: DIALOG
+  - Text: KATALOG
+  - Text: EPILOG
+  - Text: KRONOLOG
+---
+Type: PilihanGanda
+ID: SMP_INDO_13
+Question: >
+  Soal Logika Posisi Duduk:
+  Budi, Cica, Dodi, Eka, dan Fani duduk di kursi berderet memanjang dari kiri ke kanan.
+  Budi tidak bersebelahan dengan Cica. Dodi selalu duduk di paling kiri. Eka duduk tepat di sebelah kanan Cica.
+  Jika Fani duduk tepat di sebelah kanan Dodi, di manakah posisi duduk Budi?
+Answer: Budi duduk di kursi paling kanan.
+Explanation: >
+  Mari kita analisis posisi kursi (1, 2, 3, 4, 5) dari kiri ke kanan.
+  - Dodi selalu di paling kiri (Kursi 1 = Dodi).
+  - Fani duduk tepat di sebelah kanan Dodi (Kursi 2 = Fani).
+  Sisa kursi 3, 4, 5 diisi oleh Budi, Cica, Eka.
+  - Eka duduk tepat di sebelah kanan Cica (berarti Cica dan Eka berdampingan, posisinya harus C - E).
+  - Jika C-E di kursi 3-4, maka Budi di kursi 5. Budi tidak bersebelahan dengan Cica (Budi di 5, Cica di 3, aman).
+  - Jika C-E di kursi 4-5, maka Budi di kursi 3. Budi bersebelahan dengan Cica (Budi di 3, Cica di 4). Ini salah.
+  Oleh karena itu, susunannya: Dodi - Fani - Cica - Eka - Budi. Budi ada di kursi paling kanan.
+Options:
+  - Text: Budi duduk di kursi kedua dari kiri.
+  - Text: Budi duduk di tengah barisan kursi.
+  - Text: Budi duduk di kursi keempat dari kiri.
+  - Text: Budi duduk di kursi paling kanan.
+  - Text: Budi duduk di sebelah Fani.
+---
+Type: PilihanGanda
+ID: SMP_INDO_14
+Question: >
+  Soal Logika Syarat:
+  Andi lebih tinggi daripada Beni. Ciko lebih pendek daripada Andi, tetapi Ciko lebih tinggi daripada Beni. Dika adalah yang paling pendek di antara mereka berempat.
+  Siapakah yang memiliki tinggi badan tertinggi kedua?
+Answer: Ciko
+Explanation: >
+  Dari keterangan:
+  1. Andi > Beni
+  2. Andi > Ciko > Beni
+  3. Dika paling pendek (Dika < Beni)
+  Urutan dari yang tertinggi ke terpendek adalah: Andi - Ciko - Beni - Dika.
+  Yang tertinggi kedua adalah Ciko.
+Options:
+  - Text: Andi
+  - Text: Beni
+  - Text: Ciko
+  - Text: Dika
+  - Text: Tidak dapat ditentukan
+---
+Type: PilihanGanda
+ID: SMP_INDO_15
+Question: >
+  Premis 1: Jika cuaca mendung, maka suhu udara menjadi dingin.
+  Premis 2: Hari ini suhu udara tidak dingin.
+  Kesimpulan yang tepat dari dua premis tersebut menurut Modus Tollens adalah ...
+Answer: Hari ini cuaca tidak mendung.
+Explanation: >
+  Modus Tollens memiliki rumus:
+  Premis 1: p -> q (Jika cuaca mendung (p), maka suhu dingin (q))
+  Premis 2: ~q (Suhu udara tidak dingin)
+  Kesimpulan: ~p (Cuaca tidak mendung).
+Options:
+  - Text: Hari ini cuaca mendung.
+  - Text: Hari ini hujan akan segera turun.
+  - Text: Hari ini cuaca tidak mendung.
+  - Text: Cuaca sangat panas sekali.
+  - Text: Hari ini tidak turun salju.
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_16
+Question: >
+  Penguasaan kosakata membutuhkan pemahaman terhadap antonim atau lawan kata.
+  Pilihlah pasangan kata di bawah ini yang merupakan antonim dengan tepat!
+Explanation: Mayoritas (sebagian besar) berantonim dengan Minoritas (sebagian kecil). Dinamis (bergerak/berubah) berantonim dengan Statis (diam/tetap). Otoriter berantonim dengan Demokratis. Progresif tidak berlawanan dengan Maju, justru bersinonim.
+Options:
+  - Text: Mayoritas - Minoritas
+    IsCorrect: true
+  - Text: Dinamis - Statis
+    IsCorrect: true
+  - Text: Otoriter - Demokratis
+    IsCorrect: true
+  - Text: Progresif - Maju
+    IsCorrect: false
+  - Text: Fiktif - Khayalan
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_17
+Question: >
+  Beberapa kata dalam bahasa Indonesia sering dipasangkan sebagai dua hal yang bertolak belakang.
+  Manakah pernyataan di bawah ini yang memuat kata berantonim?
+Explanation: Makro (besar) berantonim dengan Mikro (kecil). Internal (dalam) berantonim dengan Eksternal (luar). Fana (sementara) berantonim dengan Baka (abadi). Sinkron dan Sesuai merupakan sinonim, bukan antonim.
+Options:
+  - Text: Makro berantonim dengan Mikro.
+    IsCorrect: true
+  - Text: Internal berantonim dengan Eksternal.
+    IsCorrect: true
+  - Text: Fana berantonim dengan Baka.
+    IsCorrect: true
+  - Text: Sinkron berantonim dengan Sesuai.
+    IsCorrect: false
+  - Text: Konsisten berantonim dengan Tetap.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_18
+Question: >
+  Lima orang murid bernama Rina, Siska, Tina, Umar, dan Vina mengantre tiket.
+  Siska berada di depan Tina. Vina berada tepat di belakang Umar. Rina berada di paling depan. Vina berdiri tepat di depan Siska.
+  Berdasarkan urutan dari depan ke belakang, manakah pernyataan berikut yang bernilai benar?
+Explanation: >
+  Susunan antrean (1 sampai 5, depan ke belakang):
+  1. Rina di paling depan (Rina = 1).
+  2. Vina tepat di belakang Umar (Urutan: Umar - Vina).
+  3. Vina tepat di depan Siska (Urutan: Umar - Vina - Siska).
+  4. Siska di depan Tina (Urutan: Umar - Vina - Siska - Tina).
+  Maka antrean utuh: Rina(1) - Umar(2) - Vina(3) - Siska(4) - Tina(5).
+  Pernyataan "Umar berada di urutan kedua" adalah benar. "Vina di urutan keempat" adalah salah (Vina ke-3). "Tina paling belakang" adalah benar.
+Options:
+  - Text: Umar berada di urutan kedua dari depan.
+    IsCorrect: true
+  - Text: Vina berada di urutan keempat dari depan.
+    IsCorrect: false
+  - Text: Tina berada di urutan paling belakang.
+    IsCorrect: true
+  - Text: Siska berada tepat di belakang Rina.
+    IsCorrect: false
+  - Text: Ada tiga orang di antara Rina dan Tina.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_19
+Question: Tentukan Benar atau Salah penarikan kesimpulan silogisme di bawah ini!
+Explanation: Silogisme pertama: P->Q, Q->R, maka P->R (Modus Silogisme murni). Ini bernilai Benar. Silogisme kedua mengambil kesimpulan dari premis minor yang mengingkari akibat dengan cara yang salah secara logika proposisi (Fallacy of denying the antecedent jika formatnya p->q, ~p maka ~q adalah keliru, namun jika p->q, ~q maka ~p itu modus tollens yang sah).
+Options:
+  - Text: "Semua siswa wajib berseragam. Budi adalah siswa. Maka, Budi wajib berseragam." (Penarikan kesimpulan ini valid).
+    IsCorrect: Benar
+  - Text: "Jika hujan lebat, maka banjir. Tidak terjadi banjir. Maka, hujan tidak lebat." (Penarikan kesimpulan ini tidak valid).
+    IsCorrect: Salah
+  - Text: "Semua unggas bertelur. Kucing tidak bertelur. Maka, kucing bukan unggas." (Penarikan kesimpulan ini valid).
+    IsCorrect: Benar
+  - Text: "Sebagian siswa suka matematika. Andi adalah siswa. Maka, Andi pasti suka matematika." (Penarikan kesimpulan ini valid).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_20
+Question: Tentukan Benar atau Salah logika perbandingan umur di bawah ini!
+Explanation: Diberikan data: Arman lebih tua dari Bima. Bima seumur dengan Candra. Dika lebih muda dari Candra.
+Maka urutannya: Arman > Bima = Candra > Dika.
+Arman lebih tua dari Candra (Benar). Bima lebih tua dari Dika (Benar). Dika lebih muda dari Arman (Benar).
+Options:
+  - Text: Arman dipastikan lebih tua daripada Candra.
+    IsCorrect: Benar
+  - Text: Bima dipastikan lebih tua daripada Dika.
+    IsCorrect: Benar
+  - Text: Dika adalah orang yang paling tua.
+    IsCorrect: Salah
+  - Text: Bima dan Candra memiliki selisih umur yang sangat jauh.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_INDO_21
+Question: Manakah dari kata-kata berikut ini yang bentuk bakunya penulisannya paling tepat sesuai KBBI?
+Answer: Kuitansi
+Explanation: Dalam Kamus Besar Bahasa Indonesia (KBBI), penulisan yang baku adalah "kuitansi", bukan "kwitansi". Kata serapan dari bahasa Belanda "kwitantie" diserap dengan mengganti "kw" menjadi "ku".
+Options:
+  - Text: Kwitansi
+  - Text: Kuitansi
+  - Text: Kuwitansi
+  - Text: Quitansi
+  - Text: Kiutansi
+---
+Type: PilihanGanda
+ID: SMP_INDO_22
+Question: Kelompok kata di bawah ini seluruhnya adalah kata baku dalam bahasa Indonesia, KECUALI ...
+Answer: Analisa, Hakekat, Ijasah
+Explanation: Bentuk baku dari analisa adalah "analisis", hakekat adalah "hakikat", dan ijasah adalah "ijazah". Kata-kata lain seperti apotek, atlet, dan sistem adalah bentuk yang sudah baku menurut KBBI.
+Options:
+  - Text: Apotek, Atlet, Sistem
+  - Text: Ekstrem, Kompleks, Praktik
+  - Text: Analisa, Hakekat, Ijasah
+  - Text: Jadwal, Zaman, Izin
+  - Text: Risiko, Nasihat, Karier
+---
+Type: PilihanGanda
+ID: SMP_INDO_23
+Question: >
+  Penggunaan huruf kapital yang TEPAT terdapat pada kalimat...
+Answer: Presiden Republik Indonesia, Prabowo Subianto, melakukan kunjungan kenegaraan ke Tiongkok.
+Explanation: >
+  Aturan PUEBI menyatakan bahwa nama jabatan yang diikuti nama orang, nama instansi, atau nama tempat ditulis menggunakan huruf kapital.
+  Opsi benar: "Presiden Republik Indonesia, Prabowo Subianto..."
+  Opsi salah biasanya menuliskan nama jabatan dengan kapital tanpa diikuti nama tempat/orang, atau sebaliknya.
+Options:
+  - Text: Adik bercita-cita menjadi seorang Gubernur di provinsi ini kelak.
+  - Text: Ayah baru saja dilantik menjadi seorang Jenderal purnawirawan.
+  - Text: Presiden Republik Indonesia, Prabowo Subianto, melakukan kunjungan kenegaraan ke Tiongkok.
+  - Text: Pegunungan himalaya memiliki puncak tertinggi di dunia.
+  - Text: Hari lebaran tahun ini jatuh pada bulan maret.
+---
+Type: PilihanGanda
+ID: SMP_INDO_24
+Question: >
+  Penulisan preposisi atau kata depan 'di' dan 'ke' yang tepat berdasarkan aturan ejaan bahasa Indonesia terdapat pada kalimat...
+Answer: Buku catatan itu tertinggal di laci meja belajar.
+Explanation: >
+  Preposisi 'di' dan 'ke' yang menunjukkan tempat harus ditulis terpisah dari kata yang mengikutinya.
+  "di laci" (menunjukkan tempat) = dipisah.
+  "dijual", "dimakan" (imbuhan awalan/verba pasif) = digabung.
+Options:
+  - Text: Ayah sedang pergi keluar kota sejak kemarin.
+  - Text: Obat itu harus di minum tiga kali sehari.
+  - Text: Buku catatan itu tertinggal di laci meja belajar.
+  - Text: Kemana pun kamu pergi, aku akan menyertaimu.
+  - Text: Baju itu di beli ibu saat berkunjung ke-Surabaya.
+---
+Type: PilihanGanda
+ID: SMP_INDO_25
+Question: >
+  Pemakaian tanda koma (,) yang tepat terdapat dalam kalimat ...
+Answer: Saya ingin membeli kamera, tetapi tabungan saya belum cukup.
+Explanation: Tanda koma wajib digunakan sebelum kata penghubung pertentangan dalam kalimat majemuk setara, seperti "tetapi", "melainkan", dan "sedangkan".
+Options:
+  - Text: Dia tidak akan datang, jika turun hujan lebat sore ini.
+  - Text: Saya ingin membeli kamera, tetapi tabungan saya belum cukup.
+  - Text: Ibu membeli sayur, beras dan minyak goreng di pasar tradisional.
+  - Text: Karena cuaca buruk pesawat, itu menunda jadwal penerbangan.
+  - Text: Kami sedang belajar matematika ketika, guru tersebut masuk ke kelas.
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_26
+Question: >
+  Mencari bentuk kata baku dari serapan asing sering muncul dalam Tes Kemampuan Akademik. 
+  Manakah kata-kata berikut yang merupakan kata baku sesuai pedoman KBBI?
+Explanation: Standardisasi adalah bentuk baku (bukan standarisasi). Hierarki adalah bentuk baku (bukan hirarki). Risiko adalah bentuk baku (bukan resiko). Konkret adalah bentuk baku (bukan konkrit).
+Options:
+  - Text: Standardisasi
+    IsCorrect: true
+  - Text: Hierarki
+    IsCorrect: true
+  - Text: Resiko
+    IsCorrect: false
+  - Text: Konkret
+    IsCorrect: true
+  - Text: Pebruari
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_27
+Question: >
+  Tanda baca koma (,) memiliki banyak fungsi. Manakah kalimat-kalimat berikut yang menggunakan tanda koma secara tepat sesuai PUEBI?
+Explanation: >
+  Koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan ("buku, pensil, dan penghapus"). Koma dipakai di belakang kata seru ("Wah, ..."). Koma dipakai memisahkan anak kalimat dari induk kalimat jika anak kalimat mendahului ("Karena sakit, Budi absen").
+Options:
+  - Text: Ayah membeli buku, tas, dan sepatu untuk adik.
+    IsCorrect: true
+  - Text: Wah, indah sekali pemandangan di gunung ini!
+    IsCorrect: true
+  - Text: Andi membaca buku komik, sedangkan adiknya bermain boneka.
+    IsCorrect: true
+  - Text: Karena bangun kesiangan Doni terlambat, masuk sekolah.
+    IsCorrect: false
+  - Text: Ibu berkata, bahwa kita harus rajin belajar.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_28
+Question: >
+  Partikel -lah, -kah, dan -pun memiliki aturan penulisan yang spesifik. 
+  Manakah pernyataan ejaan partikel yang penulisannya benar dalam kalimat?
+Explanation: >
+  Partikel -lah dan -kah ditulis serangkai dengan kata yang mendahuluinya (Bukalah, Siapakah). Partikel pun ditulis terpisah (Aku pun), kecuali untuk konjungsi yang sudah lazim (walaupun, meskipun, adapun) ditulis digabung.
+Options:
+  - Text: Siapakah yang berani mengambil tantangan ini?
+    IsCorrect: true
+  - Text: Walau pun hujan turun lebat, ia tetap pergi ke sekolah.
+    IsCorrect: false
+  - Text: Jangankan dua kali, satu kali pun aku belum pernah ke sana.
+    IsCorrect: true
+  - Text: Buang lah sampah pada tempat yang telah disediakan.
+    IsCorrect: false
+  - Text: Bagaimanapun juga, kita harus menghormati keputusan bersama.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_29
+Question: Tentukan Benar atau Salah penggunaan ejaan huruf kapital pada kalimat berikut!
+Explanation: Huruf kapital digunakan untuk nama geografi jika diikuti nama diri ("Danau Toba"). Huruf kapital untuk hari perayaan ("Idulfitri"). Kata Anda selalu dikapital di awal untuk sapaan. Gelar akademis menggunakan kapital (Prof., Dr.).
+Options:
+  - Text: Rombongan siswa SMP merencanakan kemah di kawasan Gunung Bromo.
+    IsCorrect: Benar
+  - Text: Mereka menyeberangi Selat sunda menggunakan kapal feri yang besar.
+    IsCorrect: Salah
+  - Text: Silakan Bapak mengisi formulir ini dan menandatanganinya di bagian bawah.
+    IsCorrect: Benar
+  - Text: Pada hari Minggu yang lalu, paman berangkat menuju amerika serikat.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_30
+Question: Tentukan Benar atau Salah penulisan angka dan bilangan pada kalimat berikut!
+Explanation: Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf (dua ratus, tiga juta). Jika berderet dalam rincian, ditulis angka. Angka pada awal kalimat harus ditulis dengan huruf (Dua puluh siswa...).
+Options:
+  - Text: 15 orang peserta lomba paduan suara mengalami keracunan makanan setelah menyantap bekal.
+    IsCorrect: Salah
+  - Text: Kami mengundang sekitar lima ratus orang tamu pada acara perpisahan sekolah.
+    IsCorrect: Benar
+  - Text: Proyek jembatan baru itu menelan biaya sebesar Rp1.500.000.000,00 dari anggaran negara.
+    IsCorrect: Benar
+  - Text: Tiga pemenang lomba karya tulis tingkat nasional mendapatkan beasiswa pendidikan.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_31
+Question: >
+  Perhatikan kalimat berikut ini!
+  "Kepada seluruh para peserta lomba diharapkan untuk segera berkumpul di lapangan."
+  Alasan mengapa kalimat di atas menjadi tidak efektif adalah...
+Answer: Terdapat pemborosan kata karena penggunaan kata "seluruh" dan "para" yang bersinonim jamak.
+Explanation: Kata "seluruh" dan "para" keduanya menunjukkan bentuk jamak (banyak). Penggunaan dua kata ini secara bersamaan menimbulkan pleonasme (pemborosan kata) sehingga kalimat menjadi tidak efektif. Cukup gunakan "Kepada seluruh peserta lomba..." atau "Kepada para peserta lomba...".
+Options:
+  - Text: Terdapat kesalahan tanda baca setelah kata lapangan.
+  - Text: Kalimat tersebut tidak memiliki unsur predikat yang jelas.
+  - Text: Penggunaan kata sapaan yang kurang sopan di awal kalimat.
+  - Text: Kata "diharapkan" seharusnya diganti menjadi kata "diwajibkan".
+  - Text: Terdapat pemborosan kata karena penggunaan kata "seluruh" dan "para" yang bersinonim jamak.
+---
+Type: PilihanGanda
+ID: SMP_INDO_32
+Question: >
+  Kalimat di bawah ini yang merupakan contoh kalimat efektif adalah ...
+Answer: Mahasiswa harus rajin membaca buku agar wawasannya bertambah luas.
+Explanation: >
+  Kalimat efektif tidak ambigu, hemat kata, dan sesuai struktur bahasa yang baik.
+  - "Bagi mahasiswa harus..." (salah, subjek terhalang 'bagi').
+  - "Mahasiswa harus rajin membaca buku agar wawasannya bertambah luas." (benar, subjek 'Mahasiswa', predikat 'harus rajin membaca', objek 'buku', keterangan tujuan jelas).
+Options:
+  - Text: Bagi mahasiswa harus rajin membaca buku agar wawasannya bertambah luas.
+  - Text: Mahasiswa harus rajin membaca buku agar wawasannya bertambah luas.
+  - Text: Untuk mahasiswa sekalian semuanya rajin-rajinlah membaca buku di perpustakaan.
+  - Text: Banyak mahasiswa-mahasiswa yang membaca buku agar menambah wawasan ilmunya.
+  - Text: Wawasan mahasiswa menjadi bertambah luas oleh karena sebab rajin membaca buku-buku.
+---
+Type: PilihanGanda
+ID: SMP_INDO_33
+Question: >
+  "Guru baru pergi ke perpustakaan untuk meminjam buku referensi mengajar."
+  Kalimat tersebut memiliki kelemahan yaitu bermakna ganda (ambigu). Cara terbaik memperbaiki kalimat tersebut agar jelas maknanya adalah ...
+Answer: Guru yang baru itu pergi ke perpustakaan untuk meminjam buku referensi mengajar.
+Explanation: Kalimat asal ambigu karena "guru baru pergi" bisa bermakna "guru yang baru saja pergi" atau "seorang guru baru (karyawan baru) pergi". Menambahkan "yang" atau memisahkan frasanya memperjelas makna secara mutlak.
+Options:
+  - Text: Guru itu pergi ke perpustakaan baru untuk meminjam buku referensi mengajar.
+  - Text: Guru baru-baru ini pergi ke perpustakaan untuk meminjam referensi mengajar buku.
+  - Text: Guru yang baru itu pergi ke perpustakaan untuk meminjam buku referensi mengajar.
+  - Text: Ke perpustakaan guru baru pergi meminjam buku referensi mengajar untuk itu.
+  - Text: Buku referensi mengajar dipinjam guru baru di perpustakaan dengan pergi ke sana.
+---
+Type: PilihanGanda
+ID: SMP_INDO_34
+Question: >
+  "Harga bahan bakar minyak (BBM) naik secara signifikan bulan ini. [...], harga kebutuhan pokok di berbagai pasar tradisional juga turut melonjak tajam."
+  Kata penghubung (konjungsi) antarkalimat yang paling tepat untuk mengisi bagian yang rumpang adalah ...
+Answer: Akibatnya
+Explanation: Kalimat pertama (harga BBM naik) adalah penyebab, dan kalimat kedua (harga kebutuhan pokok melonjak) adalah akibat logis dari peristiwa pada kalimat pertama. Konjungsi antarkalimat yang menyatakan konsekuensi/akibat adalah "Akibatnya" atau "Oleh karena itu".
+Options:
+  - Text: Sebaliknya
+  - Text: Padahal
+  - Text: Akibatnya
+  - Text: Meskipun demikian
+  - Text: Bahkan
+---
+Type: PilihanGanda
+ID: SMP_INDO_35
+Question: >
+  Kalimat majemuk setara hubungan pemilihan ditandai oleh penggunaan konjungsi ...
+Answer: atau
+Explanation: Konjungsi koordinatif (setara) memiliki beberapa jenis. "Dan" untuk penambahan, "tetapi/sedangkan" untuk pertentangan, serta "atau" untuk hubungan pemilihan.
+Options:
+  - Text: dan
+  - Text: jika
+  - Text: tetapi
+  - Text: bahwa
+  - Text: atau
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_36
+Question: >
+  Sebuah kalimat efektif harus memenuhi syarat kehematan kata. 
+  Manakah dari kalimat-kalimat berikut yang dinilai boros atau berlebihan (pleonasme)?
+Explanation: >
+  - "Ia maju ke depan" (maju sudah pasti ke depan).
+  - "Berbagai macam jenis-jenis..." (berbagai, macam, dan jenis-jenis memiliki makna jamak yang berulang).
+  - "Saya naik ke atas tangga" (naik sudah pasti ke atas).
+  Sebaliknya, "Mereka belajar di kelas" dan "Ibu memasak di dapur" adalah kalimat hemat dan efektif.
+Options:
+  - Text: Ia segera maju ke depan panggung untuk menerima hadiah.
+    IsCorrect: true
+  - Text: Di toko tersebut menjual berbagai macam jenis-jenis ikan hias.
+    IsCorrect: true
+  - Text: Mereka berdiskusi dengan tenang di ruang perpustakaan sekolah.
+    IsCorrect: false
+  - Text: Adik disuruh ibu naik ke atas untuk merapikan kamar.
+    IsCorrect: true
+  - Text: Petani menanam bibit padi unggul di lahan sawah mereka.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_37
+Question: >
+  Keparalelan (kesejajaran) adalah salah satu syarat kalimat efektif. Bentuk kata yang digunakan dalam perincian harus sama/sejajar (misalnya verba dengan verba, nomina dengan nomina). 
+  Manakah kalimat yang menerapkan keparalelan bentuk dengan benar?
+Explanation: >
+  - "Tahap pembangunan rumah ini meliputi peletakan batu pertama, mendirikan dinding, dan atap dipasang" -> (peletakan, mendirikan, dipasang = tidak sejajar).
+  - "Kegiatan akhir pekan kami adalah memancing ikan, memasak nasi, dan mendirikan tenda" -> (memancing, memasak, mendirikan = sejajar verba me-).
+  - "Hutan lindung berfungsi menyerap karbon, menyimpan air hujan, dan penyediaan oksigen" -> (menyerap, menyimpan, penyediaan = tidak sejajar).
+Options:
+  - Text: Anak-anak harus diajarkan cara membaca, menulis, dan menghitung dengan baik.
+    IsCorrect: true
+  - Text: Tugas polisi adalah melindungi, mengayomi, dan melayani masyarakat luas.
+    IsCorrect: true
+  - Text: Kebersihan lingkungan bisa dijaga dengan membuang sampah, penanaman pohon, dan selokan dibersihkan.
+    IsCorrect: false
+  - Text: Proses pemilu meliputi pendaftaran pemilih, pencetakan surat suara, dan penghitungan hasil suara.
+    IsCorrect: true
+  - Text: Kami sudah merencanakan untuk berlibur, memesan tiket, dan persiapan barang bawaan.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_38
+Question: >
+  Kalimat ambigu dapat menyebabkan miskomunikasi. Manakah kalimat yang bermakna ganda atau tidak jelas?
+Explanation: >
+  - "Istri lurah yang baru itu sangat ramah" -> Yang baru istrinya atau lurahnya? (Ambigu).
+  - "Kucing kesayangan adik yang lucu itu sedang tidur" -> Yang lucu adiknya atau kucingnya? (Ambigu).
+  - "Tahun ini kemarau sangat panjang" -> Makna tunggal jelas.
+Options:
+  - Text: Lukisan kakek tua yang mahal itu telah terjual di lelang.
+    IsCorrect: true
+  - Text: Anak pegawai yang malas itu akhirnya mendapat peringatan keras dari atasan.
+    IsCorrect: true
+  - Text: Kenaikan harga kebutuhan pokok meresahkan banyak warga masyarakat miskin.
+    IsCorrect: false
+  - Text: Siswa-siswa kelas sembilan bersiap mengikuti ujian nasional berbasis komputer.
+    IsCorrect: false
+  - Text: Buku sejarah bapak yang tebal itu diletakkan di atas meja kerja.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_39
+Question: Tentukan Benar atau Salah penggunaan preposisi dan konjungsi pada kalimat-kalimat ini!
+Explanation: >
+  - "Oleh karena itu" adalah konjungsi antarkalimat yang benar penulisannya diikuti koma.
+  - "Bagi siswa yang..." menyebabkan subjek kalimat hilang, sehingga salah secara tata bahasa baku.
+  - "Karena hujan, maka..." adalah konjungsi ganda yang bertumpuk (berlebihan), harus pilih salah satu.
+Options:
+  - Text: Oleh karena itu, kita harus menjaga kelestarian alam lingkungan sekitar mulai dari sekarang.
+    IsCorrect: Benar
+  - Text: Bagi para siswa yang belum membayar iuran kas, diharapkan segera melunasinya minggu ini.
+    IsCorrect: Salah
+  - Text: Karena cuaca sedang sangat buruk, maka penerbangan menuju Bali terpaksa ditunda sementara waktu.
+    IsCorrect: Salah
+  - Text: Walaupun sudah belajar semalaman suntuk, dia tetap merasa kurang percaya diri menghadapi ujian.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_40
+Question: Tentukan Benar atau Salah kalimat efektif di bawah ini!
+Explanation: >
+  - Kalimat pertama tidak efektif karena subjek ganda/terputus oleh preposisi "Dalam rapat itu memutuskan..." seharusnya "Rapat itu memutuskan...".
+  - Kalimat kedua efektif dan hemat.
+  - Kalimat ketiga mengandung pemborosan kata ("Banyak" dan "orang-orang").
+Options:
+  - Text: Dalam rapat evaluasi bulanan tersebut memutuskan bahwa target penjualan bulan depan harus dinaikkan.
+    IsCorrect: Salah
+  - Text: Pemerintah daerah memperbaiki jembatan yang rusak parah akibat banjir bandang bulan lalu.
+    IsCorrect: Benar
+  - Text: Banyak orang-orang yang berkerumun di lokasi kecelakaan lalu lintas itu.
+    IsCorrect: Salah
+  - Text: Kakak membelikan adik mainan robot baru setelah adik berhasil meraih juara kelas.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_41
+Question: >
+  Bacalah paragraf berikut!
+  Kesehatan mata sangat rentan terganggu jika kita terlalu lama menatap layar gawai. Paparan cahaya biru (blue light) dari layar dapat menyebabkan kelelahan mata, mata kering, hingga gangguan kualitas tidur pada malam hari. Oleh karena itu, dokter sangat menyarankan aturan 20-20-20, yaitu setiap 20 menit menatap layar, alihkan pandangan sejauh 20 kaki selama 20 detik untuk mengistirahatkan otot mata.
+  Gagasan utama paragraf tersebut adalah ...
+Answer: Dampak menatap layar gawai terlalu lama bagi kesehatan mata dan solusinya.
+Explanation: Gagasan utama adalah inti perbincangan. Teks ini diawali bahaya menatap layar (kesehatan mata terganggu karena blue light), lalu ditutup dengan solusi medis (aturan 20-20-20). Oleh karena itu, opsi yang paling komprehensif adalah gabungan dampak dan solusi perlindungannya.
+Options:
+  - Text: Cahaya biru yang dipancarkan oleh layar ponsel cerdas.
+  - Text: Aturan 20-20-20 yang sangat dianjurkan oleh dokter mata.
+  - Text: Dampak menatap layar gawai terlalu lama bagi kesehatan mata dan solusinya.
+  - Text: Bahaya menatap gawai pada saat malam hari yang mengganggu tidur.
+  - Text: Cara mengistirahatkan otot mata yang lelah akibat gawai.
+---
+Type: PilihanGanda
+ID: SMP_INDO_42
+Question: >
+  Bacalah teks singkat berikut!
+  Secara ekonomi, pemanfaatan limbah plastik menjadi barang kerajinan daur ulang mampu memberikan nilai tambah yang signifikan. Masyarakat pesisir yang awalnya hanya menggantungkan hidup dari hasil tangkapan ikan, kini memiliki penghasilan tambahan yang stabil dari hasil penjualan tas rajut plastik. Lingkungan pantai pun berangsur-angsur menjadi lebih bersih dari tumpukan sampah plastik yang mencemari lautan.
+  Simpulan yang paling tepat dari paragraf di atas adalah ...
+Answer: Daur ulang limbah plastik berdampak positif bagi perekonomian masyarakat pesisir dan kebersihan lingkungan.
+Explanation: Simpulan menyatukan ide-ide pokok secara menyeluruh. Teks ini menyoroti dua dampak besar pendaurulangan limbah: (1) peningkatan ekonomi nelayan/masyarakat, dan (2) kebersihan lingkungan pantai.
+Options:
+  - Text: Daur ulang limbah plastik berdampak positif bagi perekonomian masyarakat pesisir dan kebersihan lingkungan.
+  - Text: Nelayan beralih profesi menjadi pengrajin tas plastik karena hasil tangkapan ikan menurun drastis.
+  - Text: Limbah plastik adalah ancaman utama bagi ekosistem laut yang harus segera ditanggulangi.
+  - Text: Keuntungan menjual tas rajut lebih besar daripada keuntungan menangkap ikan di laut.
+  - Text: Pemerintah memberikan bantuan pemberdayaan kepada masyarakat untuk mengolah limbah lingkungan pantai.
+---
+Type: PilihanGanda
+ID: SMP_INDO_43
+Question: >
+  Berdasarkan letak kalimat utamanya, paragraf yang kalimat utamanya berada di akhir paragraf yang biasanya ditandai dengan kata simpulan seperti "oleh karena itu", "dengan demikian", atau "jadi", disebut paragraf...
+Answer: Induktif
+Explanation: Paragraf induktif adalah paragraf yang diawali dengan kalimat-kalimat penjelas (khusus) dan diakhiri dengan kalimat utama yang menjadi simpulan (umum) di bagian akhir paragraf.
+Options:
+  - Text: Deduktif
+  - Text: Induktif
+  - Text: Campuran
+  - Text: Persuasif
+  - Text: Naratif
+---
+Type: PilihanGanda
+ID: SMP_INDO_44
+Question: >
+  Cermati kalimat-kalimat berikut:
+  (1) Bunga Rafflesia arnoldii adalah bunga terbesar di dunia.
+  (2) Bunga ini mengeluarkan bau busuk yang sangat menyengat untuk menarik lalat.
+  (3) Sepertinya, pemerintah daerah belum serius melindungi habitat bunga langka ini.
+  (4) Bunga ini pertama kali ditemukan di Bengkulu pada tahun 1818 oleh Dr. Joseph Arnold.
+  Kalimat yang mengandung opini atau pendapat pribadi ditandai oleh nomor...
+Answer: (3)
+Explanation: Kalimat opini adalah kalimat yang mengandung pendapat, perkiraan, atau asumsi yang belum pasti kebenarannya bagi semua orang. Kata "sepertinya" dan "belum serius" dalam kalimat (3) sangat subjektif, berbeda dengan kalimat (1), (2), dan (4) yang merupakan fakta ilmiah dan historis.
+Options:
+  - Text: (1)
+  - Text: (2)
+  - Text: (3)
+  - Text: (4)
+  - Text: (1) dan (2)
+---
+Type: PilihanGanda
+ID: SMP_INDO_45
+Question: >
+  "Sebagai generasi muda, kita *seyogianya* mulai memikirkan kelestarian budaya lokal agar tidak tergerus oleh budaya asing."
+  Makna kata bercetak miring pada kalimat di atas adalah...
+Answer: Sepantasnya
+Explanation: Dalam KBBI, kata 'seyogianya' bermakna 'sepatutnya', 'sepantasnya', atau 'seharusnya'. Kata ini digunakan untuk memberikan saran halus.
+Options:
+  - Text: Selambat-lambatnya
+  - Text: Semaksimal mungkin
+  - Text: Secepatnya
+  - Text: Sepantasnya
+  - Text: Sekuat tenaga
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_46
+Question: >
+  Cermati pernyataan-pernyataan di bawah ini yang diambil dari laporan observasi lingkungan sekolah. 
+  Manakah pernyataan yang merupakan fakta?
+Explanation: Fakta adalah hal yang nyata, memiliki data pasti, bisa diukur, atau sudah terjadi nyata. Opini memiliki unsur saran, perkiraan, atau penilaian subjektif (sangat indah, seharusnya, mungkin).
+Options:
+  - Text: Terdapat empat bak sampah organik dan anorganik di depan kantin sekolah.
+    IsCorrect: true
+  - Text: Selokan di belakang kelas sembilan tersumbat lumpur setinggi lima sentimeter.
+    IsCorrect: true
+  - Text: Seharusnya petugas kebersihan membersihkan taman depan lebih sering lagi.
+    IsCorrect: false
+  - Text: Pohon mangga di dekat lapangan basket tumbang setelah hujan badai kemarin sore.
+    IsCorrect: true
+  - Text: Lingkungan sekolah ini merupakan lingkungan yang paling asri di wilayah kecamatan ini.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_47
+Question: >
+  Manakah dari kalimat-kalimat berikut ini yang secara jelas menunjukkan karakteristik kalimat opini?
+Explanation: Opini ditandai dengan kata sifat yang subjektif (cantik, enak, menyebalkan), kata yang menunjukkan ketidakpastian (mungkin, sepertinya, kira-kira), atau kata saran (harus, seyogianya).
+Options:
+  - Text: Menurut saya, pelajaran sejarah lebih menyenangkan dibandingkan pelajaran matematika.
+    IsCorrect: true
+  - Text: Air mendidih pada suhu 100 derajat Celcius pada tekanan udara normal (1 atm).
+    IsCorrect: false
+  - Text: Film dokumenter tentang harimau Sumatra itu sangat membosankan dan terlalu panjang.
+    IsCorrect: true
+  - Text: Pemerintah diharapkan segera mencari solusi jangka panjang untuk mengatasi inflasi.
+    IsCorrect: true
+  - Text: Gempa bumi berkekuatan 5,6 magnitudo melanda wilayah Cianjur Jawa Barat.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_48
+Question: >
+  Dalam membaca cepat teks argumentasi panjang, teknik pemindaian (scanning) dan layap (skimming) sering digunakan. 
+  Pernyataan mana yang tepat mengenai kedua teknik membaca ini?
+Explanation: >
+  - Skimming (membaca layap) adalah membaca dengan cepat untuk menemukan ide pokok atau gambaran umum materi bacaan.
+  - Scanning (membaca memindai) adalah membaca dengan cepat untuk mencari informasi spesifik/fakta tertentu (seperti nomor telepon, tanggal, angka).
+Options:
+  - Text: Skimming bertujuan untuk mencari gagasan utama dan intisari dari sebuah buku secara cepat.
+    IsCorrect: true
+  - Text: Scanning dilakukan dengan membaca kata per kata dengan suara keras untuk melatih artikulasi vokal.
+    IsCorrect: false
+  - Text: Teknik scanning sangat efektif digunakan ketika kita sedang mencari entri nama dalam buku telepon.
+    IsCorrect: true
+  - Text: Skimming sering digunakan untuk membaca novel fiksi secara perlahan guna menikmati gaya bahasa penulis.
+    IsCorrect: false
+  - Text: Membaca indeks buku untuk mencari di halaman mana sebuah istilah berada menggunakan teknik scanning.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_49
+Question: Tentukan Benar atau Salah pernyataan tentang jenis paragraf berdasarkan pola penalaran berikut!
+Explanation: >
+  Paragraf deduktif memiliki kalimat utama di awal paragraf (Umum -> Khusus). Paragraf induktif memiliki kalimat utama di akhir paragraf (Khusus -> Umum).
+Options:
+  - Text: Paragraf deduktif adalah paragraf yang gagasan utamanya terletak di awal paragraf.
+    IsCorrect: Benar
+  - Text: Paragraf induktif selalu diawali dengan pernyataan-pernyataan umum lalu diakhiri dengan rincian khusus.
+    IsCorrect: Salah
+  - Text: Paragraf campuran (deduktif-induktif) memiliki dua gagasan utama yang saling bertentangan satu sama lain.
+    IsCorrect: Salah
+  - Text: Kalimat penjelas berfungsi menguraikan, mendeskripsikan, atau memberikan bukti dari gagasan utama.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_50
+Question: Tentukan Benar atau Salah analisis fakta dan opini pada pernyataan-pernyataan di bawah ini!
+Explanation: >
+  - "Presiden Soekarno membacakan proklamasi..." = Fakta.
+  - "Nasi goreng adalah makanan terenak..." = Opini (subjektif).
+  - "Indonesia merdeka pada 17 Agustus 1945." = Fakta sejarah mutlak.
+Options:
+  - Text: Pernyataan "Nasi padang adalah makanan khas Indonesia yang paling lezat di seluruh dunia" merupakan sebuah fakta sejarah.
+    IsCorrect: Salah
+  - Text: Pernyataan "Ibu kota Provinsi Jawa Timur adalah Kota Surabaya" merupakan sebuah fakta geografis.
+    IsCorrect: Benar
+  - Text: "Pemerintah sebaiknya menaikkan upah minimum pekerja tahun depan" merupakan opini yang berisi usulan atau saran.
+    IsCorrect: Benar
+  - Text: "Matahari terbit dari arah barat dan tenggelam di timur" adalah sebuah opini subjektif karena bisa diperdebatkan.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_INDO_51
+Question: >
+  Perhatikan kalimat berikut!
+  "Pena itu menari-nari di atas kertas putih, merangkai setiap bait puisi kerinduan dari sang penyair."
+  Majas yang dominan digunakan pada kalimat tersebut adalah ...
+Answer: Personifikasi
+Explanation: Majas personifikasi adalah gaya bahasa yang memberikan sifat, tingkah laku, atau perasaan manusia kepada benda mati. Pada kalimat ini, benda mati (pena) digambarkan bisa "menari-nari" yang merupakan perilaku makhluk hidup/manusia.
+Options:
+  - Text: Metafora
+  - Text: Hiperbola
+  - Text: Personifikasi
+  - Text: Litotes
+  - Text: Ironi
+---
+Type: PilihanGanda
+ID: SMP_INDO_52
+Question: >
+  "Ia adalah tangan kanan direktur utama perusahaan multinasional itu."
+  Frasa "tangan kanan" pada kalimat tersebut merupakan bentuk gaya bahasa ...
+Answer: Metafora
+Explanation: Metafora adalah majas perbandingan langsung tanpa kata pembanding (seperti, bagaikan). "Tangan kanan" adalah kiasan metafora yang artinya orang kepercayaan atau orang andalan.
+Options:
+  - Text: Pleonasme
+  - Text: Metafora
+  - Text: Asosiasi
+  - Text: Eufemisme
+  - Text: Repetisi
+---
+Type: PilihanGanda
+ID: SMP_INDO_53
+Question: >
+  "Suaranya menggelegar membelah angkasa hingga membuat jantungku hampir copot dari tempatnya."
+  Kalimat di atas menggunakan majas ...
+Answer: Hiperbola
+Explanation: Majas hiperbola digunakan untuk melebih-lebihkan suatu kenyataan sehingga terdengar tidak masuk akal atau dramatis. "Membelah angkasa" dan "jantung hampir copot" adalah ekspresi yang dilebih-lebihkan.
+Options:
+  - Text: Litotes
+  - Text: Personifikasi
+  - Text: Hiperbola
+  - Text: Paradoks
+  - Text: Metonimia
+---
+Type: PilihanGanda
+ID: SMP_INDO_54
+Question: >
+  Peribahasa "Air susu dibalas dengan air tuba" memiliki makna ...
+Answer: Kebaikan yang dibalas dengan kejahatan
+Explanation: "Air susu" melambangkan sesuatu yang baik, bermanfaat, dan suci, sedangkan "air tuba" melambangkan racun atau keburukan. Jadi, peribahasa ini berarti perbuatan baik yang dibalas dengan perbuatan jahat oleh seseorang.
+Options:
+  - Text: Kebaikan yang dibalas dengan kejahatan
+  - Text: Usaha yang keras akan membuahkan hasil manis
+  - Text: Pertengkaran yang tidak akan pernah selesai
+  - Text: Orang miskin yang tiba-tiba menjadi kaya raya
+  - Text: Menyembunyikan kesalahan yang pada akhirnya terbongkar
+---
+Type: PilihanGanda
+ID: SMP_INDO_55
+Question: >
+  Makna ungkapan "Bunga Desa" pada kalimat "Gadis yang cerdas itu menjadi bunga desa di kampung kelahirannya" adalah ...
+Answer: Perempuan cantik yang menjadi pujaan di desanya
+Explanation: Ungkapan "bunga desa" bermakna kiasan untuk seorang perempuan muda yang paling cantik, berbudi baik, dan menjadi kebanggaan serta pujaan di desa atau kampungnya.
+Options:
+  - Text: Perempuan yang hobi menanam berbagai jenis bunga langka
+  - Text: Perempuan cantik yang menjadi pujaan di desanya
+  - Text: Seseorang yang suka berhutang di desanya tanpa jaminan
+  - Text: Pejabat wanita muda yang memimpin pemerintahan desa
+  - Text: Perempuan yang gemar bersolek memakai perhiasan bunga
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_56
+Question: >
+  Majas digunakan untuk memperindah struktur kalimat. Manakah di antara kalimat berikut yang menggunakan majas litotes (merendahkan diri)?
+Explanation: Litotes adalah majas yang menurunkan/merendahkan derajat kenyataan aslinya untuk tujuan merendah hati (sopan). "Mampirlah ke gubuk reotku" (padahal rumahnya bagus), "terimalah kado tak berharga ini" (padahal kadonya mahal).
+Options:
+  - Text: Sudilah kiranya Bapak singgah sejenak di gubuk reot kami yang sederhana ini.
+    IsCorrect: true
+  - Text: Mobil mewah itu melesat secepat kilat membelah jalanan tol malam hari.
+    IsCorrect: false
+  - Text: Apalah daya, kami hanya bisa menghidangkan air putih dan makanan kampung ini.
+    IsCorrect: true
+  - Text: Angin malam berbisik pelan menceritakan kerinduan pada rembulan yang sepi.
+    IsCorrect: false
+  - Text: Terimalah pemberian yang tidak ada harganya ini sebagai tanda terima kasih kami.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_57
+Question: >
+  Ungkapan (idiom) sering kita gunakan dalam percakapan sehari-hari. 
+  Pasangkan makna yang bernilai benar antara ungkapan dan artinya berikut ini!
+Explanation: 
+  - Keras kepala = tidak mau menurut/keras hati.
+  - Buah bibir = bahan pembicaraan.
+  - Naik pitam = marah sekali.
+  - Bintang kelas = murid paling pintar (bukan atlet).
+  - Panjang tangan = suka mencuri (bukan dermawan, dermawan itu ringan tangan atau murah hati).
+Options:
+  - Text: Buah bibir bermakna bahan perbincangan orang banyak.
+    IsCorrect: true
+  - Text: Naik pitam bermakna mendapatkan kenaikan pangkat atau jabatan secara cepat.
+    IsCorrect: false
+  - Text: Keras kepala bermakna tidak mau menuruti nasihat orang lain (bandel).
+    IsCorrect: true
+  - Text: Bintang kelas bermakna atlet olahraga terbaik yang mewakili sekolah.
+    IsCorrect: false
+  - Text: Panjang tangan bermakna suka memberi sumbangan dan dermawan.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_58
+Question: >
+  Terdapat berbagai peribahasa dalam bahasa Indonesia yang memiliki kemiripan makna. 
+  Manakah peribahasa di bawah ini yang bermakna "sesuatu/pekerjaan yang sia-sia"?
+Explanation: 
+  - "Bagai menegakkan benang basah" = melakukan hal yang mustahil/sia-sia.
+  - "Bagai membuang garam ke laut" = memberi sesuatu yang tidak ada gunanya karena sudah berlimpah (sia-sia).
+  - "Bagai mendapat durian runtuh" = mendapat rezeki nomplok.
+  - "Seperti padi, kian berisi kian merunduk" = semakin berilmu semakin rendah hati.
+Options:
+  - Text: Bagaikan menegakkan benang yang basah.
+    IsCorrect: true
+  - Text: Bagai membuang sekardus garam ke laut lepas.
+    IsCorrect: true
+  - Text: Seperti mendapat durian runtuh dari kebun.
+    IsCorrect: false
+  - Text: Menggantang asap, mengukir langit.
+    IsCorrect: true
+  - Text: Seperti ilmu padi, kian berisi kian merunduk.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_59
+Question: Tentukan Benar atau Salah analisis mengenai gaya bahasa / majas ironi berikut ini!
+Explanation: Ironi adalah majas sindiran yang menggunakan kata-kata bermakna sebaliknya dari kenyataan dengan nada mengejek. "Bagus benar rapormu, merah semua" adalah ironi. Sarkasme lebih kasar secara terang-terangan.
+Options:
+  - Text: Kalimat "Bersih sekali kamarmu, sampai tidak ada ruang kosong tersisa untuk duduk saking banyaknya sampah" merupakan contoh majas ironi.
+    IsCorrect: Benar
+  - Text: Majas ironi pada dasarnya digunakan untuk memberikan pujian yang tulus dari lubuk hati kepada seseorang.
+    IsCorrect: Salah
+  - Text: "Wanginya bau badanmu, sampai aku mual dibuatnya," adalah kalimat sindiran ironi.
+    IsCorrect: Benar
+  - Text: Ironi selalu menggunakan perbandingan hewan dengan manusia dalam kalimatnya.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_60
+Question: Tentukan Benar atau Salah makna majas metonimia dan perumpamaan di bawah ini!
+Explanation: Metonimia menggunakan merek, nama ciri, atau atribut untuk mewakili bendanya (Contoh: naik Honda, minum Aqua). Simile/Asosiasi membandingkan dengan kata "bagaikan, laksana, seperti".
+Options:
+  - Text: Kalimat "Ayah berangkat kerja naik Honda setiap pagi" merupakan contoh majas metonimia.
+    IsCorrect: Benar
+  - Text: Majas metonimia adalah majas yang melebih-lebihkan suatu kondisi secara drastis.
+    IsCorrect: Salah
+  - Text: Kalimat "Wajahnya pucat pasi bagaikan mayat hidup" merupakan contoh majas simile atau perumpamaan.
+    IsCorrect: Benar
+  - Text: "Garuda Indonesia menerbangkan jemaah haji" menempatkan 'Garuda Indonesia' sebagai gaya bahasa personifikasi yang menangis.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_INDO_61
+Question: >
+  "Harimau Sumatra merupakan subspesies harimau yang terancam punah kritis. Satwa karnivora *ini* kehilangan habitat aslinya akibat laju deforestasi yang tinggi."
+  Kata rujukan *ini* pada kalimat kedua merujuk kepada...
+Answer: Harimau Sumatra
+Explanation: Kata ganti rujukan 'ini' merujuk pada subjek utama atau entitas yang dibicarakan pada kalimat sebelumnya agar tidak terjadi pengulangan kata. Pada teks ini, entitas tersebut adalah Harimau Sumatra.
+Options:
+  - Text: Subspesies harimau
+  - Text: Deforestasi tinggi
+  - Text: Satwa karnivora
+  - Text: Habitat asli harimau
+  - Text: Harimau Sumatra
+---
+Type: PilihanGanda
+ID: SMP_INDO_62
+Question: >
+  "Curah hujan di hulu sungai sangat tinggi berhari-hari. [...], banjir bandang menerjang perkampungan di kawasan hilir yang berada di bantaran sungai."
+  Konjungsi (kata hubung) yang paling tepat untuk melengkapi paragraf rumpang tersebut agar terbentuk hubungan sebab-akibat yang logis adalah...
+Answer: Akibatnya
+Explanation: Kalimat pertama merupakan penyebab (curah hujan tinggi). Kalimat kedua adalah akibat (banjir bandang). Kata sambung antar kalimat yang menyatakan akibat adalah 'Akibatnya'.
+Options:
+  - Text: Akan tetapi
+  - Text: Selanjutnya
+  - Text: Tambahan pula
+  - Text: Akibatnya
+  - Text: Padahal kenyataannya
+---
+Type: PilihanGanda
+ID: SMP_INDO_63
+Question: >
+  Di bawah ini yang merupakan kalimat majemuk bertingkat hubungan waktu adalah...
+Answer: Ayah membaca koran ketika kami sedang asyik bermain catur.
+Explanation: Kalimat majemuk bertingkat hubungan waktu ditandai dengan anak kalimat yang diawali konjungsi waktu seperti "ketika", "saat", "sewaktu", atau "sebelum/sesudah".
+Options:
+  - Text: Ayah membaca koran dan ibu memasak di dapur pagi ini.
+  - Text: Adik menangis tersedu-sedu karena mainannya rusak terinjak.
+  - Text: Dia ingin membeli laptop baru, tetapi tabungannya belum mencukupi.
+  - Text: Ayah membaca koran ketika kami sedang asyik bermain catur.
+  - Text: Andi harus memilih antara melanjutkan kuliah atau bekerja membantu orang tua.
+---
+Type: PilihanGanda
+ID: SMP_INDO_64
+Question: >
+  Susunlah kalimat-kalimat acak berikut agar menjadi paragraf prosedur yang logis!
+  (1) Masukkan teh celup ke dalam cangkir.
+  (2) Tuangkan air panas ke dalam cangkir tersebut.
+  (3) Siapkan cangkir, teh celup, dan gula pasir.
+  (4) Tambahkan gula secukupnya, lalu aduk hingga larut.
+  (5) Angkat kantong teh setelah warna air berubah menjadi kemerahan.
+  Urutan yang benar adalah...
+Answer: (3) - (1) - (2) - (5) - (4)
+Explanation: >
+  Prosedur membuat teh yang logis:
+  Mulai dengan persiapan alat bahan (3).
+  Letakkan teh ke cangkir (1).
+  Tuang air panas (2).
+  Tunggu warna berubah lalu angkat celupnya (5).
+  Terakhir, tambah gula dan aduk siap minum (4).
+Options:
+  - Text: (1) - (2) - (3) - (4) - (5)
+  - Text: (3) - (2) - (1) - (4) - (5)
+  - Text: (3) - (1) - (2) - (5) - (4)
+  - Text: (2) - (1) - (4) - (5) - (3)
+  - Text: (3) - (4) - (1) - (2) - (5)
+---
+Type: PilihanGanda
+ID: SMP_INDO_65
+Question: >
+  "Penggemar berat band rock itu melonjak-lonjak kegirangan [...] mereka berhasil mendapatkan tiket konser VIP di barisan paling depan."
+  Kata penghubung (konjungsi intrakalimat) yang tepat mengisi rumpang adalah...
+Answer: karena
+Explanation: Konjungsi yang menyatakan alasan/sebab adalah "karena" atau "sebab". Melonjak kegirangan (akibat) terjadi karena (sebab) berhasil mendapatkan tiket.
+Options:
+  - Text: meskipun
+  - Text: sehingga
+  - Text: karena
+  - Text: namun
+  - Text: daripada
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_66
+Question: >
+  Dalam pembentukan kalimat kompleks, penggunaan konjungsi subordinatif pertentangan dan konsesif sering dipakai. 
+  Manakah dari kalimat berikut yang memakai konjungsi konsesif/pertentangan?
+Explanation: Konjungsi konsesif menunjukkan keadaan berlawanan/kendala (walaupun, meskipun, biarpun). Konjungsi pertentangan (tetapi, sedangkan) biasanya pada kalimat koordinatif.
+Options:
+  - Text: Walaupun harus menembus hujan badai, kurir itu tetap mengantarkan paket.
+    IsCorrect: true
+  - Text: Ia sangat berbakat dalam seni lukis, sedangkan adiknya mahir bermain alat musik.
+    IsCorrect: true
+  - Text: Saya akan memaafkan kesalahannya asalkan ia mau berjanji tidak mengulanginya lagi.
+    IsCorrect: false
+  - Text: Biarpun sudah dilarang berkali-kali oleh ibunya, Dika tetap bermain hujan di luar.
+    IsCorrect: true
+  - Text: Jika besok cuaca cerah, kita akan pergi berenang ke pantai Parangtritis.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_67
+Question: >
+  Kalimat majemuk rapatan adalah kalimat majemuk setara yang bagian-bagiannya dirapatkan karena ada kata atau unsur yang sama, biasanya subjek atau predikatnya.
+  Manakah yang merupakan contoh kalimat majemuk rapatan subjek?
+Explanation: >
+  - "Ibu mencuci baju dan ibu memasak nasi" dirapatkan menjadi "Ibu mencuci baju dan memasak nasi." (Subjek Ibu dirapatkan).
+  - "Doni cerdas. Doni malas" menjadi "Doni cerdas, tetapi malas."
+Options:
+  - Text: Ayah sedang mengecat tembok dan memperbaiki genting bocor.
+    IsCorrect: true
+  - Text: Santi menyapu lantai rumah, sedangkan Budi asyik bermain gim.
+    IsCorrect: false
+  - Text: Kepala desa memberikan pidato singkat dan membagikan bantuan sembako secara merata.
+    IsCorrect: true
+  - Text: Karena bangun sangat kesiangan, Bima akhirnya ketinggalan kereta api pagi.
+    IsCorrect: false
+  - Text: Harimau itu mengintai mangsanya dengan diam-diam lalu menerkamnya dengan cepat.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_68
+Question: >
+  Kalimat baku secara struktur harus memiliki minimal Subjek dan Predikat. Manakah dari deretan kalimat ini yang tidak baku karena kehilangan subjek akibat preposisi?
+Explanation: Kesalahan umum adalah meletakkan preposisi (di, dari, bagi, untuk) di awal kalimat, yang membuat fungsi subjek hilang karena berubah menjadi keterangan.
+Options:
+  - Text: Di dalam buku pedoman ini menjelaskan cara instalasi perangkat lunak dengan benar.
+    IsCorrect: true
+  - Text: Buku pedoman ini menjelaskan cara instalasi perangkat lunak dengan benar.
+    IsCorrect: false
+  - Text: Bagi peserta ujian SNMPTN yang curang akan langsung didiskualifikasi oleh panitia pusat.
+    IsCorrect: true
+  - Text: Kepada para pengunjung dilarang keras menyalakan kamera lampu kilat (flash) di museum.
+    IsCorrect: true
+  - Text: Para pengunjung dilarang menyalakan kamera dengan lampu kilat di dalam area museum.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_69
+Question: Tentukan Benar atau Salah aturan penggunaan kata ganti (pronomina) dalam teks bahasa Indonesia!
+Explanation: Kata ganti "ia" dan "dia" digunakan untuk orang tunggal (manusia). Untuk benda mati tunggal, bahasa Indonesia formal tidak memiliki kata ganti tunggal (tidak bisa benda mati dipanggil "dia", biasanya menggunakan kata rujukan "itu", "tersebut", atau mengulang nama benda). Pronomina persona ketiga jamak adalah "mereka".
+Options:
+  - Text: Kata ganti "ia" dan "dia" secara kaidah kebahasaan baku hanya boleh merujuk pada benda mati, bukan manusia.
+    IsCorrect: Salah
+  - Text: Kata "mereka" merupakan kata ganti orang ketiga jamak yang merujuk pada banyak orang (lebih dari satu).
+    IsCorrect: Benar
+  - Text: Dalam menulis cerita fiksi, penggunaan pronomina persona "aku" menandakan sudut pandang penceritaan orang pertama.
+    IsCorrect: Benar
+  - Text: Kata "beliau" sering digunakan sebagai kata ganti orang ketiga tunggal untuk merujuk pada orang yang sangat dihormati.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_70
+Question: Tentukan Benar atau Salah pada struktur dan ciri kebahasaan Teks Prosedur Kompleks!
+Explanation: Teks prosedur berisi cara, langkah-langkah, atau tahapan untuk melakukan sesuatu. Teks ini banyak menggunakan kalimat perintah (imperatif), kata kerja aktif, dan konjungsi urutan temporal (kemudian, selanjutnya, setelah itu).
+Options:
+  - Text: Teks prosedur kompleks sangat bergantung pada penggunaan alur cerita konflik antar tokoh untuk menarik minat baca.
+    IsCorrect: Salah
+  - Text: Ciri kebahasaan teks prosedur adalah dominannya penggunaan kalimat imperatif (kalimat perintah atau larangan).
+    IsCorrect: Benar
+  - Text: Konjungsi temporal seperti "kemudian", "lalu", dan "setelah itu" sangat jarang digunakan dalam penulisan teks prosedur.
+    IsCorrect: Salah
+  - Text: Struktur utama teks prosedur umumnya terdiri atas bagian tujuan, bahan/alat, langkah-langkah, dan penutup/simpulan.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_71
+Question: >
+  "Presiden meresmikan *pembangunan* jalan tol lintas Sumatera."
+  Kata dasar dari kata bercetak miring adalah bangun. Kata "pembangunan" merupakan jenis kata...
+Answer: Nomina (Kata benda turunan)
+Explanation: Kata dasar 'bangun' (verba) mendapat imbuhan pe-an menjadi 'pembangunan', yang mengubah kelas kata dari verba menjadi nomina (kata benda abstrak yang menyatakan proses).
+Options:
+  - Text: Verba (Kata kerja)
+  - Text: Nomina (Kata benda turunan)
+  - Text: Adjektiva (Kata sifat)
+  - Text: Adverbia (Kata keterangan)
+  - Text: Pronomina (Kata ganti)
+---
+Type: PilihanGanda
+ID: SMP_INDO_72
+Question: >
+  Kata-kata di bawah ini merupakan kelompok kata sifat (adjektiva), KECUALI...
+Answer: Berlari
+Explanation: Manis, pahit, tinggi, dan cantik adalah adjektiva (kata sifat) yang dapat ditempeli pewatas "sangat" (sangat manis, sangat tinggi). Berlari adalah verba (kata kerja).
+Options:
+  - Text: Manis
+  - Text: Cantik
+  - Text: Berlari
+  - Text: Pahit
+  - Text: Tinggi
+---
+Type: PilihanGanda
+ID: SMP_INDO_73
+Question: >
+  "Petani itu mengayunkan *cangkul* di sawah sejak pagi buta."
+  Berdasarkan fungsinya dalam struktur kalimat, kata "cangkul" menduduki jabatan sebagai...
+Answer: Objek
+Explanation: Kalimat aktif transitif: Petani (Subjek), mengayunkan (Predikat/Verba aktif), cangkul (Objek penderita yang diayunkan), di sawah (Keterangan tempat), sejak pagi (Keterangan waktu).
+Options:
+  - Text: Subjek
+  - Text: Predikat
+  - Text: Objek
+  - Text: Pelengkap
+  - Text: Keterangan alat
+---
+Type: PilihanGanda
+ID: SMP_INDO_74
+Question: >
+  Frasa yang unsur pusatnya mendominasi makna seluruh frasa dan memiliki kategori yang sama dengan unsur pusatnya disebut frasa endosentris.
+  Manakah yang merupakan frasa nomina (kata benda)?
+Answer: Buku sejarah baru
+Explanation: "Buku sejarah baru" berpusat pada nomina (kata benda) yaitu "buku". Frasa ini menerangkan benda. Sangat besar (adjektiva), sedang menulis (verba), di perpustakaan (preposisional).
+Options:
+  - Text: Sangat besar
+  - Text: Sedang menulis makalah
+  - Text: Buku sejarah baru
+  - Text: Di dalam perpustakaan sekolah
+  - Text: Akan segera diberangkatkan
+---
+Type: PilihanGanda
+ID: SMP_INDO_75
+Question: >
+  Klausa yang tidak dapat berdiri sendiri sebagai kalimat sempurna karena maknanya menggantung disebut sebagai...
+Answer: Klausa terikat (Anak kalimat)
+Explanation: Klausa bebas dapat berdiri sendiri menjadi kalimat mayor. Klausa terikat (anak kalimat) tidak bisa mandiri, biasanya diawali oleh konjungsi subordinatif seperti 'karena', 'jika', 'sejak'. (contoh: "karena hujan deras", tidak bisa menjadi kalimat utuh tanpa induk kalimat).
+Options:
+  - Text: Klausa bebas (Induk kalimat)
+  - Text: Klausa koordinatif
+  - Text: Klausa ekuivalen
+  - Text: Klausa terikat (Anak kalimat)
+  - Text: Klausa interogatif
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_76
+Question: >
+  Kata turunan (berimbuhan) dapat mengubah kelas atau kategori kata dasar. 
+  Manakah kata dasar berikut yang berubah menjadi verba (kata kerja) setelah mendapat imbuhan?
+Explanation: 
+  - Gunting (Benda) -> Menggunting (Kerja).
+  - Sapu (Benda) -> Menyapu (Kerja).
+  - Tulis (Kerja) -> Penulis (Benda).
+  - Indah (Sifat) -> Memperindah (Kerja).
+  - Baca (Kerja) -> Bacaan (Benda).
+Options:
+  - Text: Sapu menjadi Menyapu.
+    IsCorrect: true
+  - Text: Tulis menjadi Penulis.
+    IsCorrect: false
+  - Text: Gunting menjadi Menggunting.
+    IsCorrect: true
+  - Text: Baca menjadi Bacaan.
+    IsCorrect: false
+  - Text: Indah menjadi Memperindah.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_77
+Question: >
+  Adverbia atau kata keterangan berfungsi untuk menerangkan kata kerja, kata sifat, atau seluruh kalimat.
+  Manakah kata-kata berikut yang lazim diklasifikasikan sebagai adverbia frekuensi (kekerapa waktu)?
+Explanation: Adverbia frekuensi menunjukkan seberapa sering sesuatu terjadi. Contohnya: Selalu, Sering, Jarang, Pernah, Kadang-kadang. Cepat dan lambat adalah adverbia cara (kualitas).
+Options:
+  - Text: Selalu
+    IsCorrect: true
+  - Text: Sering
+    IsCorrect: true
+  - Text: Cepat
+    IsCorrect: false
+  - Text: Teramat
+    IsCorrect: false
+  - Text: Kadang-kadang
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_78
+Question: >
+  Cermati kalimat-kalimat di bawah ini! Manakah yang mengandung kata berimbuhan konfiks (awalan dan akhiran sekaligus)?
+Explanation: Konfiks adalah imbuhan awalan dan akhiran yang melekat secara bersamaan pada kata dasar, bukan bertahap. Contoh konfiks: ke-an (keadilan), pe-an (pemberontakan), per-an (pertemuan). Kata "memakan" hanya awalan me- (kata dasar makan, bukan me-kan). "Berjatuhan" awalan ber- akhiran -an.
+Options:
+  - Text: Polisi menyelidiki kasus pencurian bersenjata itu.
+    IsCorrect: false
+  - Text: Keadilan sosial bagi seluruh rakyat Indonesia harus ditegakkan.
+    IsCorrect: true
+  - Text: Para demonstran meminta pertanggungjawaban dari sang menteri.
+    IsCorrect: true
+  - Text: Hewan buas itu memakan mangsanya secara rakus.
+    IsCorrect: false
+  - Text: Rapat penentuan kelulusan akan diadakan besok siang.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_79
+Question: Tentukan Benar atau Salah pernyataan tentang ciri verba transitif dan intransitif!
+Explanation: Verba transitif adalah kata kerja yang WAJIB membutuhkan objek (contoh: memukul (bola), membawa (tas)). Jika dipasifkan, objeknya menjadi subjek (bola dipukul). Verba intransitif tidak butuh objek (contoh: tidur, berlari, jatuh) dan tidak bisa dipasifkan secara normal.
+Options:
+  - Text: Verba transitif adalah jenis kata kerja yang selalu membutuhkan kehadiran objek agar kalimatnya menjadi utuh dan gramatikal.
+    IsCorrect: Benar
+  - Text: Kata kerja "menangis" dan "tidur" merupakan contoh dari kelompok verba transitif sempurna.
+    IsCorrect: Salah
+  - Text: Kalimat dengan verba intransitif pada umumnya tidak dapat diubah menjadi bentuk kalimat pasif yang logis.
+    IsCorrect: Benar
+  - Text: Kata "melempar" dalam kalimat "Andi melempar mangga dengan batu" adalah contoh verba intransitif.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_80
+Question: Tentukan Benar atau Salah terkait pemahaman frasa dan klausa!
+Explanation: Frasa adalah gabungan dua kata atau lebih yang tidak melampaui batas fungsi klausa (tidak memiliki Predikat). Klausa adalah satuan gramatikal yang minimal memiliki Subjek dan Predikat, berpotensi menjadi kalimat.
+Options:
+  - Text: Frasa selalu terdiri dari minimal dua kata dan memiliki fungsi gramatikal subjek serta predikat di dalamnya.
+    IsCorrect: Salah
+  - Text: "Gedung tinggi bertingkat sepuluh" merupakan contoh gabungan kata yang menduduki bentuk frasa nomina.
+    IsCorrect: Benar
+  - Text: Klausa berbeda dengan kalimat, karena klausa tidak diakhiri dengan intonasi final atau tanda baca akhir (seperti titik atau tanda tanya).
+    IsCorrect: Benar
+  - Text: "Dia sedang tertidur pulas" tidak dapat disebut sebagai klausa karena strukturnya belum memiliki objek pendamping.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_INDO_81
+Question: >
+  Teks tanggapan kritis bertujuan untuk menganalisis, mengkritik, atau memberikan pujian terhadap suatu fenomena atau karya seni secara objektif. Struktur dasar teks tanggapan terdiri dari...
+Answer: Konteks - Deskripsi - Penilaian
+Explanation: Struktur baku teks tanggapan kritis menurut kurikulum SMP adalah Evaluasi/Konteks (pengenalan masalah), Deskripsi Teks (penjelasan detail fakta data), dan Penilaian (pujian atau kritik secara argumentatif).
+Options:
+  - Text: Pernyataan umum - Deretan penjelas - Interpretasi
+  - Text: Tesis - Argumentasi - Penegasan ulang
+  - Text: Konteks - Deskripsi - Penilaian
+  - Text: Orientasi - Komplikasi - Resolusi
+  - Text: Abstrak - Orientasi - Krisis - Reaksi - Koda
+---
+Type: PilihanGanda
+ID: SMP_INDO_82
+Question: >
+  Cermati kalimat berikut!
+  "Lukisan pemandangan karya seniman jalanan ini memiliki gradasi warna yang sangat apik dan berani, memberikan kesan hidup bagi siapa saja yang menatapnya."
+  Kalimat di atas termasuk ke dalam jenis kalimat...
+Answer: Pujian atau apresiasi
+Explanation: Kalimat tersebut memberikan tanggapan positif terhadap sebuah karya seni dengan menggunakan frasa "gradasi warna yang sangat apik" dan "memberikan kesan hidup", yang merupakan bentuk apresiasi/pujian.
+Options:
+  - Text: Kritikan pedas
+  - Text: Sanggahan objektif
+  - Text: Pujian atau apresiasi
+  - Text: Penolakan mentah
+  - Text: Saran perbaikan teknis
+---
+Type: PilihanGanda
+ID: SMP_INDO_83
+Question: >
+  Cara menyampaikan kritik yang santun dan konstruktif terhadap karya tulis teman adalah...
+Answer: "Secara keseluruhan cerpenmu sangat menarik, namun mungkin alur di bagian akhir terasa sedikit tergesa-gesa. Alangkah baiknya jika diperhalus lagi transisinya."
+Explanation: Kritik yang baik tidak menjatuhkan mental, fokus pada karya bukan personal, dan memberikan saran perbaikan. Opsi yang menggunakan bahasa santun ("sangat menarik, namun...") dan memberi solusi ("diperhalus lagi") adalah kritik konstruktif.
+Options:
+  - Text: "Cerpenmu sangat jelek dan membosankan, saya tidak mengerti mengapa kamu berani mempublikasikannya."
+  - Text: "Saya sama sekali tidak paham jalan cerita cerpen ini, tokoh-tokohnya sangat kaku."
+  - Text: "Daripada menulis cerpen dengan gaya kuno seperti ini, mending kamu belajar melukis saja."
+  - Text: "Secara keseluruhan cerpenmu sangat menarik, namun mungkin alur di bagian akhir terasa sedikit tergesa-gesa. Alangkah baiknya jika diperhalus lagi transisinya."
+  - Text: "Cerpen ini hanya membuang-buang waktu saya untuk membacanya sampai tuntas."
+---
+Type: PilihanGanda
+ID: SMP_INDO_84
+Question: >
+  "Saya sangat setuju dengan kebijakan larangan membawa ponsel pintar ke sekolah karena hal ini terbukti meningkatkan fokus belajar siswa dan mengurangi fenomena perundungan siber di lingkungan akademik."
+  Kalimat di atas adalah contoh kalimat tanggapan berbentuk...
+Answer: Pro (Persetujuan)
+Explanation: Kalimat tersebut menyatakan dukungan secara terbuka terhadap suatu wacana (larangan ponsel) disertai alasan logis positifnya, sehingga tergolong kalimat persetujuan atau pihak pro.
+Options:
+  - Text: Netral tanpa keberpihakan
+  - Text: Kontra (Penolakan)
+  - Text: Sanggahan bersyarat
+  - Text: Pro (Persetujuan)
+  - Text: Pertanyaan retoris
+---
+Type: PilihanGanda
+ID: SMP_INDO_85
+Question: >
+  Kalimat sanggahan (penolakan) yang disampaikan dalam forum diskusi sebaiknya menggunakan bahasa yang lugas, tidak menyinggung perasaan, dan logis. 
+  Contoh kalimat sanggahan yang tepat adalah...
+Answer: "Saya kurang sependapat dengan gagasan tersebut, karena dari data statistik terbaru menunjukkan hal yang sebaliknya."
+Explanation: Sanggahan yang baik diawali dengan kata-kata yang memperhalus penolakan ("Saya kurang sependapat") lalu diikuti oleh alasan objektif (berdasarkan "data statistik"), bukan menyerang pribadi.
+Options:
+  - Text: "Pendapat Anda benar-benar konyol dan tidak pantas dibahas di rapat terhormat ini."
+  - Text: "Gagasan itu tidak masuk akal sehat sama sekali, saya menolaknya mentah-mentah!"
+  - Text: "Saya kurang sependapat dengan gagasan tersebut, karena dari data statistik terbaru menunjukkan hal yang sebaliknya."
+  - Text: "Terserah Anda saja mau berkata apa, tapi pastinya ide Anda pasti akan gagal di lapangan."
+  - Text: "Mustahil! Pendapat itu murni hasil imajinasi belaka yang tidak ada buktinya."
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_86
+Question: >
+  Teks esai berbeda dengan artikel biasa. Esai lebih bersifat personal.
+  Manakah karakteristik yang mencerminkan teks esai?
+Explanation: Esai merupakan prosa argumentatif yang membahas suatu masalah sepintas lalu dari sudut pandang pribadi (subjektif) penulisnya. Esai tidak sekaku jurnal ilmiah yang 100% harus didukung eksperimen objektif, melainkan opini penulis yang diperkuat fakta yang dipilihnya.
+Options:
+  - Text: Ditulis menggunakan sudut pandang orang pertama dan sangat personal.
+    IsCorrect: true
+  - Text: Berisi pandangan subjektif penulis terhadap suatu fenomena atau karya seni.
+    IsCorrect: true
+  - Text: Harus mengikuti format laporan penelitian laboratorium sains kuantitatif baku.
+    IsCorrect: false
+  - Text: Bersifat argumentatif persuasif untuk meyakinkan pembaca akan opini sang penulis.
+    IsCorrect: true
+  - Text: Dilarang keras menggunakan gaya bahasa kiasan atau majas dalam penulisannya.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_87
+Question: >
+  Ciri kebahasaan dalam teks tanggapan kritis adalah penggunaan kata tugas, kalimat kompleks, kata rujukan, dan konjungsi penerang/penyebab.
+  Manakah kalimat yang menggunakan ciri kebahasaan teks tanggapan dengan benar?
+Explanation: Teks tanggapan banyak menggunakan konjungsi kausalitas (sebab, karena) untuk argumen penolakan/persetujuan. Juga sering memuat kalimat kompleks dan penilaian evaluatif (kurang tepat, sangat baik).
+Options:
+  - Text: Gagasan menaikkan pajak menurut kami sangat prematur karena daya beli masyarakat sedang menurun drastis.
+    IsCorrect: true
+  - Text: "Wow, gila bener ini lukisan, keren abis bro!"
+    IsCorrect: false
+  - Text: Kebijakan ini terkesan dipaksakan, padahal infrastruktur penunjangnya di daerah terpencil belum memadai.
+    IsCorrect: true
+  - Text: Mari kita pergi ke pasar besok pagi membeli ayam.
+    IsCorrect: false
+  - Text: Berdasarkan evaluasi dari tim panelis, arsitektur gedung ini belum ramah terhadap kelompok difabel.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_88
+Question: >
+  Teks debat membutuhkan konstruksi argumen penyanggah yang valid dan terstruktur. 
+  Manakah di antara argumen ini yang tergolong sanggahan logis (bukan fallacy)?
+Explanation: Sanggahan logis menyerang substansi atau isi premis lawan menggunakan data/fakta balasan. Argumentum ad hominem (menyerang personal orang yang bicara) adalah fallacy (kesesatan berpikir), contoh: menyerang latar belakang atau fisik pembicara.
+Options:
+  - Text: Saya menolak argumen Saudara karena studi dari WHO membuktikan bahwa virus tidak menyebar lewat jaringan nirkabel.
+    IsCorrect: true
+  - Text: Pendapat Saudara tidak bisa diterima karena Saudara belum pernah lulus sarjana dan masih berstatus mahasiswa.
+    IsCorrect: false
+  - Text: Kebijakan subsidi mobil listrik kurang tepat sasaran karena mayoritas polusi harian dihasilkan oleh kendaraan industri berat.
+    IsCorrect: true
+  - Text: Argumen Anda salah murni karena wajah Anda terlihat ragu-ragu saat berbicara tadi di depan mikrofon.
+    IsCorrect: false
+  - Text: Data yang Anda sajikan tadi adalah data tahun 2010 yang mana sudah tidak relevan dengan kondisi demografi dekade ini.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_89
+Question: Tentukan Benar atau Salah pemahaman mengenai struktur Konteks dalam Teks Tanggapan!
+Explanation: Konteks adalah bagian pengantar yang memuat 'apa yang ditanggapi', 'di mana', 'kapan', 'siapa yang membuat/melakukan'. Konteks tidak berisi penilaian langsung atau opini kritis mendalam (itu porsi Penilaian/Evaluasi).
+Options:
+  - Text: Bagian konteks bertugas mengenalkan karya, penulis karya, atau fenomena secara umum sebelum diberi penilaian spesifik.
+    IsCorrect: Benar
+  - Text: Penilaian atau kritikan tajam terhadap kekurangan suatu karya diletakkan di kalimat paragraf pertama pada struktur konteks.
+    IsCorrect: Salah
+  - Text: Konteks memberi pijakan informasi objektif agar pembaca awam tahu karya apa yang sedang diresensi oleh sang penulis.
+    IsCorrect: Benar
+  - Text: Deskripsi pada teks tanggapan diletakkan sesudah penilaian akhir selesai diberikan.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_90
+Question: Tentukan Benar atau Salah prinsip etika komunikasi saat memberikan kritik tajam!
+Explanation: Kritik bertujuan memperbaiki (konstruktif). Fokus pada karya/tindakan (objektif), bukan personalnya. Bahasa harus dijaga agar tidak terjadi demotivasi (pembunuhan karakter).
+Options:
+  - Text: Kritik yang sehat difokuskan pada kekurangan dari hasil karya atau gagasan, bukan diarahkan untuk menyerang fisik atau pribadi penciptanya.
+    IsCorrect: Benar
+  - Text: Untuk memberikan efek jera, kritik sebaiknya menggunakan kata-kata sarkasme yang sangat merendahkan mental pencipta karya di depan umum.
+    IsCorrect: Salah
+  - Text: Kritik yang membangun (konstruktif) lazimnya disertai dengan tawaran solusi teknis atau jalan keluar agar karya selanjutnya bisa lebih baik.
+    IsCorrect: Benar
+  - Text: Menemukan titik kekuatan atau kelebihan karya sebelum membicarakan kekurangannya adalah teknik komunikasi kritik (sandwich method) yang lazim dan efektif.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_91
+Question: >
+  Premis 1: Jika murid rajin mengerjakan soal latihan, maka ia akan meraih nilai ujian yang tinggi.
+  Premis 2: Budi rajin mengerjakan soal latihan setiap malam hari.
+  Kesimpulan (konklusi) yang sah berdasarkan hukum silogisme Modus Ponens adalah...
+Answer: Budi akan meraih nilai ujian yang tinggi.
+Explanation: Modus Ponens (Mengafirmasi Anteseden). P -> Q. P benar. Maka kesimpulannya Q pasti benar. Jika P (rajin latihan) menghasilkan Q (nilai tinggi), dan Budi memenuhi P, maka Budi mendapatkan Q.
+Options:
+  - Text: Budi mungkin akan gagal dalam ujian.
+  - Text: Budi akan meraih nilai ujian yang tinggi.
+  - Text: Anak yang rajin belum tentu meraih nilai tinggi.
+  - Text: Budi mengerjakan latihan karena ingin nilai tinggi.
+  - Text: Budi tidak rajin, namun mendapatkan nilai tinggi.
+---
+Type: PilihanGanda
+ID: SMP_INDO_92
+Question: >
+  Premis Mayor: Semua siswa kelas sembilan di SMP Taruna wajib mengikuti kegiatan ekstrakurikuler Pramuka.
+  Premis Minor: Anton tidak mengikuti kegiatan ekstrakurikuler Pramuka.
+  Kesimpulan: ...
+Answer: Anton bukan siswa kelas sembilan di SMP Taruna.
+Explanation: Silogisme kategorik negatif (Barbara jika afirmatif, di sini menggunakan penyangkalan dari syarat mutlak kelompok). Jika SEMUA anggota himpunan A masuk ke himpunan B, dan Anton BUKAN bagian dari B, maka dipastikan Anton tidak mungkin bagian dari himpunan A.
+Options:
+  - Text: Anton adalah siswa kelas sembilan yang malas mengikuti Pramuka.
+  - Text: Anton mendapatkan dispensasi khusus dari guru pembina.
+  - Text: Anton bukan siswa kelas sembilan di SMP Taruna.
+  - Text: Anton mengikuti kegiatan ekstrakurikuler lain di luar sekolah.
+  - Text: Semua siswa selain Anton wajib mengikuti Pramuka.
+---
+Type: PilihanGanda
+ID: SMP_INDO_93
+Question: >
+  Soal Penalaran Analitis Verbal
+  Terdapat lima kota A, B, C, D, dan E yang terhubung jalur kereta.
+  1. Jarak kota A ke B lebih dekat daripada kota A ke C.
+  2. Jarak kota A ke D lebih jauh daripada kota A ke C.
+  3. Kota E adalah kota yang jaraknya paling jauh dari kota A, melampaui kota D.
+  Kota manakah yang menempati urutan jarak terdekat KETIGA jika diukur dari kota A?
+Answer: Kota D
+Explanation: >
+  Mari susun berdasarkan jarak terdekat hingga terjauh dari Kota A:
+  - A ke B < A ke C (Urutan sementara: B, C)
+  - A ke D > A ke C (Urutan memanjang: B, C, D)
+  - Kota E paling jauh, lebih jauh dari D (Urutan final: B, C, D, E)
+  Pertanyaannya: Jarak terdekat KETIGA dari kota A.
+  1 = B, 2 = C, 3 = D. Jadi jawabannya kota D.
+Options:
+  - Text: Kota B
+  - Text: Kota C
+  - Text: Kota D
+  - Text: Kota E
+  - Text: Tidak dapat diurutkan
+---
+Type: PilihanGanda
+ID: SMP_INDO_94
+Question: >
+  Premis 1: Semua mamalia menyusui anaknya.
+  Premis 2: Sebagian hewan air adalah mamalia laut (seperti paus dan lumba-lumba).
+  Berdasarkan dua pernyataan tersebut, kesimpulan yang logis adalah...
+Answer: Sebagian hewan air menyusui anaknya.
+Explanation: Aturan silogisme: Apabila salah satu premis partikular (menggunakan kata "sebagian", "beberapa"), maka kesimpulannya juga harus partikular. Jika hewan air sebagian mamalia, dan SEMUA mamalia menyusui, maka sebagian hewan air pasti menyusui anaknya.
+Options:
+  - Text: Semua hewan air menyusui anaknya.
+  - Text: Semua hewan air adalah mamalia.
+  - Text: Sebagian mamalia hidup di air tawar secara penuh.
+  - Text: Sebagian hewan air menyusui anaknya.
+  - Text: Paus dan lumba-lumba bukan hewan yang menyusui di darat.
+---
+Type: PilihanGanda
+ID: SMP_INDO_95
+Question: >
+  Dalam penalaran verbal, penting untuk menghindari kesesatan logika sebab-akibat palsu (post hoc ergo propter hoc).
+  Manakah kalimat di bawah ini yang menunjukkan kesesatan logika sebab-akibat yang keliru?
+Answer: Ayam jago selalu berkokok setiap pagi sebelum fajar menyingsing, jadi ayam jagolah yang menyebabkan matahari terbit.
+Explanation: Post hoc ergo propter hoc adalah kesesatan berpikir menyimpulkan bahwa karena kejadian Y terjadi setelah kejadian X, maka X pasti menyebabkan Y. Kokok ayam terjadi sebelum matahari terbit, namun tidak secara logis menyebabkan matahari terbit. Kalimat ini cacat logika ekstrem (hanya korelasi temporal biasa).
+Options:
+  - Text: Rina memakan sambal pedas secara berlebihan siang tadi, sehingga malam ini ia menderita sakit perut mendadak.
+  - Text: Pohon jati menggugurkan daunnya pada musim kemarau ekstrem untuk mengurangi tingkat penguapan kadar air.
+  - Text: Nilai ujian sekolah matematika Andi menurun drastis karena ia terlalu sering begadang bermain permainan video tanpa henti.
+  - Text: Ayam jago selalu berkokok setiap pagi sebelum fajar menyingsing, jadi ayam jagolah yang menyebabkan matahari terbit.
+  - Text: Kaca jendela retak berkeping-keping akibat terkena lemparan batu berukuran besar dari anak-anak yang bermain bola.
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_96
+Question: >
+  Premis Mayor: Semua pegawai negeri sipil mendapatkan tunjangan hari tua.
+  Premis Minor: Bapak Ridwan adalah seorang pegawai negeri sipil di kementerian pertahanan.
+  Manakah pernyataan di bawah ini yang bernilai BENAR berdasarkan penarikan kesimpulan logis?
+Explanation: Kesimpulan yang valid hanya: Bapak Ridwan mendapatkan tunjangan hari tua. Jika dibalik "Semua yang mendapat tunjangan adalah PNS", itu salah.
+Options:
+  - Text: Bapak Ridwan dipastikan mendapatkan tunjangan hari tua.
+    IsCorrect: true
+  - Text: Setiap orang yang mendapat tunjangan hari tua dipastikan adalah Bapak Ridwan atau PNS.
+    IsCorrect: false
+  - Text: Bapak Ridwan bukanlah pegawai swasta biasa.
+    IsCorrect: true
+  - Text: Semua orang tua di kementerian pertahanan mendapat tunjangan.
+    IsCorrect: false
+  - Text: Tunjangan hari tua adalah hak eksklusif yang hanya diberikan pada kementerian pertahanan.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_97
+Question: >
+  Kata kuantor dalam logika verbal sering menjebak. 
+  "Semua mahasiswa menggunakan kemeja putih". "Sebagian mahasiswa membawa laptop".
+  Kesimpulan mana yang bisa ditarik secara pasti?
+Explanation: Karena seluruh semesta 'mahasiswa' kemeja putih, maka himpunan bagian ('sebagian mahasiswa' yang bawa laptop) PASTI menggunakan kemeja putih.
+Options:
+  - Text: Sebagian mahasiswa menggunakan kemeja putih dan membawa laptop.
+    IsCorrect: true
+  - Text: Ada mahasiswa yang menggunakan kemeja putih namun tidak membawa laptop.
+    IsCorrect: true
+  - Text: Semua mahasiswa menggunakan kemeja putih sekaligus membawa laptop.
+    IsCorrect: false
+  - Text: Mahasiswa yang tidak membawa laptop pasti tidak memakai kemeja putih.
+    IsCorrect: false
+  - Text: Mahasiswa yang membawa laptop pasti memakai kemeja putih.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_98
+Question: >
+  Kemampuan membaca pemahaman membutuhkan kecermatan kata. 
+  Cermati kalimat "Banyak penduduk desa bermigrasi ke kota besar semata-mata untuk mengadu nasib mencari pekerjaan bergaji tinggi, meski tanpa dibekali keahlian khusus."
+  Pernyataan mana yang selaras dengan fakta kalimat tersebut?
+Explanation: Kalimat menjelaskan motif utama migrasi (urbanisasi) adalah mengadu nasib demi ekonomi tinggi, walaupun mereka tak punya skill spesifik. "Semata-mata" artinya hanya itu satu-satunya alasan dominan dalam konteks teks.
+Options:
+  - Text: Motivasi utama perpindahan penduduk tersebut adalah perbaikan taraf ekonomi dan gaji.
+    IsCorrect: true
+  - Text: Seluruh penduduk desa memiliki keahlian khusus yang siap digunakan di kawasan perkotaan.
+    IsCorrect: false
+  - Text: Migrasi ke kota besar dilakukan penduduk desa yang miskin tanpa tujuan yang jelas.
+    IsCorrect: false
+  - Text: Beberapa penduduk pindah untuk mengadu nasib meskipun mereka tidak punya keterampilan ahli.
+    IsCorrect: true
+  - Text: Gaji tinggi di kota besar sangat mudah diperoleh oleh warga desa tanpa syarat dan keahlian apa pun.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_99
+Question: Tentukan Benar atau Salah analisis implikasi logis kalimat berikut!
+Explanation: Implikasi (Jika P maka Q). Jika terjadi P, pasti Q terjadi. Jika Q terjadi, belum tentu P penyebabnya (bisa R, S, T penyebab lain).
+Kalimat: "Jika jalanan tol ditutup (P), maka terjadi kemacetan parah di jalan arteri (Q)."
+Pernyataan 1: Terjadi kemacetan, berarti jalan tol pasti ditutup. (Salah logika/ fallacy afirmasi konsekuen).
+Pernyataan 2: Jalan tol ditutup, berarti macet parah (Benar).
+Options:
+  - Text: Berdasarkan kalimat di atas, jika jalan arteri terpantau lancar tanpa kemacetan, dapat disimpulkan bahwa jalanan tol tidak ditutup.
+    IsCorrect: Benar
+  - Text: Jika pada saat ini terjadi kemacetan parah di jalan arteri, penyebab satu-satunya secara mutlak adalah penutupan jalan tol.
+    IsCorrect: Salah
+  - Text: Mengingkari bagian akibat (kemacetan parah tidak terjadi) dapat digunakan untuk mengingkari bagian sebab (jalanan tol berarti sedang tidak ditutup).
+    IsCorrect: Benar
+  - Text: Modus silogisme ini membuktikan jalan tol satu-satunya penyebab kemacetan dunia.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_100
+Question: Tentukan Benar atau Salah pada soal analogi majemuk tingkat lanjut ini!
+Explanation: Hubungan antara JARUM : BENANG analog dengan MESIN JAHIT : KAIN. Jarum memasukkan benang. Mesin jahit mengerjakan kain. Tidak analog. Yang pas Jarum dan Benang adalah dua alat saling melengkapi, sama seperti Gembok dan Kunci. PISAU : DAGING adalah alat memotong bahan (analog dengan GERGAJI : KAYU).
+Options:
+  - Text: Pasangan analogi JARUM : BENANG bersesuaian dengan GEMBOK : KUNCI sebagai dua benda yang fungsinya saling melengkapi untuk bekerja.
+    IsCorrect: Benar
+  - Text: Pasangan analogi PISAU : DAGING bersesuaian sempurna polanya dengan KAYU : GERGAJI.
+    IsCorrect: Salah
+  - Text: Pasangan KUDA : PACUAN sejajar polanya dengan PETINJU : RING, yaitu menunjukkan subjek yang melakukan sesuatu di tempat arena spesifiknya.
+    IsCorrect: Benar
+  - Text: BURUNG : TERBANG memiliki hubungan hewan dan cara bergeraknya, yang sama polanya dengan IKAN : BERENANG.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_101
+Question: Analogi kata: GENTENG : TANAH LIAT = KACA : ...
+Answer: PASIR KUARSA
+Explanation: >
+  Genteng adalah material bangunan yang bahan baku utamanya terbuat dari tanah liat. 
+  Dengan pola hubungan "Benda : Bahan Baku", kaca adalah material yang bahan baku utamanya terbuat dari pasir kuarsa.
+Options:
+  - Text: JENDELA
+  - Text: BENING
+  - Text: BATU
+  - Text: PASIR KUARSA
+  - Text: CERMIN
+---
+Type: PilihanGanda
+ID: SMP_INDO_102
+Question: Sinonim (persamaan makna) dari kata "KREDO" adalah ...
+Answer: PERNYATAAN KEPERCAYAAN
+Explanation: >
+  Dalam Kamus Besar Bahasa Indonesia (KBBI), kredo diartikan sebagai pernyataan kepercayaan, keyakinan, atau landasan asas. 
+  Kredo sering dikaitkan dengan prinsip yang dipegang teguh oleh seseorang atau suatu kelompok.
+Options:
+  - Text: PERATURAN TERTULIS
+  - Text: PERNYATAAN KEPERCAYAAN
+  - Text: SURAT UTANG
+  - Text: KARYA SENI
+  - Text: KESEPAKATAN KERJA
+---
+Type: PilihanGanda
+ID: SMP_INDO_103
+Question: Antonim (lawan kata) dari kata "SPORADIS" adalah ...
+Answer: TERATUR
+Explanation: >
+  Sporadis bermakna keadaan yang tidak merata, kadang-kadang, atau tidak teratur posisinya/waktunya. 
+  Oleh karena itu, lawan kata yang paling tepat adalah teratur atau terus-menerus (rutin).
+Options:
+  - Text: JARANG
+  - Text: MENYEBAR
+  - Text: TERATUR
+  - Text: BERPENCAR
+  - Text: BERKELOMPOK
+---
+Type: PilihanGanda
+ID: SMP_INDO_104
+Question: Analogi kata: TELINGA : BISING = HIDUNG : ...
+Answer: PESING
+Explanation: >
+  Telinga adalah indra pendengaran yang terganggu oleh suara bising (bau/kondisi negatif yang diindra). 
+  Secara analogi, hidung adalah indra penciuman yang terganggu oleh bau tidak sedap, seperti pesing.
+Options:
+  - Text: WANGI
+  - Text: PESING
+  - Text: PARFUM
+  - Text: BUNGA
+  - Text: UDARA
+---
+Type: PilihanGanda
+ID: SMP_INDO_105
+Question: >
+  Pilihlah padanan kata yang tepat!
+  KULIT : MERABA = LENGAN : ...
+Answer: MENGANGKAT
+Explanation: >
+  Kulit adalah bagian tubuh yang memiliki fungsi spesifik untuk meraba. 
+  Secara fungsi, lengan adalah bagian tubuh yang digunakan untuk mengangkat, memeluk, atau menjangkau sesuatu.
+Options:
+  - Text: BERJALAN
+  - Text: MELANGKAH
+  - Text: MENGANGKAT
+  - Text: MENDENGAR
+  - Text: MENATAP
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_106
+Question: >
+  Pemahaman terhadap sinonim sangat penting untuk memperkaya kosakata bahasa Indonesia. 
+  Pilihlah pasangan kata di bawah ini yang bersinonim secara tepat!
+Explanation: >
+  Taraf dan Tingkat (sinonim). Fiksi dan Khayalan (sinonim). Insomnia dan Susah tidur (sinonim). 
+  Otoriter bermakna sewenang-wenang, bukan demokratis (antonim). Stabil bermakna tetap, bukan berubah (antonim).
+Options:
+  - Text: Fiksi = Khayalan
+    IsCorrect: true
+  - Text: Otoriter = Demokratis
+    IsCorrect: false
+  - Text: Insomnia = Susah tidur
+    IsCorrect: true
+  - Text: Stabil = Berubah-ubah
+    IsCorrect: false
+  - Text: Ekspansi = Perluasan
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_107
+Question: >
+  Pilihlah pasangan kata yang memiliki hubungan ANTONIM (lawan kata)!
+Explanation: >
+  Tesis (pernyataan) berantonim dengan Antitesis (sanggahan). Konsisten berantonim dengan Labil. 
+  Universal (umum) berantonim dengan Parsial/Khusus. Fluktuatif dan Labil bersinonim (sama-sama berubah). Implisit dan Tersirat bersinonim.
+Options:
+  - Text: Tesis - Antitesis
+    IsCorrect: true
+  - Text: Konsisten - Labil
+    IsCorrect: true
+  - Text: Universal - Parsial
+    IsCorrect: true
+  - Text: Fluktuatif - Labil
+    IsCorrect: false
+  - Text: Implisit - Tersirat
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_108
+Question: >
+  Dalam Tes Kemampuan Akademik (TKA), analogi digunakan untuk menguji logika relasional. 
+  Manakah dari pasangan berikut yang memiliki pola "Hewan : Alat Gerak Utama"?
+Explanation: >
+  Ikan bergerak dengan Sirip. Burung bergerak terbang dengan Sayap. Ular bergerak dengan Perut.
+  Manusia dan Kaki (manusia bukan hewan). Kucing dan Taring (taring alat makan/senjata, bukan alat gerak utama).
+Options:
+  - Text: Ikan : Sirip
+    IsCorrect: true
+  - Text: Burung : Sayap
+    IsCorrect: true
+  - Text: Ular : Perut
+    IsCorrect: true
+  - Text: Manusia : Kaki
+    IsCorrect: false
+  - Text: Kucing : Taring
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_109
+Question: Tentukan Benar atau Salah pernyataan mengenai logika analogi kata berikut ini!
+Explanation: >
+  PETANI : CANGKUL (Profesi : Alat utama) sama dengan DOKTER : STETOSKOP.
+  TUKANG KAYU : GERGAJI (Profesi : Alat) sama dengan PENULIS : PENA.
+  GURU : SEKOLAH (Profesi : Tempat) tidak sama dengan NELAYAN : PERAHU (Profesi : Alat/Kendaraan).
+Options:
+  - Text: Pasangan PETANI : CANGKUL memiliki pola yang sama dengan DOKTER : STETOSKOP.
+    IsCorrect: Benar
+  - Text: Pasangan GURU : SEKOLAH memiliki pola yang sama persis dengan NELAYAN : PERAHU.
+    IsCorrect: Salah
+  - Text: Pasangan TUKANG KAYU : GERGAJI memiliki pola analogi yang sejajar dengan PENULIS : PENA.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_110
+Question: Tentukan Benar atau Salah padanan makna kata dalam Kamus Besar Bahasa Indonesia (KBBI) berikut!
+Explanation: >
+  Akurat berarti tepat benar/saksama. Deforestasi berarti penebangan hutan (bukan penanaman/reboisasi). 
+  Toleransi berarti sikap menghargai perbedaan. Imigrasi adalah masuknya penduduk negara lain ke suatu negara.
+Options:
+  - Text: Kata "Akurat" bersinonim dengan kata "Saksama" atau "Tepat".
+    IsCorrect: Benar
+  - Text: Kata "Deforestasi" bermakna proses penanaman kembali hutan yang gundul.
+    IsCorrect: Salah
+  - Text: Kata "Toleransi" memiliki arti tenggang rasa atau sikap saling menghargai antarsesama.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_111
+Question: >
+  Penggunaan huruf kapital yang TEPAT sesuai Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) terdapat pada kalimat...
+Answer: Kami mengunjungi Danau Toba saat libur Lebaran.
+Explanation: >
+  Huruf kapital dipakai sebagai huruf pertama nama geografi yang diikuti nama diri ("Danau Toba") dan nama hari raya ("Lebaran").
+  Pada opsi lain terdapat kesalahan seperti: "Bulan maret" (Maret harus kapital), "Gubernur jawa barat" (Jawa Barat dan Gubernur harus kapital), "suku Bugis" (suku kecil, Bugis kapital).
+Options:
+  - Text: Adik lahir pada Bulan maret tahun lalu.
+  - Text: Ayah berencana menemui Gubernur jawa barat esok hari.
+  - Text: Kami mengunjungi Danau Toba saat libur Lebaran.
+  - Text: Kebudayaan suku dayak sangat kaya dan menarik.
+  - Text: Kapal itu berlayar melintasi selat sunda pada malam hari.
+---
+Type: PilihanGanda
+ID: SMP_INDO_112
+Question: >
+  Deretan kata berikut yang semuanya merupakan kata baku adalah...
+Answer: Ijazah, Kuitansi, Risiko
+Explanation: >
+  Menurut KBBI: Ijazah (bukan ijasah), Kuitansi (bukan kwitansi), Risiko (bukan resiko).
+  - Apotik salah (seharusnya apotek).
+  - Jadual salah (seharusnya jadwal).
+  - Antri salah (seharusnya antre).
+Options:
+  - Text: Ijazah, Kuitansi, Risiko
+  - Text: Apotik, Sistem, Jadwal
+  - Text: Nasihat, Resiko, Antri
+  - Text: Analisa, Karier, Ijasah
+  - Text: Silahkan, Kualitas, Hakikat
+---
+Type: PilihanGanda
+ID: SMP_INDO_113
+Question: >
+  Penggunaan tanda koma (,) yang TIDAK tepat terdapat pada kalimat...
+Answer: Dia tidak akan datang terlambat, jika alarmnya berbunyi.
+Explanation: >
+  Tanda koma tidak dipakai jika anak kalimat mengiringi (berada di belakang) induk kalimat. 
+  "jika alarmnya berbunyi" adalah anak kalimat. Karena terletak di belakang, tidak perlu koma sebelumnya. Koma dipakai jika anak kalimat mendahului induk kalimat.
+Options:
+  - Text: Saya ingin membeli buku, tetapi uang saya belum cukup.
+  - Text: Oleh karena itu, kita harus menjaga kebersihan kelas.
+  - Text: Ibu membeli beras, minyak goreng, dan telur di pasar.
+  - Text: Dia tidak akan datang terlambat, jika alarmnya berbunyi.
+  - Text: Wah, pemandangan di atas gunung ini indah sekali!
+---
+Type: PilihanGanda
+ID: SMP_INDO_114
+Question: >
+  Penulisan preposisi (kata depan) "di" yang tepat terdapat pada kalimat...
+Answer: Surat itu diletakkan di atas meja kerjanya.
+Explanation: >
+  Kata depan "di" yang menunjukkan arah, tempat, atau waktu harus ditulis terpisah dari kata yang mengikutinya. "di atas" menunjukkan tempat, jadi harus dipisah. 
+  "Dipukul", "dimakan" adalah awalan verba pasif, jadi harus digabung.
+Options:
+  - Text: Masalah ini harus segera diselesaikan diantara kita berdua.
+  - Text: Buku itu sudah di baca oleh adik kemarin sore.
+  - Text: Surat itu diletakkan di atas meja kerjanya.
+  - Text: Baju kesayangannya di cuci menggunakan deterjen khusus.
+  - Text: Kucing itu sembunyi dibalik pintu kamar tidur.
+---
+Type: PilihanGanda
+ID: SMP_INDO_115
+Question: >
+  Penulisan nama dan gelar kebangsawanan atau akademis yang benar adalah...
+Answer: Prof. Dr. Ir. B.J. Habibie
+Explanation: >
+  Setiap singkatan gelar akademis harus diikuti dengan tanda titik dan dipisahkan dengan koma jika berada di belakang nama, atau titik setelah singkatan gelar di depan nama.
+  Contoh yang benar: Prof.(spasi)Dr.(spasi)Ir.(spasi)B.J.(spasi)Habibie.
+Options:
+  - Text: dr, Wahyu Santoso, Sp.A.
+  - Text: Prof Dr. Ir. B.J. Habibie
+  - Text: Ir, Soekarno, M.A.
+  - Text: Prof. Dr. Ir. B.J. Habibie
+  - Text: dr. Ahmad, M.Kes,
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_116
+Question: >
+  Bahasa Indonesia menyerap banyak kata dari bahasa asing. 
+  Manakah kata serapan di bawah ini yang bentuknya sudah baku sesuai KBBI?
+Explanation: >
+  - Standardisasi (Baku), Standarisasi (Tidak Baku).
+  - Ekstrem (Baku), Ekstrim (Tidak Baku).
+  - Praktik (Baku), Praktek (Tidak Baku).
+  - Kompleks (Baku), Komplek (Tidak Baku).
+Options:
+  - Text: Standardisasi
+    IsCorrect: true
+  - Text: Ekstrem
+    IsCorrect: true
+  - Text: Praktek
+    IsCorrect: false
+  - Text: Komplek
+    IsCorrect: false
+  - Text: Praktik
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_117
+Question: >
+  Pemakaian tanda baca sangat menentukan makna kalimat. 
+  Manakah kalimat yang menggunakan tanda baca dengan benar sesuai kaidah?
+Explanation: >
+  Tanda koma dipakai sebelum "dan" pada pemerincian tiga hal atau lebih. Tanda koma setelah "Namun,". 
+  Koma dipakai setelah kata seru "Astaga,". Tanda petik ganda untuk kutipan langsung.
+Options:
+  - Text: Kakak membeli apel, mangga, dan melon.
+    IsCorrect: true
+  - Text: "Kapan kita berangkat?" tanya Budi kepada ayahnya.
+    IsCorrect: true
+  - Text: Namun ia tetap berusaha keras memenangkan lomba itu.
+    IsCorrect: false
+  - Text: Astaga, aku lupa membawa buku tugas matematika!
+    IsCorrect: true
+  - Text: Karena sakit Andi tidak masuk sekolah, hari ini.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_118
+Question: >
+  Kalimat yang baik harus hemat (tidak boros kata/pleonasme). 
+  Manakah dari kalimat berikut yang TIDAK EFEKTIF karena mengalami pemborosan kata?
+Explanation: >
+  - "Maju ke depan" (maju sudah pasti ke depan).
+  - "Sangat amat" (berlebihan).
+  - "Banyak anak-anak" (banyak dan anak-anak keduanya bermakna jamak).
+  Sedangkan "Rapat itu dihadiri oleh kepala desa" dan "Mereka saling membantu" adalah kalimat efektif.
+Options:
+  - Text: Siswa itu disuruh maju ke depan kelas untuk menjawab soal.
+    IsCorrect: true
+  - Text: Pemandangan di pegunungan itu sangat amat indah sekali.
+    IsCorrect: true
+  - Text: Rapat itu dihadiri oleh kepala desa dan perangkatnya.
+    IsCorrect: false
+  - Text: Banyak anak-anak yang bermain sepak bola di lapangan sore ini.
+    IsCorrect: true
+  - Text: Para siswa sedang berdiskusi di perpustakaan.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_119
+Question: Tentukan Benar atau Salah penggunaan huruf kapital pada kalimat-kalimat berikut!
+Explanation: >
+  "Bahasa Indonesia" (Indonesia kapital karena nama bangsa/bahasa). "Jenderal Soedirman" (Jenderal kapital karena diikuti nama diri). 
+  "Garam inggris" (inggris tidak kapital karena jenis barang, bukan nama geografi/negara).
+Options:
+  - Text: Paman membelikan adik kamus bahasa Indonesia yang tebal.
+    IsCorrect: Benar
+  - Text: Patung Jenderal Soedirman berdiri tegak di pusat kota Jakarta.
+    IsCorrect: Benar
+  - Text: Ibu menggunakan garam Inggris sebagai obat luar untuk mengompres luka.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_120
+Question: Tentukan Benar atau Salah kaidah penulisan angka dan bilangan dalam kalimat!
+Explanation: >
+  Angka di awal kalimat harus dieja dengan huruf ("Tiga belas siswa..."). 
+  Bilangan yang terdiri dari satu atau dua kata dieja huruf ("dua juta"). Bilangan besar/rincian ditulis angka.
+Options:
+  - Text: 25 orang peserta tidak lulus dalam ujian saringan masuk tahun ini.
+    IsCorrect: Salah
+  - Text: Proyek pembangunan gedung itu memakan biaya sebesar tiga miliar rupiah.
+    IsCorrect: Benar
+  - Text: Perusahaan itu memiliki lebih dari 1.500 karyawan di seluruh wilayah Indonesia.
+    IsCorrect: Benar
+  - Text: Lima belas mahasiswa teladan menerima beasiswa dari presiden.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_121
+Question: >
+  Perhatikan kalimat berikut!
+  "Bagi para siswa yang belum mengumpulkan tugas diharapkan segera menyerahkannya ke ruang guru."
+  Mengapa kalimat di atas dikategorikan sebagai kalimat tidak efektif?
+Answer: Kalimat tersebut tidak memiliki subjek yang jelas karena terhalang preposisi "Bagi".
+Explanation: >
+  Keberadaan preposisi "Bagi" di awal kalimat membuat kata "para siswa" berubah fungsi menjadi keterangan, sehingga kalimat kehilangan Subjek. Agar efektif, preposisi "Bagi" harus dihilangkan menjadi: "Para siswa yang belum mengumpulkan tugas diharapkan..."
+Options:
+  - Text: Terdapat pemborosan kata pada bagian "segera menyerahkannya".
+  - Text: Penggunaan kata "diharapkan" kurang tegas untuk sebuah instruksi.
+  - Text: Kalimat tersebut tidak memiliki subjek yang jelas karena terhalang preposisi "Bagi".
+  - Text: Tanda baca koma seharusnya diletakkan setelah kata "tugas".
+  - Text: Frasa "ruang guru" seharusnya ditulis dengan huruf kapital.
+---
+Type: PilihanGanda
+ID: SMP_INDO_122
+Question: >
+  Kalimat efektif harus memiliki kesejajaran bentuk (keparalelan). 
+  Manakah kalimat di bawah ini yang menerapkan asas keparalelan dengan benar?
+Answer: Tahap akhir dari proyek ini adalah mengevaluasi data, menyusun laporan, dan mempresentasikan hasil.
+Explanation: >
+  Keparalelan mengharuskan unsur-unsur rincian memiliki kelas kata dan imbuhan yang sama. 
+  "mengevaluasi, menyusun, mempresentasikan" sama-sama verba berawalan me-. 
+  Opsi lain mencampur aduk awalan me- dengan pe-an atau di-.
+Options:
+  - Text: Kegiatannya hari ini adalah memasak, mencuci, dan pembersihan rumah.
+  - Text: Tahap akhir dari proyek ini adalah mengevaluasi data, menyusun laporan, dan mempresentasikan hasil.
+  - Text: Polisi bertugas mengamankan lokasi, mencatat saksi, dan pengamanan barang bukti.
+  - Text: Hutan itu berfungsi untuk menyerap karbon, penyimpan air, dan mencegah erosi.
+  - Text: Syarat pendaftaran meliputi pengisian formulir, melengkapi berkas, dan pasfoto.
+---
+Type: PilihanGanda
+ID: SMP_INDO_123
+Question: >
+  "Waktu dan tempat, kami persilakan."
+  Kalimat yang sering diucapkan oleh pembawa acara tersebut adalah kalimat yang tidak logis. Perbaikan kalimat tersebut agar logis dan efektif adalah...
+Answer: Kepada Bapak Kepala Sekolah, kami persilakan.
+Explanation: >
+  Kalimat "Waktu dan tempat, kami persilakan" tidak logis karena yang dipersilakan untuk berbicara atau maju adalah orangnya (narasumber), bukan "waktu dan tempat". Perbaikan yang tepat adalah menyebutkan orangnya.
+Options:
+  - Text: Untuk waktu dan tempatnya, kami persilakan dengan hormat.
+  - Text: Kepada Bapak Kepala Sekolah, kami persilakan.
+  - Text: Waktu dan tempat kami berikan kepada Bapak Kepala Sekolah.
+  - Text: Dengan ini waktu dan tempat dipersilakan.
+  - Text: Waktu serta tempat dipersilakan dengan segera.
+---
+Type: PilihanGanda
+ID: SMP_INDO_124
+Question: >
+  Sebuah paragraf yang baik harus memiliki kepaduan (koherensi) antarkalimat. Koherensi dapat dicapai dengan menggunakan...
+Answer: Kata transisi (konjungsi antarkalimat), pengulangan kata, dan kata ganti rujukan.
+Explanation: >
+  Kepaduan paragraf (koherensi) terjadi jika kalimat-kalimat di dalamnya saling terkait secara logis. Hal ini dibangun menggunakan alat perangkai berupa konjungsi antarkalimat (misal: oleh karena itu), repetisi (pengulangan topik), dan pronomina (kata ganti rujukan seperti "hal ini", "tersebut").
+Options:
+  - Text: Kalimat utama yang sangat panjang di setiap awal baris paragraf.
+  - Text: Majas yang beragam untuk memperindah susunan kata dan kalimat.
+  - Text: Kata transisi (konjungsi antarkalimat), pengulangan kata, dan kata ganti rujukan.
+  - Text: Sinonim dan antonim yang disebarkan secara merata pada kalimat penjelas.
+  - Text: Tanda baca seru dan tanya yang banyak agar paragraf hidup.
+---
+Type: PilihanGanda
+ID: SMP_INDO_125
+Question: >
+  "Cuaca hari ini sangat terik dan panas. [...], kami tetap semangat melaksanakan upacara bendera di lapangan."
+  Konjungsi antarkalimat yang paling tepat untuk mengisi rumpang di atas adalah...
+Answer: Meskipun demikian
+Explanation: >
+  Kalimat pertama menyatakan kondisi yang memberatkan (panas). Kalimat kedua menyatakan tindakan yang bertentangan dengan kondisi tersebut (tetap semangat). Konjungsi antarkalimat yang menyatakan pertentangan/konsesif adalah "Meskipun demikian" atau "Walaupun begitu".
+Options:
+  - Text: Oleh karena itu
+  - Text: Dengan demikian
+  - Text: Akibatnya
+  - Text: Meskipun demikian
+  - Text: Selanjutnya
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_126
+Question: >
+  Kalimat ambigu (bermakna ganda) dapat membingungkan pembaca dan melanggar syarat kalimat efektif. 
+  Manakah kalimat di bawah ini yang bermakna ambigu?
+Explanation: >
+  - "Anak dokter yang pandai itu" (Yang pandai anaknya atau dokternya? Ambigu).
+  - "Mobil pegawai baru itu" (Yang baru mobilnya atau pegawainya? Ambigu).
+  - "Buku sejarah bapak" (Buku tentang sejarah milik bapak, atau buku milik bapak sejarah? Ambigu).
+Options:
+  - Text: Anak dokter yang pandai itu baru saja memenangkan olimpiade matematika.
+    IsCorrect: true
+  - Text: Pemerintah daerah membagikan bantuan sembako kepada warga miskin.
+    IsCorrect: false
+  - Text: Mobil pegawai baru itu diparkir di depan gedung utama kantor.
+    IsCorrect: true
+  - Text: Siswa kelas delapan sedang mengikuti ujian tengah semester.
+    IsCorrect: false
+  - Text: Sumbangan buku sejarah bapak itu sangat berharga bagi perpustakaan.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_127
+Question: >
+  Pilihlah kalimat-kalimat yang memenuhi kriteria kalimat efektif (hemat, logis, dan terstruktur)!
+Explanation: >
+  - Opsi B efektif ("Gunung meletus mengakibatkan...").
+  - Opsi E efektif ("Semua siswa wajib...").
+  - Opsi A salah karena Subjek ganda ("Buku itu... saya sudah baca").
+  - Opsi C boros ("Adalah merupakan" tumpang tindih).
+  - Opsi D salah karena preposisi di awal menghilangkan subjek ("Untuk mengetahui... kita harus...").
+Options:
+  - Text: Buku itu saya sudah baca sampai halaman terakhir kemarin malam.
+    IsCorrect: false
+  - Text: Gunung meletus mengakibatkan kerusakan ekosistem dan permukiman warga.
+    IsCorrect: true
+  - Text: Kedisiplinan adalah merupakan kunci utama keberhasilan seseorang.
+    IsCorrect: false
+  - Text: Untuk mengetahui hasil percobaan ini membutuhkan waktu tiga hari.
+    IsCorrect: false
+  - Text: Semua siswa wajib mengenakan seragam pramuka setiap hari Jumat.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_128
+Question: >
+  Konjungsi intrakalimat (di dalam kalimat) menghubungkan kata dengan kata atau klausa dengan klausa. 
+  Manakah pernyataan penggunaan konjungsi yang tepat dalam kalimat majemuk berikut?
+Explanation: >
+  - "sedangkan" digunakan untuk kalimat pertentangan antar klausa berlawanan (Santi belajar, sedangkan Budi bermain).
+  - "sehingga" menyatakan akibat (Hujan lebat sehingga banjir).
+  - "karena" menyatakan sebab (Dia absen karena sakit).
+  - "tetapi" digunakan untuk pertentangan, bukan syarat.
+Options:
+  - Text: Kata "sedangkan" digunakan untuk menyatakan hubungan pertentangan antara dua klausa yang setara.
+    IsCorrect: true
+  - Text: Kata "sehingga" sering digunakan untuk mengawali sebuah kalimat majemuk bertingkat hubungan sebab.
+    IsCorrect: false
+  - Text: Kata "karena" digunakan untuk menyatakan alasan atau sebab terjadinya sesuatu.
+    IsCorrect: true
+  - Text: Kata "dan" berfungsi untuk menggabungkan klausa yang memiliki hubungan penambahan yang setara.
+    IsCorrect: true
+  - Text: Kata "tetapi" digunakan untuk menunjukkan hubungan syarat dalam kalimat majemuk.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_129
+Question: Tentukan Benar atau Salah terkait syarat-syarat penyusunan kalimat efektif!
+Explanation: >
+  Kalimat efektif tidak boleh mengandung pleonasme (pemborosan kata jamak). 
+  Subjek tidak boleh didahului preposisi (karena mengubahnya jadi keterangan). 
+  Kesejajaran (keparalelan) bentuk imbuhan sangat diwajibkan dalam rincian kalimat efektif.
+Options:
+  - Text: Kalimat efektif menghindari penggunaan kata jamak yang diulang-ulang (pleonasme) seperti "para hadirin sekalian".
+    IsCorrect: Benar
+  - Text: Meletakkan preposisi seperti "dalam", "untuk", atau "bagi" di awal kalimat selalu membuat kalimat menjadi lebih efektif.
+    IsCorrect: Salah
+  - Text: Asas keparalelan mengharuskan unsur yang dirinci menggunakan kelas kata atau bentuk imbuhan yang sejenis.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_130
+Question: Tentukan Benar atau Salah perbaikan kalimat di bawah ini agar menjadi kalimat baku dan efektif!
+Explanation: >
+  "Karena hujan, maka..." (salah, tidak boleh ada dua konjungsi subordinatif berurutan, hapus "maka").
+  "Penyakit itu disebabkan karena..." (salah, "disebabkan" pasangannya "oleh", bukan "karena").
+Options:
+  - Text: Kalimat "Karena hujan lebat, maka lapangan sekolah menjadi banjir" sudah merupakan kalimat majemuk yang efektif dan baku.
+    IsCorrect: Salah
+  - Text: Perbaikan kalimat "Penyakit itu disebabkan karena gigitan nyamuk" yang benar adalah "Penyakit itu disebabkan oleh gigitan nyamuk."
+    IsCorrect: Benar
+  - Text: Kalimat "Saya melihat kejadian itu dengan mata kepala saya sendiri" adalah contoh kalimat yang tidak efektif karena mengandung pleonasme.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_131
+Question: >
+  Bacalah paragraf berikut dengan saksama!
+  Tidur yang cukup sangat penting bagi perkembangan kognitif dan fisik remaja. Selama tidur lelap, kelenjar hipofisis melepaskan hormon pertumbuhan yang memperbaiki sel-sel otot dan jaringan tubuh. Selain itu, otak remaja juga memproses dan mengonsolidasikan informasi yang dipelajari sepanjang hari ke dalam memori jangka panjang. Kurang tidur secara kronis dapat menyebabkan penurunan konsentrasi dan meningkatkan risiko depresi.
+  Gagasan utama (ide pokok) paragraf tersebut adalah...
+Answer: Pentingnya tidur yang cukup bagi perkembangan fisik dan kognitif remaja.
+Explanation: >
+  Gagasan utama adalah pikiran inti sebuah paragraf. Paragraf ini bersifat deduktif, di mana kalimat utamanya berada di awal: "Tidur yang cukup sangat penting bagi perkembangan kognitif dan fisik remaja." Kalimat lainnya adalah penjelas dari kalimat pertama.
+Options:
+  - Text: Pelepasan hormon pertumbuhan oleh kelenjar hipofisis selama remaja tidur lelap.
+  - Text: Proses otak mengonsolidasikan informasi memori dari jangka pendek ke jangka panjang.
+  - Text: Pentingnya tidur yang cukup bagi perkembangan fisik dan kognitif remaja.
+  - Text: Dampak buruk kurang tidur kronis yang berujung pada meningkatnya risiko depresi remaja.
+  - Text: Cara mengistirahatkan tubuh remaja agar jaringan sel otot dapat diperbaiki maksimal.
+---
+Type: PilihanGanda
+ID: SMP_INDO_132
+Question: >
+  Simpulan yang paling tepat berdasarkan teks pada soal sebelumnya (mengenai tidur remaja) adalah...
+Answer: Remaja harus memiliki waktu tidur yang cukup agar terhindar dari gangguan fisik dan kognitif.
+Explanation: >
+  Simpulan adalah hasil akhir dari bacaan yang menyatukan ide pokok dan informasi penting penjelas menjadi sebuah pernyataan baru yang mencakup seluruh teks. Opsi ini menyatukan manfaat (kognitif/fisik) dan penghindaran dampak negatif (gangguan).
+Options:
+  - Text: Hormon pertumbuhan hanya bekerja saat remaja mengalami tidur yang lelap di malam hari.
+  - Text: Remaja harus memiliki waktu tidur yang cukup agar terhindar dari gangguan fisik dan kognitif.
+  - Text: Konsentrasi belajar menurun drastis akibat depresi yang dialami oleh remaja di sekolah.
+  - Text: Tidur adalah satu-satunya aktivitas yang dapat memulihkan sel-sel otot secara cepat.
+  - Text: Remaja yang kurang tidur dijamin akan gagal dalam memproses pelajaran harian.
+---
+Type: PilihanGanda
+ID: SMP_INDO_133
+Question: >
+  "Laporan dari BMKG mencatat suhu udara di Kota Semarang mencapai 36 derajat Celsius pada siang hari ini. Fenomena panas ekstrem ini dirasakan oleh sebagian besar warga, dan diperkirakan akan berlangsung hingga pekan depan."
+  Pernyataan yang merupakan sebuah FAKTA dari teks di atas adalah...
+Answer: BMKG mencatat suhu udara di Kota Semarang mencapai 36 derajat Celsius siang ini.
+Explanation: >
+  Fakta adalah kejadian yang nyata, sudah terjadi, memiliki data terukur, dan tidak bisa dibantah kepastiannya. Catatan BMKG 36 derajat Celsius adalah data terukur. "Diperkirakan" dan "dirasakan sebagian warga" mengandung ketidakpastian atau prediksi (opini/estimasi).
+Options:
+  - Text: Cuaca sangat panas sekali hingga membuat warga tidak nyaman beraktivitas di luar.
+  - Text: BMKG mencatat suhu udara di Kota Semarang mencapai 36 derajat Celsius siang ini.
+  - Text: Fenomena panas ekstrem ini mungkin disebabkan oleh efek pemanasan global yang memburuk.
+  - Text: Diperkirakan suhu akan terus naik dan kemarau akan berlangsung hingga pekan depan.
+  - Text: Sebagian besar warga Kota Semarang sangat mengeluhkan teriknya matahari siang ini.
+---
+Type: PilihanGanda
+ID: SMP_INDO_134
+Question: >
+  Di antara kalimat-kalimat berikut, manakah yang sepenuhnya mengandung OPINI?
+Answer: Bunga anggrek itu terlihat sangat indah dan menawan saat mekar di teras rumah.
+Explanation: >
+  Opini adalah pendapat subjektif seseorang yang kebenarannya relatif. Kata sifat penilai seperti "indah", "menawan", "enak", "sebaiknya" adalah ciri opini. Kalimat lain mengandung angka pasti, tanggal, atau rumus fisika yang merupakan fakta mutlak.
+Options:
+  - Text: Indonesia memproklamasikan kemerdekaannya pada tanggal 17 Agustus 1945.
+  - Text: Bunga anggrek itu terlihat sangat indah dan menawan saat mekar di teras rumah.
+  - Text: Gunung Kerinci terletak di Provinsi Jambi dan Sumatera Barat dengan ketinggian 3.805 mdpl.
+  - Text: Air murni akan mendidih pada suhu 100 derajat Celsius jika berada di tekanan 1 atmosfer.
+  - Text: Jarak antara Jakarta dan Bandung dapat ditempuh menggunakan kereta api cepat Whoosh.
+---
+Type: PilihanGanda
+ID: SMP_INDO_135
+Question: >
+  Paragraf yang letak kalimat utamanya berada di akhir paragraf, dengan pola pengembangan dari pernyataan khusus ke simpulan umum, disebut paragraf...
+Answer: Induktif
+Explanation: >
+  Paragraf deduktif: Kalimat utama di awal.
+  Paragraf induktif: Kalimat utama di akhir (simpulan).
+  Paragraf campuran: Kalimat utama di awal dan ditegaskan ulang di akhir.
+Options:
+  - Text: Deduktif
+  - Text: Deskriptif
+  - Text: Naratif
+  - Text: Induktif
+  - Text: Persuasif
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_136
+Question: >
+  Perhatikan cuplikan teks eksplanasi alam berikut:
+  "Tsunami adalah gelombang laut besar yang dipicu oleh pusaran air bawah laut akibat pergeseran lempeng tektonik, tanah longsor bawah laut, atau letusan gunung berapi."
+  Manakah pernyataan yang BENAR sesuai teks tersebut?
+Explanation: >
+  Sesuai teks: Tsunami adalah gelombang besar. Dipicu lempeng tektonik, longsor bawah laut, letusan gunung berapi bawah laut. Angin topan tidak disebutkan sebagai pemicu dalam teks ini.
+Options:
+  - Text: Tsunami selalu disebabkan oleh letusan gunung berapi yang berada di daratan tinggi.
+    IsCorrect: false
+  - Text: Pergeseran lempeng tektonik bawah laut merupakan salah satu penyebab terjadinya tsunami.
+    IsCorrect: true
+  - Text: Tanah longsor bawah laut dapat memicu gelombang laut raksasa.
+    IsCorrect: true
+  - Text: Angin topan yang kencang adalah penyebab utama terbentuknya pusaran air tsunami.
+    IsCorrect: false
+  - Text: Tsunami didefinisikan sebagai gelombang laut besar akibat anomali dasar laut.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_137
+Question: >
+  Teks Eksplanasi memiliki ciri khas tertentu baik dari struktur maupun kebahasaannya. 
+  Pilihlah yang termasuk karakteristik teks eksplanasi!
+Explanation: >
+  Teks eksplanasi menjelaskan "mengapa" dan "bagaimana" suatu fenomena terjadi berdasarkan fakta ilmiah (objektif). Strukturnya: Pernyataan Umum, Deretan Penjelas, Interpretasi. Banyak memakai konjungsi kausalitas (sebab-akibat).
+Options:
+  - Text: Berisi penjelasan proses terjadinya suatu fenomena alam, sosial, atau budaya.
+    IsCorrect: true
+  - Text: Ditulis berdasarkan hasil imajinasi dan rekaan penulis semata.
+    IsCorrect: false
+  - Text: Strukturnya terdiri dari orientasi, komplikasi, dan resolusi.
+    IsCorrect: false
+  - Text: Menggunakan konjungsi kausalitas (sebab-akibat) dan kronologis (waktu).
+    IsCorrect: true
+  - Text: Informasi yang dimuat berdasarkan fakta nyata secara keilmuan atau objektif.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_138
+Question: >
+  Berdasarkan pemahaman mengenai fakta dan opini, tentukan manakah kalimat yang merupakan FAKTA?
+Explanation: >
+  Fakta: Jakarta ibu kota lama (sejarah), 1 jam 60 menit (matematis pasti), Candi Borobudur di Magelang (geografis). Opini: Matematika pelajaran paling sulit (subjektif), Sebaiknya kita tidur siang (saran).
+Options:
+  - Text: Candi Borobudur terletak di Kabupaten Magelang, Provinsi Jawa Tengah.
+    IsCorrect: true
+  - Text: Matematika adalah mata pelajaran yang paling sulit di sekolah dasar.
+    IsCorrect: false
+  - Text: Satu jam terdiri dari enam puluh menit dan 3.600 detik.
+    IsCorrect: true
+  - Text: Sebaiknya kita semua tidur siang agar tubuh kembali segar bugar.
+    IsCorrect: false
+  - Text: Proklamator kemerdekaan Republik Indonesia adalah Soekarno dan Hatta.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_139
+Question: Tentukan Benar atau Salah pernyataan tentang letak gagasan utama paragraf!
+Explanation: >
+  Paragraf deduktif adalah paragraf dengan gagasan utama di awal.
+  Paragraf induktif gagasan utamanya di akhir. Kalimat penjelas berfungsi menguraikan kalimat utama.
+Options:
+  - Text: Paragraf deduktif selalu memulai narasinya dengan kalimat utama yang bersifat umum, baru diikuti rincian khusus.
+    IsCorrect: Benar
+  - Text: Paragraf campuran memiliki gagasan utama yang tersebar acak di setiap kalimat tanpa pola yang jelas.
+    IsCorrect: Salah
+  - Text: Kalimat penjelas bertujuan untuk memberikan bukti, contoh, atau rincian yang mendukung kalimat utama.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_140
+Question: Tentukan Benar atau Salah karakteristik Opini berikut!
+Explanation: >
+  Opini bersifat subjektif, belum pasti, berupa saran, atau prediksi. Kata kuncinya: mungkin, menurut, sebaiknya, sangat indah.
+Options:
+  - Text: Opini bersifat subjektif karena sangat dipengaruhi oleh perasaan, sudut pandang, atau pemikiran pribadi penulisnya.
+    IsCorrect: Benar
+  - Text: Pernyataan "Kemungkinan besar besok akan turun hujan lebat" adalah sebuah fakta karena disampaikan oleh pengamat cuaca.
+    IsCorrect: Salah
+  - Text: Kata-kata seperti "seharusnya", "menurut saya", dan "sangat cantik" merupakan penanda kuat dari kalimat opini.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_141
+Question: >
+  "Angin laut berbisik pelan di telingaku, menyampaikan salam rindu dari seberang samudra."
+  Majas (gaya bahasa) yang digunakan pada kalimat tersebut adalah...
+Answer: Personifikasi
+Explanation: >
+  Majas personifikasi adalah gaya bahasa yang melekatkan sifat-sifat atau perilaku makhluk hidup/manusia kepada benda mati. Angin (benda mati) digambarkan bisa "berbisik" dan "menyampaikan salam" layaknya manusia.
+Options:
+  - Text: Hiperbola
+  - Text: Personifikasi
+  - Text: Metafora
+  - Text: Simile
+  - Text: Litotes
+---
+Type: PilihanGanda
+ID: SMP_INDO_142
+Question: >
+  "Raja siang telah kembali ke peraduannya, menggantikan terang dengan kegelapan malam."
+  Frasa "Raja siang" pada kalimat tersebut merupakan bentuk majas...
+Answer: Metafora
+Explanation: >
+  Metafora adalah kiasan perbandingan langsung tanpa menggunakan kata pembanding (seperti, bagaikan). "Raja siang" adalah metafora lazim yang digunakan untuk menyebut Matahari.
+Options:
+  - Text: Metonimia
+  - Text: Ironi
+  - Text: Metafora
+  - Text: Repetisi
+  - Text: Pleonasme
+---
+Type: PilihanGanda
+ID: SMP_INDO_143
+Question: >
+  Di bawah ini yang merupakan contoh kalimat bermajas HIPERBOLA adalah...
+Answer: Keringatnya mengucur deras membanjiri seluruh lapangan sepak bola.
+Explanation: >
+  Hiperbola adalah majas yang melebih-lebihkan kenyataan secara ekstrem hingga tidak masuk akal untuk memberikan efek dramatis. Keringat yang "membanjiri seluruh lapangan" adalah hal yang dilebih-lebihkan.
+Options:
+  - Text: Sudilah kiranya Bapak mampir ke gubuk reyot kami untuk minum kopi.
+  - Text: Wajahnya pucat pasi bagaikan mayat yang bangkit dari kuburan.
+  - Text: Keringatnya mengucur deras membanjiri seluruh lapangan sepak bola.
+  - Text: Pena itu menari-nari lincah di atas lembaran kertas putih.
+  - Text: Bersih sekali kamarmu ini, sampai bungkus makanan berserakan di mana-mana.
+---
+Type: PilihanGanda
+ID: SMP_INDO_144
+Question: >
+  Dalam rapat desa, Pak Rudi sering menjadi "kambing hitam" jika program desa gagal dilaksanakan.
+  Makna ungkapan "kambing hitam" adalah...
+Answer: Orang yang dipersalahkan atas suatu kejadian yang tidak dilakukannya.
+Explanation: >
+  Idiom/ungkapan "kambing hitam" berarti orang atau pihak yang dituduh, disalahkan, atau dijadikan tumpuan kesalahan, padahal ia belum tentu bersalah atas kegagalan tersebut.
+Options:
+  - Text: Orang yang diam-diam mengambil keuntungan dari kerugian warga.
+  - Text: Pejabat korup yang selalu mencari-cari alasan atas kegagalannya.
+  - Text: Hewan ternak yang sering digunakan untuk upacara ritual desa.
+  - Text: Orang yang sangat pandai berbicara dan merayu warga desa.
+  - Text: Orang yang dipersalahkan atas suatu kejadian yang tidak dilakukannya.
+---
+Type: PilihanGanda
+ID: SMP_INDO_145
+Question: >
+  Sifat Budi yang pendiam namun ternyata sangat cerdas dan sering memenangkan olimpiade sains nasional sangat cocok dengan peribahasa...
+Answer: Air yang tenang jangan disangka tiada buayanya.
+Explanation: >
+  "Air yang tenang jangan disangka tiada buayanya" berarti orang yang pendiam jangan diremehkan, karena bisa jadi ia menyimpan ilmu yang tinggi atau potensi keberanian yang besar (kemampuan tersembunyi).
+Options:
+  - Text: Besar pasak daripada tiang.
+  - Text: Bagai pungguk merindukan bulan.
+  - Text: Air susu dibalas dengan air tuba.
+  - Text: Air yang tenang jangan disangka tiada buayanya.
+  - Text: Menepuk air di dulang terpercik muka sendiri.
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_146
+Question: >
+  Gaya bahasa hiperbola sering digunakan dalam karya sastra untuk memberikan efek emosi yang kuat. 
+  Manakah kalimat di bawah ini yang menggunakan majas HIPERBOLA?
+Explanation: >
+  Hiperbola melebih-lebihkan (drastis). "Suaranya membelah angkasa", "Tangisnya membanjiri ruangan", "Bekerja memeras keringat membanting tulang" adalah hiperbola. "Pena menari" itu personifikasi. "Bagaikan pinang dibelah dua" itu simile/asosiasi.
+Options:
+  - Text: Suara dentuman meriam itu membelah angkasa hingga memekakkan telingaku.
+    IsCorrect: true
+  - Text: Tangisan anak kecil yang kehilangan mainan itu membanjiri seluruh ruangan rumah.
+    IsCorrect: true
+  - Text: Adik dan kakak itu memiliki wajah yang sangat mirip bagaikan pinang dibelah dua.
+    IsCorrect: false
+  - Text: Ayah rela bekerja siang dan malam memeras keringat membanting tulang demi keluarga.
+    IsCorrect: true
+  - Text: Matahari tersenyum ramah menyapa dedaunan pagi yang masih berembun.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_147
+Question: >
+  Pasangkanlah ungkapan (idiom) berikut dengan makna yang TEPAT!
+Explanation: >
+  - Tinggi hati = Sombong.
+  - Rendah hati = Tidak sombong (bukan miskin).
+  - Meja hijau = Pengadilan.
+  - Tangan kanan = Orang kepercayaan (bukan tukang pukul).
+  - Bunga tidur = Mimpi.
+Options:
+  - Text: Tinggi hati bermakna orang yang memiliki sifat sombong atau angkuh.
+    IsCorrect: true
+  - Text: Rendah hati bermakna orang miskin yang suka meminta-minta.
+    IsCorrect: false
+  - Text: Dibawa ke meja hijau bermakna kasus diselesaikan di pengadilan negeri hukum.
+    IsCorrect: true
+  - Text: Tangan kanan bermakna preman bayaran atau tukang pukul andalan.
+    IsCorrect: false
+  - Text: Bunga tidur bermakna mimpi yang dialami seseorang saat sedang terlelap.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_148
+Question: >
+  Peribahasa digunakan sebagai kiasan untuk memberikan nasihat atau menyindir perilaku.
+  Pilihlah makna peribahasa yang diuraikan secara BENAR di bawah ini!
+Explanation: >
+  - Besar pasak dari tiang = pengeluaran > pendapatan.
+  - Tong kosong nyaring bunyinya = banyak bicara sedikit ilmu.
+  - Pungguk merindukan bulan = mengharapkan sesuatu yang mustahil.
+  - Lempar batu sembunyi tangan = tidak bertanggung jawab atas perbuatan buruk.
+Options:
+  - Text: Besar pasak daripada tiang berarti pengeluaran uang lebih besar daripada pendapatan.
+    IsCorrect: true
+  - Text: Tong kosong nyaring bunyinya berarti orang yang tidak berilmu biasanya banyak bicara.
+    IsCorrect: true
+  - Text: Bagai pungguk merindukan bulan berarti usaha keras yang akhirnya membuahkan kesuksesan.
+    IsCorrect: false
+  - Text: Lempar batu sembunyi tangan berarti seseorang yang berbuat buruk tetapi pura-pura tidak tahu.
+    IsCorrect: true
+  - Text: Sedikit demi sedikit lama-lama menjadi bukit berarti sifat malas akan merusak masa depan.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_149
+Question: Tentukan Benar atau Salah analisis mengenai majas ironi dan sinisme berikut!
+Explanation: >
+  Ironi menyindir halus dengan kata yang berlawanan dari fakta. ("Rapi sekali kamarmu, sampah di mana-mana" - Ironi).
+  Sarkasme menyindir sangat kasar.
+  Metonimia menyebut merek/ciri khas ("Naik Garuda").
+Options:
+  - Text: Kalimat "Pantas saja ujianmu mendapat nilai nol, kamu sama sekali tidak pernah belajar" adalah majas ironi.
+    IsCorrect: Salah
+  - Text: Kalimat "Harum sekali bau badanmu, sampai aku harus menutup hidung rapat-rapat" adalah majas ironi.
+    IsCorrect: Benar
+  - Text: Majas yang sering menggunakan penyebutan merek dagang untuk menggantikan kata bendanya disebut majas metonimia.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_150
+Question: Tentukan Benar atau Salah makna peribahasa berikut ini!
+Explanation: >
+  "Nasi sudah menjadi bubur" = penyesalan tiada guna/sudah telanjur terjadi.
+  "Tak ada gading yang tak retak" = tidak ada sesuatu yang sempurna di dunia ini.
+Options:
+  - Text: Peribahasa "Nasi sudah menjadi bubur" mengandung pesan bahwa sebuah kegagalan masih bisa diperbaiki menjadi kesuksesan yang manis.
+    IsCorrect: Salah
+  - Text: Peribahasa "Tak ada gading yang tak retak" bermakna bahwa tidak ada satupun manusia atau karya di dunia ini yang benar-benar sempurna tanpa cacat.
+    IsCorrect: Benar
+  - Text: "Bagai air di daun talas" bermakna orang yang memiliki pendirian yang sangat teguh dan konsisten.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_INDO_151
+Question: >
+  Premis 1: Jika cuaca hujan, maka pertandingan sepak bola dibatalkan.
+  Premis 2: Pertandingan sepak bola tidak dibatalkan.
+  Kesimpulan yang tepat berdasarkan silogisme Modus Tollens adalah...
+Answer: Cuaca hari ini tidak hujan.
+Explanation: >
+  Modus Tollens (Menyangkal Akibat).
+  Rumus: p -> q (Jika hujan, maka batal).
+  ~q (Tidak batal).
+  Kesimpulan: ~p (Tidak hujan).
+Options:
+  - Text: Cuaca hari ini hujan lebat.
+  - Text: Cuaca hari ini tidak hujan.
+  - Text: Pertandingan sepak bola tetap dilanjutkan walau hujan.
+  - Text: Pertandingan sepak bola dibatalkan karena hujan.
+  - Text: Tidak ada hubungannya antara hujan dan pertandingan.
+---
+Type: PilihanGanda
+ID: SMP_INDO_152
+Question: >
+  Premis 1: Jika siswa aktif berdiskusi di kelas, maka guru memberikan nilai tambahan.
+  Premis 2: Siswa aktif berdiskusi di kelas.
+  Kesimpulan (Modus Ponens) yang tepat adalah...
+Answer: Guru memberikan nilai tambahan.
+Explanation: >
+  Modus Ponens (Mengafirmasi Sebab).
+  Rumus: p -> q.
+  Premis 2 terjadi p.
+  Maka kesimpulannya pasti q (Guru memberikan nilai tambahan).
+Options:
+  - Text: Guru mungkin memberikan nilai tambahan.
+  - Text: Siswa pasif di kelas.
+  - Text: Guru memberikan nilai tambahan.
+  - Text: Nilai tambahan tidak diberikan oleh guru.
+  - Text: Diskusi kelas dibatalkan oleh guru.
+---
+Type: PilihanGanda
+ID: SMP_INDO_153
+Question: >
+  Premis Mayor: Semua unggas memiliki sayap.
+  Premis Minor: Ayam adalah unggas.
+  Kesimpulan dari silogisme di atas adalah...
+Answer: Ayam memiliki sayap.
+Explanation: >
+  Silogisme kategorik (Barbara). 
+  Semua A adalah B (Semua unggas bersayap).
+  C adalah A (Ayam adalah unggas).
+  Maka, C pasti B (Ayam pasti bersayap).
+Options:
+  - Text: Beberapa ayam bisa terbang.
+  - Text: Ayam bukan hewan yang memiliki sayap.
+  - Text: Semua sayap dimiliki oleh unggas ayam.
+  - Text: Ayam memiliki sayap.
+  - Text: Ayam tidak tergolong jenis unggas.
+---
+Type: PilihanGanda
+ID: SMP_INDO_154
+Question: >
+  Premis Mayor: Semua kendaraan berbahan bakar fosil menghasilkan polusi udara.
+  Premis Minor: Sebagian mobil penumpang adalah kendaraan berbahan bakar fosil.
+  Kesimpulan yang tepat adalah...
+Answer: Sebagian mobil penumpang menghasilkan polusi udara.
+Explanation: >
+  Aturan silogisme: Jika ada salah satu premis yang menggunakan kuantor partikular ("Sebagian", "Beberapa"), maka hasil kesimpulannya harus partikular. 
+  Karena semua kendaraan fosil berpolusi, dan sebagian mobil adalah kendaraan fosil, maka sebagian mobil itu menghasilkan polusi.
+Options:
+  - Text: Semua mobil penumpang menghasilkan polusi udara.
+  - Text: Sebagian mobil penumpang menghasilkan polusi udara.
+  - Text: Mobil penumpang tidak menghasilkan polusi.
+  - Text: Semua kendaraan fosil adalah mobil penumpang.
+  - Text: Sebagian kendaraan fosil bukan polutan udara.
+---
+Type: PilihanGanda
+ID: SMP_INDO_155
+Question: >
+  "Lili suka makan buah manis. Apel malang rasanya asam, sedangkan mangga manalagi rasanya manis. Jeruk nipis rasanya sangat asam."
+  Buah manakah yang kemungkinan besar akan dimakan oleh Lili?
+Answer: Mangga manalagi
+Explanation: >
+  Lili suka buah manis (Kondisi).
+  Apel malang = asam. Jeruk nipis = sangat asam. Mangga manalagi = manis.
+  Kesimpulan logis: Lili akan makan mangga manalagi yang memiliki rasa manis sesuai preferensinya.
+Options:
+  - Text: Apel malang
+  - Text: Jeruk nipis
+  - Text: Semua buah dimakan
+  - Text: Mangga manalagi
+  - Text: Tidak ada buah yang dimakan
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_156
+Question: >
+  Penarikan kesimpulan logis sering menggunakan kata hubung "Semua" dan "Sebagian".
+  Berdasarkan premis "Semua direktur memiliki mobil" dan "Sebagian warga perumahan X adalah direktur", manakah kesimpulan yang VALID?
+Explanation: >
+  - "Sebagian warga perumahan X memiliki mobil" (Valid). Karena warga tersebut adalah direktur.
+  - "Ada warga perumahan X yang memiliki mobil" (Valid, sinonim sebagian).
+  - "Semua warga perumahan X punya mobil" (Invalid, karena hanya sebagian yang direktur).
+Options:
+  - Text: Sebagian warga perumahan X memiliki mobil.
+    IsCorrect: true
+  - Text: Ada warga perumahan X yang dipastikan memiliki mobil pribadi.
+    IsCorrect: true
+  - Text: Semua warga perumahan X dipastikan memiliki mobil mewah.
+    IsCorrect: false
+  - Text: Semua warga perumahan X adalah seorang direktur perusahaan.
+    IsCorrect: false
+  - Text: Tidak ada satupun warga perumahan X yang memiliki mobil.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_157
+Question: >
+  Kesesatan berpikir (logical fallacy) terjadi ketika penarikan kesimpulan tidak sesuai aturan logika.
+  Manakah kesimpulan di bawah ini yang SALAH / CACAT LOGIKA jika diketahui premis: "Jika rajin belajar, maka lulus ujian."
+Explanation: >
+  Premis (P -> Q).
+  Afirmasi konsekuen: "Lulus ujian, berarti rajin belajar" (Salah, bisa jadi dia lulus karena nyontek/faktor lain).
+  Denial anteseden: "Tidak rajin, berarti tidak lulus" (Salah, dia tidak rajin tapi mungkin IQ tinggi jadi lulus).
+  Yang valid hanya Modus Ponens dan Modus Tollens.
+Options:
+  - Text: Jika seseorang lulus ujian, maka pasti satu-satunya alasan adalah ia rajin belajar.
+    IsCorrect: true
+  - Text: Jika seseorang tidak rajin belajar, maka ia dipastikan 100% tidak akan lulus ujian.
+    IsCorrect: true
+  - Text: Jika seseorang tidak lulus ujian, maka ia pasti tidak rajin belajar.
+    IsCorrect: false
+  - Text: Jika seseorang rajin belajar, maka ia akan lulus ujian.
+    IsCorrect: false
+  - Text: Kunci kelulusan ujian hanya terletak pada faktor keberuntungan semata, bukan belajar.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_158
+Question: >
+  Dalam logika ekuivalensi, kalimat "Jika hari ini hujan lebat, maka jalanan akan banjir" (p -> q) setara (ekuivalen) nilainya dengan pernyataan...
+Explanation: >
+  Rumus ekuivalensi implikasi (p -> q) setara dengan (~q -> ~p) yang disebut kontraposisi. 
+  Juga setara dengan disjungsi (~p v q).
+  Jadi: "Jika jalanan tidak banjir, maka hari ini tidak hujan lebat."
+Options:
+  - Text: Jika jalanan tidak banjir, maka hari ini dipastikan tidak hujan lebat.
+    IsCorrect: true
+  - Text: Hari ini tidak hujan lebat, atau jalanan akan banjir.
+    IsCorrect: true
+  - Text: Jika jalanan akan banjir, maka pasti hari ini hujan lebat.
+    IsCorrect: false
+  - Text: Hari ini hujan lebat dan jalanan dipastikan tidak banjir.
+    IsCorrect: false
+  - Text: Jika hari ini cerah benderang, jalanan tetap akan mengalami banjir bandang.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_159
+Question: Tentukan Benar atau Salah penerapan logika silogisme berikut ini!
+Explanation: >
+  Silogisme: 
+  "Semua pahlawan dihargai." 
+  "Beberapa tentara adalah pahlawan."
+  Kesimpulan "Beberapa tentara dihargai" adalah BENAR sesuai aturan logika kuantor partikular.
+Options:
+  - Text: Premis 1: Semua ikan bernapas dengan insang. Premis 2: Paus tidak bernapas dengan insang. Kesimpulan: Paus bukan ikan. (Penarikan kesimpulan ini valid).
+    IsCorrect: Benar
+  - Text: Premis 1: Jika listrik padam, AC mati. Premis 2: AC mati. Kesimpulan: Pasti listrik sedang padam. (Penarikan kesimpulan ini valid secara mutlak).
+    IsCorrect: Salah
+  - Text: Premis 1: Semua anak-anak suka permen. Premis 2: Sebagian siswa SD adalah anak-anak. Kesimpulan: Semua siswa SD suka permen. (Penarikan kesimpulan ini valid).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_INDO_160
+Question: Tentukan Benar atau Salah penyimpulan sebab-akibat kalimat di bawah ini!
+Explanation: >
+  Kalimat: "Karena jalan ditutup, kemacetan merajalela." (Penyebab: Jalan ditutup, Akibat: Macet).
+  Jika kemacetan merajalela, belum tentu karena jalan ditutup (bisa karena kecelakaan). 
+Options:
+  - Text: Berdasarkan kalimat sebab-akibat "Jika gempa bumi terjadi di dasar laut, maka berpotensi tsunami," dapat ditarik kepastian bahwa jika tidak ada gempa, maka tidak akan pernah ada tsunami sama sekali dari sumber lain.
+    IsCorrect: Salah
+  - Text: Jika suatu pernyataan "Semua burung gagak berwarna hitam" dianggap benar, maka menemukan satu burung gagak berwarna putih sudah cukup untuk meruntuhkan kesimpulan tersebut secara total.
+    IsCorrect: Benar
+  - Text: Kesesatan berpikir post hoc ergo propter hoc terjadi ketika kita menganggap ayam jantan berkokok sebagai penyebab terbitnya matahari, hanya karena kokok ayam selalu terjadi sesaat sebelum matahari muncul.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_161
+Question: >
+  Soal Penalaran Analitik (Posisi Duduk):
+  Di sebuah meja bundar, terdapat 4 kursi yang diisi oleh A, B, C, dan D.
+  - A duduk tepat berhadapan dengan C.
+  - B duduk di sebelah kanan A.
+  Siapakah yang duduk di sebelah kiri A?
+Answer: D
+Explanation: >
+  Dalam meja bundar dengan 4 kursi berurutan searah jarum jam:
+  Posisi 1 (Utara) = A.
+  Berhadapan dengan A adalah C (Posisi 3 / Selatan).
+  Sebelah kanan A (Posisi 2 / Timur) = B.
+  Maka kursi tersisa di sebelah kiri A (Posisi 4 / Barat) pasti diisi oleh D.
+Options:
+  - Text: B
+  - Text: C
+  - Text: D
+  - Text: Tidak ada orang
+  - Text: B dan C
+---
+Type: PilihanGanda
+ID: SMP_INDO_162
+Question: >
+  Lima pelari (P, Q, R, S, T) mengikuti balapan lari maraton.
+  - P mencapai garis finis tepat sebelum Q.
+  - R mencapai garis finis setelah S tetapi sebelum P.
+  - T adalah pelari yang mencapai finis paling akhir.
+  Siapakah yang meraih juara pertama (finis pertama)?
+Answer: S
+Explanation: >
+  Mari kita urutkan dari yang tercepat ke terlambat:
+  1. P selesai sebelum Q -> (P, Q).
+  2. R selesai setelah S, tapi sebelum P -> (S, R, P, Q).
+  3. T paling akhir -> (S, R, P, Q, T).
+  Maka urutannya: Juara 1 adalah S, ke-2 R, ke-3 P, ke-4 Q, terakhir T.
+Options:
+  - Text: P
+  - Text: Q
+  - Text: R
+  - Text: S
+  - Text: T
+---
+Type: PilihanGanda
+ID: SMP_INDO_163
+Question: >
+  Sebuah sekolah mengatur jadwal ekstrakurikuler (Senin sampai Jumat):
+  - Pramuka diadakan sehari setelah Futsal.
+  - Musik tidak diadakan pada hari Senin atau Jumat.
+  - PMR diadakan pada hari Kamis.
+  - Paskibra diadakan dua hari sebelum PMR.
+  Pada hari apakah ekstrakurikuler Musik diadakan?
+Answer: Rabu
+Explanation: >
+  Hari: Senin, Selasa, Rabu, Kamis, Jumat.
+  PMR = Kamis.
+  Paskibra 2 hari sebelum PMR (Kamis mundur 2 hari) = Selasa.
+  Tersisa Senin, Rabu, Jumat.
+  Musik tidak hari Senin / Jumat, berarti Musik = Rabu.
+  Pramuka sehari setelah Futsal. (Futsal=Senin, Pramuka=Selasa? Bentrok dengan Paskibra. Sisa hari bebas tidak perlu dihitung detail karena Musik sudah terjawab hari Rabu).
+Options:
+  - Text: Senin
+  - Text: Selasa
+  - Text: Rabu
+  - Text: Kamis
+  - Text: Jumat
+---
+Type: PilihanGanda
+ID: SMP_INDO_164
+Question: >
+  Roni lebih tinggi daripada Doni. Anton lebih pendek daripada Doni. 
+  Budi seukuran (sama tinggi) dengan Roni. Coki lebih tinggi daripada Budi.
+  Siapakah yang memiliki tinggi badan paling pendek?
+Answer: Anton
+Explanation: >
+  Data:
+  1) Roni > Doni
+  2) Anton < Doni (Doni > Anton) -> Roni > Doni > Anton
+  3) Budi = Roni
+  4) Coki > Budi -> Coki > Budi = Roni > Doni > Anton.
+  Urutan tertinggi ke terpendek: Coki, (Budi & Roni sejajar), Doni, Anton. 
+  Paling pendek adalah Anton.
+Options:
+  - Text: Roni
+  - Text: Doni
+  - Text: Anton
+  - Text: Budi
+  - Text: Coki
+---
+Type: PilihanGanda
+ID: SMP_INDO_165
+Question: >
+  Keluarga Pak Budi akan pergi liburan dengan 3 mobil (Merah, Hitam, Putih).
+  - Mobil Hitam berangkat setelah mobil Putih.
+  - Mobil Merah tidak berangkat paling awal.
+  - Mobil Merah berangkat sebelum mobil Hitam.
+  Bagaimanakah urutan keberangkatan ketiga mobil tersebut dari yang pertama sampai terakhir?
+Answer: Putih - Merah - Hitam
+Explanation: >
+  - Hitam setelah Putih (Putih dulu, baru Hitam).
+  - Merah sebelum Hitam (Merah dulu, baru Hitam).
+  - Merah bukan yang pertama.
+  Berarti yang pertama pasti Putih. Setelah Putih adalah Merah, disusul Hitam.
+  Urutan: Putih, Merah, Hitam.
+Options:
+  - Text: Merah - Putih - Hitam
+  - Text: Putih - Merah - Hitam
+  - Text: Hitam - Merah - Putih
+  - Text: Putih - Hitam - Merah
+  - Text: Merah - Hitam - Putih
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_166
+Question: >
+  Terdapat deretan ruko dari kiri ke kanan bernomor 1 sampai 5.
+  - Toko Roti berada tepat di sebelah kiri Apotek.
+  - Klinik selalu berada di ruko nomor 5.
+  - Bank tidak mau bersebelahan dengan Klinik maupun Apotek.
+  - Minimarket berada di antara Bank dan Toko Roti.
+  Manakah pernyataan posisi yang BENAR berdasarkan data tersebut?
+Explanation: >
+  Posisi (1, 2, 3, 4, 5). 
+  Klinik = 5.
+  Sisa = 1, 2, 3, 4.
+  Bank tidak mau dekat Klinik (4) dan Apotek. Jadi Bank bisa di 1.
+  Minimarket di antara Bank dan Toko Roti. (Berarti urutannya Bank - Minimarket - Toko Roti).
+  Karena Toko Roti sebelah kiri Apotek, urutannya: Bank(1) - Minimarket(2) - Toko Roti(3) - Apotek(4) - Klinik(5).
+Options:
+  - Text: Bank menempati ruko bernomor urut 1 (paling kiri).
+    IsCorrect: true
+  - Text: Toko Roti menempati ruko bernomor urut 3 (tengah).
+    IsCorrect: true
+  - Text: Apotek bersebelahan langsung dengan Bank.
+    IsCorrect: false
+  - Text: Minimarket berada di posisi ruko nomor urut 2.
+    IsCorrect: true
+  - Text: Apotek berada di ruko nomor 2.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_167
+Question: >
+  Dalam sebuah turnamen catur tingkat sekolah, lima siswa bertanding. 
+  Skor Aldi lebih tinggi dari Bima. Skor Citra lebih rendah dari Bima. 
+  Skor Dandi sama dengan Citra. Skor Evan paling tinggi di antara semuanya.
+  Pernyataan mana yang merepresentasikan kesimpulan yang sah?
+Explanation: >
+  Urutan skor: Evan > Aldi > Bima > Citra = Dandi.
+  Maka, Evan juara 1. Aldi juara 2. Citra dan Dandi paling bawah dengan skor sama.
+Options:
+  - Text: Bima dipastikan berada di urutan klasemen ketiga dari atas.
+    IsCorrect: true
+  - Text: Dandi dan Citra berada di dasar klasemen turnamen catur.
+    IsCorrect: true
+  - Text: Aldi berhasil mengalahkan Evan dan meraih juara pertama turnamen.
+    IsCorrect: false
+  - Text: Skor Aldi dipastikan lebih tinggi daripada skor Dandi.
+    IsCorrect: true
+  - Text: Bima memiliki skor yang lebih rendah dibandingkan Citra.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_168
+Question: >
+  Penalaran logika ruang: Sebuah kubus kayu pejal berwarna merah dipotong menjadi 27 kubus kecil yang ukurannya sama besar (formasi 3x3x3).
+  Manakah pernyataan di bawah ini yang BENAR secara analisis keruangan?
+Explanation: >
+  Kubus rubik 3x3x3 (27 bagian):
+  - Kubus sudut (pojok) memiliki 3 sisi berwarna muda merah = 8 buah.
+  - Kubus tengah rusuk memiliki 2 sisi warna merah = 12 buah.
+  - Kubus pusat wajah/sisi memiliki 1 sisi warna merah = 6 buah.
+  - Kubus bagian inti dalam tidak terkena cat sama sekali (0 sisi) = 1 buah.
+Options:
+  - Text: Hanya ada tepat satu buah kubus kecil yang tidak memiliki sisi berwarna merah sama sekali di bagian intinya.
+    IsCorrect: true
+  - Text: Terdapat delapan buah kubus kecil di bagian sudut yang memiliki tiga sisi berlapis warna merah.
+    IsCorrect: true
+  - Text: Semua 27 kubus kecil dipastikan terkena sapuan cat warna merah minimal pada salah satu sisinya.
+    IsCorrect: false
+  - Text: Kubus kecil yang berada persis di tengah-tengah permukaan sisi (wajah kubus) memiliki tepat satu sisi berwarna merah.
+    IsCorrect: true
+  - Text: Setengah dari total kubus kecil memiliki tepat empat sisi berwarna merah.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_169
+Question: Tentukan Benar atau Salah analisis penjadwalan berurutan di bawah ini!
+Explanation: >
+  Aturan: Pekerjaan A harus dikerjakan sesudah B selesai. Pekerjaan C harus dikerjakan sesudah A selesai.
+  Maka urutan wajib: B -> A -> C.
+  Tidak mungkin A dikerjakan pertama. C pasti dikerjakan paling akhir dari ketiganya.
+Options:
+  - Text: Berdasarkan aturan di atas, pekerjaan B mutlak harus dikerjakan sebagai pekerjaan yang pertama.
+    IsCorrect: Benar
+  - Text: Pekerjaan A dapat dikerjakan secara bersamaan dengan pekerjaan C agar lebih hemat waktu.
+    IsCorrect: Salah
+  - Text: Pekerjaan C merupakan pekerjaan yang dikerjakan paling terakhir di antara ketiganya.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_170
+Question: Tentukan Benar atau Salah logika perbandingan umur anggota keluarga ini!
+Explanation: >
+  Diketahui: Ayah lebih tua 3 tahun dari Ibu. Anak sulung berumur setengah dari umur Ibu.
+  Jika Anak sulung umur 20 tahun, maka umur Ibu = 40 tahun. Umur Ayah = 43 tahun.
+Options:
+  - Text: Jika umur sang anak sulung adalah 20 tahun, maka umur ayah dipastikan adalah 43 tahun.
+    IsCorrect: Benar
+  - Text: Selisih umur antara ayah dan anak sulungnya adalah tepat 20 tahun.
+    IsCorrect: Salah
+  - Text: Ibu lebih muda daripada ayah, namun usianya dua kali lipat lebih tua dari sang anak sulung.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_171
+Question: >
+  Struktur yang membangun teks prosedur kompleks secara berurutan adalah...
+Answer: Tujuan - Alat dan Bahan - Langkah-langkah (Prosedur) - Penutup
+Explanation: >
+  Teks prosedur dibangun secara kronologis agar mudah diikuti. Dimulai dari Tujuan (apa yang akan dibuat), Alat/Bahan (persiapan), Langkah-langkah (cara membuat), dan ditutup dengan simpulan/penutup.
+Options:
+  - Text: Orientasi - Tafsiran - Evaluasi - Rangkuman
+  - Text: Tesis - Argumentasi penjelas - Penegasan ulang pendapat
+  - Text: Tujuan - Alat dan Bahan - Langkah-langkah (Prosedur) - Penutup
+  - Text: Pernyataan umum - Deretan penjelasan - Interpretasi
+  - Text: Abstrak - Orientasi - Komplikasi - Resolusi - Koda
+---
+Type: PilihanGanda
+ID: SMP_INDO_172
+Question: >
+  Ciri khas kebahasaan teks prosedur adalah dominannya penggunaan kalimat imperatif. 
+  Manakah dari kalimat berikut yang merupakan contoh murni kalimat imperatif?
+Answer: Masukkan dua sendok makan gula pasir ke dalam adonan, lalu aduk hingga rata!
+Explanation: >
+  Kalimat imperatif adalah kalimat perintah, suruhan, atau larangan yang ditandai dengan partikel -lah, -kan, atau seruan secara langsung untuk memerintah pihak kedua.
+Options:
+  - Text: Adonan yang sudah mengembang itu terlihat sangat lembut dan wangi.
+  - Text: Berapa liter air yang dibutuhkan untuk merebus daging sapi tersebut?
+  - Text: Masukkan dua sendok makan gula pasir ke dalam adonan, lalu aduk hingga rata!
+  - Text: Banyak ibu-ibu yang gemar mencoba resep masakan baru dari internet.
+  - Text: Kue bolu panggang biasanya dipotong setelah kondisinya agak dingin.
+---
+Type: PilihanGanda
+ID: SMP_INDO_173
+Question: >
+  Teks tanggapan dapat berupa kritik, pujian, atau saran. 
+  Contoh kalimat tanggapan yang berisi kritikan pedas namun logis adalah...
+Answer: Konstruksi jembatan itu dinilai buruk karena menggunakan campuran material semen dan pasir yang tidak sesuai standar teknik sipil, sehingga rentan ambruk.
+Explanation: >
+  Kritik logis menyajikan kelemahan suatu karya secara spesifik dengan argumentasi/fakta teknis (campuran semen tidak standar), bukan sekadar ejekan emosional subjektif (seperti: jembatan itu sangat jelek karena saya tidak suka warnanya).
+Options:
+  - Text: Sungguh luar biasa pertunjukan teater malam ini, tata cahayanya sangat memanjakan mata penonton!
+  - Text: Wah, buku fiksi karyamu benar-benar membuatku tidak bisa berhenti membaca sampai larut malam.
+  - Text: Jembatan itu sangat jelek, saya dari awal sudah sangat membenci desain dan warna catnya.
+  - Text: Konstruksi jembatan itu dinilai buruk karena menggunakan campuran material semen dan pasir yang tidak sesuai standar teknik sipil, sehingga rentan ambruk.
+  - Text: Seyogianya pemerintah daerah lebih memprioritaskan perbaikan jalan desa ketimbang membangun tugu peringatan yang mahal harganya.
+---
+Type: PilihanGanda
+ID: SMP_INDO_174
+Question: >
+  "Pemilihan warna busana yang cerah serta koreografi tarian yang energik berhasil menghidupkan suasana panggung pertunjukan secara maksimal."
+  Kalimat tersebut merupakan bentuk tanggapan berupa...
+Answer: Pujian
+Explanation: >
+  Kalimat tersebut memberikan komentar positif, apresiatif, dan menyoroti kekuatan (kelebihan) dari sebuah pertunjukan panggung. Ini adalah karakteristik kalimat pujian.
+Options:
+  - Text: Kritikan
+  - Text: Sanggahan
+  - Text: Penolakan
+  - Text: Keluhan
+  - Text: Pujian
+---
+Type: PilihanGanda
+ID: SMP_INDO_175
+Question: >
+  Dalam sebuah forum diskusi sekolah, Budi berkata, "Menurut saya, ekstrakurikuler wajib di hari Sabtu sebaiknya ditiadakan agar siswa bisa beristirahat penuh."
+  Jika Anda setuju secara rasional (Pro) dengan gagasan Budi, kalimat tanggapan yang santun adalah...
+Answer: Saya sependapat dengan ide Saudara Budi, karena dua hari libur penuh di akhir pekan terbukti secara medis dapat mengembalikan kebugaran mental dan fisik siswa untuk menghadapi padatnya materi pelajaran di hari Senin.
+Explanation: >
+  Tanggapan Pro yang baik harus menyatakan persetujuan secara eksplisit, santun, dan diikuti dengan argumen logis tambahan yang memperkuat gagasan awal (fakta medis/kebugaran mental), bukan sekadar "saya setuju karena saya juga malas".
+Options:
+  - Text: Saya sependapat dengan ide Saudara Budi, karena jujur saja saya sangat malas bangun pagi setiap hari Sabtu.
+  - Text: Ide Budi sangat brilian, saya dukung 100 persen karena guru-guru juga pasti bosan mengajar di hari Sabtu.
+  - Text: Saya sangat menolak keras gagasan itu, karena siswa yang libur lama hanya akan bermain gawai di rumah tanpa henti!
+  - Text: Saya sependapat dengan ide Saudara Budi, karena dua hari libur penuh di akhir pekan terbukti secara medis dapat mengembalikan kebugaran mental dan fisik siswa untuk menghadapi padatnya materi pelajaran di hari Senin.
+  - Text: Terserah Budi saja, saya akan mengikuti keputusan mayoritas asalkan jam pulang sekolahnya tidak ditambah di hari biasa.
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_176
+Question: >
+  Teks prosedur sering menggunakan verba material (kata kerja yang menunjukkan tindakan fisik) dan konjungsi urutan (temporal).
+  Manakah kalimat yang menggunakan ciri kebahasaan tersebut?
+Explanation: >
+  Verba material: memotong, mengaduk, menuangkan. 
+  Konjungsi temporal: kemudian, setelah itu, lalu.
+Options:
+  - Text: Potonglah wortel kecil-kecil berbentuk dadu, lalu rebus selama lima menit.
+    IsCorrect: true
+  - Text: Menurut pendapat para ilmuwan, sayuran hijau sangat kaya akan vitamin K.
+    IsCorrect: false
+  - Text: Setelah bumbu ditumis hingga harum, kemudian tuangkan kaldu ayam secara perlahan.
+    IsCorrect: true
+  - Text: Karya seni lukis ini dibuat pada abad pertengahan oleh pelukis terkenal Eropa.
+    IsCorrect: false
+  - Text: Angkat loyang kue dari dalam oven panas dan dinginkan sejenak di rak kawat.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_177
+Question: >
+  Teks tanggapan kritis bertujuan menganalisis karya atau kejadian. 
+  Manakah dari kalimat berikut yang tergolong memberikan evaluasi kelemahan (kritik) karya sastra novel?
+Explanation: >
+  Evaluasi kelemahan novel fokus pada aspek intrinsik (alur, gaya bahasa, penokohan) atau fisik (cetakan, kertas) yang dinilai kurang baik.
+Options:
+  - Text: Alur cerita di bab pertengahan terasa sangat lambat dan berbelit-belit sehingga memicu kebosanan pembaca.
+    IsCorrect: true
+  - Text: Penggambaran watak tokoh utama yang pemarah sangat kuat dan konsisten dari awal hingga akhir cerita.
+    IsCorrect: false
+  - Text: Gaya bahasa penulis terlalu banyak menggunakan majas hiperbola kuno yang sulit dipahami oleh remaja masa kini.
+    IsCorrect: true
+  - Text: Penulis novel ini, Budi Darma, lahir di Jawa Timur dan sudah menerbitkan lebih dari sepuluh buku laris.
+    IsCorrect: false
+  - Text: Kualitas kertas cetakan buku ini tipis sehingga bayangan tinta tembus pandang ke halaman sebaliknya.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_178
+Question: >
+  Bagian *Konteks* pada struktur Teks Tanggapan memberikan gambaran umum objek yang ditanggapi (apa, di mana, kapan). 
+  Manakah kalimat yang sesuai untuk ditempatkan pada paragraf konteks?
+Explanation: >
+  Konteks berisi pengenalan fakta dasar karya (judul, sutradara, pelukis, fenomena, dsb), belum masuk ke dalam opini subjektif (bagus/jelek/rincian plot).
+Options:
+  - Text: Film dokumenter berjudul "Tenggelamnya Pesisir Utara" disutradarai oleh sineas muda lokal dan dirilis pada bulan Juli 2023.
+    IsCorrect: true
+  - Text: Lukisan "Monalisa" adalah mahakarya Leonardo da Vinci yang saat ini dipajang abadi di museum Louvre, Paris.
+    IsCorrect: true
+  - Text: Warna cat minyak pada lukisan tersebut sayangnya mulai pudar di beberapa bagian ujung kanvas akibat kurang perawatan.
+    IsCorrect: false
+  - Text: Menurut saya, akting pemeran pembantu lebih natural dan menjiwai karakter dibandingkan aktor utama film dokumenter ini.
+    IsCorrect: false
+  - Text: Rencana penutupan jalan tol lintas provinsi telah diumumkan secara resmi oleh kementerian terkait minggu lalu.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_INDO_179
+Question: Tentukan Benar atau Salah pernyataan etika berdebat dan memberikan tanggapan di bawah ini!
+Explanation: >
+  Saat menanggapi secara kritis (debat akademik), argumen harus berpusat pada substansi/gagasan lawan, bukan menyerang fisik, latar belakang ras, atau privasi (ad hominem). 
+  Interupsi boleh dilakukan asalkan mengikuti tata tertib moderator.
+Options:
+  - Text: Dalam debat resmi, diperbolehkan menyerang latar belakang keluarga lawan bicara jika hal itu dapat memenangkan argumentasi secara cepat.
+    IsCorrect: Salah
+  - Text: Memberikan kritik yang bersifat konstruktif (membangun) berarti kritikan tersebut harus selalu disertai dengan jalan keluar atau saran perbaikan secara logis.
+    IsCorrect: Benar
+  - Text: Sanggahan (penolakan) gagasan sebaiknya diawali dengan kata-kata apresiasi penengah seperti "Pendapat Anda cukup menarik, namun mari kita lihat dari perspektif data lain."
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_180
+Question: Tentukan Benar atau Salah mengenai ciri kebahasaan Teks Tanggapan!
+Explanation: >
+  Teks tanggapan lazim memakai penilaian evaluatif (baik, buruk, indah). Sering memuat konjungsi penerang dan kausalitas (karena, sebab). Juga menggunakan kalimat kompleks (majemuk).
+Options:
+  - Text: Teks tanggapan banyak menggunakan kata penilaian subjektif untuk mengevaluasi karya, seperti "sangat memukau", "kurang logis", atau "terlalu kaku".
+    IsCorrect: Benar
+  - Text: Konjungsi sebab-akibat (kausalitas) dihindari sama sekali dalam teks tanggapan karena dinilai akan merusak objektivitas tulisan pengarang.
+    IsCorrect: Salah
+  - Text: Dalam teks tanggapan berbentuk esai populer, penggunaan kata ganti orang pertama tunggal seperti "saya" atau "menurut saya" diperbolehkan.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_181
+Question: >
+  "Ketidakadilan dalam distribusi bantuan sosial memicu *pemberontakan* di sejumlah wilayah pelosok."
+  Kata berimbuhan bercetak miring pada kalimat tersebut menggunakan afiks jenis...
+Answer: Konfiks (Awalan dan Akhiran)
+Explanation: >
+  Kata "pemberontakan" berasal dari kata dasar "berontak". Kata ini mendapatkan imbuhan peN- (pem-) sebagai awalan dan -an sebagai akhiran secara bersamaan (tidak bertahap "pemberontak-an" melainkan proses utuh membentuk nomina). Imbuhan yang melekat di awal dan di akhir sekaligus disebut konfiks.
+Options:
+  - Text: Prefiks (Awalan saja)
+  - Text: Sufiks (Akhiran saja)
+  - Text: Infiks (Sisipan)
+  - Text: Gabungan afiks (Awalan dan Akhiran bertahap)
+  - Text: Konfiks (Awalan dan Akhiran)
+---
+Type: PilihanGanda
+ID: SMP_INDO_182
+Question: >
+  Di antara deretan kata-kata berikut ini, kelompok kata manakah yang SELURUHNYA termasuk ke dalam kelas kata Verba (Kata Kerja)?
+Answer: Melukis, Berdiskusi, Tidur, Jatuh
+Explanation: >
+  Verba (kata kerja) adalah kata yang menyatakan tindakan, keberadaan, pengalaman. 
+  "Tidur" dan "Jatuh" adalah verba intransitif. "Melukis" dan "Berdiskusi" adalah verba aktif.
+  Kata lain seperti "Lelah", "Sedih" adalah Adjektiva (sifat). "Buku", "Meja" adalah Nomina (benda).
+Options:
+  - Text: Berjalan, Lelah, Menulis, Duduk
+  - Text: Melukis, Berdiskusi, Tidur, Jatuh
+  - Text: Membaca, Buku, Menyapu, Lantai
+  - Text: Pergi, Pulang, Sedih, Gembira
+  - Text: Memasak, Dapur, Makan, Sendok
+---
+Type: PilihanGanda
+ID: SMP_INDO_183
+Question: >
+  "Dengan teliti, ibu dokter muda itu memeriksa pasien darurat di ruang UGD malam ini."
+  Jabatan Subjek (S) dalam kalimat di atas diduduki oleh frasa...
+Answer: ibu dokter muda itu
+Explanation: >
+  Analisis fungsi sintaksis:
+  "Dengan teliti" (Keterangan Cara).
+  "ibu dokter muda itu" (Subjek).
+  "memeriksa" (Predikat Verba aktif).
+  "pasien darurat" (Objek penderita).
+  "di ruang UGD" (Keterangan Tempat).
+  "malam ini" (Keterangan Waktu).
+Options:
+  - Text: Dengan teliti
+  - Text: ibu dokter muda itu
+  - Text: memeriksa
+  - Text: pasien darurat
+  - Text: di ruang UGD malam ini
+---
+Type: PilihanGanda
+ID: SMP_INDO_184
+Question: >
+  "Buku antologi puisi karya Sapardi Djoko Damono itu sangat legendaris. Karyanya *tersebut* selalu berhasil menyentuh sisi paling sensitif dari hati para penikmat sastra."
+  Kata rujukan *tersebut* pada kalimat kedua merujuk kepada entitas...
+Answer: Buku antologi puisi karya Sapardi Djoko Damono
+Explanation: >
+  Kata ganti rujukan "ini", "itu", "tersebut" berfungsi merujuk ke subjek atau frasa utama di kalimat sebelumnya agar tidak terjadi pengulangan kalimat yang berlebihan (pemborosan kata). Di sini merujuk pada buku antologi puisi milik Sapardi.
+Options:
+  - Text: Sisi paling sensitif
+  - Text: Para penikmat sastra
+  - Text: Legenda kesusastraan
+  - Text: Buku antologi puisi karya Sapardi Djoko Damono
+  - Text: Hati para penulis puisi
+---
+Type: PilihanGanda
+ID: SMP_INDO_185
+Question: >
+  Makna imbuhan "pe-" pada kata "petinju" memiliki kesamaan makna fungsional dengan imbuhan "pe-" pada kata...
+Answer: Pelukis
+Explanation: >
+  Imbuhan "pe-" pada kata "petinju" menyatakan profesi, mata pencaharian, atau orang yang biasa melakukan tindakan (bertinju). 
+  "Pelukis" (orang yang melukis/profesi) memilki makna sejajar. 
+  "Pemalas" (sifat), "Pemukul" (alat/orang), "Pedesaan" (tempat - konfiks pe-an).
+Options:
+  - Text: Pemalas
+  - Text: Pelukis
+  - Text: Pemukul
+  - Text: Pemarah
+  - Text: Penakut
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_186
+Question: >
+  Verba transitif adalah kata kerja yang wajib didampingi objek, dan kalimatnya dapat diubah menjadi bentuk pasif. 
+  Manakah kalimat di bawah ini yang menggunakan VERBA TRANSITIF?
+Explanation: >
+  - "Ayah meminum secangkir kopi" (Transitif, objek: secangkir kopi).
+  - "Ibu memasak rendang daging" (Transitif, objek: rendang daging).
+  - "Adik berlari" (Intransitif, tidak butuh objek).
+  - "Dedaunan berguguran" (Intransitif).
+Options:
+  - Text: Adik berlari sangat kencang di lapangan sekolah.
+    IsCorrect: false
+  - Text: Polisi lalu lintas menangkap seorang pengendara motor yang melanggar lampu merah.
+    IsCorrect: true
+  - Text: Petani memanen padi yang menguning di sawah pada musim panen raya ini.
+    IsCorrect: true
+  - Text: Kakak sedang asyik tertawa terbahak-bahak saat menonton serial komedi.
+    IsCorrect: false
+  - Text: Adikku selalu meminum segelas susu hangat sebelum berangkat tidur.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_187
+Question: >
+  Frasa nomina adalah gabungan dua kata atau lebih yang unsur intinya merupakan kata benda. 
+  Manakah dari frasa di bawah ini yang tergolong frasa nomina?
+Explanation: >
+  - Meja kayu jati (Inti: meja/benda).
+  - Sepatu kulit buaya (Inti: sepatu/benda).
+  - Sangat cepat (Inti: cepat/sifat -> Frasa adjektiva).
+  - Sedang berjalan (Inti: berjalan/kerja -> Frasa verba).
+  - Di dalam lemari (Inti: preposisi di -> Frasa preposisional).
+Options:
+  - Text: Gedung pencakar langit
+    IsCorrect: true
+  - Text: Sedang menulis surat
+    IsCorrect: false
+  - Text: Rumah mewah tingkat dua
+    IsCorrect: true
+  - Text: Di stasiun kereta api
+    IsCorrect: false
+  - Text: Tas sekolah baru
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_188
+Question: >
+  Banyak nomina (kata benda) dalam bahasa Indonesia dibentuk dari verba (kata kerja) melalui proses morfologi penambahan imbuhan. 
+  Manakah nomina turunan berikut yang berasal dari kata kerja murni?
+Explanation: >
+  - Bacaan (dari baca = kerja).
+  - Tontonan (dari tonton = kerja).
+  - Tulisan (dari tulis = kerja).
+  - Keadilan (dari adil = sifat).
+  - Perumahan (dari rumah = benda).
+Options:
+  - Text: Bacaan
+    IsCorrect: true
+  - Text: Kemanusiaan
+    IsCorrect: false
+  - Text: Tontonan
+    IsCorrect: true
+  - Text: Tulisan
+    IsCorrect: true
+  - Text: Perbukitan
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_189
+Question: Tentukan Benar atau Salah pemahaman klausa di dalam kalimat majemuk!
+Explanation: >
+  Klausa Bebas (Induk kalimat) dapat berdiri sendiri sebagai kalimat sempurna.
+  Klausa Terikat (Anak kalimat) bergantung pada konjungsi seperti "karena", "jika", "ketika", sehingga tidak bisa berdiri sendiri secara mandiri menjadi kalimat utuh.
+Options:
+  - Text: Klausa terikat atau anak kalimat ditandai oleh posisinya yang selalu berada di bagian paling akhir sebuah kalimat majemuk bertingkat.
+    IsCorrect: Salah
+  - Text: Dalam kalimat "Saya tidak masuk sekolah karena tubuh saya mendadak demam tinggi," frasa "karena tubuh saya mendadak demam tinggi" merupakan anak kalimat (klausa terikat).
+    IsCorrect: Benar
+  - Text: Klausa bebas adalah klausa yang memiliki subjek dan predikat yang utuh serta memiliki potensi penuh untuk berdiri sendiri sebagai kalimat tunggal.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_190
+Question: Tentukan Benar atau Salah aturan penggunaan kata ganti (pronomina) persona!
+Explanation: >
+  Pronomina persona pertama: aku, saya, kami, kita. 
+  Pronomina persona kedua: kamu, Anda, kalian, engkau. 
+  Pronomina persona ketiga: dia, ia, mereka, beliau.
+  Kata ganti rujukan tempat: sini, situ, sana.
+Options:
+  - Text: Kata "kita" dan "kami" adalah contoh dari pronomina persona (kata ganti orang) pertama jamak.
+    IsCorrect: Benar
+  - Text: Kata "mereka" dapat digunakan sebagai kata ganti orang kedua jamak (pihak yang diajak berbicara secara langsung).
+    IsCorrect: Salah
+  - Text: Kata "beliau" dipergunakan sebagai kata ganti orang ketiga tunggal khusus untuk merujuk pada orang yang lebih tua atau sangat dihormati.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_INDO_191
+Question: >
+  Unsur intrinsik prosa yang menjadi gagasan dasar atau pokok pikiran utama yang melandasi keseluruhan cerita sebuah novel atau cerpen disebut...
+Answer: Tema
+Explanation: >
+  Tema adalah roh/jiwa dari sebuah karya sastra. Berbeda dengan judul, tema lebih bersifat general dan abstrak, seperti tema percintaan, perjuangan, persahabatan, atau pengkhianatan. Alur, penokohan, latar adalah unsur yang menerjemahkan tema menjadi cerita.
+Options:
+  - Text: Alur cerita (Plot)
+  - Text: Latar tempat (Setting)
+  - Text: Tema
+  - Text: Amanat
+  - Text: Sudut pandang (Point of view)
+---
+Type: PilihanGanda
+ID: SMP_INDO_192
+Question: >
+  "Wajah Rina memerah padam, giginya gemeretak, dan tangannya mengepal keras hingga buku-buku jarinya memutih tatkala mendengar ejekan itu."
+  Metode penggambaran watak tokoh (penokohan) yang digunakan penulis pada kutipan cerpen di atas adalah teknik...
+Answer: Analitik (Tidak langsung / penggambaran fisik dan gerak)
+Explanation: >
+  Penokohan secara tidak langsung (dramatik/analitik melalui tingkah laku) dilakukan dengan menggambarkan reaksi fisik, gerak tubuh, lingkungan, atau dialog tokoh tanpa penulis mengatakan secara blak-blakan wataknya. Kutipan ini menunjukkan watak tokoh yang sedang menahan amarah secara fisik. (Catatan: istilah teknik penggambaran watak tidak langsung sering juga disebut dramatik, sedangkan penyebutan langsung disebut analitik eksponensial. Pada standar buku teks SMP, mendeskripsikan ciri fisik/reaksi termasuk penggambaran dramatik/tidak langsung). Pilihan di bawah yang paling dekat adalah tidak langsung.
+Options:
+  - Text: Langsung (Analitik deskriptif murni pengarang)
+  - Text: Dialog antartokoh protagonis
+  - Text: Penceritaan melalui tokoh pendukung
+  - Text: Analitik (Tidak langsung / penggambaran fisik dan gerak)
+  - Text: Latar suasana lingkungan sekitar
+---
+Type: PilihanGanda
+ID: SMP_INDO_193
+Question: >
+  "Matahari sore di ufuk barat menyisakan warna jingga kemerahan yang memantul di atas permukaan sungai Musi yang tenang, sementara burung-burung walet terbang rendah mencari sarang."
+  Kutipan di atas dominan menggambarkan unsur intrinsik sastra yaitu latar...
+Answer: Latar waktu dan latar tempat
+Explanation: >
+  "Matahari sore" dan "ufuk barat/jingga" menggambarkan latar Waktu. 
+  "Sungai Musi" menggambarkan latar Tempat. Keduanya berpadu membangun imaji visual latar cerita.
+Options:
+  - Text: Latar suasana yang menegangkan
+  - Text: Latar sosial dan ekonomi masyarakat
+  - Text: Latar tempat batiniah (kejiwaan tokoh)
+  - Text: Latar waktu dan latar sosial budaya
+  - Text: Latar waktu dan latar tempat
+---
+Type: PilihanGanda
+ID: SMP_INDO_194
+Question: >
+  Dalam struktur teks ulasan (resensi) buku, bagian evaluasi biasanya memuat...
+Answer: Kelebihan (keunggulan) dan kelemahan (kekurangan) dari buku yang diresensi.
+Explanation: >
+  Bagian Evaluasi adalah inti dari resensi yang memberikan penilaian komprehensif dari sang peresensi. Penilaian yang jujur harus mencakup dua sisi, yaitu kelebihan yang patut dipuji dan kekurangan karya sebagai catatan perbaikan.
+Options:
+  - Text: Identitas lengkap buku seperti jumlah halaman, nama penerbit, dan nomor ISBN.
+  - Text: Sinopsis cerita atau ringkasan plot secara keseluruhan dari bab awal hingga tamat.
+  - Text: Kelebihan (keunggulan) dan kelemahan (kekurangan) dari buku yang diresensi.
+  - Text: Latar belakang pribadi kehidupan sosial pengarang secara sangat mendetail.
+  - Text: Harga resmi buku di pasaran dan alamat toko buku yang menjualnya.
+---
+Type: PilihanGanda
+ID: SMP_INDO_195
+Question: >
+  Pesan moral, nasihat, atau ajaran budi pekerti luhur yang sengaja disisipkan oleh penulis cerita baik secara tersurat maupun tersirat agar dipetik oleh pembaca disebut...
+Answer: Amanat
+Explanation: >
+  Amanat adalah unsur intrinsik yang berupa pesan moral atau hikmah. Sastra yang baik biasanya menitipkan amanat secara halus (tersirat) di balik nasib para tokoh protagonis dan antagonis pada akhir ceritanya.
+Options:
+  - Text: Tema moralitas
+  - Text: Alur regresif
+  - Text: Sudut pandang didaktik
+  - Text: Gaya bahasa (Majas)
+  - Text: Amanat
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_196
+Question: >
+  Sudut pandang (point of view) adalah posisi pengarang dalam membawakan ceritanya. 
+  Manakah ciri-ciri sudut pandang orang pertama pelaku utama yang benar?
+Explanation: >
+  - Menggunakan pronomina persona "Aku" atau "Saya".
+  - Tokoh "Aku" adalah pusat dari seluruh kejadian dan konflik cerita.
+  - Pembaca hanya bisa mengetahui isi pikiran dan perasaan tokoh "Aku" saja (terbatas, tidak maha tahu pikiran orang lain).
+Options:
+  - Text: Penulis menceritakan kisah menggunakan kata ganti "aku", "saya", atau "kami".
+    IsCorrect: true
+  - Text: Tokoh utama menjadi narator tunggal yang menceritakan kejadian yang dialaminya secara langsung.
+    IsCorrect: true
+  - Text: Pengarang diposisikan seolah-olah seperti Tuhan yang maha tahu segala isi hati dan masa lalu seluruh tokoh (omniscient).
+    IsCorrect: false
+  - Text: Gaya penceritaan ini menggunakan penyebutan nama diri secara langsung seperti "Andi berjalan ke arah sungai...".
+    IsCorrect: false
+  - Text: Pembaca ikut merasakan emosi yang sangat subjektif dari kacamata sang narator sentral (si Aku).
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_197
+Question: >
+  Karya sastra juga dipengaruhi oleh unsur ekstrinsik (unsur pembangun dari luar karya itu sendiri). 
+  Manakah yang termasuk ke dalam unsur ekstrinsik sastra?
+Explanation: >
+  Unsur intrinsik (dalam): tema, alur, latar, penokohan, sudut pandang, amanat, gaya bahasa.
+  Unsur ekstrinsik (luar): latar belakang penulis (biografi, agama, psikologis), nilai sosial, politik, sejarah, budaya masyarakat tempat novel ditulis.
+Options:
+  - Text: Latar belakang agama dan kondisi psikologis penulis sastra.
+    IsCorrect: true
+  - Text: Alur mundur (flashback) yang digunakan merangkai misteri cerita.
+    IsCorrect: false
+  - Text: Kondisi sejarah politik negara saat penulis menyusun karya tersebut.
+    IsCorrect: true
+  - Text: Penggambaran watak tokoh antagonis yang sangat kejam.
+    IsCorrect: false
+  - Text: Nilai-nilai budaya dan adat istiadat yang berkembang di wilayah tempat tinggal penulis.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_INDO_198
+Question: >
+  Struktur teks ulasan (resensi) fiksi yang lengkap mencakup orientasi, tafsiran/sinopsis, evaluasi, dan rangkuman. 
+  Pilihlah komponen-komponen wajib di bagian awal resensi buku (Orientasi/Identitas)!
+Explanation: >
+  Bagian awal/identitas resensi (sebelum masuk isi) harus mencantumkan judul buku, pengarang, penerbit, tahun terbit, cetakan ke-, tebal halaman, dan desain sampul secara ringkas. (Harga buku kadang opsional namun sering masuk orientasi identitas komersial, tetapi intinya adalah pengenalan fisik dan legal).
+Options:
+  - Text: Mencantumkan judul buku yang sedang diulas.
+    IsCorrect: true
+  - Text: Menguraikan nama penulis dan penerbit buku bersangkutan beserta tahun terbitnya.
+    IsCorrect: true
+  - Text: Menceritakan rahasia akhir cerita (spoiler ending) secara mendetail.
+    IsCorrect: false
+  - Text: Menyebutkan ketebalan halaman buku atau jumlah bab secara keseluruhan.
+    IsCorrect: true
+  - Text: Memberikan kritikan pedas terhadap kelemahan ejaan dari penerbit.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_INDO_199
+Question: Tentukan Benar atau Salah pernyataan mengenai alur cerita (Plot) sastra berikut!
+Explanation: >
+  Alur maju (progresif) urutannya A->Z (kronologis). 
+  Alur mundur (regresif/flashback) urutannya dari masa kini melihat masa lalu (Z->A).
+  Alur campuran bolak-balik masa kini dan masa lalu.
+Options:
+  - Text: Alur mundur (regresif) ditandai dengan jalan cerita yang menceritakan kejadian masa lalu atau memori nostalgia dari peristiwa masa kini.
+    IsCorrect: Benar
+  - Text: Konflik atau klimaks permasalahan biasanya muncul persis di bagian akhir (resolusi) sebuah cerpen agar lebih dramatis.
+    IsCorrect: Salah
+  - Text: Alur progresif menceritakan urutan kejadian secara kronologis, berurutan tahap demi tahap ke arah masa depan tanpa kilas balik.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_INDO_200
+Question: Tentukan Benar atau Salah tujuan dan manfaat membaca Teks Ulasan (Resensi)!
+Explanation: >
+  Tujuan utama resensi adalah memberikan informasi pertimbangan objektif kepada masyarakat apakah suatu buku layak dibeli/dibaca atau tidak.
+Options:
+  - Text: Tujuan resensi adalah murni untuk menjelek-jelekkan karya penulis pemula agar tidak laku di pasar industri penerbitan nasional.
+    IsCorrect: Salah
+  - Text: Teks ulasan yang baik sangat membantu calon pembeli buku di toko buku untuk menimbang layak atau tidaknya sebuah karya dibaca.
+    IsCorrect: Benar
+  - Text: Teks ulasan bertindak sebagai jembatan komunikasi berupa apresiasi antara penikmat sastra pembaca dengan si pengarang karya.
+    IsCorrect: Benar

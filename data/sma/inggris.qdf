@@ -1,0 +1,4827 @@
+Type: PilihanGanda
+ID: SMA_ING_1
+Question: >
+  "The rapid development of artificial intelligence has inevitably altered the landscape of modern education, prompting both enthusiasm and skepticism among scholars."
+  What is the main idea of the sentence above?
+Answer: AI development has brought changes and mixed reactions in education.
+Explanation: >
+  Kalimat utama menyoroti dua hal: perubahan dalam pendidikan akibat AI dan reaksi campuran (antusiasme dan skeptisisme) dari para akademisi. Pilihan yang mencakup kedua gagasan ini adalah yang paling tepat.
+Options:
+  - Text: AI is entirely harmful to modern education systems.
+  - Text: AI development has brought changes and mixed reactions in education.
+  - Text: Scholars are unanimously enthusiastic about AI.
+  - Text: Education landscapes change only because of technological constraints.
+  - Text: Skepticism is the only reaction scholars have towards AI.
+---
+Type: PilihanGanda
+ID: SMA_ING_2
+Question: >
+  "Despite the government's effort to mitigate the economic crisis, inflation continued to rise alarmingly."
+  The word 'mitigate' is closest in meaning to...
+Answer: Alleviate
+Explanation: >
+  Kata 'mitigate' berarti mengurangi keparahan atau meringankan suatu masalah. Dalam konteks ini, kata yang bersinonim adalah 'alleviate' yang juga bermakna meringankan.
+Options:
+  - Text: Aggravate
+  - Text: Alleviate
+  - Text: Eliminate
+  - Text: Exacerbate
+  - Text: Investigate
+---
+Type: PilihanGanda
+ID: SMA_ING_3
+Question: >
+  "The manager demanded that the new policy _____ implemented immediately without any further delay."
+  Which word best completes the subjunctive sentence?
+Answer: be
+Explanation: >
+  Kalimat tersebut menggunakan present subjunctive yang ditandai dengan kata kerja 'demanded that'. Aturan subjunctive mengharuskan kata kerja dasar (bare infinitive), sehingga to be yang digunakan adalah 'be'.
+Options:
+  - Text: is
+  - Text: was
+  - Text: to be
+  - Text: are
+  - Text: be
+---
+Type: PilihanGanda
+ID: SMA_ING_4
+Question: >
+  "Scarcely had she finished reading the letter when the telephone rang."
+  What does the sentence imply?
+Answer: She finished reading the letter right before the telephone rang.
+Explanation: >
+  Struktur inversi 'Scarcely ... when' digunakan untuk menyatakan bahwa satu kejadian terjadi segera setelah kejadian lain selesai. Ini sama maknanya dengan kejadian pertama selesai tepat sebelum kejadian kedua.
+Options:
+  - Text: The telephone rang before she started reading the letter.
+  - Text: She finished reading the letter right before the telephone rang.
+  - Text: She was reading the letter while answering the phone.
+  - Text: The telephone rang, so she stopped reading the letter.
+  - Text: She did not finish the letter because of the telephone.
+---
+Type: PilihanGanda
+ID: SMA_ING_5
+Question: >
+  "If the company had invested more in cybersecurity, the massive data breach would not have occurred."
+  Based on the conditional sentence, what is the actual reality?
+Answer: The company did not invest enough in cybersecurity, so the breach occurred.
+Explanation: >
+  Kalimat ini adalah Third Conditional yang menyatakan situasi imajiner di masa lampau. Fakta dari kalimat ini selalu berlawanan dengan pernyataannya: perusahaan tidak berinvestasi cukup, sehingga kebocoran data terjadi.
+Options:
+  - Text: The company invested enough in cybersecurity to prevent the breach.
+  - Text: The data breach did not occur because of good investments.
+  - Text: The company did not invest enough in cybersecurity, so the breach occurred.
+  - Text: The breach will occur if they do not invest in cybersecurity.
+  - Text: The company is currently investing heavily to avoid a breach.
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_6
+Question: >
+  Identify the sentences that contain grammatically correct conditional clauses.
+Explanation: >
+  Kalimat kondisional yang benar harus mengikuti aturan tense: Type 1 (Present + Future), Type 2 (Past + Would V1), Type 3 (Past Perfect + Would Have V3), atau bentuk inversi yang sesuai.
+Options:
+  - Text: Had I known about the traffic, I would have left earlier.
+    IsCorrect: true
+  - Text: If she knows the answer, she would tell us immediately.
+    IsCorrect: false
+  - Text: Unless it rains tomorrow, we will go hiking in the mountains.
+    IsCorrect: true
+  - Text: If he had studied harder, he will pass the examination easily.
+    IsCorrect: false
+  - Text: Were I the president, I would lower the taxes.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_7
+Question: >
+  Which of the following sentences correctly demonstrate the use of passive voice?
+Explanation: >
+  Passive voice menekankan pada objek yang menerima tindakan. Rumus dasarnya adalah Subject + To Be + Verb 3 (Past Participle).
+Options:
+  - Text: The novel was written by a famous Indonesian author in 1990.
+    IsCorrect: true
+  - Text: The mechanic is repairing the broken car right now.
+    IsCorrect: false
+  - Text: A new bridge has been constructed over the river.
+    IsCorrect: true
+  - Text: The committee will announce the results next week.
+    IsCorrect: false
+  - Text: The files were completely destroyed by the sudden fire.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_8
+Question: >
+  Select the transition words or phrases that correctly express a cause-and-effect relationship.
+Explanation: >
+  Transisi sebab-akibat digunakan untuk menghubungkan alasan dengan hasil. Kata-kata seperti 'therefore', 'consequently', dan 'as a result' menunjukkan akibat, sedangkan 'because of' menunjukkan sebab.
+Options:
+  - Text: Consequently
+    IsCorrect: true
+  - Text: Furthermore
+    IsCorrect: false
+  - Text: As a result
+    IsCorrect: true
+  - Text: Nevertheless
+    IsCorrect: false
+  - Text: Therefore
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_9
+Question: >
+  Tentukan Benar atau Salah pernyataan berikut mengenai penggunaan "Gerund" dan "Infinitive".
+Explanation: >
+  Gerund (Verb-ing) dan Infinitive (To + Verb) memiliki fungsi berbeda. Beberapa kata kerja tertentu (seperti enjoy, avoid) wajib diikuti Gerund, sementara yang lain (seperti want, decide) diikuti Infinitive.
+Options:
+  - Text: Kalimat "She avoided to meet him at the party" adalah benar secara tata bahasa.
+    IsCorrect: Salah
+  - Text: Kata kerja "enjoy" harus selalu diikuti oleh bentuk Gerund.
+    IsCorrect: Benar
+  - Text: Dalam kalimat "To travel the world is his biggest dream", infinitive berfungsi sebagai subjek.
+    IsCorrect: Benar
+  - Text: "I look forward to hear from you soon" adalah struktur kalimat yang tepat.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_10
+Question: >
+  Berdasarkan pemahaman mengenai relative pronoun, tentukan Benar atau Salah fungsi dari kata ganti penghubung pada kalimat berikut.
+Explanation: >
+  'Who' digunakan untuk subjek orang, 'whom' untuk objek orang, 'whose' untuk kepemilikan, dan 'which' untuk benda atau hewan.
+Options:
+  - Text: "The man whose car was stolen reported to the police." (Whose menunjukkan kepemilikan mobil).
+    IsCorrect: Benar
+  - Text: "The book who I borrowed from the library is very thick." (Who digunakan dengan benar).
+    IsCorrect: Salah
+  - Text: "The woman whom I met yesterday is a renowned scientist." (Whom berfungsi sebagai objek penderita dari kata kerja met).
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_11
+Question: >
+  "By the time the rescue team arrived at the collapsed building, the trapped victims _____ for more than ten hours."
+  Which tense correctly fills the blank to express duration before a past event?
+Answer: had been waiting
+Explanation: >
+  Kejadian ini berdurasi dan terjadi sebelum kejadian lampau lainnya (arrived). Tense yang paling tepat adalah Past Perfect Continuous: had been + verb-ing.
+Options:
+  - Text: waited
+  - Text: have waited
+  - Text: had been waiting
+  - Text: were waiting
+  - Text: have been waiting
+---
+Type: PilihanGanda
+ID: SMA_ING_12
+Question: >
+  "Not only _____ a talented musician, but she is also an accomplished painter."
+  Choose the correct inverted structure to complete the sentence.
+Answer: is she
+Explanation: >
+  Frasa negatif 'Not only' di awal kalimat mewajibkan penggunaan inversi (Auxiliary + Subject). Karena bagian kedua kalimat menggunakan 'is' (Present Tense), bagian pertama juga menggunakan 'is she'.
+Options:
+  - Text: she is
+  - Text: is she
+  - Text: does she
+  - Text: she does
+  - Text: she was
+---
+Type: PilihanGanda
+ID: SMA_ING_13
+Question: >
+  "The professor's lecture was so convoluted that most students lost track of the main argument."
+  What does the word 'convoluted' suggest about the lecture?
+Answer: It was overly complicated and difficult to follow.
+Explanation: >
+  Kata 'convoluted' memiliki arti rumit, berbelit-belit, dan susah dipahami, yang menyebabkan para siswa kehilangan jejak argumen utama.
+Options:
+  - Text: It was extremely engaging and highly interactive.
+  - Text: It was overly complicated and difficult to follow.
+  - Text: It was too brief to provide meaningful insights.
+  - Text: It was delivered in a very quiet voice.
+  - Text: It was highly organized and straightforward.
+---
+Type: PilihanGanda
+ID: SMA_ING_14
+Question: >
+  "Having finished his homework, Brian decided to play video games."
+  The phrase "Having finished his homework" is equivalent to...
+Answer: After he had finished his homework
+Explanation: >
+  Perfect participle 'Having + V3' digunakan untuk menyatakan bahwa satu tindakan diselesaikan secara tuntas sebelum tindakan berikutnya dimulai. Ini setara dengan klausa waktu 'After + Past Perfect'.
+Options:
+  - Text: Because he is finishing his homework
+  - Text: While he was finishing his homework
+  - Text: After he had finished his homework
+  - Text: Before he finishes his homework
+  - Text: So that he could finish his homework
+---
+Type: PilihanGanda
+ID: SMA_ING_15
+Question: >
+  "Neither the manager nor the employees _____ satisfied with the new working hours."
+  Which verb ensures correct subject-verb agreement?
+Answer: are
+Explanation: >
+  Dalam pola "Neither A nor B", kata kerja (verb) selalu mengikuti subjek terdekat, yaitu "the employees" (jamak). Oleh karena itu, to be yang tepat adalah "are" atau "were".
+Options:
+  - Text: is
+  - Text: has
+  - Text: was
+  - Text: are
+  - Text: does
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_16
+Question: >
+  Identify the sentences that correctly employ causative verbs to indicate someone causing another person to do an action.
+Explanation: >
+  Pola causative aktif: Have/Make/Let + Object + V1 (Bare Infinitive). Get + Object + To V1.
+Options:
+  - Text: I made my brother clean the garage yesterday.
+    IsCorrect: true
+  - Text: She got the mechanic fix her car engine.
+    IsCorrect: false
+  - Text: The teacher let the students to go home early.
+    IsCorrect: false
+  - Text: They had the plumber repair the leaking pipe.
+    IsCorrect: true
+  - Text: We got the designer to create a new logo.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_17
+Question: >
+  Which of the following phrases correctly use negative prefixes to form antonyms?
+Explanation: >
+  Penggunaan prefiks (awalan) negatif harus tepat sesuai konvensi bahasa Inggris. Misalnya: irrelevant, impossible, dissatisfied.
+Options:
+  - Text: Irrelevant
+    IsCorrect: true
+  - Text: Inpossible
+    IsCorrect: false
+  - Text: Dissatisfied
+    IsCorrect: true
+  - Text: Unlegal
+    IsCorrect: false
+  - Text: Misunderstand
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_18
+Question: >
+  Select the statements that represent subjective opinions rather than objective facts.
+Explanation: >
+  Fakta objektif dapat dibuktikan kebenarannya secara universal atau melalui data. Opini subjektif bergantung pada perasaan, penilaian, atau preferensi pribadi.
+Options:
+  - Text: Water boils at 100 degrees Celsius under standard atmospheric pressure.
+    IsCorrect: false
+  - Text: Classical music is significantly more relaxing than modern pop music.
+    IsCorrect: true
+  - Text: The Earth orbits the Sun in an elliptical path.
+    IsCorrect: false
+  - Text: Winter is the most depressing season of the year.
+    IsCorrect: true
+  - Text: Many people feel that the new tax law is unfair to the middle class.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_19
+Question: >
+  Tentukan Benar atau Salah mengenai penggabungan dua kalimat menggunakan relative clause.
+  Kalimat asli: "The coffee shop is closing down. I used to work there."
+Explanation: >
+  Kata 'there' merujuk pada tempat, sehingga relative pronoun yang tepat adalah 'where' atau 'in which'.
+Options:
+  - Text: "The coffee shop where I used to work is closing down."
+    IsCorrect: Benar
+  - Text: "The coffee shop which I used to work is closing down."
+    IsCorrect: Salah
+  - Text: "The coffee shop in which I used to work is closing down."
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_20
+Question: >
+  Evaluasi kebenaran struktur paralel (Parallelism) dalam pernyataan di bawah ini.
+Explanation: >
+  Struktur paralel mengharuskan elemen-elemen dalam sebuah daftar atau perbandingan memiliki bentuk tata bahasa yang sama (misalnya semua gerund, semua infinitive, atau semua noun).
+Options:
+  - Text: "She likes hiking, swimming, and to ride bicycles."
+    IsCorrect: Salah
+  - Text: "The duties of the secretary are receiving visitors, answering the phone, and sorting the mail."
+    IsCorrect: Benar
+  - Text: "He is intelligent, hardworking, and has reliability."
+    IsCorrect: Salah
+  - Text: "To think carefully and to act decisively are traits of a good leader."
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_21
+Question: >
+  "Many indigenous languages are on the verge of extinction due to globalization and the dominance of major global languages."
+  What does "on the verge of" mean in this context?
+Answer: Very close to experiencing something
+Explanation: >
+  Frasa idiomatis 'on the verge of' berarti sangat dekat dengan suatu kejadian atau ambang batas terjadinya sesuatu, dalam hal ini kepunahan.
+Options:
+  - Text: Far away from the possibility of
+  - Text: Very close to experiencing something
+  - Text: Already completely destroyed by
+  - Text: In the middle of recovering from
+  - Text: Totally protected against
+---
+Type: PilihanGanda
+ID: SMA_ING_22
+Question: >
+  "The committee, along with several external advisors, _____ expected to finalize the report by Friday."
+  Which verb accurately completes the sentence?
+Answer: is
+Explanation: >
+  Subjek utamanya adalah "The committee" (tunggal sebagai entitas). Frasa "along with..." tidak memengaruhi subjek utama, sehingga to be yang digunakan harus bentuk tunggal, yaitu "is".
+Options:
+  - Text: are
+  - Text: is
+  - Text: have
+  - Text: were
+  - Text: am
+---
+Type: PilihanGanda
+ID: SMA_ING_23
+Question: >
+  "The researcher argued that the anomaly in the data was merely a coincidence; _____, she did not conduct further testing."
+  Which transition word best connects the two clauses logically?
+Answer: therefore
+Explanation: >
+  Karena anomali dianggap hanya kebetulan (sebab), peneliti tidak melakukan tes lanjutan (akibat). Transisi yang menunjukkan hasil atau kesimpulan adalah 'therefore'.
+Options:
+  - Text: however
+  - Text: furthermore
+  - Text: therefore
+  - Text: nevertheless
+  - Text: similarly
+---
+Type: PilihanGanda
+ID: SMA_ING_24
+Question: >
+  "Had the government acted swiftly, the pandemic's impact could have been drastically reduced."
+  What type of conditional does this sentence represent?
+Answer: Type 3 conditional with inversion
+Explanation: >
+  Kalimat tersebut adalah bentuk inversi dari "If the government had acted swiftly". Ini adalah Conditional Type 3, yang membicarakan masa lalu yang tidak dapat diubah.
+Options:
+  - Text: Type 1 conditional
+  - Text: Type 2 conditional with inversion
+  - Text: Type 3 conditional with inversion
+  - Text: Zero conditional
+  - Text: Mixed conditional
+---
+Type: PilihanGanda
+ID: SMA_ING_25
+Question: >
+  "It is highly recommended that she _____ the scholarship offer, given its prestige."
+  Choose the correct verb form for this subjunctive structure.
+Answer: accept
+Explanation: >
+  Kata "recommended that" merupakan pemicu subjunctive, yang mensyaratkan penggunaan bare infinitive (kata kerja dasar tanpa akhiran) untuk subjek apa pun, termasuk "she".
+Options:
+  - Text: accepts
+  - Text: accepted
+  - Text: to accept
+  - Text: accept
+  - Text: accepting
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_26
+Question: >
+  Select all sentences that contain an appositive phrase correctly enclosed in commas.
+Explanation: >
+  Appositive adalah kata benda atau frasa kata benda yang mendeskripsikan ulang kata benda di sebelahnya, dan harus diapit koma jika bersifat non-restrictive (informasi tambahan).
+Options:
+  - Text: Jakarta, the capital city of Indonesia, is densely populated.
+    IsCorrect: true
+  - Text: My friend Sarah, is an excellent pianist.
+    IsCorrect: false
+  - Text: The Eiffel Tower, a famous landmark in Paris, attracts millions of visitors.
+    IsCorrect: true
+  - Text: Alexander Graham Bell the inventor of the telephone, was born in Scotland.
+    IsCorrect: false
+  - Text: Mr. Smith, our new science teacher, used to work at a university.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_27
+Question: >
+  Identify the sentences where the word "since" is used to show a reason or cause (meaning "because").
+Explanation: >
+  Kata "since" memiliki dua fungsi utama: menunjukkan waktu (sejak) atau menunjukkan alasan (karena).
+Options:
+  - Text: Since it was raining heavily, the football match was postponed.
+    IsCorrect: true
+  - Text: I have not seen him since we graduated from high school.
+    IsCorrect: false
+  - Text: She decided to stay home, since she was feeling completely exhausted.
+    IsCorrect: true
+  - Text: Since its foundation in 1990, the company has grown exponentially.
+    IsCorrect: false
+  - Text: Since you are already here, you might as well help us with the decorations.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_28
+Question: >
+  Which of the following are examples of correctly constructed noun clauses functioning as objects?
+Explanation: >
+  Noun clause adalah klausa anak yang berfungsi sebagai kata benda. Sebagai objek, ia biasanya mengikuti kata kerja transitif dan diawali dengan question word, that, atau if/whether.
+Options:
+  - Text: I do not know where she lives.
+    IsCorrect: true
+  - Text: The fact that he lied is undeniable.
+    IsCorrect: false
+  - Text: Can you tell me what time the train arrives?
+    IsCorrect: true
+  - Text: She asked if I wanted to join them for dinner.
+    IsCorrect: true
+  - Text: Whoever made this cake is a genius.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_29
+Question: >
+  Berdasarkan aturan Question Tag, tentukan Benar atau Salah penggunaan tag question pada kalimat-kalimat berikut.
+Explanation: >
+  Aturan dasar Question Tag: Jika kalimat positif, tag negatif. Jika kalimat negatif, tag positif. Subjek tag selalu pronoun. Pengecualian seperti 'I am' menjadi 'aren't I' dan 'Let's' menjadi 'shall we'.
+Options:
+  - Text: "She rarely goes to the cinema, doesn't she?"
+    IsCorrect: Salah
+  - Text: "I am supposed to lead the meeting, aren't I?"
+    IsCorrect: Benar
+  - Text: "Let's grab some dinner after work, shall we?"
+    IsCorrect: Benar
+  - Text: "Nobody called me yesterday, did they?"
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_30
+Question: >
+  Tentukan Benar atau Salah konversi dari Direct Speech menjadi Indirect Speech (Reported Speech) berikut ini.
+  Direct: "I will call you tomorrow," said John to Mary.
+Explanation: >
+  Perubahan tense: 'will' menjadi 'would'. Perubahan waktu: 'tomorrow' menjadi 'the next day' atau 'the following day'. Perubahan pronoun disesuaikan konteks.
+Options:
+  - Text: John told Mary that he will call her tomorrow.
+    IsCorrect: Salah
+  - Text: John told Mary that he would call her the following day.
+    IsCorrect: Benar
+  - Text: John said to Mary if he would call her the next day.
+    IsCorrect: Salah
+  - Text: John promised Mary to call her the day after.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_31
+Question: >
+  "The new marketing campaign was successful; _____, it doubled the company's revenue in just one quarter."
+  Which adverb correctly emphasizes the truth of the previous statement?
+Answer: indeed
+Explanation: >
+  Kata 'indeed' digunakan untuk memberikan penekanan yang membenarkan dan memperkuat pernyataan sebelumnya. Kampanye sukses, dan sungguh, pendapatan berlipat ganda.
+Options:
+  - Text: nevertheless
+  - Text: otherwise
+  - Text: instead
+  - Text: indeed
+  - Text: meanwhile
+---
+Type: PilihanGanda
+ID: SMA_ING_32
+Question: >
+  "Many students found the final physics exam to be a piece of cake."
+  What is the meaning of the idiom "a piece of cake"?
+Answer: Very easy
+Explanation: >
+  Idiom 'a piece of cake' digunakan dalam percakapan informal untuk menggambarkan tugas atau aktivitas yang sangat mudah untuk diselesaikan.
+Options:
+  - Text: Very complicated
+  - Text: Very easy
+  - Text: Sweet and enjoyable
+  - Text: A group effort
+  - Text: Expensive
+---
+Type: PilihanGanda
+ID: SMA_ING_33
+Question: >
+  "Only after the severe drought ended _____ the farmers realize the full extent of the crop damage."
+  Identify the correct grammar structure to fill in the blank.
+Answer: did
+Explanation: >
+  Struktur kalimat ini diawali dengan frasa pembatas "Only after...", sehingga memerlukan inversi negatif (Auxiliary + Subject + Verb) pada klausa utamanya. Karena kejadiannya di masa lalu (ended), auxiliary yang tepat adalah 'did'.
+Options:
+  - Text: the farmers did
+  - Text: have
+  - Text: do
+  - Text: did
+  - Text: had
+---
+Type: PilihanGanda
+ID: SMA_ING_34
+Question: >
+  "To circumvent the heavy traffic, the driver decided to take an alternative route through the countryside."
+  The word 'circumvent' can be best replaced by...
+Answer: bypass
+Explanation: >
+  'Circumvent' berarti menemukan jalan keluar dari suatu masalah atau menghindari rintangan. Konteks kalimat ini adalah menghindari kemacetan, sehingga kata 'bypass' adalah padanan yang paling tepat.
+Options:
+  - Text: confront
+  - Text: endure
+  - Text: bypass
+  - Text: analyze
+  - Text: experience
+---
+Type: PilihanGanda
+ID: SMA_ING_35
+Question: >
+  "By the time humanity establishes a permanent colony on Mars, technological advancements _____ far beyond our current imagination."
+  Which tense correctly projects an action completed before a future point?
+Answer: will have evolved
+Explanation: >
+  Penanda waktu "By the time + Present Tense" mengindikasikan suatu kejadian di masa depan. Tense yang tepat untuk menyatakan sesuatu yang akan sudah selesai di masa depan adalah Future Perfect Tense (will have + V3).
+Options:
+  - Text: will evolve
+  - Text: have evolved
+  - Text: evolved
+  - Text: will have evolved
+  - Text: are evolving
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_36
+Question: >
+  Which of these sentences properly use "wish" to express regret about a past situation?
+Explanation: >
+  Untuk menyatakan penyesalan terhadap sesuatu yang sudah terjadi di masa lampau, pola yang digunakan adalah Subject + wish + Subject + Past Perfect (had + V3).
+Options:
+  - Text: I wish I had brought my umbrella yesterday.
+    IsCorrect: true
+  - Text: She wishes she knew the answer to that question now.
+    IsCorrect: false
+  - Text: They wish they had not invested all their money in that scam.
+    IsCorrect: true
+  - Text: He wishes he will travel to Japan next year.
+    IsCorrect: false
+  - Text: I wish I had studied harder for the final exam last week.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_37
+Question: >
+  Select the options where the phrasal verb "bring up" is used correctly based on context.
+Explanation: >
+  "Bring up" memiliki beberapa arti, di antaranya: menyebutkan suatu topik dalam pembicaraan, atau membesarkan/merawat anak.
+Options:
+  - Text: Please don't bring up the topic of politics during dinner.
+    IsCorrect: true
+  - Text: She was brought up by her grandparents in a small village.
+    IsCorrect: true
+  - Text: The loud noise brought up the sleeping baby.
+    IsCorrect: false
+  - Text: You must bring up your umbrella because it is raining.
+    IsCorrect: false
+  - Text: He brought up an interesting point during the meeting.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_38
+Question: >
+  Identify the sentences that contain dangling or misplaced modifiers.
+Explanation: >
+  Dangling modifier terjadi ketika frasa penjelas (biasanya participle phrase) di awal kalimat tidak secara logis menjelaskan subjek yang langsung mengikutinya.
+Options:
+  - Text: Walking down the street, the trees looked beautiful.
+    IsCorrect: true
+  - Text: Exhausted from the trip, Sarah fell asleep immediately.
+    IsCorrect: false
+  - Text: Barking fiercely, the postman was terrified by the dog.
+    IsCorrect: true
+  - Text: Hoping for an excuse, the doctor wrote a sick note for the student.
+    IsCorrect: false
+  - Text: To bake a perfect cake, the oven must be preheated.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_39
+Question: >
+  Berdasarkan konteks pembentukan kata benda (Noun Derivation), tentukan Benar atau Salah pasangan kata kerja ke kata benda berikut.
+Explanation: >
+  Banyak kata kerja diubah menjadi kata benda dengan menambahkan sufiks seperti -tion, -ment, -ance, atau -al.
+Options:
+  - Text: Perform (verb) berubah menjadi Performance (noun).
+    IsCorrect: Benar
+  - Text: Develop (verb) berubah menjadi Develoption (noun).
+    IsCorrect: Salah
+  - Text: Arrive (verb) berubah menjadi Arrival (noun).
+    IsCorrect: Benar
+  - Text: Decide (verb) berubah menjadi Decision (noun).
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_40
+Question: >
+  Evaluasi kebenaran penggunaan Articles (a, an, the) dalam pernyataan di bawah ini.
+Explanation: >
+  "A/an" adalah indefinite article untuk benda tunggal yang belum spesifik. "The" adalah definite article untuk benda spesifik atau yang sudah disebutkan sebelumnya.
+Options:
+  - Text: "She is an honest person who always tells the truth." (Penggunaan 'an' tepat karena honest diucapkan dengan bunyi vokal awalan).
+    IsCorrect: Benar
+  - Text: "The sun rises in east and sets in west." (Tidak menggunakan 'the' sebelum arah mata angin dalam konteks ini adalah benar).
+    IsCorrect: Salah
+  - Text: "He bought a umbrella because it was raining." (Penggunaan 'a' sebelum umbrella adalah tepat).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_41
+Question: >
+  "While the new tax regulation is intended to stimulate local businesses, critics argue that it places an undue burden on middle-class families."
+  What is the author's primary purpose in this sentence?
+Answer: To contrast the intended goal of a policy with its criticized impact.
+Explanation: >
+  Kata "While" di awal kalimat menunjukkan perbandingan atau kontras antara niat baik regulasi (stimulasi bisnis) dengan dampak negatifnya menurut kritikus (beban bagi kelas menengah).
+Options:
+  - Text: To support the government's new tax regulation unequivocally.
+  - Text: To contrast the intended goal of a policy with its criticized impact.
+  - Text: To condemn the middle class for complaining about taxes.
+  - Text: To argue that local businesses should not be stimulated.
+  - Text: To prove that tax regulations are inherently flawed.
+---
+Type: PilihanGanda
+ID: SMA_ING_42
+Question: >
+  "The majestic canyon, painted in hues of vibrant orange and deep crimson by the setting sun, stood as a testament to the patient artistry of nature over millions of years."
+  What is the tone of the sentence?
+Answer: Awe-inspiring and admiring
+Explanation: >
+  Pilihan kata sifat seperti 'majestic', 'vibrant', dan 'patient artistry' menunjukkan sikap kekaguman dan takjub penulis terhadap keindahan ngarai tersebut.
+Options:
+  - Text: Objective and scientific
+  - Text: Critical and analytical
+  - Text: Awe-inspiring and admiring
+  - Text: Gloomy and melancholic
+  - Text: Sarcastic and humorous
+---
+Type: PilihanGanda
+ID: SMA_ING_43
+Question: >
+  "Unlike her gregarious sister, Jane prefers spending her weekends lost in the pages of a classic novel."
+  What does the word "gregarious" most likely mean?
+Answer: Sociable
+Explanation: >
+  Kata "Unlike" menunjukkan bahwa Jane memiliki sifat berlawanan dengan saudara perempuannya. Karena Jane suka menyendiri membaca buku, "gregarious" pasti merujuk pada sifat suka bergaul atau ramah.
+Options:
+  - Text: Introverted
+  - Text: Sociable
+  - Text: Aggressive
+  - Text: Intelligent
+  - Text: Lazy
+---
+Type: PilihanGanda
+ID: SMA_ING_44
+Question: >
+  "The project was abandoned midway due to a severe lack of funding; _____, the team members felt utterly disheartened."
+  Which conjunction is appropriate?
+Answer: consequently
+Explanation: >
+  Berhentinya proyek karena kurang dana merupakan sebab. Perasaan sedih dan patah semangat tim adalah akibat dari penghentian proyek tersebut. Transisi akibat yang tepat adalah 'consequently'.
+Options:
+  - Text: however
+  - Text: nevertheless
+  - Text: conversely
+  - Text: consequently
+  - Text: furthermore
+---
+Type: PilihanGanda
+ID: SMA_ING_45
+Question: >
+  "I would rather you _____ the confidential documents to the competitors."
+  Complete the sentence with the correct subjunctive form.
+Answer: did not reveal
+Explanation: >
+  Frasa "would rather" yang diikuti oleh subjek kedua (you) menggunakan pola Past Tense (Subjunctive) untuk menyatakan keinginan mengenai masa kini atau masa depan. Bentuk negatifnya adalah "did not + verb 1".
+Options:
+  - Text: do not reveal
+  - Text: will not reveal
+  - Text: did not reveal
+  - Text: had not revealed
+  - Text: not revealing
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_46
+Question: >
+  Identify the sentences that correctly use the "Future Continuous Tense" to describe an action that will be in progress at a specific time in the future.
+Explanation: >
+  Pola Future Continuous Tense adalah: Subject + will be + Verb-ing. Tense ini menyoroti proses yang sedang berlangsung di titik waktu tertentu di masa depan.
+Options:
+  - Text: At 8 PM tomorrow, I will be watching my favorite TV show.
+    IsCorrect: true
+  - Text: By the end of this year, she will have been working here for a decade.
+    IsCorrect: false
+  - Text: Don't call me at midnight; I will be sleeping deeply.
+    IsCorrect: true
+  - Text: They will be studying in the library when you arrive.
+    IsCorrect: true
+  - Text: I will be finish my assignment by tomorrow morning.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_47
+Question: >
+  Select the options that correctly pair an English idiom with its accurate meaning.
+Explanation: >
+  Idiom sering muncul dalam tes kecakapan bahasa Inggris (TKA) untuk mengukur kemampuan memahami makna kiasan.
+Options:
+  - Text: "Break a leg" - To wish someone good luck.
+    IsCorrect: true
+  - Text: "Spill the beans" - To accidentally drop food on the floor.
+    IsCorrect: false
+  - Text: "Under the weather" - Feeling slightly ill.
+    IsCorrect: true
+  - Text: "Hit the books" - To physically attack a library.
+    IsCorrect: false
+  - Text: "Bite the bullet" - To endure a painful or difficult situation with courage.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_48
+Question: >
+  Which of the following sentences demonstrate correct parallel structure?
+Explanation: >
+  Parallel structure mengharuskan elemen yang setara secara fungsi (seperti daftar aktivitas) menggunakan format gramatikal yang seragam.
+Options:
+  - Text: My goals are to study hard, to pass the exam, and to graduate with honors.
+    IsCorrect: true
+  - Text: She enjoys reading poetry, playing the violin, and she likes to bake cakes.
+    IsCorrect: false
+  - Text: The politician promised lower taxes, improved healthcare, and creating more jobs.
+    IsCorrect: false
+  - Text: The software is innovative, user-friendly, and reliable.
+    IsCorrect: true
+  - Text: He walked into the room, sat at the desk, and opened his laptop.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_49
+Question: >
+  Tentukan Benar atau Salah pada pernyataan mengenai penggunaan "Elliptic Construction" (too, so, either, neither).
+Explanation: >
+  Konstruksi elips digunakan untuk menghindari pengulangan. 'Too' dan 'So' untuk kalimat positif. 'Either' dan 'Neither' untuk kalimat negatif.
+Options:
+  - Text: "John likes apple pie, and so do I." (Penggunaan so do I tepat untuk kalimat positif).
+    IsCorrect: Benar
+  - Text: "Mary cannot swim, and neither can her sister." (Penggunaan neither can tepat untuk kalimat negatif).
+    IsCorrect: Benar
+  - Text: "I didn't watch the movie, and he didn't too." (Penggunaan too tepat untuk kalimat negatif).
+    IsCorrect: Salah
+  - Text: "They have finished the test, and I have either." (Penggunaan either tepat untuk kalimat positif).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_50
+Question: >
+  Berdasarkan konteks klausa bersyarat, tentukan Benar atau Salah penggunaan bentuk "Mixed Conditional" di bawah ini.
+Explanation: >
+  Mixed conditional sering menggabungkan Type 3 (kondisi masa lalu) dengan Type 2 (hasil masa kini). Pola: If + Past Perfect, Subject + would/could + V1.
+Options:
+  - Text: "If I had taken the medicine last night, I would feel much better now." (Menunjukkan aksi masa lalu dengan hasil masa kini yang logis).
+    IsCorrect: Benar
+  - Text: "If she wasn't so afraid of flying, she would have traveled to Paris last week." (Kondisi masa kini berakibat ke masa lalu).
+    IsCorrect: Benar
+  - Text: "If they won the lottery yesterday, they will be rich now." (Ini bukan pola mixed conditional yang tepat).
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_51
+Question: >
+  "The findings of the research _____ published in a prestigious scientific journal next month."
+  Which verb phrase correctly completes the passive sentence in the future tense?
+Answer: will be
+Explanation: >
+  Kalimat tersebut memerlukan bentuk pasif karena 'findings' (temuan) adalah objek penderita yang akan dipublikasikan. Karena keterangan waktunya 'next month', tense yang digunakan adalah Future Passive (will be + V3).
+Options:
+  - Text: will
+  - Text: will be
+  - Text: are going
+  - Text: will have
+  - Text: are being
+---
+Type: PilihanGanda
+ID: SMA_ING_52
+Question: >
+  "If the architects had considered the local climate, the building's cooling system _____ so severely overwhelmed during the summer heatwave."
+  Which choice completes the third conditional sentence correctly?
+Answer: would not have been
+Explanation: >
+  Kalimat di atas menggunakan if clause tipe 3 (had considered). Klausa utamanya juga harus berbentuk past perfect condition: 'would/could/might + have + past participle'.
+Options:
+  - Text: would not be
+  - Text: will not be
+  - Text: would not have been
+  - Text: had not been
+  - Text: is not
+---
+Type: PilihanGanda
+ID: SMA_ING_53
+Question: >
+  "The sheer volume of tourists visiting the ancient ruins has caused accelerated degradation of the site."
+  The phrase "sheer volume" in the context of the sentence means...
+Answer: An extraordinarily large amount
+Explanation: >
+  Kata sifat 'sheer' dalam frasa ini digunakan untuk menekankan betapa besarnya ukuran, jumlah, atau skala dari sesuatu. 'Sheer volume' berarti jumlah yang sangat besar.
+Options:
+  - Text: A very quiet noise
+  - Text: An extraordinarily large amount
+  - Text: A transparent material
+  - Text: A sudden decrease
+  - Text: A carefully controlled number
+---
+Type: PilihanGanda
+ID: SMA_ING_54
+Question: >
+  "Seldom _____ such a phenomenal display of auroral activity this far south of the Arctic Circle."
+  Complete the negative inversion correctly.
+Answer: do scientists observe
+Explanation: >
+  Kalimat yang diawali dengan kata keterangan negatif/pembatas seperti 'Seldom', 'Never', atau 'Rarely' harus diikuti oleh inversi subjek dan auxiliary verb (Auxiliary + Subject + Verb).
+Options:
+  - Text: scientists observe
+  - Text: do scientists observe
+  - Text: observe scientists
+  - Text: scientists do observe
+  - Text: have scientists observing
+---
+Type: PilihanGanda
+ID: SMA_ING_55
+Question: >
+  "Many ancient texts were translated from Greek into Arabic, _____ preserving vital philosophical and scientific knowledge during the Dark Ages."
+  Choose the correct participle form to show the result of the main action.
+Answer: thereby
+Explanation: >
+  Penggunaan 'thereby' + present participle (verb-ing) lazim dalam penulisan akademis untuk menghubungkan sebuah tindakan dengan hasil atau akibat dari tindakan tersebut.
+Options:
+  - Text: therefore
+  - Text: thereby
+  - Text: because
+  - Text: however
+  - Text: nonetheless
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_56
+Question: >
+  Identify the sentences that correctly use "wish" or "if only" to express a desire for an impossible present or future reality.
+Explanation: >
+  Untuk mengutarakan keinginan yang bertentangan dengan kenyataan di masa kini/depan, kita menggunakan Past Tense (V2) atau 'were' untuk semua subjek.
+Options:
+  - Text: If only it would stop raining, we could go to the park.
+    IsCorrect: true
+  - Text: I wish I were taller so I could reach the top shelf.
+    IsCorrect: true
+  - Text: She wishes she has more time to finish her project.
+    IsCorrect: false
+  - Text: If only I knew how to play the guitar right now.
+    IsCorrect: true
+  - Text: They wish they will win the lottery tomorrow.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_57
+Question: >
+  Which sentences correctly utilize the preposition "despite" or "in spite of"?
+Explanation: >
+  "Despite" dan "in spite of" harus diikuti oleh noun phrase (frasa kata benda) atau gerund (V-ing), tidak boleh diikuti oleh klausa utuh (Subjek + Verb).
+Options:
+  - Text: Despite the heavy rain, the football match continued.
+    IsCorrect: true
+  - Text: In spite of she was ill, she went to the office.
+    IsCorrect: false
+  - Text: Despite having no money, he remained optimistic.
+    IsCorrect: true
+  - Text: He passed the exam in spite of the difficulty of the questions.
+    IsCorrect: true
+  - Text: Despite of the warning, they swam in the dangerous waters.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_58
+Question: >
+  Select the options that correctly transform the direct question into an embedded (indirect) question.
+  Direct: "Where did he go?"
+Explanation: >
+  Embedded question tidak menggunakan pola tanya (Aux + S + V). Sebaliknya, polanya kembali menjadi klausa afirmatif (Question Word + S + V).
+Options:
+  - Text: I wonder where did he go.
+    IsCorrect: false
+  - Text: I wonder where he went.
+    IsCorrect: true
+  - Text: Do you know where he went?
+    IsCorrect: true
+  - Text: Can you tell me where did he go?
+    IsCorrect: false
+  - Text: I am not sure where he went.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_59
+Question: >
+  Tentukan Benar atau Salah pemahaman makna dari kalimat yang menggunakan idiom.
+Explanation: >
+  Pemahaman idiom tidak bisa diartikan secara harfiah. Contohnya 'hit the roof' berarti sangat marah, bukan memukul atap.
+Options:
+  - Text: Kalimat "When the boss saw the sales numbers, he hit the roof" berarti atasan tersebut memperbaiki atap kantor.
+    IsCorrect: Salah
+  - Text: Kalimat "Let's call it a day" berarti mengajak untuk berhenti bekerja dan beristirahat.
+    IsCorrect: Benar
+  - Text: Kalimat "She is feeling under the weather" berarti dia sedang berjemur di bawah sinar matahari.
+    IsCorrect: Salah
+  - Text: Kalimat "He decided to bite the bullet and apologize" berarti dia memaksa dirinya menghadapi sesuatu yang sulit.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_60
+Question: >
+  Tentukan kebenaran struktur "Comparison Degree" pada kalimat-kalimat berikut.
+Explanation: >
+  Perbandingan tingkat memiliki aturan komparatif (-er / more) untuk dua hal dan superlatif (-est / most) untuk lebih dari dua. Double comparatives (more better) adalah salah.
+Options:
+  - Text: "This book is more better than the one I read last week."
+    IsCorrect: Salah
+  - Text: "Of all the students in the class, Sarah is the most diligent."
+    IsCorrect: Benar
+  - Text: "The harder you practice, the easier the game will become." (Pola double comparative yang bermakna proporsional ini benar).
+    IsCorrect: Benar
+  - Text: "My laptop is exactly as faster as yours." (As...as harus menggunakan kata sifat dasar tanpa -er).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_61
+Question: >
+  "The increasing reliance on digital communication has led to a decline in face-to-face interactions. _____, many psychologists warn of a rising epidemic of loneliness among young adults."
+  Which transition word best connects the phenomena?
+Answer: Consequently
+Explanation: >
+  Kalimat pertama adalah sebab (penurunan interaksi tatap muka), dan kalimat kedua adalah akibat (meningkatnya kesepian). Kata transisi yang menunjukkan akibat adalah 'consequently'.
+Options:
+  - Text: On the contrary
+  - Text: Consequently
+  - Text: Nevertheless
+  - Text: Similarly
+  - Text: For instance
+---
+Type: PilihanGanda
+ID: SMA_ING_62
+Question: >
+  "The mayor's decision to bulldoze the historic park was met with fierce backlash from the community, who viewed the area as a sacred heritage site."
+  What does the word "backlash" imply?
+Answer: A strong negative reaction
+Explanation: >
+  Kata 'backlash' berarti reaksi balik yang kuat dan keras, sering kali bernada negatif atau protes, dari kelompok masyarakat terhadap suatu keputusan politik atau sosial.
+Options:
+  - Text: A quiet acceptance
+  - Text: Financial support
+  - Text: A strong negative reaction
+  - Text: Legal authorization
+  - Text: Mild curiosity
+---
+Type: PilihanGanda
+ID: SMA_ING_63
+Question: >
+  "By the time the new CEO takes charge next month, the restructuring plan _____ completely finalized by the board of directors."
+  Which tense correctly describes an action completed before a future time?
+Answer: will have been
+Explanation: >
+  Kombinasi "By the time + Present" merujuk pada future perfect. Karena 'plan' adalah objek pasif yang akan diselesaikan, maka digunakan Future Perfect Passive: will have been + V3.
+Options:
+  - Text: will be
+  - Text: has been
+  - Text: had been
+  - Text: will have been
+  - Text: is being
+---
+Type: PilihanGanda
+ID: SMA_ING_64
+Question: >
+  "Hardly _____ asleep when the fire alarm blared through the hallway."
+  Which phrase completes the negative inversion correctly?
+Answer: had he fallen
+Explanation: >
+  Frasa 'Hardly' di awal kalimat memicu inversi subjek dan auxiliary. Karena konteksnya dua kejadian di masa lalu dengan satu mendahului yang lain, kita gunakan Past Perfect: had + Subject + V3.
+Options:
+  - Text: he had fallen
+  - Text: had he fallen
+  - Text: did he fall
+  - Text: he fell
+  - Text: has he fallen
+---
+Type: PilihanGanda
+ID: SMA_ING_65
+Question: >
+  "The suspect claimed he was at the cinema during the robbery. However, security footage placed him mere blocks away from the bank."
+  What can be inferred from the text?
+Answer: The suspect's alibi is likely false.
+Explanation: >
+  Berdasarkan rekaman keamanan yang menempatkannya di dekat bank, klaim/alibi tersangka bahwa dia berada di bioskop kemungkinan besar tidak benar.
+Options:
+  - Text: The suspect is definitely innocent.
+  - Text: The security footage was manipulated.
+  - Text: The bank and the cinema are in the same building.
+  - Text: The suspect's alibi is likely false.
+  - Text: The robbery took place inside the cinema.
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_66
+Question: >
+  Identify the sentences where the relative pronoun "whom" is used correctly.
+Explanation: >
+  "Whom" digunakan ketika kata ganti tersebut berfungsi sebagai objek dari kata kerja atau preposisi dalam klausa relatif.
+Options:
+  - Text: The manager whom I spoke to yesterday was very helpful.
+    IsCorrect: true
+  - Text: The man whom stole my car has been arrested.
+    IsCorrect: false
+  - Text: To whom it may concern, I am writing to apply for the job.
+    IsCorrect: true
+  - Text: The student whom won the competition received a medal.
+    IsCorrect: false
+  - Text: She is the candidate whom the committee selected for the scholarship.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_67
+Question: >
+  Which of the following phrases correctly use plural nouns with irregular forms?
+Explanation: >
+  Kata benda ireguler (irregular nouns) memiliki bentuk jamak yang tidak berakhiran -s atau -es, seperti children, mice, phenomena.
+Options:
+  - Text: A fleet of aircrafts
+    IsCorrect: false
+  - Text: The scientific phenomena
+    IsCorrect: true
+  - Text: A group of mices
+    IsCorrect: false
+  - Text: Three women standing by the door
+    IsCorrect: true
+  - Text: Important criteria for the selection
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_68
+Question: >
+  Select the correct uses of the preposition "at" in English contexts.
+Explanation: >
+  "At" digunakan untuk menunjukkan titik waktu spesifik (at 8 PM), lokasi yang sangat spesifik (at the bus stop), atau pengecualian idiomatis.
+Options:
+  - Text: The meeting will start at Monday.
+    IsCorrect: false
+  - Text: We are staying at the Hilton Hotel.
+    IsCorrect: true
+  - Text: She is currently working at the moment.
+    IsCorrect: true
+  - Text: He was born at 1995.
+    IsCorrect: false
+  - Text: The concert begins at 7:30 PM.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_69
+Question: >
+  Tentukan Benar atau Salah pada penggunaan "Causative Verbs" dalam kalimat berikut.
+Explanation: >
+  Ingat pola causative: have/make/let + person + verb 1. get + person + to verb 1. have/get + object + verb 3 (pasif).
+Options:
+  - Text: "I will have the mechanic fixed my car tomorrow."
+    IsCorrect: Salah
+  - Text: "She made her children clean their rooms before playing."
+    IsCorrect: Benar
+  - Text: "We got our house painted by a professional."
+    IsCorrect: Benar
+  - Text: "The teacher let the students to leave early."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_70
+Question: >
+  Tentukan Benar atau Salah pada pemahaman tanda baca kutip tunggal (' ') dan koma (,) dalam kalimat bahasa Inggris bersarang.
+Explanation: >
+  Dalam gaya penulisan standar Amerika, tanda baca koma dan titik biasanya ditempatkan di dalam tanda kutip penutup.
+Options:
+  - Text: "He said, 'I will be there in five minutes.'"
+    IsCorrect: Benar
+  - Text: "My favorite poem is Robert Frost's 'The Road Not Taken'." (Gaya Inggris/British style mengizinkan titik di luar jika kutipan bukan kalimat penuh, tapi dalam konteks TKA secara umum kalimat ini dianggap salah secara gramatika Amerika karena titik di luar).
+    IsCorrect: Salah
+  - Text: "The sign clearly stated, 'Do not enter', but he ignored it."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_71
+Question: >
+  "Although the concept of a flying car seems futuristic and implausible, numerous tech startups have already invested millions into its research and development."
+  What does the word "implausible" most nearly mean?
+Answer: Unlikely to be true or practical
+Explanation: >
+  Kata 'implausible' digunakan untuk menggambarkan sesuatu yang tidak masuk akal, sulit dipercaya, atau tidak mungkin dipraktikkan dalam konteks realita saat ini.
+Options:
+  - Text: Extremely dangerous
+  - Text: Unlikely to be true or practical
+  - Text: Highly profitable
+  - Text: Environmentally friendly
+  - Text: Completely predictable
+---
+Type: PilihanGanda
+ID: SMA_ING_72
+Question: >
+  "The professor insisted that all essays _____ submitted by midnight on Friday, without exceptions."
+  Identify the correct verb form.
+Answer: be
+Explanation: >
+  Kata kerja 'insisted that' adalah pemicu present subjunctive. Bentuk kata kerja setelah subjek dalam klausa that harus berupa bare infinitive (be).
+Options:
+  - Text: are
+  - Text: will be
+  - Text: be
+  - Text: were
+  - Text: must be
+---
+Type: PilihanGanda
+ID: SMA_ING_73
+Question: >
+  "Rarely _____ a species adapt to such extreme climatic shifts within a single generation."
+  Complete the sentence using correct negative inversion.
+Answer: does
+Explanation: >
+  Karena kalimat diawali dengan 'Rarely' dan membicarakan fakta umum (Present Tense), auxiliary verb yang digunakan untuk subjek tunggal 'a species' adalah 'does'.
+Options:
+  - Text: do
+  - Text: has
+  - Text: is
+  - Text: does
+  - Text: did
+---
+Type: PilihanGanda
+ID: SMA_ING_74
+Question: >
+  "If the diplomatic talks had succeeded, the trade embargo _____ lifted months ago."
+  Choose the best phrase to complete this conditional type 3 sentence.
+Answer: would have been
+Explanation: >
+  Ini adalah bentuk pasif dari Third Conditional. Embargo (objek) akan telah dicabut (pasif). Rumusnya: would + have + been + V3.
+Options:
+  - Text: would be
+  - Text: will be
+  - Text: would have been
+  - Text: had been
+  - Text: was
+---
+Type: PilihanGanda
+ID: SMA_ING_75
+Question: >
+  "The sheer audacity of the criminal to return to the scene of the crime left the detectives dumbfounded."
+  What is the closest synonym for "audacity" in this context?
+Answer: Boldness
+Explanation: >
+  Kata 'audacity' berarti keberanian yang berlebihan, kenekatan, atau kelancangan. Sinonim terdekat dalam konteks ini adalah 'boldness'.
+Options:
+  - Text: Cowardice
+  - Text: Intelligence
+  - Text: Ignorance
+  - Text: Boldness
+  - Text: Regret
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_76
+Question: >
+  Which of the following complex sentences use adverbial clauses of time correctly?
+Explanation: >
+  Adverbial clauses of time dimulai dengan konjungsi seperti when, while, after, before, as soon as, dan menghubungkan dua kejadian dalam waktu.
+Options:
+  - Text: I will call you as soon as I will arrive at the hotel.
+    IsCorrect: false
+  - Text: While I was walking down the street, I saw an old friend.
+    IsCorrect: true
+  - Text: Before leaving the house, make sure to turn off all the lights.
+    IsCorrect: true
+  - Text: We had already finished dinner when the guests arrived.
+    IsCorrect: true
+  - Text: After he finishes his homework, he went to bed.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_77
+Question: >
+  Select the options that correctly demonstrate subject-verb agreement with indefinite pronouns.
+Explanation: >
+  Indefinite pronouns seperti everyone, somebody, nobody, anyone dianggap sebagai subjek tunggal (singular) sehingga kata kerjanya harus tunggal.
+Options:
+  - Text: Everyone in the class are required to submit a final project.
+    IsCorrect: false
+  - Text: Someone has left their umbrella in the hallway.
+    IsCorrect: true
+  - Text: Neither of the students is fully prepared for the exam.
+    IsCorrect: true
+  - Text: Both of the candidates has excellent public speaking skills.
+    IsCorrect: false
+  - Text: Nobody knows the exact combination to open the safe.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_78
+Question: >
+  Which sentences correctly utilize the subjunctive mood to express importance, suggestion, or necessity?
+Explanation: >
+  Subjunctive mood biasanya mengikuti kata-kata seperti suggest, recommend, demand, essential, important, dll, dengan bentuk bare infinitive.
+Options:
+  - Text: It is essential that the patient takes his medicine daily.
+    IsCorrect: false
+  - Text: The board recommended that the budget be reviewed immediately.
+    IsCorrect: true
+  - Text: I suggest that he consult a lawyer before signing the contract.
+    IsCorrect: true
+  - Text: It is crucial that she arrives on time for the interview.
+    IsCorrect: false
+  - Text: The law requires that every citizen pay taxes.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_79
+Question: >
+  Tentukan Benar atau Salah penggunaan Participle Adjectives (berakhiran -ed vs -ing).
+Explanation: >
+  Adjective dengan -ed digunakan untuk perasaan yang dialami subjek (bored = merasa bosan). Adjective dengan -ing digunakan untuk hal yang menyebabkan perasaan tersebut (boring = membosankan).
+Options:
+  - Text: "The lecture was so bored that many students fell asleep."
+    IsCorrect: Salah
+  - Text: "She was completely exhausted after running the marathon."
+    IsCorrect: Benar
+  - Text: "The horror movie was very frightening."
+    IsCorrect: Benar
+  - Text: "I am interesting in learning Japanese culture."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_80
+Question: >
+  Tentukan Benar atau Salah klausa benda (Noun Clause) pada kalimat majemuk berikut.
+Explanation: >
+  Noun clause harus berfungsi sebagai noun (subjek, objek, atau pelengkap) dan polanya adalah klausa afirmatif, bukan pertanyaan.
+Options:
+  - Text: "I don't know what is his name."
+    IsCorrect: Salah
+  - Text: "What she said at the meeting surprised everyone."
+    IsCorrect: Benar
+  - Text: "The mystery is how did the thief enter the locked room."
+    IsCorrect: Salah
+  - Text: "Do you understand why they cancelled the event?"
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_81
+Question: >
+  "The proliferation of fake news on social media platforms has severely undermined public trust in traditional journalism. _____, many media outlets are establishing dedicated fact-checking divisions."
+  What is the most suitable transition word to connect these sentences?
+Answer: As a result
+Explanation: >
+  Berita palsu merusak kepercayaan (sebab). Sebagai akibatnya, media membentuk divisi pengecek fakta (akibat). Transisi yang tepat adalah 'As a result'.
+Options:
+  - Text: In contrast
+  - Text: As a result
+  - Text: In addition
+  - Text: For example
+  - Text: Likewise
+---
+Type: PilihanGanda
+ID: SMA_ING_82
+Question: >
+  "By 2050, researchers estimate that nearly a quarter of all terrestrial species _____ extinct if global warming is not aggressively addressed."
+  Which verb form accurately portrays an action completed by a future deadline?
+Answer: will have gone
+Explanation: >
+  Frasa 'By 2050' merupakan penanda Future Perfect Tense, yang mengindikasikan bahwa suatu kejadian diprediksi telah selesai atau terjadi sebelum waktu tersebut (will have + V3).
+Options:
+  - Text: are going
+  - Text: will go
+  - Text: went
+  - Text: will have gone
+  - Text: have gone
+---
+Type: PilihanGanda
+ID: SMA_ING_83
+Question: >
+  "No sooner had the president announced the new economic stimulus package _____ the stock market experienced a massive surge."
+  Which conjunction appropriately pairs with "No sooner"?
+Answer: than
+Explanation: >
+  Dalam struktur inversi bahasa Inggris, frasa "No sooner" selalu berpasangan dengan konjungsi "than", berbeda dengan "Scarcely" atau "Hardly" yang berpasangan dengan "when".
+Options:
+  - Text: when
+  - Text: then
+  - Text: that
+  - Text: than
+  - Text: while
+---
+Type: PilihanGanda
+ID: SMA_ING_84
+Question: >
+  "The author's polemical tone throughout the essay suggests that he has little interest in a balanced debate."
+  What does the word "polemical" mean?
+Answer: Strongly critical or controversial writing
+Explanation: >
+  'Polemical' berasal dari kata polemik, yang berarti suatu tulisan atau argumen agresif, sangat kritis, dan bertujuan menyerang pendapat pihak lain alih-alih mencari keseimbangan.
+Options:
+  - Text: Calm and soothing
+  - Text: Strongly critical or controversial writing
+  - Text: Humorous and light-hearted
+  - Text: Extremely objective and scientific
+  - Text: Poetic and deeply emotional
+---
+Type: PilihanGanda
+ID: SMA_ING_85
+Question: >
+  "_____ the bad weather, the organizers decided to move the concert to an indoor arena."
+  Which preposition correctly indicates reason?
+Answer: Due to
+Explanation: >
+  Karena ada frasa kata benda (noun phrase) "the bad weather", kita memerlukan preposisi yang menunjukkan sebab. 'Due to' atau 'Because of' adalah pilihan yang tepat.
+Options:
+  - Text: Because
+  - Text: In spite of
+  - Text: Due to
+  - Text: Although
+  - Text: However
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_86
+Question: >
+  Identify the sentences that correctly structure mixed conditionals.
+Explanation: >
+  Mixed conditional seringkali memadukan if clause tipe 3 (kondisi lampau: if + past perfect) dengan klausa utama tipe 2 (hasil masa kini: would + V1), atau sebaliknya.
+Options:
+  - Text: If I had won the lottery last year, I would be living in Paris now.
+    IsCorrect: true
+  - Text: If she is a better speaker, she would have convinced the jury yesterday.
+    IsCorrect: false
+  - Text: If I were you, I wouldn't have sent that angry email last night.
+    IsCorrect: true
+  - Text: If he had studied harder, he will pass the exam today.
+    IsCorrect: false
+  - Text: If we had bought the tickets sooner, we wouldn't be standing in this long queue.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_87
+Question: >
+  Select the phrasal verbs that are correctly matched with their definitions.
+Explanation: >
+  Phrasal verbs menggabungkan kata kerja dasar dengan preposisi atau adverbia untuk menciptakan makna baru yang seringkali tidak harfiah.
+Options:
+  - Text: "Give up" - To surrender or stop trying.
+    IsCorrect: true
+  - Text: "Look forward to" - To anticipate with pleasure.
+    IsCorrect: true
+  - Text: "Put off" - To put clothing on one's body.
+    IsCorrect: false
+  - Text: "Turn down" - To accept an offer enthusiastically.
+    IsCorrect: false
+  - Text: "Call off" - To cancel an event or agreement.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_88
+Question: >
+  Which of the following pairs of words are accurate antonyms?
+Explanation: >
+  Antonim adalah lawan kata. Penguasaan kosakata termasuk kemampuan membedakan pasangan kata yang memiliki makna saling bertolak belakang.
+Options:
+  - Text: Abundant – Scarce
+    IsCorrect: true
+  - Text: Inevitable – Avoidable
+    IsCorrect: true
+  - Text: Obscure – Unclear
+    IsCorrect: false
+  - Text: Diligent – Lazy
+    IsCorrect: true
+  - Text: Arrogant – Conceited
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_89
+Question: >
+  Tentukan Benar atau Salah pernyataan mengenai penggabungan dua klausa menggunakan "Correlative Conjunctions".
+Explanation: >
+  Correlative conjunctions adalah konjungsi berpasangan seperti both...and, either...or, neither...nor, not only...but also. Mereka harus menghubungkan elemen gramatikal yang setara (parallel).
+Options:
+  - Text: "He is not only a talented musician but also an accomplished writer."
+    IsCorrect: Benar
+  - Text: "Either you clean your room nor you stay grounded for a week."
+    IsCorrect: Salah
+  - Text: "Both the students and the teacher was excited about the trip."
+    IsCorrect: Salah
+  - Text: "She neither speaks French nor understands it."
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_90
+Question: >
+  Tentukan Benar atau Salah pada penggunaan bentuk kata ganti kepemilikan (Possessive Pronouns vs Possessive Adjectives).
+Explanation: >
+  Possessive adjectives (my, your, their, its) diletakkan sebelum noun. Possessive pronouns (mine, yours, theirs) berdiri sendiri sebagai pengganti noun.
+Options:
+  - Text: "This book is my, and that one is your."
+    IsCorrect: Salah
+  - Text: "The dog wagged it's tail happily."
+    IsCorrect: Salah
+  - Text: "These keys are mine, but I don't know whose those are."
+    IsCorrect: Benar
+  - Text: "Their house is much bigger than ours."
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_91
+Question: >
+  "Many critics argue that the new artificial intelligence regulations are draconian and stifle innovation in the tech sector."
+  What does the word "draconian" mean in this sentence?
+Answer: Excessively harsh and severe
+Explanation: >
+  'Draconian' berasal dari nama legislator Athena, Draco, yang hukum-hukumnya sangat kejam. Dalam konteks modern, kata ini berarti peraturan yang terlalu keras dan kejam.
+Options:
+  - Text: Progressive and forward-thinking
+  - Text: Outdated and irrelevant
+  - Text: Excessively harsh and severe
+  - Text: Light and forgiving
+  - Text: Confusing and ambiguous
+---
+Type: PilihanGanda
+ID: SMA_ING_92
+Question: >
+  "Not until the very last chapter _____ the true identity of the mysterious benefactor."
+  Choose the correct structure to complete the sentence.
+Answer: did the author reveal
+Explanation: >
+  Kalimat yang diawali dengan frasa penanda waktu negatif "Not until" harus diikuti oleh inversi pada klausa utamanya (auxiliary + subject + verb). Karena ini kejadian masa lalu, 'did' digunakan.
+Options:
+  - Text: the author revealed
+  - Text: did the author reveal
+  - Text: revealed the author
+  - Text: has the author revealed
+  - Text: the author reveals
+---
+Type: PilihanGanda
+ID: SMA_ING_93
+Question: >
+  "The manager requires that every employee _____ a detailed weekly report by Friday afternoon."
+  Which verb is correct?
+Answer: submit
+Explanation: >
+  Ini adalah pola subjunctive karena ada pemicu "requires that". Kata kerjanya harus berbentuk dasar tanpa 's' meskipun subjeknya 'every employee' (yang biasanya dianggap tunggal).
+Options:
+  - Text: submits
+  - Text: submitted
+  - Text: to submit
+  - Text: submit
+  - Text: is submitting
+---
+Type: PilihanGanda
+ID: SMA_ING_94
+Question: >
+  "If the factory had adhered to the safety protocols, the tragic accident _____ avoided."
+  Complete the sentence correctly.
+Answer: could have been
+Explanation: >
+  Kondisional tipe 3 bentuk pasif. Kecelakaan (objek) dapat dihindari (pasif). Bentuk pasifnya adalah could/would + have + been + V3.
+Options:
+  - Text: could be
+  - Text: might have
+  - Text: could have been
+  - Text: had been
+  - Text: was
+---
+Type: PilihanGanda
+ID: SMA_ING_95
+Question: >
+  "The juxtaposition of wealth and poverty in the inner city is starkly evident; luxury condominiums overlook dilapidated homeless encampments."
+  What is the purpose of the word "juxtaposition"?
+Answer: To show the contrasting placement of two different things side-by-side.
+Explanation: >
+  'Juxtaposition' merujuk pada penempatan dua elemen yang berbeda secara berdampingan untuk menyoroti perbedaan atau kontras di antara keduanya secara mencolok.
+Options:
+  - Text: To describe the gradual improvement of living conditions.
+  - Text: To show the contrasting placement of two different things side-by-side.
+  - Text: To argue that wealth and poverty are exactly the same concept.
+  - Text: To emphasize the architectural styles of luxury condominiums.
+  - Text: To deny the existence of poverty in urban areas.
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_96
+Question: >
+  Which of the following sentences correctly use prepositional phrases for spatial or logical relationships?
+Explanation: >
+  Preposisi menghubungkan kata benda dengan bagian kalimat lainnya untuk menunjukkan tempat, waktu, arah, atau hubungan logis lainnya (misalnya under, between, beyond, among).
+Options:
+  - Text: The secret document was hidden beneath the floorboards.
+    IsCorrect: true
+  - Text: The agreement was reached between the three different countries.
+    IsCorrect: false
+  - Text: She distributed the candies among the children in the classroom.
+    IsCorrect: true
+  - Text: His extraordinary abilities are beyond my comprehension.
+    IsCorrect: true
+  - Text: The cat jumped over the fence and disappeared into the night.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_97
+Question: >
+  Identify the grammatical errors in conditional sentences below. Select the statements that are INCORRECT.
+Explanation: >
+  TKA sering menjebak siswa dengan percampuran tipe conditional yang salah kaprah atau penempatan auxiliary verb ganda di if-clause (contoh: if I would have...).
+Options:
+  - Text: If it will rain tomorrow, we will cancel the picnic.
+    IsCorrect: true
+  - Text: If he had driven more carefully, he wouldn't crash his car.
+    IsCorrect: true
+  - Text: Unless you don't study hard, you will fail the test.
+    IsCorrect: true
+  - Text: If I were you, I would take that job offer.
+    IsCorrect: false
+  - Text: Had she known the truth, she wouldn't have married him.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_98
+Question: >
+  Which sentences represent correctly formulated reported speech (indirect speech)?
+Explanation: >
+  Dalam indirect speech, jika reporting verb adalah bentuk lampau (said/told), tenses di dalam klausa laporan biasanya mundur (backshift), contoh present menjadi past.
+Options:
+  - Text: He said that he is tired and wants to go home.
+    IsCorrect: false
+  - Text: She told me that she had already finished her assignment.
+    IsCorrect: true
+  - Text: The teacher asked if I understand the lesson.
+    IsCorrect: false
+  - Text: John asked Mary where she had bought that beautiful dress.
+    IsCorrect: true
+  - Text: They announced that the flight was delayed due to bad weather.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_99
+Question: >
+  Tentukan Benar atau Salah analisis struktur kalimat berkalang (Complex-Compound Sentence) ini.
+  "Although he was exhausted from the journey, he unpacked his bags immediately, and he started preparing dinner."
+Explanation: >
+  Kalimat ini memiliki satu klausa anak/dependent (Although he was exhausted) dan dua klausa induk/independent yang dihubungkan dengan "and". Ini menjadikannya complex-compound sentence.
+Options:
+  - Text: Kalimat tersebut mengandung satu dependent clause.
+    IsCorrect: Benar
+  - Text: Frasa "he unpacked his bags immediately" adalah dependent clause.
+    IsCorrect: Salah
+  - Text: Kalimat ini tergolong ke dalam tipe "Simple Sentence".
+    IsCorrect: Salah
+  - Text: Konjungsi "and" dalam kalimat ini menghubungkan dua independent clauses.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_100
+Question: >
+  Tentukan Benar atau Salah mengenai prinsip kesejajaran ide (Parallelism) dan Koherensi paragraf.
+Explanation: >
+  Kesejajaran memastikan bahwa deretan argumen atau penomoran menggunakan struktur tata bahasa yang sama untuk menjaga aliran dan keterbacaan (koherensi) sebuah teks akademik.
+Options:
+  - Text: Paragraf yang koheren berarti paragraf tersebut berisi banyak ide utama yang saling bertentangan secara tidak logis.
+    IsCorrect: Salah
+  - Text: Penggunaan transition words (seperti namun, oleh karena itu) sangat penting untuk menjaga koherensi antar kalimat.
+    IsCorrect: Benar
+  - Text: Kalimat "The committee evaluated the proposal for its cost, efficiency, and whether it could be completed on time" sudah mengikuti aturan parallelism yang sempurna.
+    IsCorrect: Salah
+  - Text: Mengulang struktur gramatikal yang sama pada elemen yang bersesuaian akan memperkuat gaya bahasa.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_101
+Question: >
+  "By the time the manager arrived at the office, the meeting _____ for 30 minutes."
+  Which tense correctly fills the blank to show an action in progress before a past event?
+Answer: had been going on
+Explanation: >
+  Kalimat ini menunjukkan kejadian yang sedang berlangsung selama durasi tertentu sebelum kejadian lain di masa lalu terjadi (manager arrived). Oleh karena itu, kita menggunakan Past Perfect Continuous Tense.
+Options:
+  - Text: went on
+  - Text: has been going on
+  - Text: had been going on
+  - Text: was going on
+  - Text: would have gone on
+---
+Type: PilihanGanda
+ID: SMA_ING_102
+Question: >
+  "_____ his lack of experience, he was appointed as the head of the project team."
+  Choose the correct preposition to express contrast.
+Answer: Despite
+Explanation: >
+  Kata yang mengikuti titik-titik adalah frasa benda (his lack of experience), bukan klausa penuh. Untuk menyatakan pertentangan, preposition yang tepat adalah "Despite" atau "In spite of".
+Options:
+  - Text: Although
+  - Text: Despite
+  - Text: Even though
+  - Text: Because of
+  - Text: However
+---
+Type: PilihanGanda
+ID: SMA_ING_103
+Question: >
+  "The professor requires that all assignments _____ via the online portal before midnight."
+  Which verb correctly completes the subjunctive structure?
+Answer: be submitted
+Explanation: >
+  Kata "requires that" memicu penggunaan subjunctive mood. Bentuk pasif yang benar untuk subjunctive adalah "be + V3", mengabaikan bentuk tenses dari subjek "all assignments".
+Options:
+  - Text: are submitted
+  - Text: be submitted
+  - Text: to be submitted
+  - Text: must be submitted
+  - Text: submit
+---
+Type: PilihanGanda
+ID: SMA_ING_104
+Question: >
+  "Scarcely _____ the room when the lights went out completely."
+  Identify the correct inverted structure.
+Answer: had I entered
+Explanation: >
+  Kalimat yang diawali dengan negative adverbial "Scarcely" memerlukan inversi subject dan auxiliary verb. Bentuk yang tepat dan logis secara kronologis adalah Past Perfect "had I entered".
+Options:
+  - Text: I had entered
+  - Text: did I enter
+  - Text: had I entered
+  - Text: I enter
+  - Text: have I entered
+---
+Type: PilihanGanda
+ID: SMA_ING_105
+Question: >
+  "The company is undergoing a massive restructuring; _____, several departments will be merged to cut costs."
+  Which transition word best indicates a consequence?
+Answer: consequently
+Explanation: >
+  Restrukturisasi menyebabkan beberapa departemen digabung. Oleh karena itu, kata transisi yang paling tepat untuk menunjukkan akibat (consequence) adalah "consequently".
+Options:
+  - Text: nevertheless
+  - Text: consequently
+  - Text: furthermore
+  - Text: conversely
+  - Text: meanwhile
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_106
+Question: >
+  Which of the following sentences correctly use the Present Perfect tense?
+Explanation: >
+  Present Perfect tense (have/has + V3) digunakan untuk aksi masa lalu yang masih berlanjut atau memiliki efek hingga masa kini.
+Options:
+  - Text: I have finished my homework two hours ago.
+    IsCorrect: false
+  - Text: She has lived in London since 2010.
+    IsCorrect: true
+  - Text: They have already visited the museum.
+    IsCorrect: true
+  - Text: Have you ever been to Japan?
+    IsCorrect: true
+  - Text: He has goes to the store.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_107
+Question: >
+  Identify the sentences that correctly employ causative verbs.
+Explanation: >
+  Causative verbs seperti have, get, make, dan let memiliki pola khusus. (e.g., have someone do something, get someone to do something).
+Options:
+  - Text: The teacher made the students to write an essay.
+    IsCorrect: false
+  - Text: I had my car repaired yesterday.
+    IsCorrect: true
+  - Text: She got her brother to help with the chores.
+    IsCorrect: true
+  - Text: They let the dog played outside.
+    IsCorrect: false
+  - Text: We will have the mechanic check the engine.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_108
+Question: >
+  Select the clauses that function correctly as Noun Clauses.
+Explanation: >
+  Noun clause adalah anak kalimat yang berfungsi sebagai kata benda (subjek atau objek) dan polanya selalu afirmatif, bukan bentuk pertanyaan.
+Options:
+  - Text: I don't know where she lives.
+    IsCorrect: true
+  - Text: Can you tell me what time is it?
+    IsCorrect: false
+  - Text: What you said during the meeting was true.
+    IsCorrect: true
+  - Text: The fact that he passed the exam surprised everyone.
+    IsCorrect: true
+  - Text: She asked me why did I cry.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_109
+Question: >
+  Tentukan Benar atau Salah penggunaan "Question Tag" pada kalimat-kalimat berikut.
+Explanation: >
+  Question tag harus berkebalikan dengan klausa utama (positif-negatif) dan menggunakan subjek pronoun yang sesuai.
+Options:
+  - Text: "He rarely goes to the library, doesn't he?"
+    IsCorrect: Salah
+  - Text: "Let's grab a cup of coffee, shall we?"
+    IsCorrect: Benar
+  - Text: "Nobody called me last night, did they?"
+    IsCorrect: Benar
+  - Text: "I am expected to attend the seminar, am not I?"
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_110
+Question: >
+  Tentukan Benar atau Salah untuk struktur "Gerund vs Infinitive" dalam kalimat ini.
+Explanation: >
+  Kata kerja tertentu diikuti oleh gerund (V-ing), sementara yang lain diikuti infinitive (to V1).
+Options:
+  - Text: "She avoided to talk to him after the argument."
+    IsCorrect: Salah
+  - Text: "We have decided to postpone the meeting until next week."
+    IsCorrect: Benar
+  - Text: "He enjoys playing basketball on weekends."
+    IsCorrect: Benar
+  - Text: "I look forward to hear from you soon."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_111
+Question: >
+  "If the government had intervened earlier, the economic crisis _____ averted."
+  Complete this third conditional sentence.
+Answer: could have been
+Explanation: >
+  Kondisional tipe 3 menggunakan pola "If + Past Perfect, Subject + would/could/might + have + V3". Kalimat ini berbentuk pasif, sehingga menjadi "could have been averted".
+Options:
+  - Text: could be
+  - Text: would be
+  - Text: could have been
+  - Text: had been
+  - Text: is
+---
+Type: PilihanGanda
+ID: SMA_ING_112
+Question: >
+  "The new policy is highly controversial, as it _____ heavily on small business owners."
+  Choose the best phrasal verb.
+Answer: bears down
+Explanation: >
+  Dalam konteks ini, kebijakan tersebut menekan atau memberikan beban berat. "Bear down" bermakna memberikan tekanan berat atau berlaku keras terhadap sesuatu.
+Options:
+  - Text: breaks down
+  - Text: puts off
+  - Text: bears down
+  - Text: brings up
+  - Text: gives up
+---
+Type: PilihanGanda
+ID: SMA_ING_113
+Question: >
+  "Not only _____ the match, but he also broke the world record."
+  Choose the correct inverted form.
+Answer: did he win
+Explanation: >
+  Frasa negatif "Not only" di awal klausa memerlukan inversi (Auxiliary + Subject + Verb). Karena kejadian di masa lalu (berdasarkan "broke"), auxiliary yang tepat adalah "did".
+Options:
+  - Text: he won
+  - Text: did he win
+  - Text: he did win
+  - Text: won he
+  - Text: has he won
+---
+Type: PilihanGanda
+ID: SMA_ING_114
+Question: >
+  "The scientist, _____ research on renewable energy won a Nobel Prize, will be giving a lecture today."
+  Which relative pronoun is correct?
+Answer: whose
+Explanation: >
+  Kata "whose" digunakan untuk menunjukkan kepemilikan. Dalam hal ini, riset (research) tersebut adalah milik ilmuwan (the scientist).
+Options:
+  - Text: who
+  - Text: whom
+  - Text: which
+  - Text: whose
+  - Text: that
+---
+Type: PilihanGanda
+ID: SMA_ING_115
+Question: >
+  "The torrential rain caused severe flooding in the area. _____, many residents had to be evacuated immediately."
+  Select the correct transition.
+Answer: As a result
+Explanation: >
+  Hujan deras adalah penyebab, dan evakuasi adalah akibat. Frasa transisi "As a result" secara langsung menunjukkan hubungan sebab-akibat ini.
+Options:
+  - Text: In contrast
+  - Text: As a result
+  - Text: For instance
+  - Text: Moreover
+  - Text: However
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_116
+Question: >
+  Identify the conditional sentences that represent unreal situations in the present (Type 2).
+Explanation: >
+  Conditional Type 2 (If + Simple Past, Subject + would/could + V1) digunakan untuk pengandaian yang tidak nyata atau berlawanan dengan fakta masa kini.
+Options:
+  - Text: If I have enough money, I will buy a new laptop.
+    IsCorrect: false
+  - Text: If I knew the answer, I would tell you.
+    IsCorrect: true
+  - Text: If he were the president, he would lower taxes.
+    IsCorrect: true
+  - Text: If it rains tomorrow, we will stay home.
+    IsCorrect: false
+  - Text: If she lived closer, we could hang out more often.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_117
+Question: >
+  Which sentences correctly utilize the passive voice?
+Explanation: >
+  Passive voice menekankan pada objek yang dikenai tindakan. Pola dasarnya: Subject (penderita) + to be + Past Participle (V3).
+Options:
+  - Text: A new bridge is being built across the river.
+    IsCorrect: true
+  - Text: The committee has announced the final decision.
+    IsCorrect: false
+  - Text: The book was written by an unknown author.
+    IsCorrect: true
+  - Text: They are cleaning the laboratory right now.
+    IsCorrect: false
+  - Text: The documents will have been signed by tomorrow.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_118
+Question: >
+  Select the sentences where participles (-ing or -ed) are used correctly as adjectives.
+Explanation: >
+  Participle berakhiran -ed menggambarkan perasaan seseorang (bored, interested), sedangkan -ing menggambarkan sifat sesuatu yang menyebabkan perasaan itu (boring, interesting).
+Options:
+  - Text: The movie was so bored that I fell asleep.
+    IsCorrect: false
+  - Text: I am very interested in ancient history.
+    IsCorrect: true
+  - Text: It was an exhausting journey through the mountains.
+    IsCorrect: true
+  - Text: She felt terrifying when she heard the loud noise.
+    IsCorrect: false
+  - Text: The confusing instructions caused many mistakes.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_119
+Question: >
+  Tentukan Benar atau Salah pada penggunaan "Parallel Structure" (Struktur Paralel) di bawah ini.
+Explanation: >
+  Elemen-elemen dalam sebuah deretan atau daftar harus menggunakan bentuk gramatikal yang seragam untuk menjaga kesejajaran.
+Options:
+  - Text: "She likes hiking, swimming, and to ride a bike."
+    IsCorrect: Salah
+  - Text: "His duties involve answering emails, making phone calls, and greeting clients."
+    IsCorrect: Benar
+  - Text: "The software is efficient, reliable, and it is easy to use."
+    IsCorrect: Salah
+  - Text: "To think critically and to write clearly are important skills for college."
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_120
+Question: >
+  Evaluasi Benar atau Salah perubahan kalimat dari Direct Speech menjadi Indirect Speech berikut.
+  Direct: "I bought this car yesterday," he said.
+Explanation: >
+  Perubahan pronoun (I -> he), tenses (Past -> Past Perfect), dan penanda waktu (yesterday -> the day before / the previous day).
+Options:
+  - Text: He said that he had bought that car the day before.
+    IsCorrect: Benar
+  - Text: He said that he bought this car yesterday.
+    IsCorrect: Salah
+  - Text: He said that he had bought this car the previous day.
+    IsCorrect: Salah
+  - Text: He told that he had bought that car the previous day.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_121
+Question: >
+  "Many indigenous species in the region are _____ the verge of extinction due to aggressive deforestation."
+  Which preposition completes the idiom correctly?
+Answer: on
+Explanation: >
+  Idiom yang tepat adalah "on the verge of", yang berarti di ambang batas atau hampir mengalami sesuatu (dalam hal ini, kepunahan).
+Options:
+  - Text: at
+  - Text: in
+  - Text: on
+  - Text: to
+  - Text: by
+---
+Type: PilihanGanda
+ID: SMA_ING_122
+Question: >
+  "The suspect vehemently denied _____ any part in the elaborate heist."
+  Which verb form follows the verb "deny"?
+Answer: having
+Explanation: >
+  Kata kerja "deny" harus selalu diikuti oleh gerund (Verb-ing). Karena kejadiannya sudah berlangsung, kita menggunakan bentuk gerund perfect atau simpel ("having").
+Options:
+  - Text: to have
+  - Text: have
+  - Text: had
+  - Text: having
+  - Text: to having
+---
+Type: PilihanGanda
+ID: SMA_ING_123
+Question: >
+  "If the architects had taken the soft soil into consideration, the building's foundation _____ so severely compromised."
+  Complete this mixed/third conditional clause.
+Answer: would not have been
+Explanation: >
+  Ini adalah conditional tipe 3 (If + Past Perfect). Klausa utamanya harus "would have + V3". Karena maknanya pasif, maka menjadi "would not have been compromised".
+Options:
+  - Text: would not be
+  - Text: will not be
+  - Text: would not have been
+  - Text: had not been
+  - Text: has not been
+---
+Type: PilihanGanda
+ID: SMA_ING_124
+Question: >
+  "_____ had the exhibition opened than hundreds of eager art enthusiasts flooded the gallery."
+  Choose the correct adverbial to start the sentence.
+Answer: No sooner
+Explanation: >
+  Frasa "than" di tengah kalimat mengindikasikan bahwa inversi awal harus menggunakan "No sooner" (No sooner... than).
+Options:
+  - Text: Hardly
+  - Text: Scarcely
+  - Text: Barely
+  - Text: No sooner
+  - Text: Rarely
+---
+Type: PilihanGanda
+ID: SMA_ING_125
+Question: >
+  "The CEO demanded that the faulty product lines _____ from the market immediately to protect the brand's reputation."
+  Which form fits the subjunctive rule?
+Answer: be withdrawn
+Explanation: >
+  "Demanded that" adalah pemicu subjunctive, yang mensyaratkan verb murni (bare infinitive) "be". Karena produk (pasif) yang ditarik, maka harus "be withdrawn".
+Options:
+  - Text: are withdrawn
+  - Text: were withdrawn
+  - Text: be withdrawn
+  - Text: is withdrawn
+  - Text: will be withdrawn
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_126
+Question: >
+  Identify the sentences containing Adverbial Clauses of Contrast/Concession.
+Explanation: >
+  Klausa adverbial konsesi menunjukkan pertentangan yang tidak terduga, biasanya diawali dengan konjungsi seperti although, even though, atau while.
+Options:
+  - Text: Although it was raining heavily, they continued playing football.
+    IsCorrect: true
+  - Text: I will call you as soon as I arrive at the airport.
+    IsCorrect: false
+  - Text: Even though she was exhausted, she finished the report.
+    IsCorrect: true
+  - Text: Because the weather was bad, the flight was delayed.
+    IsCorrect: false
+  - Text: While he is very talented, he lacks discipline.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_127
+Question: >
+  Select the options where Correlative Conjunctions are used correctly.
+Explanation: >
+  Correlative conjunctions berpasangan (either...or, neither...nor, not only...but also, both...and) dan harus menghubungkan struktur tata bahasa yang paralel.
+Options:
+  - Text: She is not only intelligent but also hardworking.
+    IsCorrect: true
+  - Text: Either you finish your dinner nor you don't get dessert.
+    IsCorrect: false
+  - Text: Neither the manager nor the employees were happy with the decision.
+    IsCorrect: true
+  - Text: Both the teacher and the students is going on the trip.
+    IsCorrect: false
+  - Text: I want either the chocolate cake or the strawberry pie.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_128
+Question: >
+  Which of these sentences correctly express wishes about the past?
+Explanation: >
+  Wishes tentang masa lalu (penyesalan) dibentuk menggunakan "Subject + wish + Subject + Past Perfect (had + V3)".
+Options:
+  - Text: I wish I had studied harder for the math exam.
+    IsCorrect: true
+  - Text: She wishes she knew how to speak French.
+    IsCorrect: false
+  - Text: They wish they hadn't bought that expensive car.
+    IsCorrect: true
+  - Text: I wish it would stop raining soon.
+    IsCorrect: false
+  - Text: He wishes he had taken the doctor's advice.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_129
+Question: >
+  Tentukan Benar atau Salah pada penggunaan "Elliptical Construction" (konstruksi elips) berikut.
+Explanation: >
+  Elips digunakan untuk menghindari pengulangan. Positif menggunakan 'so'/'too', negatif menggunakan 'neither'/'either'.
+Options:
+  - Text: "John is studying for the test, and so is Mary."
+    IsCorrect: Benar
+  - Text: "I haven't seen that movie, and neither has he."
+    IsCorrect: Benar
+  - Text: "They play tennis every weekend, and we do too."
+    IsCorrect: Benar
+  - Text: "She didn't like the food, and he didn't too."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_130
+Question: >
+  Tentukan Benar atau Salah kalimat yang menggunakan bentuk "Future Perfect Tense" ini.
+Explanation: >
+  Future Perfect (will have + V3) digunakan untuk aksi yang akan sudah selesai pada waktu tertentu di masa depan (biasanya ditandai dengan "By...").
+Options:
+  - Text: "By next month, I will have lived in this city for five years."
+    IsCorrect: Benar
+  - Text: "By the time you arrive, we will have finishing our dinner."
+    IsCorrect: Salah
+  - Text: "She will have graduated from university by 2025."
+    IsCorrect: Benar
+  - Text: "At 8 PM tomorrow, I will have been watching TV." (Ini adalah Future Perfect Continuous, bukan Future Perfect sederhana, dan secara konteks penamaannya berbeda).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_131
+Question: >
+  "The proliferation of smartphones has inextricably linked humanity to the digital realm, altering fundamental social dynamics."
+  What is the closest synonym for "proliferation" in this context?
+Answer: Rapid increase
+Explanation: >
+  Kata "proliferation" berarti peningkatan atau penyebaran yang sangat cepat, sering digunakan untuk mendeskripsikan teknologi, sel, atau senjata.
+Options:
+  - Text: Gradual decline
+  - Text: Rapid increase
+  - Text: Complete destruction
+  - Text: Slow evolution
+  - Text: Total isolation
+---
+Type: PilihanGanda
+ID: SMA_ING_132
+Question: >
+  "Only after the scandal was exposed _____ realize the magnitude of the corruption within the corporation."
+  Which phrasing completes the sentence correctly?
+Answer: did the public
+Explanation: >
+  Frasa awalan "Only after" memerlukan inversi pada main clause (klausa utama). Karena kejadian di masa lampau, auxiliary "did" ditempatkan sebelum subjek "the public".
+Options:
+  - Text: the public did
+  - Text: did the public
+  - Text: the public realized
+  - Text: has the public
+  - Text: do the public
+---
+Type: PilihanGanda
+ID: SMA_ING_133
+Question: >
+  "The jury found the defendant guilty, a verdict _____ sparked widespread protests across the city."
+  Which relative pronoun best fills the gap?
+Answer: which
+Explanation: >
+  "Which" dapat merujuk pada seluruh klausa sebelumnya (fakta bahwa juri menyatakan terdakwa bersalah), bertindak sebagai subjek dari kata kerja "sparked".
+Options:
+  - Text: who
+  - Text: whom
+  - Text: whose
+  - Text: which
+  - Text: that
+---
+Type: PilihanGanda
+ID: SMA_ING_134
+Question: >
+  "If she _____ to my advice, she wouldn't be in this difficult financial situation now."
+  Identify the correct verb form for this mixed conditional sentence.
+Answer: had listened
+Explanation: >
+  Mixed conditional memadukan Type 3 (kondisi lampau, "had listened") dan Type 2 (akibat masa kini, "wouldn't be"). Fakta: Dia tidak mendengarkan di masa lampau, akibatnya dia kesulitan sekarang.
+Options:
+  - Text: listened
+  - Text: listens
+  - Text: has listened
+  - Text: had listened
+  - Text: would listen
+---
+Type: PilihanGanda
+ID: SMA_ING_135
+Question: >
+  "The committee's proposal was met with unanimous approval; _____, it will be implemented starting next quarter."
+  Which adverb correctly expresses the consequence?
+Answer: therefore
+Explanation: >
+  Persetejuan bulat adalah alasan (sebab), dan implementasi adalah hasil (akibat). "Therefore" adalah kata hubung yang tepat untuk menunjukkan akibat/kesimpulan.
+Options:
+  - Text: nonetheless
+  - Text: therefore
+  - Text: however
+  - Text: conversely
+  - Text: meanwhile
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_136
+Question: >
+  Select the options where Subject-Verb Agreement is applied correctly.
+Explanation: >
+  Subjek tunggal membutuhkan kata kerja tunggal, dan sebaliknya. Indefinite pronouns seperti 'everyone' adalah tunggal, sedangkan frasa seperti 'A number of' adalah jamak.
+Options:
+  - Text: A number of students are waiting outside the classroom.
+    IsCorrect: true
+  - Text: The number of applicants have increased significantly.
+    IsCorrect: false
+  - Text: Everyone in the audience was mesmerized by the performance.
+    IsCorrect: true
+  - Text: The committee is divided on the issue.
+    IsCorrect: false
+  - Text: Neither the teacher nor the students want to delay the test.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_137
+Question: >
+  Which sentences effectively demonstrate the use of Modal Perfects for past deductions or regrets?
+Explanation: >
+  Modal perfect (Must have, Should have, Could have + V3) digunakan untuk spekulasi, deduksi, atau penyesalan terhadap sesuatu di masa lalu.
+Options:
+  - Text: The streets are wet; it must have rained last night.
+    IsCorrect: true
+  - Text: You should have told me you were coming.
+    IsCorrect: true
+  - Text: He might have missed the train, which is why he is late.
+    IsCorrect: true
+  - Text: They must study hard if they want to pass.
+    IsCorrect: false
+  - Text: I could have helped you, but you didn't ask.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_138
+Question: >
+  Identify the sentences with correctly used Appositive Phrases.
+Explanation: >
+  Appositive adalah kata atau frasa benda yang menjelaskan kata benda di sebelahnya, umumnya diapit oleh tanda koma jika bersifat non-restrictive.
+Options:
+  - Text: My brother, a talented musician, is releasing a new album.
+    IsCorrect: true
+  - Text: The capital of Japan Tokyo is very crowded.
+    IsCorrect: false
+  - Text: George Washington, the first US President, was born in Virginia.
+    IsCorrect: true
+  - Text: The book, that I read yesterday, was amazing.
+    IsCorrect: false
+  - Text: Marie Curie, a pioneer in radioactivity, won two Nobel Prizes.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_139
+Question: >
+  Tentukan Benar atau Salah pada penggunaan bentuk Plural Nouns (kata benda jamak) yang tidak beraturan berikut.
+Explanation: >
+  Beberapa kata bahasa Inggris memiliki bentuk jamak yang tidak menggunakan akhiran -s atau -es (misal: criterion -> criteria, datum -> data).
+Options:
+  - Text: "The scientist collected many datas from the experiment."
+    IsCorrect: Salah
+  - Text: "There are several criteria that must be met by the applicants."
+    IsCorrect: Benar
+  - Text: "A flock of sheeps was grazing in the meadow."
+    IsCorrect: Salah
+  - Text: "The unusual phenomena were observed by astronomers."
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_140
+Question: >
+  Evaluasi kebenaran struktur perbandingan ganda (Double Comparative) pada kalimat-kalimat ini.
+Explanation: >
+  Pola Double Comparative (The + comparative, the + comparative) digunakan untuk menunjukkan sebab-akibat yang proporsional.
+Options:
+  - Text: "The more you read, the more knowledge you gain."
+    IsCorrect: Benar
+  - Text: "The harder you work, the most successful you will become."
+    IsCorrect: Salah
+  - Text: "The less time we have, the faster we must work."
+    IsCorrect: Benar
+  - Text: "The higher the mountain, the more cold the air is."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_141
+Question: >
+  "Many ancient civilizations constructed monumental pyramids; _____, the techniques they used remain a subject of intense scholarly debate."
+  Which conjunction correctly sets up the contrast?
+Answer: however
+Explanation: >
+  Klausa pertama menyatakan fakta tentang pembangunan piramida, sedangkan klausa kedua menyatakan bahwa tekniknya masih diperdebatkan (kontras). Transisi "however" tepat setelah titik koma.
+Options:
+  - Text: therefore
+  - Text: furthermore
+  - Text: consequently
+  - Text: however
+  - Text: for instance
+---
+Type: PilihanGanda
+ID: SMA_ING_142
+Question: >
+  "Had the rescue team arrived ten minutes later, the trapped miners _____ from smoke inhalation."
+  Choose the correct verb form.
+Answer: would have perished
+Explanation: >
+  Ini adalah bentuk inversi dari conditional type 3 (If the team had arrived...). Klausa utama harus berupa modal perfect: "would have + V3".
+Options:
+  - Text: would perish
+  - Text: will perish
+  - Text: would have perished
+  - Text: had perished
+  - Text: perished
+---
+Type: PilihanGanda
+ID: SMA_ING_143
+Question: >
+  "The manager requested that the outdated software system _____ immediately to prevent further data breaches."
+  Which form satisfies the subjunctive mood?
+Answer: be replaced
+Explanation: >
+  Kata kerja "requested that" memerlukan subjunctive (bare infinitive). Karena kalimat ini berbentuk pasif (sistem diganti), kita menggunakan "be replaced".
+Options:
+  - Text: is replaced
+  - Text: to be replaced
+  - Text: be replaced
+  - Text: was replaced
+  - Text: has replaced
+---
+Type: PilihanGanda
+ID: SMA_ING_144
+Question: >
+  "Under no circumstances _____ the confidential files without explicit authorization from the director."
+  Identify the correct inversion structure.
+Answer: are employees permitted to access
+Explanation: >
+  Frasa "Under no circumstances" memiliki makna negatif, sehingga wajib memicu inversi antara auxiliary dan subjek (Aux + Subj + Verb).
+Options:
+  - Text: employees are permitted to access
+  - Text: are employees permitted to access
+  - Text: employees permitted to access
+  - Text: have employees access
+  - Text: do employees access
+---
+Type: PilihanGanda
+ID: SMA_ING_145
+Question: >
+  "The eccentric billionaire is known for his _____ lifestyle, often purchasing private islands on a whim."
+  Which vocabulary word best fits the sentence?
+Answer: extravagant
+Explanation: >
+  Gaya hidup mewah yang berlebihan dan menghabiskan banyak uang tanpa perhitungan yang matang disebut "extravagant".
+Options:
+  - Text: frugal
+  - Text: minimalist
+  - Text: extravagant
+  - Text: modest
+  - Text: impoverished
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_146
+Question: >
+  Which of the following phrases are considered correctly structured Idioms in English?
+Explanation: >
+  Idiom memiliki susunan kata yang tetap dan bermakna kiasan. Pemahaman literal akan menghasilkan makna yang keliru.
+Options:
+  - Text: "To hit the nail on the head" (To be exactly right)
+    IsCorrect: true
+  - Text: "To let the cat out of the box"
+    IsCorrect: false
+  - Text: "A piece of cake" (Very easy)
+    IsCorrect: true
+  - Text: "To cost an arm and a leg" (To be very expensive)
+    IsCorrect: true
+  - Text: "To bite the bullet" (To face a difficult situation bravely)
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_147
+Question: >
+  Identify the correct usages of defining and non-defining Relative Clauses.
+Explanation: >
+  Defining relative clause tidak menggunakan koma dan penting untuk makna, sementara non-defining menggunakan koma dan hanya berupa info tambahan. "That" tidak bisa digunakan pada non-defining.
+Options:
+  - Text: My car, which I bought last year, is already broken.
+    IsCorrect: true
+  - Text: The man that lives next door is a doctor.
+    IsCorrect: true
+  - Text: My mother, that is 60 years old, loves gardening.
+    IsCorrect: false
+  - Text: Paris, where the Eiffel Tower is located, is beautiful.
+    IsCorrect: true
+  - Text: The book, which is on the table is mine.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_148
+Question: >
+  Which sentences apply the Past Perfect tense correctly to sequence past events?
+Explanation: >
+  Past Perfect (had + V3) digunakan untuk menunjukkan bahwa sebuah aksi telah selesai sebelum aksi lain di masa lampau terjadi.
+Options:
+  - Text: When we arrived at the cinema, the movie had already started.
+    IsCorrect: true
+  - Text: I had eaten dinner, and then I go to bed.
+    IsCorrect: false
+  - Text: She realized she had left her keys at the office.
+    IsCorrect: true
+  - Text: Had you finished the report before the manager asked for it?
+    IsCorrect: true
+  - Text: He had been playing guitar since he was five.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_149
+Question: >
+  Tentukan Benar atau Salah pada penggunaan Articles (a, an, the) dalam kalimat bahasa Inggris.
+Explanation: >
+  Definite article 'the' digunakan untuk benda spesifik atau yang sudah diketahui bersama. Indefinite article 'a/an' untuk benda tunggal yang umum.
+Options:
+  - Text: "She is studying at an university in Europe."
+    IsCorrect: Salah
+  - Text: "The Pacific Ocean is the largest ocean on Earth."
+    IsCorrect: Benar
+  - Text: "He bought a new car. The car is painted bright red."
+    IsCorrect: Benar
+  - Text: "Honesty is a best policy in any relationship."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_150
+Question: >
+  Evaluasi kebenaran penggunaan "Prefer" dan "Would rather" pada kalimat di bawah ini.
+Explanation: >
+  Pola: prefer + V-ing + to + V-ing ATAU would rather + V1 + than + V1.
+Options:
+  - Text: "I prefer playing football than watching it on TV."
+    IsCorrect: Salah
+  - Text: "She would rather stay at home than go out in the rain."
+    IsCorrect: Benar
+  - Text: "They prefer to read books to watching movies."
+    IsCorrect: Salah
+  - Text: "I prefer drinking coffee to drinking tea."
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_151
+Question: >
+  "Despite intense lobbying from various interest groups, the senator remained _____ and voted according to her conscience."
+  Which word accurately describes the senator's attitude?
+Answer: resolute
+Explanation: >
+  Kata "resolute" bermakna teguh, gigih, atau tidak goyah. Konteks kalimat menunjukkan bahwa senator tersebut tidak terpengaruh oleh lobi dan tetap berpegang pada prinsipnya.
+Options:
+  - Text: apathetic
+  - Text: resolute
+  - Text: indecisive
+  - Text: corrupted
+  - Text: vulnerable
+---
+Type: PilihanGanda
+ID: SMA_ING_152
+Question: >
+  "By the time humanity establishes a permanent base on the Moon, artificial intelligence _____ practically every aspect of space logistics."
+  Which tense fits the timeline described?
+Answer: will have revolutionized
+Explanation: >
+  Penanda waktu "By the time" untuk masa depan (establishes) memerlukan Future Perfect tense untuk klausa utamanya (will have + V3), menunjukkan bahwa proses tersebut akan telah selesai.
+Options:
+  - Text: revolutionized
+  - Text: has revolutionized
+  - Text: will revolutionize
+  - Text: will have revolutionized
+  - Text: is revolutionizing
+---
+Type: PilihanGanda
+ID: SMA_ING_153
+Question: >
+  "_____ they to offer him a higher salary, he might consider relocating to the overseas branch."
+  Select the correct inverted conditional structure.
+Answer: Were
+Explanation: >
+  Klausa ini merupakan bentuk inversi dari conditional type 2 ("If they were to offer..."). Kata "If" dihilangkan dan "Were" diletakkan di awal kalimat.
+Options:
+  - Text: Was
+  - Text: Had
+  - Text: Did
+  - Text: Were
+  - Text: Should
+---
+Type: PilihanGanda
+ID: SMA_ING_154
+Question: >
+  "The author uses excessive jargon in his writing, _____ it difficult for laypeople to grasp the core concepts."
+  Complete the sentence using the appropriate participle clause.
+Answer: making
+Explanation: >
+  Participle clause (menggunakan verb-ing "making") digunakan setelah koma untuk menunjukkan hasil atau akibat langsung dari klausa sebelumnya.
+Options:
+  - Text: made
+  - Text: to make
+  - Text: makes
+  - Text: making
+  - Text: make
+---
+Type: PilihanGanda
+ID: SMA_ING_155
+Question: >
+  "The factory's waste disposal methods were completely unregulated; _____, the local river became highly toxic within a few years."
+  Which transition correctly shows the cause-and-effect relationship?
+Answer: consequently
+Explanation: >
+  Kalimat pertama adalah penyebab, kalimat kedua adalah akibat. Transisi "consequently" secara persis berarti "sebagai akibatnya".
+Options:
+  - Text: nevertheless
+  - Text: otherwise
+  - Text: on the other hand
+  - Text: consequently
+  - Text: for example
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_156
+Question: >
+  Identify the sentences that correctly employ Prepositions of Time and Place.
+Explanation: >
+  Preposisi in, on, dan at memiliki aturan: 'in' untuk bulan/tahun/ruang tertutup, 'on' untuk hari/permukaan, 'at' untuk jam spesifik/lokasi eksak.
+Options:
+  - Text: I was born in July 15, 1995.
+    IsCorrect: false
+  - Text: The meeting is scheduled at 3:00 PM on Friday.
+    IsCorrect: true
+  - Text: We will meet you in the lobby of the hotel.
+    IsCorrect: true
+  - Text: He left his laptop on the desk in his office.
+    IsCorrect: true
+  - Text: The train arrives at the station on the morning.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_157
+Question: >
+  Which of the following demonstrate correct usage of "Used to", "Be used to", and "Get used to"?
+Explanation: >
+  'Used to + V1' untuk kebiasaan lampau. 'Be/Get used to + V-ing/Noun' untuk menyatakan kebiasaan atau beradaptasi dengan sesuatu saat ini.
+Options:
+  - Text: I used to playing tennis when I was in high school.
+    IsCorrect: false
+  - Text: She is used to waking up early for work.
+    IsCorrect: true
+  - Text: It took him a while to get used to the cold weather.
+    IsCorrect: true
+  - Text: We used to live in a small apartment before moving here.
+    IsCorrect: true
+  - Text: I am not used to drive on the left side of the road.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_158
+Question: >
+  Select the options where the prefix correctly modifies the root word's meaning.
+Explanation: >
+  Pemahaman prefiks sangat penting di TKA Bahasa Inggris. Misalnya, 'mis-' berarti salah, 'un-'/'in-' berarti tidak, 're-' berarti lagi.
+Options:
+  - Text: Misunderstand (To understand wrongly)
+    IsCorrect: true
+  - Text: Inaccurate (Not accurate)
+    IsCorrect: true
+  - Text: Unlegal (Not legal)
+    IsCorrect: false
+  - Text: Rebuild (To build again)
+    IsCorrect: true
+  - Text: Irregular (Not regular)
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_159
+Question: >
+  Tentukan Benar atau Salah pada struktur "Embedded Questions" (pertanyaan tak langsung).
+Explanation: >
+  Embedded questions tidak menggunakan pola interogatif (Aux + Subjek + Verb). Polanya harus berupa klausa pernyataan (Subjek + Verb).
+Options:
+  - Text: "I wonder where did she go after the party."
+    IsCorrect: Salah
+  - Text: "Could you tell me what time the train arrives?"
+    IsCorrect: Benar
+  - Text: "She asked him why he was so upset."
+    IsCorrect: Benar
+  - Text: "Do you know who is that man?"
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_160
+Question: >
+  Tentukan Benar atau Salah penggunaan klausa bersyarat (Conditional Clause) campuran (Mixed Conditional) di bawah ini.
+Explanation: >
+  Mixed conditional menghubungkan kejadian lampau yang tidak nyata dengan akibat yang dirasakan di masa kini (If + Past Perfect, Subject + would + V1).
+Options:
+  - Text: "If I had finished my assignment last night, I could relax now."
+    IsCorrect: Benar
+  - Text: "If she didn't lose her passport yesterday, she would be on the plane right now." (Salah karena 'didn't lose' adalah simple past, seharusnya past perfect 'hadn't lost').
+    IsCorrect: Salah
+  - Text: "If we had invested in that startup, we would be millionaires today."
+    IsCorrect: Benar
+  - Text: "If I were a bird, I would have flown away yesterday." (Kondisi tetap saat ini, akibat masa lalu).
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_161
+Question: >
+  "Rarely _____ such a catastrophic failure of infrastructure in a fully developed metropolitan city."
+  Identify the correct inversion structure.
+Answer: have we witnessed
+Explanation: >
+  Kata "Rarely" di awal kalimat mensyaratkan inversi (Aux + S + V). Kalimat tersebut menggunakan present perfect tense, sehingga polanya "have we witnessed".
+Options:
+  - Text: we have witnessed
+  - Text: have we witnessed
+  - Text: did we witness
+  - Text: we witnessed
+  - Text: witness we
+---
+Type: PilihanGanda
+ID: SMA_ING_162
+Question: >
+  "The sheer volume of complex data produced by the telescope was overwhelming; researchers spent years _____ it."
+  Which word best completes the sentence contextually and grammatically?
+Answer: deciphering
+Explanation: >
+  Setelah preposisi atau kata kerja "spent (time)", digunakan bentuk gerund (verb-ing). "Deciphering" berarti menguraikan atau memecahkan kode data rumit tersebut.
+Options:
+  - Text: decipher
+  - Text: deciphering
+  - Text: to decipher
+  - Text: deciphered
+  - Text: deciphers
+---
+Type: PilihanGanda
+ID: SMA_ING_163
+Question: >
+  "It is imperative that the government _____ swift action to mitigate the effects of the drought."
+  Choose the correct subjunctive verb form.
+Answer: take
+Explanation: >
+  Frasa "It is imperative that" adalah penanda subjunctive, yang mensyaratkan verb dasar tanpa imbuhan apapun (bare infinitive).
+Options:
+  - Text: takes
+  - Text: took
+  - Text: take
+  - Text: is taking
+  - Text: has taken
+---
+Type: PilihanGanda
+ID: SMA_ING_164
+Question: >
+  "Had the marketing team focused more on digital campaigns, the product launch _____ a massive success."
+  Complete this third conditional sentence correctly.
+Answer: could have been
+Explanation: >
+  Bagian klausa "if" adalah "Had the marketing team focused" (If they had focused). Maka klausa utamanya memerlukan modal perfect: "would/could/might + have + V3".
+Options:
+  - Text: will be
+  - Text: would be
+  - Text: could have been
+  - Text: had been
+  - Text: is
+---
+Type: PilihanGanda
+ID: SMA_ING_165
+Question: >
+  "The diplomat delivered her speech with such eloquence and diplomacy that even her fiercest opponents were _____."
+  Which word best describes the reaction of the opponents?
+Answer: captivated
+Explanation: >
+  Pidato yang elok dan diplomatis secara logis akan membuat lawan yang sengit sekalipun merasa terpukau, terpesona, atau tertawan (captivated).
+Options:
+  - Text: infuriated
+  - Text: captivated
+  - Text: bored
+  - Text: disgusted
+  - Text: alienated
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_166
+Question: >
+  Which of the following are correctly written complex sentences containing Noun Clauses?
+Explanation: >
+  Noun clauses dapat berfungsi sebagai subjek, objek, atau komplemen preposisi. Ingat bahwa urutan kata di dalamnya adalah afirmatif, bukan bentuk pertanyaan.
+Options:
+  - Text: Whoever leaves the room last must turn off the lights.
+    IsCorrect: true
+  - Text: I am not sure where did he put the documents.
+    IsCorrect: false
+  - Text: The fact that she survived the crash is a miracle.
+    IsCorrect: true
+  - Text: We talked about what we should do next.
+    IsCorrect: true
+  - Text: She asked me if I was feeling well.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_167
+Question: >
+  Identify the correct transformations from Active to Passive Voice.
+Explanation: >
+  Pasif dibentuk dengan to be + V3, mempertahankan tense yang sama dari kalimat aktif. Subjek menjadi objek agen, dan objek menjadi subjek baru.
+Options:
+  - Text: Active: "They are painting the house." -> Passive: "The house is being painted."
+    IsCorrect: true
+  - Text: Active: "Shakespeare wrote Hamlet." -> Passive: "Hamlet was written by Shakespeare."
+    IsCorrect: true
+  - Text: Active: "She has completed the task." -> Passive: "The task was completed by her."
+    IsCorrect: false
+  - Text: Active: "The mechanic will fix the car." -> Passive: "The car will be fixed by the mechanic."
+    IsCorrect: true
+  - Text: Active: "People speak English all over the world." -> Passive: "English is spoken all over the world."
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_168
+Question: >
+  Select the options where the usage of "So" and "Such" is correct.
+Explanation: >
+  "So" diikuti oleh adjective atau adverb tanpa noun. "Such" diikuti oleh noun phrase (adjective + noun).
+Options:
+  - Text: The movie was so boring that we left early.
+    IsCorrect: true
+  - Text: It was such a beautiful day that we went for a picnic.
+    IsCorrect: true
+  - Text: He is so an intelligent boy that everyone admires him.
+    IsCorrect: false
+  - Text: They have such little money that they can't buy food.
+    IsCorrect: false
+  - Text: The music was so loud that my ears hurt.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_169
+Question: >
+  Tentukan Benar atau Salah mengenai prinsip kesejajaran (Parallelism) dalam struktur kalimat bersusun.
+Explanation: >
+  Struktur yang dihubungkan dengan konjungsi koordinatif (and, but, or) harus memiliki kelas kata atau bentuk gramatikal yang sejajar (parallel).
+Options:
+  - Text: "The manager asked us to review the files, summarize the data, and we should submit the report."
+    IsCorrect: Salah
+  - Text: "Her presentation was clear, concise, and persuasive."
+    IsCorrect: Benar
+  - Text: "He enjoys running in the park, swimming in the pool, and riding his bike."
+    IsCorrect: Benar
+  - Text: "My goals are studying hard, to graduate early, and finding a good job."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_170
+Question: >
+  Tentukan Benar atau Salah tentang penggunaan "Dangling Modifiers" (Frasa Penjelas yang Menggantung).
+Explanation: >
+  Sebuah modifier di awal kalimat harus secara logis menjelaskan subjek klausa utama yang langsung mengikutinya. Jika tidak, itu adalah "dangling".
+Options:
+  - Text: "Walking down the street, the trees looked incredibly beautiful." (Dangling: pohon tidak berjalan)
+    IsCorrect: Benar
+  - Text: "Exhausted from the marathon, John collapsed on the grass." (Benar secara gramatikal: John yang kelelahan)
+    IsCorrect: Salah
+  - Text: "To bake a perfect cake, the oven must be preheated." (Dangling: oven tidak memanggang dirinya sendiri)
+    IsCorrect: Benar
+  - Text: "Hoping for a promotion, Mary worked late every night." (Salah: ini adalah struktur yang benar, bukan dangling)
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_171
+Question: >
+  "The sudden implementation of the new tariff policy has led to widespread anxiety among international traders. _____, the stock markets have experienced significant volatility."
+  Which transition word fits best?
+Answer: Consequently
+Explanation: >
+  Kalimat pertama menyatakan penyebab (kebijakan tarif), kalimat kedua menyatakan akibat (volatilitas pasar saham). "Consequently" adalah penanda akibat yang paling tepat.
+Options:
+  - Text: On the contrary
+  - Text: Nevertheless
+  - Text: Consequently
+  - Text: Alternatively
+  - Text: In addition
+---
+Type: PilihanGanda
+ID: SMA_ING_172
+Question: >
+  "By the end of this century, coastal cities around the globe _____ massive infrastructure overhauls to combat rising sea levels."
+  Which verb tense is required here?
+Answer: will have undergone
+Explanation: >
+  Adanya penanda waktu "By the end of this century" mengindikasikan bahwa suatu kejadian akan telah rampung di masa depan (Future Perfect Tense).
+Options:
+  - Text: are undergoing
+  - Text: will undergo
+  - Text: have undergone
+  - Text: will have undergone
+  - Text: underwent
+---
+Type: PilihanGanda
+ID: SMA_ING_173
+Question: >
+  "Only when the undeniable evidence was presented in court _____ his guilt."
+  Choose the correctly inverted phrase.
+Answer: did the suspect admit
+Explanation: >
+  Klausa yang diawali dengan "Only when" memerlukan inversi pada klausa utamanya (main clause). Susunannya harus Auxiliary (did) + Subjek (the suspect) + Verb (admit).
+Options:
+  - Text: the suspect admitted
+  - Text: did the suspect admit
+  - Text: admitted the suspect
+  - Text: the suspect did admit
+  - Text: has the suspect admitted
+---
+Type: PilihanGanda
+ID: SMA_ING_174
+Question: >
+  "The company's profit margins would have improved significantly if the management _____ the operational costs."
+  Complete this third conditional.
+Answer: had reduced
+Explanation: >
+  Klausa utamanya adalah "would have improved" (Type 3). Maka klausa if-nya harus menggunakan Past Perfect Tense ("had + V3").
+Options:
+  - Text: reduced
+  - Text: reduces
+  - Text: has reduced
+  - Text: had reduced
+  - Text: would reduce
+---
+Type: PilihanGanda
+ID: SMA_ING_175
+Question: >
+  "Her comprehensive understanding of quantum physics, _____ by years of rigorous research, made her the leading expert in the field."
+  Which participle clause completes the sentence?
+Answer: backed
+Explanation: >
+  Kalimat ini memerlukan past participle (verb 3) untuk menyingkat klausa pasif "which was backed". Pemahaman tersebut 'didukung' oleh riset bertahun-tahun.
+Options:
+  - Text: backing
+  - Text: backed
+  - Text: backs
+  - Text: to back
+  - Text: back
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_176
+Question: >
+  Which of the following demonstrate correct Causative structures?
+Explanation: >
+  Bentuk pasif causative adalah: have/get + object (benda) + V3. Bentuk aktifnya: have/make/let + person + bare infinitive ATAU get + person + to infinitive.
+Options:
+  - Text: I need to get my suit dry-cleaned before the wedding.
+    IsCorrect: true
+  - Text: The boss made his employees working overtime.
+    IsCorrect: false
+  - Text: She had the plumber fix the leaking pipe.
+    IsCorrect: true
+  - Text: We got our neighbors to watch our dog while we were away.
+    IsCorrect: true
+  - Text: He had his wallet stolen on the subway.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_177
+Question: >
+  Identify the sentences that correctly use the phrase "No sooner... than", "Hardly... when", or "Scarcely... when".
+Explanation: >
+  Ketiga pasang konjungsi ini digunakan untuk menunjukkan kejadian yang terjadi susul-menyusul di masa lalu, dan memerlukan inversi jika diletakkan di awal kalimat.
+Options:
+  - Text: No sooner had he left the house than it started to rain.
+    IsCorrect: true
+  - Text: Hardly had I sat down when the phone rang.
+    IsCorrect: true
+  - Text: Scarcely had she finished reading than the lights went out.
+    IsCorrect: false
+  - Text: No sooner did they arrive when the show began.
+    IsCorrect: false
+  - Text: Hardly had the train stopped when the passengers rushed out.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_178
+Question: >
+  Select the options that pair Phrasal Verbs with their correct contextual meanings.
+Explanation: >
+  Pengetahuan tentang makna idiomatis phrasal verbs sangat diuji dalam soal TKA.
+Options:
+  - Text: "Bring up" - To start discussing a topic.
+    IsCorrect: true
+  - Text: "Turn down" - To increase the volume.
+    IsCorrect: false
+  - Text: "Call off" - To cancel an event.
+    IsCorrect: true
+  - Text: "Put off" - To delay or postpone.
+    IsCorrect: true
+  - Text: "Look into" - To ignore a problem.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_179
+Question: >
+  Tentukan Benar atau Salah mengenai perubahan bentuk kata benda abstrak (Abstract Noun Derivation) dengan akhiran tertentu.
+Explanation: >
+  Banyak kata sifat (adjective) atau kata kerja (verb) dapat diubah menjadi kata benda abstrak menggunakan sufiks -ness, -ity, -tion, -ment.
+Options:
+  - Text: "Happy" berubah menjadi "Happiness".
+    IsCorrect: Benar
+  - Text: "Curious" berubah menjadi "Curiousty".
+    IsCorrect: Salah
+  - Text: "Develop" berubah menjadi "Development".
+    IsCorrect: Benar
+  - Text: "Inform" berubah menjadi "Information".
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_180
+Question: >
+  Tentukan Benar atau Salah pada struktur klausa independen berantai (Compound Sentences) yang digabungkan dengan tanda baca dan konjungsi.
+Explanation: >
+  Dua klausa independen dapat digabung menggunakan koma + FANBOYS (for, and, nor, but, or, yet, so) atau titik koma (;) tanpa konjungsi.
+Options:
+  - Text: "The sun was shining brightly, but the air was still freezing cold."
+    IsCorrect: Benar
+  - Text: "I wanted to buy the new phone however I didn't have enough money."
+    IsCorrect: Salah
+  - Text: "She practiced every day; therefore, she won the competition."
+    IsCorrect: Benar
+  - Text: "He is a brilliant scientist, he has published many papers." (Comma splice error).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_181
+Question: >
+  "The protagonist's intrinsic motivation to seek justice forms the crux of the novel's intricate plot."
+  What does the word "crux" most closely mean in this sentence?
+Answer: The most important or core aspect
+Explanation: >
+  Kata "crux" merujuk pada poin terpenting, inti, atau bagian paling krusial dari sebuah masalah, argumen, atau alur cerita.
+Options:
+  - Text: A minor detail
+  - Text: The conclusion
+  - Text: The most important or core aspect
+  - Text: A confusing element
+  - Text: The introductory chapter
+---
+Type: PilihanGanda
+ID: SMA_ING_182
+Question: >
+  "It is essential that every passenger _____ their seatbelt fastened during turbulence."
+  Identify the proper form of the verb.
+Answer: keep
+Explanation: >
+  Kata sifat "essential" diikuti oleh klausa "that" mensyaratkan pemakaian subjunctive mood, yaitu verb asli/murni (bare infinitive). Sehingga "keep" adalah bentuk yang benar.
+Options:
+  - Text: keeps
+  - Text: kept
+  - Text: keep
+  - Text: keeping
+  - Text: to keep
+---
+Type: PilihanGanda
+ID: SMA_ING_183
+Question: >
+  "Were I to accept the offer, I _____ to relocate my entire family to another continent."
+  Choose the correct modal phrase for this Type 2 conditional inversion.
+Answer: would have
+Explanation: >
+  Pola inversi "Were I to..." sama dengan "If I were to..." (Type 2 conditional). Akibatnya di klausa utama menggunakan "would + V1" (dalam hal ini, "would have" to relocate).
+Options:
+  - Text: will have
+  - Text: would have had
+  - Text: would have
+  - Text: had
+  - Text: have
+---
+Type: PilihanGanda
+ID: SMA_ING_184
+Question: >
+  "The new archaeological evidence implies that ancient humans _____ complex sea faring vessels much earlier than previously thought."
+  Which modal perfect shows logical deduction about the past?
+Answer: must have built
+Explanation: >
+  Untuk menyatakan sebuah kesimpulan yang sangat kuat atau logis berdasarkan bukti di masa lampau, kita menggunakan "must have + V3".
+Options:
+  - Text: should have built
+  - Text: could build
+  - Text: must have built
+  - Text: ought to build
+  - Text: might build
+---
+Type: PilihanGanda
+ID: SMA_ING_185
+Question: >
+  "Many rural areas lack reliable internet access; _____, students in these regions often struggle with online education platforms."
+  Which connective emphasizes the logical consequence?
+Answer: consequently
+Explanation: >
+  Sama seperti before, "consequently" dan "as a result" menunjukkan efek logis dari kurangnya akses internet. Transisi ini yang paling tepat untuk mengisi jeda sebab-akibat.
+Options:
+  - Text: furthermore
+  - Text: nevertheless
+  - Text: consequently
+  - Text: in contrast
+  - Text: identically
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_186
+Question: >
+  Identify sentences that correctly match the "Subjunctive Mood" for wishes, necessity, or unreality.
+Explanation: >
+  Subjunctive digunakan setelah kata kerja penuntut (demand, insist) dan untuk pengandaian (I wish I were).
+Options:
+  - Text: I suggest that he studies harder for the final exam.
+    IsCorrect: false
+  - Text: The doctor recommended that she eat more vegetables.
+    IsCorrect: true
+  - Text: I wish I were able to speak Japanese fluently.
+    IsCorrect: true
+  - Text: It is crucial that the document be signed immediately.
+    IsCorrect: true
+  - Text: If he was the boss, he would give us a raise.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_187
+Question: >
+  Which statements about English Prefixes and Suffixes are true?
+Explanation: >
+  Pengetahuan pembentukan kata sangat ditekankan di jenjang menengah atas.
+Options:
+  - Text: Adding "-ment" to a verb typically turns it into a noun.
+    IsCorrect: true
+  - Text: The prefix "anti-" means "before" or "prior to".
+    IsCorrect: false
+  - Text: The suffix "-less" means "without" or "lacking".
+    IsCorrect: true
+  - Text: The prefix "pre-" means "after".
+    IsCorrect: false
+  - Text: Adding "-ify" to a noun or adjective creates a verb (e.g., beautify).
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_188
+Question: >
+  Select the options containing Adjective Clauses (Relative Clauses) that correctly modify the noun.
+Explanation: >
+  Adjective clause harus diletakkan tepat setelah noun yang ia jelaskan, dan menggunakan relative pronoun yang sesuai (who/whom/whose/which/that).
+Options:
+  - Text: The car that I bought last week is already making strange noises.
+    IsCorrect: true
+  - Text: The teacher who he helped me pass the exam is very kind.
+    IsCorrect: false
+  - Text: The student whose essay won the prize was congratulated by the principal.
+    IsCorrect: true
+  - Text: I visited the town where I was born.
+    IsCorrect: true
+  - Text: The laptop which I use it for work is very fast.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_189
+Question: >
+  Tentukan Benar atau Salah pada penggunaan "Correlative Conjunctions" berikut ini.
+Explanation: >
+  Kedua sisi yang dihubungkan oleh either...or, neither...nor, dll, harus sejajar, dan kata kerjanya harus ber-agree dengan subjek yang paling dekat dengan kata kerja tersebut.
+Options:
+  - Text: "Neither the players nor the coach were happy with the referee's decision." (Coach tunggal, seharusnya 'was').
+    IsCorrect: Salah
+  - Text: "Either you apologize to her, or you leave this house immediately."
+    IsCorrect: Benar
+  - Text: "Not only does she play the piano, but she also sings beautifully."
+    IsCorrect: Benar
+  - Text: "Both my brother and my sister is studying in London."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_190
+Question: >
+  Tentukan Benar atau Salah analisis bentuk Tense pada kalimat-kalimat ini.
+Explanation: >
+  Tenses harus mencerminkan titik dan durasi waktu dengan logis. Past perfect continuous untuk kejadian panjang sebelum masa lalu; Future continuous untuk kejadian yang sedang berlangsung di masa depan.
+Options:
+  - Text: "By next Friday, I will be finishing all my assignments." (Seharusnya will have finished).
+    IsCorrect: Salah
+  - Text: "They had been driving for six hours when they finally found a hotel."
+    IsCorrect: Benar
+  - Text: "This time next year, I will be studying at the university."
+    IsCorrect: Benar
+  - Text: "I have been knowing him since we were kids." (Know adalah stative verb, tidak boleh memakai V-ing).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_191
+Question: >
+  "Many teenagers today find themselves inundated with unrealistic beauty standards propagated by social media influencers."
+  What is the closest synonym for the word "inundated"?
+Answer: Overwhelmed
+Explanation: >
+  Kata "inundated" aslinya berarti kebanjiran, namun dalam konteks kiasan (seperti informasi atau tuntutan), maknanya adalah kewalahan atau dilimpahi secara berlebihan (overwhelmed).
+Options:
+  - Text: Encouraged
+  - Text: Underwhelmed
+  - Text: Overwhelmed
+  - Text: Entertained
+  - Text: Disconnected
+---
+Type: PilihanGanda
+ID: SMA_ING_192
+Question: >
+  "Rarely _____ a technological innovation disrupt so many established industries simultaneously."
+  Complete this inverted structure.
+Answer: does
+Explanation: >
+  Kalimat tersebut menyatakan fakta umum tentang masa kini menggunakan bentuk "Rarely". Karena subjeknya adalah "a technological innovation" (tunggal), auxiliary yang tepat adalah "does".
+Options:
+  - Text: do
+  - Text: does
+  - Text: has
+  - Text: is
+  - Text: did
+---
+Type: PilihanGanda
+ID: SMA_ING_193
+Question: >
+  "If the safety mechanisms had been properly maintained, the nuclear reactor meltdown _____."
+  Choose the correct conditional form.
+Answer: could have been prevented
+Explanation: >
+  Berdasarkan if-clause tipe 3 yang pasif ("had been maintained"), main clause juga harus menggunakan modal perfect bentuk pasif ("could/would have been + V3").
+Options:
+  - Text: could prevent
+  - Text: could be prevented
+  - Text: could have prevented
+  - Text: could have been prevented
+  - Text: prevented
+---
+Type: PilihanGanda
+ID: SMA_ING_194
+Question: >
+  "The lawyer strongly advised that the defendant _____ silent during the cross-examination."
+  Which verb fits the subjunctive mood?
+Answer: remain
+Explanation: >
+  Frasa "advised that" adalah penanda subjunctive. Oleh karena itu, kita menggunakan bare infinitive "remain", terlepas dari subjek tunggal "the defendant".
+Options:
+  - Text: remains
+  - Text: remained
+  - Text: to remain
+  - Text: remain
+  - Text: is remaining
+---
+Type: PilihanGanda
+ID: SMA_ING_195
+Question: >
+  "The economic disparity between the urban elite and the rural poor has widened over the last decade; _____, social unrest is becoming increasingly prevalent."
+  Select the most fitting transition.
+Answer: hence
+Explanation: >
+  Karena kesenjangan yang melebar merupakan penyebab dari kerusuhan sosial, konjungsi sebab-akibat seperti "hence", "therefore", atau "thus" adalah jawaban yang tepat.
+Options:
+  - Text: nevertheless
+  - Text: conversely
+  - Text: moreover
+  - Text: hence
+  - Text: despite this
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_196
+Question: >
+  Identify the grammatical errors in the reported speech (indirect speech) transformations. Select the incorrect statements.
+Explanation: >
+  Ketika mengubah dari direct ke indirect speech dengan reporting verb masa lampau (said/told), bentuk tenses, pronoun, dan penanda waktu harus mengalami backshift.
+Options:
+  - Text: He said, "I will call you tomorrow." -> He said that he will call me tomorrow.
+    IsCorrect: true
+  - Text: Mary asked, "Where do you live?" -> Mary asked where did I live.
+    IsCorrect: true
+  - Text: John said, "I am reading a book." -> John said that he was reading a book.
+    IsCorrect: false
+  - Text: The teacher said, "Open your books." -> The teacher told us to open our books.
+    IsCorrect: false
+  - Text: She said, "I have finished my work." -> She said that she has finished her work.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_197
+Question: >
+  Which of the following sentences correctly use the Participle Phrase to replace a relative clause?
+Explanation: >
+  Participle phrases (menggunakan V-ing untuk aktif dan V3 untuk pasif) digunakan untuk memadatkan klausa relatif.
+Options:
+  - Text: The man standing at the corner is my uncle. (Replaces: who is standing)
+    IsCorrect: true
+  - Text: The book writing by George Orwell is a classic. (Incorrect use of active participle)
+    IsCorrect: false
+  - Text: The car parked outside belongs to the manager. (Replaces: which is parked)
+    IsCorrect: true
+  - Text: Students passing the exam will receive a certificate. (Replaces: who pass)
+    IsCorrect: true
+  - Text: The window broken by the storm has been repaired. (Replaces: which was broken)
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_198
+Question: >
+  Select the options containing an accurate pair of an English idiom and its meaning.
+Explanation: >
+  Idiom mengukur seberapa jauh siswa memahami budaya dan ekspresi kiasan bahasa Inggris di luar pemahaman harfiah.
+Options:
+  - Text: "Beat around the bush" - To avoid talking about what is important.
+    IsCorrect: true
+  - Text: "Pull someone's leg" - To help someone walk.
+    IsCorrect: false
+  - Text: "Burn the midnight oil" - To work or study late into the night.
+    IsCorrect: true
+  - Text: "Miss the boat" - To be too late to take advantage of an opportunity.
+    IsCorrect: true
+  - Text: "Under the weather" - To feel slightly ill.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_199
+Question: >
+  Tentukan Benar atau Salah pada penggunaan preposisi dalam "Phrasal Verbs" dan "Prepositional Phrases".
+Explanation: >
+  Preposisi dalam kombinasi tertentu sudah menjadi standar dalam bahasa Inggris (misalnya: aware of, object to, look forward to).
+Options:
+  - Text: "I strongly object with your proposal to cut the funding." (Seharusnya object to).
+    IsCorrect: Salah
+  - Text: "She is completely aware of the risks involved in the surgery."
+    IsCorrect: Benar
+  - Text: "He is responsible for managing the entire marketing team."
+    IsCorrect: Benar
+  - Text: "We are looking forward for the weekend." (Seharusnya forward to).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_200
+Question: >
+  Tentukan Benar atau Salah pada analisis sintaksis tentang Gerunds dan Infinitives.
+Explanation: >
+  Pemahaman kapan menggunakan to-infinitive atau bare infinitive atau gerund membedakan kemampuan dasar dan mahir (HOTS) siswa SMA.
+Options:
+  - Text: "She could not help to laugh when she saw his funny costume." (Cannot help harus diikuti gerund: laughing).
+    IsCorrect: Salah
+  - Text: "It is no use trying to convince him; his mind is already made up."
+    IsCorrect: Benar
+  - Text: "They made him to rewrite the entire essay because of plagiarism." (Make dalam kalimat aktif diikuti bare infinitive: rewrite).
+    IsCorrect: Salah
+  - Text: "I remember locking the door before I left the house." (Remember + V-ing berarti mengingat tindakan yang sudah dilakukan).
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_201
+Question: >
+  "By the time the rescue team finally located the lost hikers, they _____ without food or water for three days."
+  Which verb form correctly completes the sentence?
+Answer: had been surviving
+Explanation: >
+  Kalimat tersebut menunjukkan suatu kejadian yang berlangsung secara kontinu sebelum kejadian lain di masa lampau (located). Oleh karena itu, tense yang tepat adalah Past Perfect Continuous (had been + verb-ing).
+Options:
+  - Text: survived
+  - Text: have survived
+  - Text: were surviving
+  - Text: had been surviving
+  - Text: would survive
+---
+Type: PilihanGanda
+ID: SMA_ING_202
+Question: >
+  "The manager's ubiquitous presence in every department made the employees feel micromanaged."
+  What is the closest meaning of the word 'ubiquitous'?
+Answer: Present everywhere
+Explanation: >
+  Kata 'ubiquitous' bermakna ada di mana-mana secara bersamaan. Sinonim terdekat dalam konteks kalimat ini adalah 'present everywhere'.
+Options:
+  - Text: Extremely rare
+  - Text: Present everywhere
+  - Text: Highly aggressive
+  - Text: Completely absent
+  - Text: Very inspiring
+---
+Type: PilihanGanda
+ID: SMA_ING_203
+Question: >
+  "The ethics committee strongly recommended that the experimental drug trial _____ immediately to prevent further casualties."
+  Which form fits the subjunctive mood required by the sentence?
+Answer: be halted
+Explanation: >
+  Kata kerja "recommended that" merupakan penanda subjunctive. Bentuk yang benar adalah bare infinitive. Karena kalimat ini bermakna pasif (percobaan dihentikan), maka menggunakan "be halted".
+Options:
+  - Text: is halted
+  - Text: was halted
+  - Text: be halted
+  - Text: to be halted
+  - Text: halts
+---
+Type: PilihanGanda
+ID: SMA_ING_204
+Question: >
+  "Under no circumstances _____ the laboratory doors open during a chemical lockdown."
+  Choose the correct inversion structure.
+Answer: should you leave
+Explanation: >
+  Frasa negatif "Under no circumstances" di awal kalimat mewajibkan terjadinya inversi (Auxiliary + Subject + Verb). Dari opsi yang ada, "should you leave" merupakan bentuk inversi yang tepat.
+Options:
+  - Text: you should leave
+  - Text: should you leave
+  - Text: you leave
+  - Text: left you
+  - Text: have you left
+---
+Type: PilihanGanda
+ID: SMA_ING_205
+Question: >
+  "The startup failed to secure additional funding from investors; _____, it had to lay off half of its workforce."
+  Select the most appropriate transition word.
+Answer: consequently
+Explanation: >
+  Gagal mendapat dana adalah sebab, dan PHK adalah akibat. Transisi yang menunjukkan hasil atau akibat dari kalimat sebelumnya adalah "consequently" (sebagai akibatnya).
+Options:
+  - Text: nevertheless
+  - Text: furthermore
+  - Text: consequently
+  - Text: alternatively
+  - Text: instead
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_206
+Question: >
+  Which of the following sentences demonstrate the correct usage of Modal Verbs for deduction and speculation?
+Explanation: >
+  Modal deduction (must, might, can't + have V3) digunakan untuk menyimpulkan kejadian masa lalu. "Must have" untuk pasti terjadi, "might have" untuk kemungkinan, dan "can't have" untuk tidak mungkin terjadi.
+Options:
+  - Text: The streets are wet; it must have rained last night.
+    IsCorrect: true
+  - Text: She failed the test, she must not study hard.
+    IsCorrect: false
+  - Text: He couldn't have stolen the car because he was with me all day.
+    IsCorrect: true
+  - Text: They might have missed the train due to the heavy traffic.
+    IsCorrect: true
+  - Text: I should have go to the doctor yesterday.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_207
+Question: >
+  Identify the sentences that correctly follow the English Adjective Order (OSASCOMP).
+Explanation: >
+  Urutan kata sifat yang benar: Opinion, Size, Age, Shape, Color, Origin, Material, Purpose.
+Options:
+  - Text: She bought a beautiful large antique wooden table.
+    IsCorrect: true
+  - Text: He drives a red small old Italian car.
+    IsCorrect: false
+  - Text: They live in a lovely old stone cottage.
+    IsCorrect: true
+  - Text: I found a small round plastic button on the floor.
+    IsCorrect: true
+  - Text: She wore a cotton new gorgeous dress.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_208
+Question: >
+  Select the correct meanings of the following English idioms.
+Explanation: >
+  Idiom sering digunakan untuk menguji kemampuan pemahaman bahasa Inggris pada tingkat lanjut.
+Options:
+  - Text: "A blessing in disguise" means something good that seemed bad at first.
+    IsCorrect: true
+  - Text: "Bite the bullet" means to eat something very hard.
+    IsCorrect: false
+  - Text: "Call it a day" means to stop working on something.
+    IsCorrect: true
+  - Text: "Under the weather" means to observe the climate carefully.
+    IsCorrect: false
+  - Text: "Cut corners" means to do something poorly to save time or money.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_209
+Question: >
+  Tentukan Benar atau Salah pada transformasi kalimat Direct Speech menjadi Indirect Speech berikut.
+  Direct: "Did you finish the assignment?" the teacher asked me.
+Explanation: >
+  Pertanyaan Yes/No dalam Indirect Speech harus menggunakan "if" atau "whether", dan susunannya kembali menjadi kalimat positif dengan perubahan tense (Past Simple ke Past Perfect).
+Options:
+  - Text: The teacher asked me if I had finished the assignment.
+    IsCorrect: Benar
+  - Text: The teacher asked me did I finish the assignment.
+    IsCorrect: Salah
+  - Text: The teacher asked me whether I had finished the assignment.
+    IsCorrect: Benar
+  - Text: The teacher told me if I finished the assignment.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_210
+Question: >
+  Evaluasi kebenaran struktur "Conditional Sentence" pada pernyataan di bawah ini.
+Explanation: >
+  Tipe 1: If + Present, Future. Tipe 2: If + Past, Would V1. Tipe 3: If + Past Perfect, Would have V3.
+Options:
+  - Text: "If it will rain tomorrow, we will stay at home."
+    IsCorrect: Salah
+  - Text: "If I had known you were coming, I would have baked a cake."
+    IsCorrect: Benar
+  - Text: "If she studied harder, she would pass the examination easily."
+    IsCorrect: Benar
+  - Text: "Had I money, I will buy a new house."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_211
+Question: >
+  "After realizing the complexity of the tax laws, Mr. Anderson decided to have an accountant _____ his annual tax returns."
+  Which verb accurately completes this causative structure?
+Answer: prepare
+Explanation: >
+  Pola causative aktif dengan kata kerja "have" adalah "have + person + bare infinitive (Verb 1)". Karena itu, kata yang tepat adalah "prepare".
+Options:
+  - Text: to prepare
+  - Text: prepared
+  - Text: prepare
+  - Text: prepares
+  - Text: preparing
+---
+Type: PilihanGanda
+ID: SMA_ING_212
+Question: >
+  "Despite the overwhelming evidence against him, the suspect vehemently denied _____ any part in the robbery."
+  Identify the correct verb form.
+Answer: having
+Explanation: >
+  Kata kerja "deny" wajib diikuti oleh Gerund (Verb-ing). Untuk menyatakan kejadian yang sudah berlalu, bentuk yang paling tepat adalah "having" (atau having + V3).
+Options:
+  - Text: to have
+  - Text: have
+  - Text: having
+  - Text: had
+  - Text: has
+---
+Type: PilihanGanda
+ID: SMA_ING_213
+Question: >
+  "_____ his severe physical exhaustion, the marathon runner pushed through the pain to cross the finish line."
+  Choose the correct preposition to show contrast.
+Answer: In spite of
+Explanation: >
+  Titik-titik tersebut diikuti oleh noun phrase (his severe physical exhaustion). Kata depan yang tepat untuk menunjukkan pertentangan adalah "In spite of" atau "Despite".
+Options:
+  - Text: Although
+  - Text: Because of
+  - Text: In spite of
+  - Text: Even though
+  - Text: As a result of
+---
+Type: PilihanGanda
+ID: SMA_ING_214
+Question: >
+  "If the architects had designed the foundation to withstand earthquakes, the building _____ completely intact right now."
+  Select the correct completion for this mixed conditional.
+Answer: would be
+Explanation: >
+  Ini adalah Mixed Conditional. Klausa if (had designed) adalah Tipe 3 (masa lampau), sedangkan hasil (right now) adalah Tipe 2 (masa kini). Maka menggunakan "would be".
+Options:
+  - Text: would have been
+  - Text: will be
+  - Text: would be
+  - Text: had been
+  - Text: is
+---
+Type: PilihanGanda
+ID: SMA_ING_215
+Question: >
+  "The CEO's arbitrary decisions have alienated the board members, leading to a significant drop in company morale."
+  What does the word "arbitrary" mean in this context?
+Answer: Based on random choice or personal whim
+Explanation: >
+  Kata "arbitrary" berarti sewenang-wenang, didasarkan pada pilihan acak atau keinginan pribadi tanpa alasan logis atau sistem yang adil.
+Options:
+  - Text: Based on random choice or personal whim
+  - Text: Highly democratic and inclusive
+  - Text: Carefully planned and calculated
+  - Text: Supported by historical data
+  - Text: Strictly following legal procedures
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_216
+Question: >
+  Identify the sentences that correctly apply Subject-Verb Agreement rules.
+Explanation: >
+  Subjek dan kata kerja harus sesuai. "The number of" (tunggal), "A number of" (jamak). Kata benda yang digabung dengan 'as well as' mengikuti subjek pertama.
+Options:
+  - Text: The number of applicants has increased this year.
+    IsCorrect: true
+  - Text: A number of students is waiting in the hall.
+    IsCorrect: false
+  - Text: The manager, as well as his assistants, is attending the meeting.
+    IsCorrect: true
+  - Text: Neither the boss nor the workers were aware of the change.
+    IsCorrect: true
+  - Text: Mathematics are a very difficult subject for many people.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_217
+Question: >
+  Which of the following sentences demonstrate correct Parallel Structure?
+Explanation: >
+  Struktur paralel memastikan bahwa item dalam sebuah deretan memiliki bentuk gramatikal yang sama (contoh: semua gerund, semua noun, atau semua infinitive).
+Options:
+  - Text: She likes reading, painting, and to swim on weekends.
+    IsCorrect: false
+  - Text: The politician promised to lower taxes, to improve schools, and to create jobs.
+    IsCorrect: true
+  - Text: His writing is clear, concise, and effectively.
+    IsCorrect: false
+  - Text: We must either stay here and wait or go out and search for him.
+    IsCorrect: true
+  - Text: The tasks include answering emails, arranging meetings, and updating the database.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_218
+Question: >
+  Select the options where Relative Pronouns are used correctly.
+Explanation: >
+  Who untuk subjek manusia, whom untuk objek manusia, whose untuk kepemilikan, which untuk benda. "That" tidak bisa dipakai setelah koma (non-defining clause).
+Options:
+  - Text: The man who I met yesterday is my uncle.
+    IsCorrect: false
+  - Text: The scientist whose research won the award will speak tonight.
+    IsCorrect: true
+  - Text: My laptop, that is very expensive, just broke.
+    IsCorrect: false
+  - Text: The company which she works for is based in London.
+    IsCorrect: true
+  - Text: To whom did you send the invitation?
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_219
+Question: >
+  Tentukan Benar atau Salah pada penggunaan Prefiks dan Sufiks (Imbuhan) dalam pembentukan kata berikut.
+Explanation: >
+  Prefix dan suffix merubah makna atau kelas kata. "Un-" dan "In-" bermakna tidak. Akhiran "-ment" dan "-tion" membentuk kata benda (Noun).
+Options:
+  - Text: Penambahan "un-" pada "believable" menghasilkan "unbelievable" yang bermakna tidak dapat dipercaya.
+    IsCorrect: Benar
+  - Text: Akhiran "-ness" pada kata "happy" mengubahnya menjadi kata kerja (Verb).
+    IsCorrect: Salah
+  - Text: Kata "Misunderstand" terbentuk dari awalan yang berarti "salah" atau "keliru".
+    IsCorrect: Benar
+  - Text: Kata "Develoption" adalah bentuk kata benda yang benar dari kata kerja "Develop".
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_220
+Question: >
+  Evaluasi kebenaran "Elliptical Construction" (Konstruksi Elips) pada kalimat berikut.
+Explanation: >
+  Elips digunakan untuk kalimat majemuk setara. Positif: and so + aux + S / and S + aux + too. Negatif: and neither + aux + S / and S + aux + not + either.
+Options:
+  - Text: "She can play the guitar, and so can he."
+    IsCorrect: Benar
+  - Text: "I didn't watch the news last night, and neither did my brother."
+    IsCorrect: Benar
+  - Text: "They have finished the project, and I have too."
+    IsCorrect: Benar
+  - Text: "We don't like spicy food, and she doesn't too."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_221
+Question: >
+  "The professor is completely opposed _____ the new curriculum changes proposed by the university board."
+  Identify the correct preposition.
+Answer: to
+Explanation: >
+  Kata sifat "opposed" berpasangan secara idiomatis dengan preposisi "to". Kombinasi ini ("opposed to") selalu digunakan untuk menyatakan penolakan atau ketidaksetujuan.
+Options:
+  - Text: against
+  - Text: with
+  - Text: for
+  - Text: to
+  - Text: on
+---
+Type: PilihanGanda
+ID: SMA_ING_222
+Question: >
+  "Hardly _____ the presentation when the fire alarm interrupted the entire conference."
+  Complete the negative inversion.
+Answer: had the speaker begun
+Explanation: >
+  Kata "Hardly" di awal kalimat memicu inversi (Auxiliary + S + V). Karena ada "when", ini merujuk ke kejadian masa lampau berurutan, sehingga menggunakan Past Perfect: "had the speaker begun".
+Options:
+  - Text: the speaker had begun
+  - Text: did the speaker begin
+  - Text: had the speaker begun
+  - Text: the speaker began
+  - Text: has the speaker begun
+---
+Type: PilihanGanda
+ID: SMA_ING_223
+Question: >
+  "If Columbus hadn't accidentally discovered the Americas, the course of world history _____ drastically different today."
+  Choose the correct verb phrase for this mixed conditional.
+Answer: would be
+Explanation: >
+  Kondisi lampau (Tipe 3: hadn't discovered) berakibat pada masa kini (ditandai dengan "today"). Oleh karena itu, klausa utama harus menggunakan Tipe 2 (would + V1), yaitu "would be".
+Options:
+  - Text: would have been
+  - Text: will be
+  - Text: had been
+  - Text: would be
+  - Text: is
+---
+Type: PilihanGanda
+ID: SMA_ING_224
+Question: >
+  "Realizing she couldn't handle the heavy workload alone, Sarah decided to _____ her pride and ask for assistance."
+  Which idiom or phrase fits best?
+Answer: swallow
+Explanation: >
+  Idiom "swallow one's pride" berarti memaksa diri untuk melakukan sesuatu yang memalukan (seperti meminta bantuan) demi menyelesaikan masalah.
+Options:
+  - Text: swallow
+  - Text: chew
+  - Text: bite
+  - Text: spit
+  - Text: digest
+---
+Type: PilihanGanda
+ID: SMA_ING_225
+Question: >
+  "The author's tone in the editorial is highly cynical, constantly mocking the politicians' superficial attempts at environmental reform."
+  What does "cynical" mean?
+Answer: Believing that people are motivated by self-interest; distrustful of sincerity.
+Explanation: >
+  Sikap sinis (cynical) adalah ketidakpercayaan terhadap ketulusan atau motif orang lain, seringkali menganggap bahwa orang hanya bertindak untuk kepentingan pribadi.
+Options:
+  - Text: Deeply emotional and supportive.
+  - Text: Completely objective and strictly factual.
+  - Text: Believing that people are motivated by self-interest; distrustful of sincerity.
+  - Text: Enthusiastic and highly optimistic about the future.
+  - Text: Confused and lacking a clear standpoint.
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_226
+Question: >
+  Identify the sentences that contain a Dangling Modifier.
+Explanation: >
+  Dangling modifier terjadi ketika frasa awal kalimat tidak logis jika disandingkan dengan subjek utama klausa berikutnya.
+Options:
+  - Text: Driving through the heavy rain, the bridge was completely invisible.
+    IsCorrect: true
+  - Text: Exhausted after the flight, the comfortable bed was a welcome sight.
+    IsCorrect: true
+  - Text: Hoping for a discount, the customer waited outside the store.
+    IsCorrect: false
+  - Text: To pass the final exam, the textbook must be read thoroughly.
+    IsCorrect: true
+  - Text: Written in 1920, the novel still resonates with modern readers.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_227
+Question: >
+  Which of the following demonstrate correct structures for Embedded (Indirect) Questions?
+Explanation: >
+  Embedded question tidak menggunakan inversi tanya (Aux + S + V). Susunannya harus berupa pernyataan (Subjek + Verb) setelah kata tanya (WH-word atau if/whether).
+Options:
+  - Text: I don't know what time is it.
+    IsCorrect: false
+  - Text: Can you tell me where the station is?
+    IsCorrect: true
+  - Text: She asked him why he was late.
+    IsCorrect: true
+  - Text: We are wondering how did they escape.
+    IsCorrect: false
+  - Text: I am not sure whether he will come to the party.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_228
+Question: >
+  Select the sentences where Participle Phrases are used correctly to modify nouns.
+Explanation: >
+  Present participle (V-ing) bermakna aktif. Past participle (V3) bermakna pasif.
+Options:
+  - Text: The boy playing the guitar is my younger brother.
+    IsCorrect: true
+  - Text: The window breaking by the thief has been repaired.
+    IsCorrect: false
+  - Text: The cars parked outside belong to the staff.
+    IsCorrect: true
+  - Text: Anyone interesting in the job should apply online.
+    IsCorrect: false
+  - Text: The document signed by the manager is on your desk.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_229
+Question: >
+  Tentukan Benar atau Salah pada penggunaan Noun Clause dalam kalimat berikut.
+Explanation: >
+  Noun clause (klausa nomina) berfungsi sebagai kata benda (bisa sebagai subjek atau objek) dan polanya selalu afirmatif.
+Options:
+  - Text: "What you did yesterday was completely unacceptable." (Noun clause sebagai subjek).
+    IsCorrect: Benar
+  - Text: "I believe that the Earth is round." (Noun clause sebagai objek).
+    IsCorrect: Benar
+  - Text: "She wants to know where do I live." (Susunan salah, seharusnya where I live).
+    IsCorrect: Salah
+  - Text: "Whoever wins the race will get a gold medal." (Noun clause sebagai subjek).
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_230
+Question: >
+  Evaluasi Question Tag pada kalimat bahasa Inggris di bawah ini.
+Explanation: >
+  Pola: Kalimat positif -> Tag negatif. Kalimat negatif -> Tag positif. Perhatikan subjek dan auxiliary yang tepat.
+Options:
+  - Text: "You have never been to Paris, have you?" (Kata 'never' membuat kalimat negatif, sehingga tag positif benar).
+    IsCorrect: Benar
+  - Text: "I am supposed to lead the team, am not I?" (Pengecualian: I am -> aren't I).
+    IsCorrect: Salah
+  - Text: "Let's start the meeting now, shall we?"
+    IsCorrect: Benar
+  - Text: "Nobody knows the password, don't they?" (Nobody bernilai negatif, tag harusnya 'do they').
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_231
+Question: >
+  "It is crucial that the newly appointed ambassador _____ neutral during the international peace negotiations."
+  Select the correct subjunctive form.
+Answer: remain
+Explanation: >
+  Pola "It is crucial that..." mengharuskan pemakaian present subjunctive (bare infinitive/V1 murni), sehingga kata "remain" digunakan terlepas dari subjeknya (ambassador).
+Options:
+  - Text: remains
+  - Text: remained
+  - Text: remain
+  - Text: is remaining
+  - Text: to remain
+---
+Type: PilihanGanda
+ID: SMA_ING_232
+Question: >
+  "_____ having a high fever and a terrible cough, Mark insisted on taking the final calculus exam."
+  Which preposition completes the sentence correctly?
+Answer: Despite
+Explanation: >
+  Kata yang tepat untuk mengawali frasa gerund (having...) yang bermakna pertentangan adalah "Despite" atau "In spite of".
+Options:
+  - Text: Although
+  - Text: Even though
+  - Text: Despite
+  - Text: Because of
+  - Text: Instead of
+---
+Type: PilihanGanda
+ID: SMA_ING_233
+Question: >
+  "The detective noticed that the suspect's hands were trembling slightly, and his story contradicted the CCTV footage. It can be inferred that the suspect is _____."
+  What is the most logical inference?
+Answer: likely lying and feeling anxious
+Explanation: >
+  Tangan yang gemetar (trembling) menandakan kecemasan, dan cerita yang bertentangan dengan bukti CCTV (contradicted) menandakan kebohongan.
+Options:
+  - Text: completely innocent and calm
+  - Text: likely lying and feeling anxious
+  - Text: telling the absolute truth
+  - Text: the real victim of the crime
+  - Text: suffering from a cold
+---
+Type: PilihanGanda
+ID: SMA_ING_234
+Question: >
+  "By the time the intergalactic spacecraft reaches the distant exoplanet, humanity on Earth _____ nearly three centuries."
+  Identify the proper tense.
+Answer: will have aged
+Explanation: >
+  Penanda "By the time + Present Tense" menunjukkan kejadian masa depan, di mana suatu proses sudah selesai sebelum waktu tersebut. Oleh karenanya digunakan Future Perfect (will have + V3).
+Options:
+  - Text: is aging
+  - Text: will age
+  - Text: has aged
+  - Text: will have aged
+  - Text: aged
+---
+Type: PilihanGanda
+ID: SMA_ING_235
+Question: >
+  "The ancient manuscript is extremely fragile and _____ handled with the utmost care by the archivist."
+  Which passive modal construction is correct?
+Answer: must be
+Explanation: >
+  Kalimat tersebut menyatakan keharusan mutlak (karena dokumen sangat rapuh). Bentuk pasif dari modal 'must' adalah "must be + V3 (handled)".
+Options:
+  - Text: must
+  - Text: has to
+  - Text: must be
+  - Text: should have
+  - Text: will
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_236
+Question: >
+  Select the correct meanings for Phrasal Verbs using the word "look".
+Explanation: >
+  Phrasal verbs dengan "look" memiliki banyak variasi. "Look forward to" = menantikan; "Look into" = menyelidiki; "Look up to" = menghormati.
+Options:
+  - Text: "Look down on" means to respect someone deeply.
+    IsCorrect: false
+  - Text: "Look into" means to investigate or examine a problem.
+    IsCorrect: true
+  - Text: "Look forward to" means to anticipate something with pleasure.
+    IsCorrect: true
+  - Text: "Look up to" means to admire or respect someone.
+    IsCorrect: true
+  - Text: "Look after" means to chase someone away.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_237
+Question: >
+  Identify the sentences with proper Causative constructions ("have" and "get").
+Explanation: >
+  Aktif: have + person + V1 / get + person + to V1. Pasif: have/get + object + V3.
+Options:
+  - Text: I had my hair cut at the new salon yesterday.
+    IsCorrect: true
+  - Text: She got her assistant to print the documents.
+    IsCorrect: true
+  - Text: They had the mechanic to fix the brakes.
+    IsCorrect: false
+  - Text: We got our house painted last summer.
+    IsCorrect: true
+  - Text: The teacher had the students wrote an essay.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_238
+Question: >
+  Which of the following pairs correctly map a Verb to its corresponding Noun form?
+Explanation: >
+  Mengubah kata kerja menjadi kata benda (Derivation) penting dalam penyusunan kalimat bahasa Inggris formal.
+Options:
+  - Text: Perform -> Performance
+    IsCorrect: true
+  - Text: Analyze -> Analysis
+    IsCorrect: true
+  - Text: Destroy -> Destroyment
+    IsCorrect: false
+  - Text: Maintain -> Maintenance
+    IsCorrect: true
+  - Text: Provide -> Providation
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_239
+Question: >
+  Tentukan Benar atau Salah penggunaan "Appositive Phrases" dalam kalimat berikut.
+Explanation: >
+  Appositive adalah frasa nomina yang menjelaskan nomina di dekatnya. Jika informasinya hanya tambahan (non-restrictive), harus diapit koma.
+Options:
+  - Text: "Mount Everest, the highest mountain in the world, attracts many climbers."
+    IsCorrect: Benar
+  - Text: "My brother, John, is an engineer." (Asumsi: penulis punya satu saudara laki-laki, koma dapat dibenarkan. Tapi jika kita menggunakan aturan ketat, Appositive ini benar).
+    IsCorrect: Benar
+  - Text: "The famous author J.K. Rowling wrote Harry Potter." (Tanpa koma karena informasinya penting / restrictive).
+    IsCorrect: Benar
+  - Text: "Jakarta the capital of Indonesia is very populated." (Kekurangan koma).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_240
+Question: >
+  Tentukan kebenaran "Double Comparative" (Perbandingan Ganda) pada kalimat di bawah ini.
+Explanation: >
+  Pola: The + comparative, the + comparative. Kata sifat pendek pakai "-er", panjang pakai "more".
+Options:
+  - Text: "The harder you practice, the better you will become."
+    IsCorrect: Benar
+  - Text: "The more early we leave, the sooner we will arrive." (Early seharusnya earlier).
+    IsCorrect: Salah
+  - Text: "The more you study, the more intelligent you grow."
+    IsCorrect: Benar
+  - Text: "The less sleep you get, the worst your focus will be." (Worst adalah superlative, seharusnya worse).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_241
+Question: >
+  "The ground is completely dry, so it _____ last night despite the dark clouds."
+  Which modal perfect appropriately conveys a negative deduction?
+Answer: can't have rained
+Explanation: >
+  Karena tanah kering, kita dapat menarik kesimpulan kuat bahwa tidak mungkin hujan semalam. Modal untuk "tidak mungkin terjadi di masa lalu" adalah "can't have + V3" atau "couldn't have + V3".
+Options:
+  - Text: shouldn't have rained
+  - Text: might not rain
+  - Text: can't have rained
+  - Text: must have rained
+  - Text: didn't rain
+---
+Type: PilihanGanda
+ID: SMA_ING_242
+Question: >
+  "_____ by the beauty of the landscape, the photographer spent hours capturing every angle."
+  Choose the correct participle to begin the sentence.
+Answer: Captivated
+Explanation: >
+  Subjek kalimat "the photographer" dikenai tindakan (terpesona). Oleh karena itu, kita menggunakan past participle (verb 3) "Captivated" yang bermakna pasif (being captivated).
+Options:
+  - Text: Captivating
+  - Text: Captivates
+  - Text: To captivate
+  - Text: Captivated
+  - Text: Captivate
+---
+Type: PilihanGanda
+ID: SMA_ING_243
+Question: >
+  "John thought the final exam was going to be difficult, but it turned out to be a piece of cake."
+  What does the idiom "a piece of cake" imply?
+Answer: The exam was extremely easy to complete.
+Explanation: >
+  Idiom "a piece of cake" digunakan untuk menggambarkan suatu tugas, aktivitas, atau ujian yang sangat mudah diselesaikan tanpa usaha yang berarti.
+Options:
+  - Text: The exam was surprisingly delicious.
+  - Text: The exam was extremely easy to complete.
+  - Text: The exam was cut into smaller parts.
+  - Text: The exam was unfairly complicated.
+  - Text: The exam took a very long time.
+---
+Type: PilihanGanda
+ID: SMA_ING_244
+Question: >
+  "Neither the project manager nor the software developers _____ anticipated the technical glitch that crashed the server."
+  Identify the correct verb based on Subject-Verb Agreement.
+Answer: had
+Explanation: >
+  Pada pola "Neither A nor B", kata kerja mengikuti subjek terdekat (the software developers, jamak). Karena kalimat membicarakan kejadian masa lalu, auxiliary "had" adalah yang paling tepat.
+Options:
+  - Text: has
+  - Text: had
+  - Text: was
+  - Text: is
+  - Text: does
+---
+Type: PilihanGanda
+ID: SMA_ING_245
+Question: >
+  "While the professor _____ a complex mathematical theory, the fire alarm suddenly went off."
+  Which tense correctly describes the interrupted background action?
+Answer: was explaining
+Explanation: >
+  Kata "while" menandakan suatu proses yang sedang berlangsung di masa lampau ketika diinterupsi oleh kejadian lain (went off). Tense yang tepat adalah Past Continuous (was/were + verb-ing).
+Options:
+  - Text: explains
+  - Text: explained
+  - Text: is explaining
+  - Text: was explaining
+  - Text: had explained
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_246
+Question: >
+  Which of the following show the correct 'backshift' in Indirect (Reported) Speech?
+Explanation: >
+  Jika reporting verb berbentuk lampau (said), tenses di dalam kutipan mundur satu langkah (Present -> Past, Past -> Past Perfect).
+Options:
+  - Text: Direct: "I am happy." -> Indirect: He said that he was happy.
+    IsCorrect: true
+  - Text: Direct: "I will call you." -> Indirect: She said that she would call me.
+    IsCorrect: true
+  - Text: Direct: "I have finished." -> Indirect: He said that he has finished.
+    IsCorrect: false
+  - Text: Direct: "I bought a car." -> Indirect: She said that she had bought a car.
+    IsCorrect: true
+  - Text: Direct: "I can swim." -> Indirect: He said that he could swim.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_247
+Question: >
+  Identify the correctly structured First and Second Conditional sentences.
+Explanation: >
+  Tipe 1 (kemungkinan masa depan): If + Simple Present, Future. Tipe 2 (pengandaian tidak nyata masa kini): If + Simple Past, Would + V1.
+Options:
+  - Text: If it rains tomorrow, we will cancel the picnic.
+    IsCorrect: true
+  - Text: If I had a million dollars, I will travel the world.
+    IsCorrect: false
+  - Text: If she knows the answer, she would tell us.
+    IsCorrect: false
+  - Text: If I were you, I would apply for that scholarship.
+    IsCorrect: true
+  - Text: Unless you study hard, you will fail the test.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_248
+Question: >
+  Select the conjunctions or transition words that correctly indicate Reason or Cause.
+Explanation: >
+  Kata hubung penanda sebab digunakan untuk menjelaskan mengapa sesuatu terjadi.
+Options:
+  - Text: Because of
+    IsCorrect: true
+  - Text: Due to
+    IsCorrect: true
+  - Text: Nevertheless
+    IsCorrect: false
+  - Text: Since
+    IsCorrect: true
+  - Text: As a result
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_249
+Question: >
+  Tentukan Benar atau Salah penggunaan preposisi waktu (Prepositions of Time) berikut.
+Explanation: >
+  Aturan umum: 'in' untuk bulan/tahun/musim, 'on' untuk hari/tanggal spesifik, 'at' untuk jam.
+Options:
+  - Text: "The concert will be held on December 25th."
+    IsCorrect: Benar
+  - Text: "I usually go for a run at the morning."
+    IsCorrect: Salah
+  - Text: "She graduated from university in 2020."
+    IsCorrect: Benar
+  - Text: "The train departs exactly on 8:00 AM."
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_250
+Question: >
+  Tentukan Benar atau Salah penggunaan "Infinitive of Purpose" pada kalimat ini.
+Explanation: >
+  Infinitive of purpose (To + V1 / In order to + V1 / So as to + V1) digunakan untuk menyatakan alasan atau tujuan melakukan suatu tindakan.
+Options:
+  - Text: "I went to the supermarket for buying some milk." (Dalam tata bahasa standar, tujuan menggunakan 'to buy', bukan 'for buying').
+    IsCorrect: Salah
+  - Text: "She studied hard in order to pass the final exam."
+    IsCorrect: Benar
+  - Text: "He set the alarm early so as not to be late for work."
+    IsCorrect: Benar
+  - Text: "We use a knife to cutting the vegetables."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_251
+Question: >
+  "No sooner _____ the final whistle blown than the fans rushed onto the football pitch."
+  Complete the sentence with the correct inverted form.
+Answer: had the referee
+Explanation: >
+  Frasa "No sooner" mensyaratkan inversi (Aux + S + V). Karena pasangannya adalah "than" dan ini kejadian masa lampau yang berurutan, pola yang benar adalah Past Perfect (had + subjek + verb 3/pasif). Karena peluit ditiup oleh wasit (pasif secara makna), kalimatnya adalah "had the referee (blown)". Wait, "blown" adalah V3. Jika wasit meniup, "had the referee blown".
+Options:
+  - Text: the referee had
+  - Text: did the referee
+  - Text: had the referee
+  - Text: the referee did
+  - Text: has the referee
+---
+Type: PilihanGanda
+ID: SMA_ING_252
+Question: >
+  "The CEO's pragmatic approach to solving the supply chain issues saved the company from bankruptcy."
+  What does the word "pragmatic" imply?
+Answer: Practical and sensible rather than theoretical
+Explanation: >
+  Kata 'pragmatic' berarti berfokus pada solusi praktis, realistis, dan masuk akal, alih-alih berpegang teguh pada teori atau idealisme semata.
+Options:
+  - Text: Highly emotional and unpredictable
+  - Text: Impractical and heavily idealistic
+  - Text: Practical and sensible rather than theoretical
+  - Text: Slow and excessively cautious
+  - Text: Corrupt and unethical
+---
+Type: PilihanGanda
+ID: SMA_ING_253
+Question: >
+  "The ancient tree, _____ roots have spread across the entire courtyard, is protected by the city council."
+  Which relative pronoun indicates possession?
+Answer: whose
+Explanation: >
+  Relative pronoun "whose" digunakan untuk menggantikan sifat kepemilikan. Dalam konteks ini, akar-akar tersebut adalah milik pohon kuno itu (the roots of which / whose roots).
+Options:
+  - Text: which
+  - Text: who
+  - Text: that
+  - Text: whose
+  - Text: whom
+---
+Type: PilihanGanda
+ID: SMA_ING_254
+Question: >
+  "The renewable energy sector has seen massive investments recently; _____, fossil fuels still dominate the global energy grid."
+  Select the transition that best expresses concession or contrast.
+Answer: however
+Explanation: >
+  Bagian pertama menyatakan tren positif energi terbarukan, sedangkan bagian kedua menyatakan fakta bahwa bahan bakar fosil masih mendominasi. Transisi "however" (namun) sangat tepat untuk kontras ini.
+Options:
+  - Text: therefore
+  - Text: moreover
+  - Text: however
+  - Text: consequently
+  - Text: similarly
+---
+Type: PilihanGanda
+ID: SMA_ING_255
+Question: >
+  "The financial advisor recommended that his client _____ her portfolio to minimize investment risks."
+  Identify the correct verb based on the subjunctive rule.
+Answer: diversify
+Explanation: >
+  Kata kerja "recommended that" merupakan penanda kuat subjunctive mood. Kata kerja pada klausa setelahnya wajib berbentuk bare infinitive (diversify), tidak peduli subjeknya tunggal (client).
+Options:
+  - Text: diversifies
+  - Text: diversified
+  - Text: diversify
+  - Text: to diversify
+  - Text: is diversifying
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_256
+Question: >
+  Which of the following demonstrate proper Parallelism in their structure?
+Explanation: >
+  Parallelism menuntut elemen-elemen dalam sebuah daftar, perbandingan, atau rangkaian untuk memiliki format gramatikal yang selaras.
+Options:
+  - Text: She is known for her intelligence, her diligence, and she is very creative.
+    IsCorrect: false
+  - Text: The instructions were to read the manual, to assemble the parts, and to test the machine.
+    IsCorrect: true
+  - Text: He likes swimming, hiking, and to ride his bicycle.
+    IsCorrect: false
+  - Text: They are responsible for cleaning the room, washing the dishes, and taking out the trash.
+    IsCorrect: true
+  - Text: To succeed in life requires hard work, dedication, and being persistent.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_257
+Question: >
+  Identify the correctly formed Adverbial Clauses of Time.
+Explanation: >
+  Adverbial clauses of time menggunakan konjungsi seperti when, while, after, before, as soon as. Tenses di dalam klausa waktu tidak boleh menggunakan Future (will).
+Options:
+  - Text: I will call you as soon as I will arrive.
+    IsCorrect: false
+  - Text: After she finishes her homework, she will watch TV.
+    IsCorrect: true
+  - Text: We were sleeping when the earthquake happened.
+    IsCorrect: true
+  - Text: Before you leave the house, please lock the door.
+    IsCorrect: true
+  - Text: While I was walking to school, it starts to rain.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_258
+Question: >
+  Select the correct usage of Compound Adjectives.
+Explanation: >
+  Compound adjective dibentuk dari gabungan dua kata yang disambung dengan tanda hubung (hyphen) ketika mendahului kata benda.
+Options:
+  - Text: He is a well-known actor in Hollywood.
+    IsCorrect: true
+  - Text: They submitted a five-pages report.
+    IsCorrect: false
+  - Text: We stayed in a five-star hotel during the vacation.
+    IsCorrect: true
+  - Text: She is a very open-minded person.
+    IsCorrect: true
+  - Text: It was a last-minutes decision.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_259
+Question: >
+  Tentukan Benar atau Salah pada penggunaan "Correlative Conjunctions" (Konjungsi Berpasangan).
+Explanation: >
+  Konjungsi berpasangan seperti "both...and", "not only...but also", "either...or" harus dihubungkan dengan elemen tata bahasa yang setara.
+Options:
+  - Text: "She is not only a brilliant scientist but also an accomplished pianist."
+    IsCorrect: Benar
+  - Text: "He neither speaks English or understands it." (Pasangan neither adalah nor).
+    IsCorrect: Salah
+  - Text: "Both the manager and the employees is attending the seminar." (Both...and menghasilkan subjek jamak, seharusnya are).
+    IsCorrect: Salah
+  - Text: "Either you tell the truth, or you face the consequences."
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_260
+Question: >
+  Tentukan Benar atau Salah pada penggunaan Articles (a, an, the).
+Explanation: >
+  A/An ditentukan oleh bunyi awal kata, bukan sekadar huruf awalnya. The digunakan untuk merujuk hal spesifik atau superlatif.
+Options:
+  - Text: "He is an honest man who always tells the truth." (Huruf 'h' pada honest tidak diucapkan, jadi menggunakan an).
+    IsCorrect: Benar
+  - Text: "She is studying at a university in London." (University diucapkan dengan bunyi konsonan 'y', jadi menggunakan a).
+    IsCorrect: Benar
+  - Text: "Sun is a star at the center of our solar system." (Matahari adalah benda langit spesifik tunggal, harusnya The sun).
+    IsCorrect: Salah
+  - Text: "I need to buy a umbrella because it looks like rain."
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_261
+Question: >
+  "By the time the manager finally called him into the office, John _____ for over two hours in the waiting room."
+  Which tense shows continuous action before a past event?
+Answer: had been sitting
+Explanation: >
+  Kombinasi antara suatu durasi (for over two hours) yang berlangsung sebelum sebuah kejadian di masa lampau (called) memerlukan Past Perfect Continuous Tense.
+Options:
+  - Text: has been sitting
+  - Text: sat
+  - Text: was sitting
+  - Text: had been sitting
+  - Text: would sit
+---
+Type: PilihanGanda
+ID: SMA_ING_262
+Question: >
+  "The environmental agency succeeded in _____ the illegal logging operations in the protected forest."
+  Identify the correct verb form after the preposition "in".
+Answer: stopping
+Explanation: >
+  Setiap kata kerja yang mengikuti preposisi (kecuali to-infinitive tertentu) harus diubah menjadi bentuk Gerund (Verb-ing).
+Options:
+  - Text: stop
+  - Text: to stop
+  - Text: stopped
+  - Text: stopping
+  - Text: stops
+---
+Type: PilihanGanda
+ID: SMA_ING_263
+Question: >
+  "The severe economic recession made numerous small businesses _____ their doors permanently."
+  Select the correct form for the causative verb "made".
+Answer: close
+Explanation: >
+  Pola Causative aktif dengan kata kerja "make/made" adalah "make + objek + bare infinitive (V1 tanpa to)". Jadi "close" adalah jawaban yang tepat.
+Options:
+  - Text: to close
+  - Text: closing
+  - Text: close
+  - Text: closed
+  - Text: closes
+---
+Type: PilihanGanda
+ID: SMA_ING_264
+Question: >
+  "We had to _____ the outdoor concert due to the sudden and intense thunderstorm."
+  Which phrasal verb means to cancel?
+Answer: call off
+Explanation: >
+  "Call off" adalah phrasal verb yang secara spesifik berarti membatalkan suatu acara atau rencana yang sudah dijadwalkan.
+Options:
+  - Text: put off
+  - Text: call off
+  - Text: bring up
+  - Text: look into
+  - Text: turn down
+---
+Type: PilihanGanda
+ID: SMA_ING_265
+Question: >
+  "The politician's speech was full of empty rhetoric, designed to obfuscate the real issues rather than address them."
+  What is the closest meaning of "obfuscate"?
+Answer: To make something unclear or confusing
+Explanation: >
+  Kata "obfuscate" berarti menggelapkan, menyembunyikan, atau membuat sesuatu menjadi tidak jelas dan membingungkan dengan sengaja.
+Options:
+  - Text: To clarify or explain in detail
+  - Text: To make something unclear or confusing
+  - Text: To loudly protest against
+  - Text: To strongly support
+  - Text: To ignore completely
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_266
+Question: >
+  Identify the sentences that correctly use Irregular Plural Nouns.
+Explanation: >
+  Plural ireguler adalah bentuk jamak yang tidak menggunakan akhiran -s atau -es (contoh: criteria, data, phenomena, mice, children).
+Options:
+  - Text: The scientist gathered all the relevant data for the research.
+    IsCorrect: true
+  - Text: There were many childs playing in the park.
+    IsCorrect: false
+  - Text: The bacteria under the microscope multiplied rapidly.
+    IsCorrect: true
+  - Text: These criterias must be met before applying for the job.
+    IsCorrect: false
+  - Text: A flock of geese flew over the lake.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_267
+Question: >
+  Which sentences effectively use Modals of Deduction for past events?
+Explanation: >
+  Modals of deduction untuk masa lampau dibentuk menggunakan Modal (must, might, may, could, can't) + have + Past Participle (V3).
+Options:
+  - Text: The ground is wet; it must have rained last night.
+    IsCorrect: true
+  - Text: She looks sad; she might receive some bad news.
+    IsCorrect: false
+  - Text: He can't have committed the crime because he was in another country.
+    IsCorrect: true
+  - Text: You should have call me before coming.
+    IsCorrect: false
+  - Text: They could have gotten lost since they didn't bring a map.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_268
+Question: >
+  Select the sentences that correctly express wishes or regrets about the PAST.
+Explanation: >
+  Penyesalan tentang kejadian yang sudah berlalu diekspresikan menggunakan pola: "Subject + wish + Subject + Past Perfect (had + V3)".
+Options:
+  - Text: I wish I had brought my umbrella yesterday.
+    IsCorrect: true
+  - Text: She wishes she knew the answer to that question now.
+    IsCorrect: false
+  - Text: He wishes he had not spoken so rudely to his boss.
+    IsCorrect: true
+  - Text: We wish we arrived earlier to catch the train.
+    IsCorrect: false
+  - Text: They wish they had bought the tickets when they were cheaper.
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMA_ING_269
+Question: >
+  Tentukan Benar atau Salah pada penggunaan Question Tag dengan Indefinite Pronouns.
+Explanation: >
+  Jika subjeknya indefinite pronoun (everyone, someone, nobody), maka pronoun pada tag-nya menggunakan "they". Perhatikan bahwa nobody/nothing sudah bernilai negatif.
+Options:
+  - Text: "Everyone passed the exam, didn't they?"
+    IsCorrect: Benar
+  - Text: "Nothing can go wrong, can it?"
+    IsCorrect: Benar
+  - Text: "Somebody left their bag here, didn't he?"
+    IsCorrect: Salah
+  - Text: "Nobody called while I was out, did they?"
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMA_ING_270
+Question: >
+  Evaluasi apakah kalimat berikut mengandung "Dangling Modifier" (modifier yang menggantung/salah sasaran).
+Explanation: >
+  Dangling modifier terjadi jika subjek pada klausa utama bukanlah entitas yang melakukan tindakan pada frasa modifier di awal kalimat.
+Options:
+  - Text: "Rushing to catch the train, his briefcase dropped on the floor." (Briefcase tidak berlari, ini dangling).
+    IsCorrect: Benar
+  - Text: "To bake a perfect loaf of bread, the oven must be at exactly 200 degrees." (Oven tidak memanggang dirinya sendiri, ini dangling).
+    IsCorrect: Benar
+  - Text: "Exhausted from the long journey, Sarah immediately fell asleep on the couch." (Sarah yang lelah, kalimat ini benar, BUKAN dangling).
+    IsCorrect: Salah
+  - Text: "While walking across the street, a car suddenly hit him." (Mobil tidak sedang berjalan kaki, ini dangling).
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMA_ING_271
+Question: >
+  "The new stadium _____ by a team of international architects when the severe storm hit the city."
+  Which passive tense fits the interrupted action?
+Answer: was being constructed
+Explanation: >
+  Kejadian ini menunjukkan suatu aksi yang sedang berlangsung di masa lampau (Past Continuous) dan berbentuk pasif. Polanya adalah "was/were + being + V3".
+Options:
+  - Text: constructed
+  - Text: is constructed
+  - Text: was being constructed
+  - Text: had constructed
+  - Text: has been constructed
+---
+Type: PilihanGanda
+ID: SMA_ING_272
+Question: >
+  "Seldom _____ such a remarkable display of aurora borealis visible this far south."
+  Identify the correct inversion.
+Answer: is
+Explanation: >
+  Karena diawali dengan negative adverb "Seldom", kalimat ini memerlukan inversi. Mengacu pada fakta masa kini (terlihat jauh di selatan), to be "is" diletakkan sebelum subjek "such a remarkable display".
+Options:
+  - Text: there is
+  - Text: is
+  - Text: has
+  - Text: it is
+  - Text: does
+---
+Type: PilihanGanda
+ID: SMA_ING_273
+Question: >
+  "The reporter politely asked the senator _____ to run for president in the upcoming election."
+  Choose the correct structure for the embedded question.
+Answer: whether he intended
+Explanation: >
+  Dalam indirect/embedded question, inversi tanya tidak digunakan. "whether he intended" adalah susunan klausa nomina (Subject + Verb) yang tepat.
+Options:
+  - Text: whether did he intend
+  - Text: if he intend
+  - Text: whether he intended
+  - Text: did he intend
+  - Text: does he intend
+---
+Type: PilihanGanda
+ID: SMA_ING_274
+Question: >
+  "If the pilot had not reacted so swiftly to the engine failure, the plane _____ into the ocean."
+  Complete this third conditional.
+Answer: would have crashed
+Explanation: >
+  Klausa if menggunakan Past Perfect (had not reacted), sehingga klausa utamanya harus menggunakan pola Third Conditional: "would/could/might + have + V3".
+Options:
+  - Text: would crash
+  - Text: will crash
+  - Text: would have crashed
+  - Text: had crashed
+  - Text: crashed
+---
+Type: PilihanGanda
+ID: SMA_ING_275
+Question: >
+  "After negotiating for hours without any progress, both parties agreed it was best to _____."
+  Which idiom implies stopping work for the day?
+Answer: call it a day
+Explanation: >
+  Idiom "call it a day" berarti memutuskan untuk menghentikan suatu kegiatan atau pekerjaan karena merasa sudah cukup atau lelah.
+Options:
+  - Text: beat around the bush
+  - Text: bite the bullet
+  - Text: call it a day
+  - Text: cut corners
+  - Text: hit the sack
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_276
+Question: >
+  Which of the following demonstrate the correct use of Verb Patterns (Gerunds vs Infinitives)?
+Explanation: >
+  Kata kerja tertentu diikuti oleh gerund (enjoy, avoid, mind), sedangkan yang lain diikuti oleh to-infinitive (decide, plan, hope).
+Options:
+  - Text: She avoided to answer the journalist's difficult questions.
+    IsCorrect: false
+  - Text: They decided to postpone the event due to the bad weather.
+    IsCorrect: true
+  - Text: Would you mind opening the window for a moment?
+    IsCorrect: true
+  - Text: He finished reading the novel late last night.
+    IsCorrect: true
+  - Text: I look forward to meet you next week.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_277
+Question: >
+  Identify the sentences that correctly use Transition Signals for Addition or Contrast.
+Explanation: >
+  Transisi addition: moreover, furthermore, in addition. Transisi contrast: however, nevertheless, on the other hand.
+Options:
+  - Text: The smartphone has a long battery life; moreover, its camera is excellent.
+    IsCorrect: true
+  - Text: He is a very talented musician; nevertheless, he suffers from stage fright.
+    IsCorrect: true
+  - Text: The weather was terrible; therefore, we went to the beach.
+    IsCorrect: false
+  - Text: She studied hard for the test; however, she passed with flying colors.
+    IsCorrect: false
+  - Text: The restaurant offers great food; in addition, the service is impeccable.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_278
+Question: >
+  Select the options where Negative Prefixes are correctly paired with their root words.
+Explanation: >
+  Pembentukan antonim melalui prefiks (awalan) memiliki pasangan yang konvensional (contoh: ir-regular, il-legal, im-possible, in-accurate).
+Options:
+  - Text: Relevant -> Irrelevant
+    IsCorrect: true
+  - Text: Patient -> Inpatient
+    IsCorrect: false
+  - Text: Logical -> Illogical
+    IsCorrect: true
+  - Text: Mature -> Immature
+    IsCorrect: true
+  - Text: Accurate -> Unaccurate
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_279
+Question: >
+  Tentukan Benar atau Salah penggunaan pola Causative ("Get" dan "Have") di bawah ini.
+Explanation: >
+  Pola Causative Pasif selalu "Have/Get + Object (benda) + V3". Pola Aktif "Get + orang + To V1". Pola Aktif "Have + orang + V1".
+Options:
+  - Text: "I will get the mechanic to check my brakes tomorrow."
+    IsCorrect: Benar
+  - Text: "She had her expensive dress dry-cleaned."
+    IsCorrect: Benar
+  - Text: "He got his assistant prepare the meeting room." (Get aktif harus menggunakan to-infinitive).
+    IsCorrect: Salah
+  - Text: "We had the plumber to fix the leaking pipe." (Have aktif harus menggunakan bare infinitive).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_280
+Question: >
+  Evaluasi aturan Subject-Verb Agreement untuk "Neither...nor" dan "Either...or".
+Explanation: >
+  Dalam struktur "Neither...nor" dan "Either...or", kata kerja (verb) harus menyesuaikan dengan subjek yang berada paling dekat dengannya.
+Options:
+  - Text: "Neither the manager nor the employees agrees with the new policy."
+    IsCorrect: Salah
+  - Text: "Either the students or the teacher is responsible for the decorations."
+    IsCorrect: Benar
+  - Text: "Neither he nor I am going to attend the conference."
+    IsCorrect: Benar
+  - Text: "Either you or your brother are going to wash the car." (Brother itu tunggal, jadi seharusnya is).
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_281
+Question: >
+  "Please do not call me between 8 and 10 AM tomorrow, because I _____ an important board meeting."
+  Which tense describes an action in progress at a specific future time?
+Answer: will be attending
+Explanation: >
+  Rentang waktu spesifik di masa depan mengindikasikan bahwa kegiatan tersebut akan sedang berlangsung. Oleh karenanya, tense yang digunakan adalah Future Continuous Tense (will be + V-ing).
+Options:
+  - Text: attend
+  - Text: will attend
+  - Text: will have attended
+  - Text: will be attending
+  - Text: have attended
+---
+Type: PilihanGanda
+ID: SMA_ING_282
+Question: >
+  "_____ caused the massive power outage is still being investigated by the local authorities."
+  Which noun clause correctly functions as the subject?
+Answer: What
+Explanation: >
+  Klausa ini berfungsi sebagai subjek kalimat. "What caused the massive power outage" berarti 'apa yang menyebabkan pemadaman listrik masal tersebut'.
+Options:
+  - Text: That
+  - Text: Why
+  - Text: How
+  - Text: What
+  - Text: Because
+---
+Type: PilihanGanda
+ID: SMA_ING_283
+Question: >
+  "Despite his initial enthusiasm, his dedication to the project proved to be quite ephemeral."
+  What is the closest antonym for "ephemeral"?
+Answer: Permanent
+Explanation: >
+  Kata 'ephemeral' berarti fana, berumur pendek, atau tidak bertahan lama. Antonim (lawan kata) yang paling tepat adalah 'permanent' (abadi/tetap).
+Options:
+  - Text: Temporary
+  - Text: Permanent
+  - Text: Complicated
+  - Text: Insignificant
+  - Text: Enthusiastic
+---
+Type: PilihanGanda
+ID: SMA_ING_284
+Question: >
+  "The labor union demands that the management _____ the base salary for all blue-collar workers."
+  Which verb fits the subjunctive requirement?
+Answer: increase
+Explanation: >
+  Kata kerja "demands that" adalah pemicu subjunctive mood. Kata kerja pada klausa setelahnya wajib dalam bentuk dasar/bare infinitive (increase).
+Options:
+  - Text: increases
+  - Text: increased
+  - Text: to increase
+  - Text: increase
+  - Text: is increasing
+---
+Type: PilihanGanda
+ID: SMA_ING_285
+Question: >
+  "The professor has extensively reviewed the latest research on artificial intelligence, and _____."
+  Complete the sentence using correct elliptical construction.
+Answer: so have his assistants
+Explanation: >
+  Klausa pertama adalah kalimat positif yang menggunakan present perfect (has reviewed). Konstruksi elips positifnya menggunakan "so + auxiliary + subjek". Karena "his assistants" jamak, auxiliary-nya adalah "have".
+Options:
+  - Text: his assistants have either
+  - Text: so do his assistants
+  - Text: neither have his assistants
+  - Text: his assistants did too
+  - Text: so have his assistants
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_286
+Question: >
+  Select the phrasal verbs with "turn" that are correctly defined.
+Explanation: >
+  Phrasal verbs dengan dasar kata "turn" sering kali memiliki makna idiomatis, seperti menolak, muncul, atau berubah menjadi.
+Options:
+  - Text: "Turn down" means to reject an offer or application.
+    IsCorrect: true
+  - Text: "Turn up" means to arrive or appear, often unexpectedly.
+    IsCorrect: true
+  - Text: "Turn into" means to transform from one thing to another.
+    IsCorrect: true
+  - Text: "Turn off" means to start a machine.
+    IsCorrect: false
+  - Text: "Turn out" means to end or result in a particular way.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_287
+Question: >
+  Which sentences employ Relative Pronouns (Adjective Clauses) correctly?
+Explanation: >
+  Klausa relatif memperjelas kata benda. 'Where' untuk tempat, 'whose' untuk kepemilikan, 'that' tidak boleh digunakan setelah koma.
+Options:
+  - Text: The restaurant where we had dinner last night was excellent.
+    IsCorrect: true
+  - Text: My grandfather, that is 90 years old, still plays chess daily.
+    IsCorrect: false
+  - Text: The student whose bag was stolen reported it to the police.
+    IsCorrect: true
+  - Text: The documentary which I watched yesterday was very informative.
+    IsCorrect: true
+  - Text: The woman whom I was talking to is the CEO.
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_288
+Question: >
+  Identify the sentences using Participles (V-ing or V3) correctly as Adjectives.
+Explanation: >
+  Present participle (-ing) berarti aktif atau yang menyebabkan perasaan. Past participle (-ed) berarti pasif atau yang merasakan.
+Options:
+  - Text: The confusing instructions led to many errors in the assembly.
+    IsCorrect: true
+  - Text: The students were boring by the long, monotonous lecture.
+    IsCorrect: false
+  - Text: She gave a fascinating presentation on marine biology.
+    IsCorrect: true
+  - Text: Exhausted from the trip, he slept for twelve hours.
+    IsCorrect: true
+  - Text: I am very interesting in learning how to play the piano.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_289
+Question: >
+  Tentukan Benar atau Salah untuk struktur "Third Conditional" (Kondisional Tipe 3) berikut.
+Explanation: >
+  Kondisional tipe 3 merujuk pada masa lalu yang tidak bisa diubah. Pola: If + Past Perfect, Subject + would/could/might + have + V3.
+Options:
+  - Text: "If I had woke up earlier, I wouldn't have missed the flight." (Woke adalah V2, seharusnya V3 'woken').
+    IsCorrect: Salah
+  - Text: "If she had seen the warning sign, she would have stopped the car."
+    IsCorrect: Benar
+  - Text: "Had they known about the traffic jam, they would have taken a different route." (Inversi klausa If ini benar).
+    IsCorrect: Benar
+  - Text: "If he would have studied harder, he would have passed the exam." (Tidak boleh ada 'would' di dalam klausa 'If').
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_290
+Question: >
+  Evaluasi kebenaran kalimat yang menggunakan perbandingan ganda "Double Comparative".
+Explanation: >
+  Pola: The + comparative, the + comparative. Berfungsi menunjukkan hubungan sebab-akibat yang sebanding.
+Options:
+  - Text: "The older he gets, the wiser he becomes."
+    IsCorrect: Benar
+  - Text: "The more money you earn, the more taxes you have to pay."
+    IsCorrect: Benar
+  - Text: "The faster we finish this project, the best it will be for everyone." (Superlatif 'best' tidak boleh digunakan, harusnya 'better').
+    IsCorrect: Salah
+  - Text: "The most you read, the more you know." (Most bukan bentuk comparative, seharusnya 'more').
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMA_ING_291
+Question: >
+  "The museum's ancient artifact is missing from its display case; the security guards _____ asleep during their shift."
+  Which modal perfect is most appropriate for this deduction?
+Answer: must have fallen
+Explanation: >
+  Karena artefak hilang dari etalase, deduksi logis terkuat tentang satpam yang bertugas adalah bahwa mereka pasti tertidur. Modal yang menunjukkan kepastian di masa lampau adalah "must have + V3".
+Options:
+  - Text: should have fallen
+  - Text: must have fallen
+  - Text: could fall
+  - Text: can't have fallen
+  - Text: ought to fall
+---
+Type: PilihanGanda
+ID: SMA_ING_292
+Question: >
+  "_____ the unprecedented rise in raw material costs, the manufacturing company was forced to increase the price of its goods."
+  Which preposition correctly indicates the cause?
+Answer: Due to
+Explanation: >
+  Titik-titik tersebut diikuti oleh noun phrase "the unprecedented rise in raw material costs", bukan sebuah klausa. Oleh karena itu, kita harus menggunakan preposisi seperti "Due to" atau "Because of".
+Options:
+  - Text: Because
+  - Text: Although
+  - Text: Due to
+  - Text: In spite of
+  - Text: Since
+---
+Type: PilihanGanda
+ID: SMA_ING_293
+Question: >
+  "The new software update is designed _____ the overall performance and security of the operating system."
+  Which infinitive form completes the sentence correctly?
+Answer: to improve
+Explanation: >
+  Frasa "is designed" umumnya diikuti oleh to-infinitive (infinitive of purpose) untuk menunjukkan tujuan dari desain perangkat lunak tersebut.
+Options:
+  - Text: improve
+  - Text: improving
+  - Text: to improve
+  - Text: improved
+  - Text: for improve
+---
+Type: PilihanGanda
+ID: SMA_ING_294
+Question: >
+  "Despite her usually gregarious nature, Jane remained conspicuously silent and withdrawn throughout the entire dinner party."
+  What can be inferred about Jane's behavior?
+Answer: It was highly unusual for her to be so quiet.
+Explanation: >
+  Kata "gregarious" (suka bergaul) dan "conspicuously silent" (sangat diam secara mencolok) menunjukkan kontras, menyiratkan bahwa perilaku diam Jane sangat tidak biasa bagi dirinya.
+Options:
+  - Text: She is generally a very shy and introverted person.
+  - Text: It was highly unusual for her to be so quiet.
+  - Text: She was angry at the food served at the party.
+  - Text: She was actively engaged in a loud conversation.
+  - Text: She talks a lot only when she is alone.
+---
+Type: PilihanGanda
+ID: SMA_ING_295
+Question: >
+  "The government heavily subsidized the agricultural sector; _____, food prices stabilized significantly within six months."
+  Which transition correctly links these clauses?
+Answer: consequently
+Explanation: >
+  Subsidi (sebab) menghasilkan harga makanan yang stabil (akibat). Kata hubung yang menyatakan akibat adalah "consequently" (akibatnya/oleh karena itu).
+Options:
+  - Text: nevertheless
+  - Text: conversely
+  - Text: similarly
+  - Text: consequently
+  - Text: however
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_296
+Question: >
+  Identify the sentences that observe correct English Capitalization and Punctuation rules for quotes.
+Explanation: >
+  Kutipan langsung harus diapit tanda kutip. Koma atau titik umumnya diletakkan di dalam tanda kutip penutup (gaya Amerika). Huruf pertama di awal kutipan lengkap harus kapital.
+Options:
+  - Text: "I will be arriving late," she said, "because of the terrible traffic."
+    IsCorrect: true
+  - Text: The professor stated, "history tends to repeat itself."
+    IsCorrect: false
+  - Text: "Where are we going?" asked the child.
+    IsCorrect: true
+  - Text: He shouted, "Watch out for the car!"
+    IsCorrect: true
+  - Text: "I love reading." she whispered.
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_297
+Question: >
+  Which of the following pairs of words are synonymous?
+Explanation: >
+  Pemahaman sinonim yang mendalam penting untuk meningkatkan skor TKA dan menghindari repetisi kata saat menulis esai.
+Options:
+  - Text: Ambiguous – Unclear
+    IsCorrect: true
+  - Text: Meticulous – Careless
+    IsCorrect: false
+  - Text: Lucrative – Profitable
+    IsCorrect: true
+  - Text: Ephemeral – Permanent
+    IsCorrect: false
+  - Text: Mitigate – Alleviate
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMA_ING_298
+Question: >
+  Select the sentences that correctly use the Subjunctive Mood.
+Explanation: >
+  Subjunctive digunakan setelah kata-kata yang menyatakan saran, perintah, atau kepentingan (suggest, demand, crucial). Kata kerjanya berupa bare infinitive untuk semua subjek.
+Options:
+  - Text: It is important that he be present at the meeting.
+    IsCorrect: true
+  - Text: The doctor suggested that she takes a few days off.
+    IsCorrect: false
+  - Text: I demand that the manager refund my money immediately.
+    IsCorrect: true
+  - Text: It is vital that the patient avoid strenuous exercises.
+    IsCorrect: true
+  - Text: The law requires that every citizen pays taxes.
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMA_ING_299
+Question: >
+  Tentukan Benar atau Salah penggunaan "Appositives" pada kalimat di bawah ini.
+Explanation: >
+  Appositive adalah frasa yang menerangkan kata benda. Jika sifatnya non-restrictive (hanya info tambahan), ia harus diapit oleh koma.
+Options:
+  - Text: "Thomas Edison, the inventor of the lightbulb, held over a thousand patents."
+    IsCorrect: Benar
+  - Text: "My friend, Sarah, is moving to Canada." (Bisa benar jika penulis hanya memiliki satu teman secara konteks, umumnya koma dibenarkan untuk nama).
+    IsCorrect: Benar
+  - Text: "The novel, 1984, was written by George Orwell." (1984 bersifat restrictive karena membedakan dari novel Orwell lainnya, koma seharusnya tidak ada).
+    IsCorrect: Salah
+  - Text: "Mercury the closest planet to the sun is very hot." (Kurang koma sebelum dan sesudah appositive).
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMA_ING_300
+Question: >
+  Evaluasi kebenaran perubahan dari kalimat Direct Speech ke Indirect Speech.
+  Direct: "Don't touch the broken glass!" she told him.
+Explanation: >
+  Kalimat perintah/larangan dalam Indirect Speech menggunakan pola "tell/ask + object + not to + infinitive".
+Options:
+  - Text: She told him don't touch the broken glass.
+    IsCorrect: Salah
+  - Text: She told him not to touch the broken glass.
+    IsCorrect: Benar
+  - Text: She said to him to not touch the broken glass.
+    IsCorrect: Salah
+  - Text: She warned him not to touch the broken glass.
+    IsCorrect: Benar
+---

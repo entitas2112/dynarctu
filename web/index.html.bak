@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DYNARCTU - Sistem Evaluasi Belajar</title>
+    
+    <!-- Font Google: Poppins -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Konfigurasi MathJax -->
+    <script src="js/mathjax-config.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ==========================================
+     AREA LANDING PAGE
+     ========================================== -->
+<div id="landing-page">
+    
+    <!-- Navbar -->
+    <header class="top-navbar">
+        <img src="logo6.png" alt="DYNARCTU Logo" id="nav-logo">
+        
+        <!-- Menu Navigasi -->
+        <nav class="nav-links" id="nav-links">
+            <a href="#landing-page">Home</a>
+            <a href="#about-us">About Us</a>
+            <a href="#contact-us">Contact</a>
+            <button id="dark-mode-toggle" class="btn-toggle" aria-label="Toggle Dark Mode">🌙</button>
+        </nav>
+
+
+        <!-- Tombol Hamburger (Garis 3 untuk Mobile) -->
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+
+    <header class="hero-section">
+    <div class="hero-content">
+    <h1>Siap Hadapi TKA?<br>Yuk, Uji Kemampuanmu Sekarang!</h1>
+    <p>DYNARCTU menyediakan platform evaluasi belajar interaktif dengan simulasi soal berbasis HOTS yang akurat untuk jenjang SD, SMP, hingga SMA/SMK sederajat.</p>
+    <!-- Tombol CTA yang otomatis skrol ke bagian pilihan program -->
+    <a href="#programs" class="btn-hero">Mulai Latihan Gratis</a>
+    </div>
+    </header>
+
+    <!-- Section: Apa itu TKA -->
+    <section class="section-about">
+        <div class="about-content">
+            <h1>Apa itu TKA?</h1>
+            <p>Tes Kemampuan Akademik (TKA) adalah instrumen asesmen nasional yang dirancang oleh Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) sebagai pengganti Ujian Nasional (UN). Asesmen ini bertujuan untuk mengukur kompetensi akademik siswa secara komprehensif. TKA wajib diikuti oleh seluruh peserta didik di jenjang SD, SMP, hingga SMA/SMK sederajat.</p>
+        </div>
+    </section>
+
+    <!-- Section: Persiapan -->
+    <section class="section-prep">
+        <h2>Apa yang Harus Disiapkan<br>untuk Hadapi TKA?</h2>
+        <ul class="checklist">
+            <li><div class="check-icon"></div> Latihan soal berbasis logika dan pemahaman konsep secara mendalam, bukan sekadar menghafal materi.</li>
+            <li><div class="check-icon"></div> Pilihlah mata pelajaran tambahan yang linier dan sesuai dengan jurusan atau minat bakat Anda.</li>
+            <li><div class="check-icon"></div> Kelola waktu belajar secara konsisten dan buat jadwal evaluasi mandiri secara berkala.</li>
+            <li><div class="check-icon"></div> Perbanyak latihan soal bertipe HOTS (Higher Order Thinking Skills) untuk mengasah daya nalar serta kemampuan berpikir kritis.</li>
+        </ul>
+    </section>
+
+    <!-- Section: Pilihan Tingkat Sekolah (Cards) -->
+    <section class="section-programs" id="programs">
+        <h2>Di DYNARCTU kami menyediakan Program TKA</h2>
+        
+        <div class="cards-container">
+            
+            <!-- KARTU SD -->
+            <div class="program-card">
+                <div class="card-top">
+                    <h3>SD</h3>
+                    <p>Sekolah Dasar</p>
+                </div>
+                <div class="card-bottom">
+                    <p class="desc">Program evaluasi TKA yang dirancang khusus untuk mempersiapkan siswa/i SD menghadapi ujian kompetensi akademik dasar.</p>
+                    
+                    <div class="config-group">
+                        <label>Mata Pelajaran</label>
+                        <select id="mapel-sd">
+                            <option value="mtk">Matematika</option>
+                            <option value="indo">Bahasa Indonesia</option>
+                        </select>
+                    </div>
+                    <div class="config-group">
+                        <label>Jumlah Soal</label>
+                        <select id="jumlah-sd">
+                            <option value="10">10 Soal</option>
+                            <option value="20">20 Soal</option>
+                            <option value="30">30 Soal</option>
+                        </select>
+                    </div>
+                    <div class="config-group" style="margin-bottom: 25px;">
+                        <label>Batas Waktu</label>
+                        <select id="durasi-sd">
+                            <option value="10">10 Menit</option>
+                            <option value="20">20 Menit</option>
+                            <option value="30">30 Menit</option>
+                        </select>
+                    </div>
+                    <button class="btn-mulai btn-loading" data-start-jenjang="sd" disabled>Memuat...</button>
+                </div>
+            </div>
+
+            <!-- KARTU SMP -->
+            <div class="program-card">
+                <div class="card-top">
+                    <h3>SMP</h3>
+                    <p>Sekolah Menengah Pertama</p>
+                </div>
+                <div class="card-bottom">
+                    <p class="desc">Program evaluasi TKA yang dirancang khusus untuk mempersiapkan siswa/i SMP memperkuat logika dan analisis penalaran.</p>
+                    
+                    <div class="config-group">
+                        <label>Mata Pelajaran</label>
+                        <select id="mapel-smp">
+                            <option value="mtk">Matematika</option>
+                            <option value="indo">Bahasa Indonesia</option>
+                        </select>
+                    </div>
+                    <div class="config-group">
+                        <label>Jumlah Soal</label>
+                        <select id="jumlah-smp">
+                            <option value="10">10 Soal</option>
+                            <option value="20">20 Soal</option>
+                            <option value="30">30 Soal</option>
+                        </select>
+                    </div>
+                    <div class="config-group" style="margin-bottom: 25px;">
+                        <label>Batas Waktu</label>
+                        <select id="durasi-smp">
+                            <option value="10">10 Menit</option>
+                            <option value="20">20 Menit</option>
+                            <option value="30">30 Menit</option>
+                        </select>
+                    </div>
+                    <button class="btn-mulai btn-loading" data-start-jenjang="smp" disabled>Memuat...</button>
+                </div>
+            </div>
+
+            <!-- KARTU SMA -->
+            <div class="program-card">
+                <div class="card-top">
+                    <h3>SMA</h3>
+                    <p>Sekolah Menengah Atas</p>
+                </div>
+                <div class="card-bottom">
+                    <p class="desc">Program evaluasi TKA intensif untuk mempersiapkan siswa/i SMA/SMK menembus seleksi PTN dan tes skolastik tingkat lanjut.</p>
+                    
+                    <div class="config-group">
+                        <label>Mata Pelajaran</label>
+                        <select id="mapel-sma">
+                            <option value="mtk">Matematika</option>
+                            <option value="indo">Bahasa Indonesia</option>
+                            <option value="inggris">Bahasa Inggris</option>
+                        </select>
+                    </div>
+                    <div class="config-group">
+                        <label>Jumlah Soal</label>
+                        <select id="jumlah-sma">
+                            <option value="10">10 Soal</option>
+                            <option value="20">20 Soal</option>
+                            <option value="30">30 Soal</option>
+                        </select>
+                    </div>
+                    <div class="config-group" style="margin-bottom: 25px;">
+                        <label>Batas Waktu</label>
+                        <select id="durasi-sma">
+                            <option value="10">10 Menit</option>
+                            <option value="20">20 Menit</option>
+                            <option value="30">30 Menit</option>
+                        </select>
+                    </div>
+                    <button class="btn-mulai btn-loading" data-start-jenjang="sma" disabled>Memuat...</button>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Section: Footer (About Us, Help, Socials) -->
+    <footer class="footer-section">
+        <div class="footer-top">
+            <!-- Kolom 1: Logo & Info Singkat -->
+            <div class="footer-col">
+                <div class="footer-logo-box">
+                    <img src="logo6.png" alt="DYNARCTU Logo" id="footer-logo">
+                </div>
+                <p>Mempersiapkan masa depan gemilang dengan sistem evaluasi cerdas yang adaptif dan komprehensif.</p>
+                <button class="btn-reset-db" id="btn-reset-riwayat">Reset Basis Data Histori</button>
+            </div>
+            
+            <!-- Kolom 2: About -->
+            <div class="footer-col" id="about-us">
+                <h3>About DYNARCTU</h3>
+                <p>DYNARCTU adalah platform evaluasi belajar yang berdedikasi untuk memberikan simulasi Tes Kemampuan Akademik (TKA) yang dirancang untuk memfasilitasi bagi siswa-siswi di seluruh Indonesia.</p>
+            </div>
+
+            <!-- Kolom 3: Help / Kontak -->
+            <div class="footer-col" id="contact-us">
+                <h3>Bantuan & Dukungan</h3>
+                <ul class="help-links">
+                    <li>
+                        <strong>Email:</strong><br>
+                        <a href="mailto:">--</a>
+                    </li>
+                    <li>
+                        <strong>No. Telp / WhatsApp:</strong><br>
+                        <a href="tel:+6282330844544">+62 823-3084-4544</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- Baris Bawah: Copyright & Ikon Sosmed -->
+        <div class="footer-bottom">
+            <div class="copyright">
+                &copy; 2026 DYNARCTU. All rights reserved.
+            </div>
+            
+            <!-- Ikon Sosial Media -->
+            <div class="social-icons">
+                <!-- YouTube -->
+                <a href="https://youtube.com/@dynarctu?si=EdgiAr8pxC6Yw-bw" target="_blank" aria-label="YouTube">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                    </svg>
+                </a>
+                <!-- Instagram -->
+                <a href="https://www.instagram.com/dezt4_?igsh=MWhqbHVwM3B4a3p1MA" target="_blank" aria-label="Instagram">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm3.98-10.395a1.44 1.44 0 1 1-2.88 0 1.44 1.44 0 0 1 2.88 0z"/>
+                    </svg>
+                </a>
+                <!-- TikTok -->
+                <a href="https://www.tiktok.com/@dynarctu?_r=1&_t=ZS-97nePKVdUbk" target="_blank" aria-label="TikTok">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12.525.02c1.31-.02 2.61-.01 3.91-.04.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93v7.2c0 1.96-.5 3.96-1.62 5.59-1.11 1.61-2.73 2.76-4.63 3.12-1.93.36-3.96.16-5.74-.73-1.77-.88-3.15-2.44-3.82-4.3-.65-1.84-.57-3.95.28-5.72.86-1.74 2.4-3.08 4.23-3.65 1.8-.54 3.78-.44 5.51.27v4.13c-.93-.31-1.95-.3-2.85-.02-.89.28-1.67.88-2.18 1.67-.5.78-.66 1.75-.43 2.66.22.92.8 1.71 1.58 2.16.8.46 1.75.56 2.64.33.88-.23 1.63-.82 2.08-1.61.45-.78.58-1.72.36-2.6-.05-.21-.13-.42-.23-.61V.02z"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+</div> <!-- End Landing Page -->
+
+
+<!-- ==========================================
+     AREA QUIZ SYSTEM 
+     ========================================== -->
+<div id="quiz-wrapper" class="quiz-wrapper">
+    <div class="container" id="app">
+        
+        <!-- LAYAR QUIZ -->
+        <div id="quiz-screen" class="hidden">
+            <div id="timer-header">
+                <div class="progress" id="progress-text">Soal 1 / 10</div>
+                <div id="timer">00:00</div>
+            </div>
+            
+            <div id="soal-container"></div>
+            
+            <div id="explanation" class="explanation-box"></div>
+
+            <hr>
+
+            <button class="btn-cek" id="btn-cek">Kunci Jawaban</button>
+            <button class="btn-next hidden" id="btn-next">Lanjutkan ➔</button>
+        </div>
+
+        <!-- LAYAR HASIL -->
+        <div id="result-screen" class="hidden">
+            <h2 class="section-title">Evaluasi Selesai</h2>
+            <p style="text-align:center; color: var(--text-muted); font-weight: 500;">Berikut adalah ringkasan performa Anda:</p>
+            
+            <div class="result-box">
+                <div class="score-circle">
+                    <span id="skor-akhir" style="font-size: 3.5em; font-weight:800; color: var(--primary); margin: 0; line-height: 1;"></span>
+                </div>
+                <p style="color: var(--text-muted); font-size: 0.95em; text-transform: uppercase; letter-spacing: 1.5px; font-weight: 700;">Skor Akhir</p>
+                <p id="detail-skor" style="margin-top: 15px; font-weight: 600; color: var(--primary); font-size: 1.1em;"></p>
+            </div>
+            
+            <button class="btn-next" id="btn-kembali-beranda">Kembali ke Beranda Utama</button>
+        </div>
+
+    </div>
+</div>
+<script type="module" src="js/app.js"></script>
+<script src="js/nav.js"></script>
+</body>
+</html>

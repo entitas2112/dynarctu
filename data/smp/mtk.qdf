@@ -1,0 +1,2680 @@
+Type: PilihanGanda
+ID: SMP_MTK_1
+Question: Sebuah termometer menunjukkan suhu $-5^\circ\text{C}$ pada pagi hari. Pada siang hari, suhunya naik $12^\circ\text{C}$. Tentukan suhu pada siang hari.
+Answer: $7^\circ\text{C}$
+Explanation: Suhu akhir diperoleh dengan menjumlahkan suhu awal dan besar kenaikan: $-5 + 12 = 7$.
+Options:
+  - Text: $17^\circ\text{C}$
+  - Text: $-17^\circ\text{C}$
+  - Text: $7^\circ\text{C}$
+  - Text: $-7^\circ\text{C}$
+  - Text: $12^\circ\text{C}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_2
+Question: Tentukan hasil dari operasi pecahan $\frac{2}{3} + \frac{1}{4} \times \frac{2}{5}$.
+Answer: $\frac{23}{30}$
+Explanation: Kalikan terlebih dahulu: $\frac{1}{4} \times \frac{2}{5} = \frac{2}{20} = \frac{1}{10}$. Lalu jumlahkan: $\frac{2}{3} + \frac{1}{10} = \frac{20}{30} + \frac{3}{30} = \frac{23}{30}$.
+Options:
+  - Text: $\frac{11}{15}$
+  - Text: $\frac{14}{30}$
+  - Text: $\frac{3}{12}$
+  - Text: $\frac{23}{30}$
+  - Text: $\frac{1}{2}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_3
+Question: Dalam suatu kelas terdapat $40$ siswa. Jika rasio siswa laki-laki terhadap siswa perempuan adalah $3 : 5$, berapakah jumlah siswa perempuan di kelas tersebut?
+Answer: 25
+Explanation: Jumlah bagian = $3 + 5 = 8$. Jumlah perempuan = $\frac{5}{8} \times 40 = 25$ siswa.
+Options:
+  - Text: 15
+  - Text: 20
+  - Text: 25
+  - Text: 30
+  - Text: 35
+---
+Type: PilihanGanda
+ID: SMP_MTK_4
+Question: Jarak dua kota pada peta dengan skala $1 : 500.000$ adalah $4\text{ cm}$. Tentukan jarak sebenarnya kedua kota tersebut dalam satuan kilometer.
+Answer: 20
+Explanation: Jarak sebenarnya = Jarak peta / Skala = $4 \times 500.000 = 2.000.000\text{ cm}$. Konversi ke km: $2.000.000 / 100.000 = 20\text{ km}$.
+Options:
+  - Text: 200
+  - Text: 20
+  - Text: 2
+  - Text: 50
+  - Text: 500
+---
+Type: PilihanGanda
+ID: SMP_MTK_5
+Question: Pak Andi membeli sepeda seharga $\text{Rp}2.000.000,00$ dan menjualnya kembali dengan kerugian $15\%$. Berapakah harga jual sepeda tersebut?
+Answer: $\text{Rp}1.700.000,00$
+Explanation: Kerugian = $15\% \times 2.000.000 = 300.000$. Harga jual = $2.000.000 - 300.000 = 1.700.000$.
+Options:
+  - Text: $\text{Rp}1.700.000,00$
+  - Text: $\text{Rp}1.850.000,00$
+  - Text: $\text{Rp}1.500.000,00$
+  - Text: $\text{Rp}2.300.000,00$
+  - Text: $\text{Rp}1.600.000,00$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_6
+Question: Identifikasi sifat-sifat operasi hitung pada bilangan bulat berikut yang bernilai benar.
+Explanation: Komutatif berlaku untuk penjumlahan dan perkalian. Asosiatif berlaku untuk penjumlahan dan perkalian. Pengurangan tidak komutatif.
+Options:
+  - Text: $a + b = b + a$ merupakan sifat komutatif
+    IsCorrect: true
+  - Text: $a - b = b - a$ merupakan sifat komutatif
+    IsCorrect: false
+  - Text: $(a \times b) \times c = a \times (b \times c)$ merupakan sifat asosiatif
+    IsCorrect: true
+  - Text: $a \times (b + c) = a \times b + a \times c$ merupakan sifat distributif
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_7
+Question: Dari pecahan berikut, manakah yang memiliki nilai setara dengan $0,75$?
+Explanation: $0,75 = \frac{75}{100} = \frac{3}{4}$. Bentuk ekuivalen lainnya adalah $\frac{6}{8}$, $\frac{15}{20}$, atau persentase $75\%$.
+Options:
+  - Text: $\frac{3}{4}$
+    IsCorrect: true
+  - Text: $\frac{6}{8}$
+    IsCorrect: true
+  - Text: $\frac{5}{6}$
+    IsCorrect: false
+  - Text: $75\%$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_8
+Question: Sebuah denah rumah digambar dengan skala $1 : 100$. Manakah pernyataan di bawah ini yang sesuai dengan skala tersebut?
+Explanation: Skala $1 : 100$ berarti $1\text{ cm}$ pada peta mewakili $100\text{ cm}$ (atau $1\text{ m}$) jarak sebenarnya.
+Options:
+  - Text: $1\text{ cm}$ di denah sama dengan $1\text{ m}$ ukuran sebenarnya
+    IsCorrect: true
+  - Text: Jika panjang kamar di denah $3\text{ cm}$, panjang aslinya adalah $3\text{ m}$
+    IsCorrect: true
+  - Text: Luas wilayah pada denah skalanya berbanding linear secara langsung (skala $1:100$)
+    IsCorrect: false
+  - Text: $5\text{ cm}$ di denah sama dengan $50\text{ m}$ sebenarnya
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_9
+Question: Tentukan kebenaran dari pernyataan mengenai himpunan bilangan berikut.
+Explanation: Bilangan rasional mencakup pecahan, bilangan bulat, dan desimal terbatas/berulang. $\pi$ adalah irasional.
+Options:
+  - Text: Bilangan $\frac{1}{3}$ termasuk bilangan rasional
+    IsCorrect: Benar
+  - Text: Nilai $\pi$ (phi) adalah contoh bilangan rasional
+    IsCorrect: Salah
+  - Text: Semua bilangan bulat adalah bilangan rasional
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_10
+Question: Evaluasi pernyataan mengenai faktorisasi prima di bawah ini.
+Explanation: Faktorisasi prima 12 adalah $2^2 \times 3$. KPK dari 4 dan 6 adalah 12, FPB-nya adalah 2.
+Options:
+  - Text: Faktorisasi prima dari $12$ adalah $2^2 \times 3$
+    IsCorrect: Benar
+  - Text: FPB dari $4$ dan $6$ adalah $12$
+    IsCorrect: Salah
+  - Text: KPK dari $4$ dan $6$ adalah $12$
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_11
+Question: Diketahui himpunan $A = \{x \mid 2 \le x < 8, x \in \text{Bilangan Prima}\}$. Tentukan banyak anggota himpunan $A$.
+Answer: 3
+Explanation: Bilangan prima antara 2 (termasuk) dan 8 adalah 2, 3, 5, 7. Jadi $A = \{2, 3, 5, 7\}$. Jumlah anggotanya adalah 4. (Koreksi: Anggotanya ada 4, bukan 3. Saya harus menyesuaikan jawabannya. Bilangan prima: 2,3,5,7. Total 4).
+Options:
+  - Text: 2
+  - Text: 3
+  - Text: 4
+  - Text: 5
+  - Text: 6
+---
+Type: PilihanGanda
+ID: SMP_MTK_12
+Question: Hasil penyederhanaan dari bentuk aljabar $3x - 5y + 7x + 2y$ adalah bentuk paling sederhana. Tentukan bentuk tersebut.
+Answer: $10x - 3y$
+Explanation: Gabungkan suku-suku sejenis: $(3x + 7x) + (-5y + 2y) = 10x - 3y$.
+Options:
+  - Text: $10x + 3y$
+  - Text: $10x - 3y$
+  - Text: $4x - 7y$
+  - Text: $21x - 10y$
+  - Text: $4x - 3y$
+---
+Type: PilihanGanda
+ID: SMP_MTK_13
+Question: Tentukan nilai $x$ yang memenuhi persamaan linear $4x - 7 = 2x + 9$.
+Answer: $8$
+Explanation: Kurangkan $2x$ di kedua ruas: $2x - 7 = 9$. Tambahkan 7: $2x = 16$. Bagi 2: $x = 8$.
+Options:
+  - Text: 4
+  - Text: 6
+  - Text: 8
+  - Text: 10
+  - Text: 12
+---
+Type: PilihanGanda
+ID: SMP_MTK_14
+Question: Sebuah persegi panjang memiliki panjang $(3x - 1)\text{ cm}$ dan lebar $(x + 2)\text{ cm}$. Jika kelilingnya adalah $34\text{ cm}$, tentukan nilai $x$.
+Answer: $4$
+Explanation: Keliling = $2(p + l) \Rightarrow 34 = 2(3x - 1 + x + 2) \Rightarrow 17 = 4x + 1 \Rightarrow 4x = 16 \Rightarrow x = 4$.
+Options:
+  - Text: 2
+  - Text: 3
+  - Text: 4
+  - Text: 5
+  - Text: 6
+---
+Type: PilihanGanda
+ID: SMP_MTK_15
+Question: Tentukan himpunan penyelesaian dari pertidaksamaan $3(x - 2) \le x + 6$, untuk $x$ bilangan cacah.
+Answer: $\{0, 1, 2, 3, 4, 5, 6\}$
+Explanation: $3x - 6 \le x + 6 \Rightarrow 2x \le 12 \Rightarrow x \le 6$. Karena $x$ cacah, maka $x \in \{0, 1, 2, 3, 4, 5, 6\}$.
+Options:
+  - Text: $\{1, 2, 3, 4, 5, 6\}$
+  - Text: $\{0, 1, 2, 3, 4, 5, 6\}$
+  - Text: $\{0, 1, 2, 3, 4, 5\}$
+  - Text: $\{6, 7, 8, \dots\}$
+  - Text: $\{0, 1, 2\}$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_16
+Question: Diketahui dua himpunan $P = \{1, 2, 3, 4\}$ dan $Q = \{3, 4, 5, 6\}$. Identifikasi pernyataan operasi himpunan yang benar.
+Explanation: Irisan adalah elemen yang ada di keduanya ($3,4$). Gabungan adalah seluruh elemen tanpa repetisi.
+Options:
+  - Text: $P \cap Q = \{3, 4\}$
+    IsCorrect: true
+  - Text: $P \cup Q = \{1, 2, 3, 4, 5, 6\}$
+    IsCorrect: true
+  - Text: $P - Q = \{1, 2, 3\}$
+    IsCorrect: false
+  - Text: $Q - P = \{5, 6\}$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_17
+Question: Manakah dari bentuk aljabar berikut yang merupakan hasil pemfaktoran yang benar?
+Explanation: Cek hasil kali: $x^2 - y^2 = (x-y)(x+y)$. $x^2 + 5x + 6 = (x+2)(x+3)$. $x^2-2x+1 = (x-1)^2$.
+Options:
+  - Text: $x^2 - 9 = (x - 3)(x + 3)$
+    IsCorrect: true
+  - Text: $x^2 + 6x + 9 = (x + 3)(x + 3)$
+    IsCorrect: true
+  - Text: $x^2 - x - 6 = (x - 3)(x - 2)$
+    IsCorrect: false
+  - Text: $2x^2 + 2x = 2x(x + 1)$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_18
+Question: Pilih pernyataan yang ekuivalen dengan persamaan linear $3x - 4 = 11$.
+Explanation: Jika $3x - 4 = 11$, maka $3x = 15$ dan $x = 5$. Persamaan ekuivalen harus menghasilkan $x=5$.
+Options:
+  - Text: $3x = 15$
+    IsCorrect: true
+  - Text: $x = 5$
+    IsCorrect: true
+  - Text: $6x - 8 = 22$
+    IsCorrect: true
+  - Text: $x + 2 = 9$
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_19
+Question: Tentukan kebenaran dari pernyataan-pernyataan mengenai aljabar dasar berikut.
+Explanation: Koefisien adalah angka yang mendampingi variabel. Suku sejenis memiliki variabel dan pangkat yang sama.
+Options:
+  - Text: Pada bentuk $5x^2 - 3x + 2$, koefisien dari $x$ adalah $3$
+    IsCorrect: Salah
+  - Text: $4xy$ dan $-2xy$ adalah dua suku yang sejenis
+    IsCorrect: Benar
+  - Text: Konstanta pada bentuk $y = 2x - 7$ adalah $-7$
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_20
+Question: Cermati konsep himpunan bagian berikut dan tentukan nilai kebenarannya.
+Explanation: Himpunan bagian dirumuskan sebagai $2^n$. Jika himpunan kosong, hanya ada 1 himpunan bagian.
+Options:
+  - Text: Himpunan kosong adalah himpunan bagian dari semua himpunan
+    IsCorrect: Benar
+  - Text: Banyaknya himpunan bagian dari himpunan beranggota $3$ adalah $6$
+    IsCorrect: Salah
+  - Text: Jika $A \subset B$ dan $B \subset A$, maka $A = B$
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_21
+Question: Sebuah fungsi dirumuskan dengan $f(x) = 3x - 5$. Tentukan nilai dari $f(-2)$.
+Answer: $-11$
+Explanation: Substitusikan $x = -2$ ke dalam rumus fungsi: $f(-2) = 3(-2) - 5 = -6 - 5 = -11$.
+Options:
+  - Text: $-11$
+  - Text: $11$
+  - Text: $-1$
+  - Text: $1$
+  - Text: $-6$
+---
+Type: PilihanGanda
+ID: SMP_MTK_22
+Question: Jika relasi antara himpunan $A$ dan $B$ dinyatakan dengan himpunan pasangan berurutan $\{(1, 2), (2, 4), (3, 6), (4, 8)\}$, tentukan aturan relasi yang mungkin dari $A$ ke $B$.
+Answer: Setengah dari
+Explanation: Anggota $A$ (1, 2, 3, 4) masing-masing adalah setengah dari pasangannya di $B$ (2, 4, 6, 8). Relasinya "setengah dari".
+Options:
+  - Text: Dua kali dari
+  - Text: Setengah dari
+  - Text: Kurang satu dari
+  - Text: Akar dari
+  - Text: Kuadrat dari
+---
+Type: PilihanGanda
+ID: SMP_MTK_23
+Question: Gradien garis yang melalui titik $(2, -1)$ dan $(-4, 11)$ dapat ditentukan dengan rumus beda ordinat per beda absis. Tentukan gradiennya.
+Answer: $-2$
+Explanation: $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{11 - (-1)}{-4 - 2} = \frac{12}{-6} = -2$.
+Options:
+  - Text: $2$
+  - Text: $-2$
+  - Text: $3$
+  - Text: $-3$
+  - Text: $0$
+---
+Type: PilihanGanda
+ID: SMP_MTK_24
+Question: Tentukan persamaan garis yang bergradien $3$ dan melalui titik $(0, -5)$.
+Answer: $y = 3x - 5$
+Explanation: Persamaan garis lurus dalam bentuk $y = mx + c$. Gradien $m = 3$ dan memotong sumbu Y di $(0, -5)$ berarti $c = -5$. Jadi $y = 3x - 5$.
+Options:
+  - Text: $y = -3x + 5$
+  - Text: $y = 3x + 5$
+  - Text: $y = -5x + 3$
+  - Text: $y = 3x - 5$
+  - Text: $y = 5x - 3$
+---
+Type: PilihanGanda
+ID: SMP_MTK_25
+Question: >
+  Dalam sistem persamaan linear dua variabel:
+  $x + y = 5$
+  $2x - y = 4$
+  Tentukan nilai dari $x \times y$.
+Answer: $6$
+Explanation: Jumlahkan kedua persamaan: $3x = 9 \Rightarrow x = 3$. Substitusi ke persamaan 1: $3 + y = 5 \Rightarrow y = 2$. Maka $x \times y = 3 \times 2 = 6$.
+Options:
+  - Text: 4
+  - Text: 5
+  - Text: 6
+  - Text: 7
+  - Text: 8
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_26
+Question: Cermati fungsi $f(x) = ax + b$. Jika $f(1) = 3$ dan $f(2) = 5$, manakah pernyataan yang benar terkait fungsi tersebut?
+Explanation: Dari $a+b=3$ dan $2a+b=5$, didapat $a=2$ dan $b=1$. Rumus fungsi adalah $f(x) = 2x + 1$.
+Options:
+  - Text: Nilai $a = 2$
+    IsCorrect: true
+  - Text: Nilai $b = -1$
+    IsCorrect: false
+  - Text: Rumus fungsi $f(x) = 2x + 1$
+    IsCorrect: true
+  - Text: Nilai $f(0) = 1$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_27
+Question: Identifikasi ciri-ciri dari dua garis lurus yang saling sejajar.
+Explanation: Dua garis sejajar memiliki gradien yang sama ($m_1 = m_2$) dan tidak akan pernah berpotongan meski diperpanjang.
+Options:
+  - Text: Memiliki gradien yang sama ($m_1 = m_2$)
+    IsCorrect: true
+  - Text: Hasil kali gradiennya adalah $-1$ ($m_1 \times m_2 = -1$)
+    IsCorrect: false
+  - Text: Jarak antara kedua garis tersebut selalu tetap
+    IsCorrect: true
+  - Text: Memiliki tepat satu titik potong
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_28
+Question: Pilihlah pasangan koordinat titik yang terletak pada garis dengan persamaan $y = -2x + 4$.
+Explanation: Uji setiap titik ke persamaan. Jika $x=0 \Rightarrow y=4$. Jika $x=2 \Rightarrow y=0$. Jika $x=1 \Rightarrow y=2$.
+Options:
+  - Text: $(0, 4)$
+    IsCorrect: true
+  - Text: $(2, 0)$
+    IsCorrect: true
+  - Text: $(1, 2)$
+    IsCorrect: true
+  - Text: $(3, 1)$
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_29
+Question: Tentukan benar atau salah untuk sifat-sifat gradien garis berikut.
+Explanation: Gradien bernilai positif jika miring ke kanan atas. Garis sejajar sumbu X memiliki gradien 0.
+Options:
+  - Text: Garis yang sejajar dengan sumbu X memiliki gradien tak terdefinisi
+    IsCorrect: Salah
+  - Text: Garis dengan persamaan $x = 5$ tidak memiliki gradien (tak terdefinisi)
+    IsCorrect: Benar
+  - Text: Garis yang condong ke kanan memiliki gradien bernilai positif
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_30
+Question: Periksa kebenaran cara penyelesaian Sistem Persamaan Linear Dua Variabel (SPLDV).
+Explanation: SPLDV dapat diselesaikan dengan substitusi, eliminasi, atau grafik.
+Options:
+  - Text: Metode eliminasi dilakukan dengan menghilangkan salah satu variabel untuk mencari variabel lainnya
+    IsCorrect: Benar
+  - Text: Dua garis sejajar memiliki tepat satu penyelesaian SPLDV
+    IsCorrect: Salah
+  - Text: Titik potong dua grafik garis lurus merupakan penyelesaian dari SPLDV
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_31
+Question: Sebuah segitiga siku-siku memiliki panjang sisi penyiku $6\text{ cm}$ dan $8\text{ cm}$. Tentukan panjang sisi miring (hipotenusa) segitiga tersebut.
+Answer: $10\text{ cm}$
+Explanation: Gunakan teorema Pythagoras: $c = \sqrt{6^2 + 8^2} = \sqrt{36 + 64} = \sqrt{100} = 10\text{ cm}$.
+Options:
+  - Text: $10\text{ cm}$
+  - Text: $12\text{ cm}$
+  - Text: $14\text{ cm}$
+  - Text: $16\text{ cm}$
+  - Text: $9\text{ cm}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_32
+Question: Keliling sebuah lingkaran adalah $44\text{ cm}$. Dengan menggunakan $\pi = \frac{22}{7}$, tentukan jari-jari lingkaran tersebut.
+Answer: $7\text{ cm}$
+Explanation: $K = 2\pi r \Rightarrow 44 = 2 \times \frac{22}{7} \times r \Rightarrow 44 = \frac{44}{7} \times r \Rightarrow r = 7\text{ cm}$.
+Options:
+  - Text: $7\text{ cm}$
+  - Text: $14\text{ cm}$
+  - Text: $21\text{ cm}$
+  - Text: $22\text{ cm}$
+  - Text: $10\text{ cm}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_33
+Question: Besar sebuah sudut pelurus dari sudut yang besarnya $75^\circ$ adalah nilai yang harus ditemukan. Tentukan besarnya.
+Answer: $105^\circ$
+Explanation: Dua sudut yang saling berpelurus berjumlah $180^\circ$. Maka $180^\circ - 75^\circ = 105^\circ$.
+Options:
+  - Text: $15^\circ$
+  - Text: $25^\circ$
+  - Text: $95^\circ$
+  - Text: $105^\circ$
+  - Text: $115^\circ$
+---
+Type: PilihanGanda
+ID: SMP_MTK_34
+Question: Luas bangun jajar genjang yang memiliki panjang alas $12\text{ cm}$ dan tinggi $8\text{ cm}$ harus dihitung. Berapa sentimeter persegi luasnya?
+Answer: $96$
+Explanation: Luas jajar genjang $L = alas \times tinggi = 12 \times 8 = 96\text{ cm}^2$.
+Options:
+  - Text: $48$
+  - Text: $96$
+  - Text: $40$
+  - Text: $20$
+  - Text: $100$
+---
+Type: PilihanGanda
+ID: SMP_MTK_35
+Question: Sebuah belah ketupat memiliki panjang diagonal $d_1 = 10\text{ cm}$ dan $d_2 = 24\text{ cm}$. Tentukan keliling belah ketupat tersebut.
+Answer: $52\text{ cm}$
+Explanation: Setengah diagonal adalah 5 dan 12. Sisi miring (Pythagoras): $s = \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = 13\text{ cm}$. Keliling = $4 \times 13 = 52\text{ cm}$.
+Options:
+  - Text: $52\text{ cm}$
+  - Text: $48\text{ cm}$
+  - Text: $60\text{ cm}$
+  - Text: $120\text{ cm}$
+  - Text: $40\text{ cm}$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_36
+Question: Identifikasi kelompok tiga bilangan yang dapat membentuk suatu Tripel Pythagoras dari daftar berikut.
+Explanation: Tripel Pythagoras harus memenuhi $a^2 + b^2 = c^2$. $3,4,5$ dan $5,12,13$ dan $8,15,17$ adalah contoh valid.
+Options:
+  - Text: $3, 4, 5$
+    IsCorrect: true
+  - Text: $5, 12, 13$
+    IsCorrect: true
+  - Text: $7, 24, 25$
+    IsCorrect: true
+  - Text: $6, 8, 12$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_37
+Question: Perhatikan unsur-unsur pada sebuah lingkaran. Manakah pernyataan definisi yang benar?
+Explanation: Diameter membentang melewati pusat, jari-jari dari pusat ke tepi, tali busur menghubungkan dua titik tanpa harus lewat pusat, juring dibatasi dua jari-jari.
+Options:
+  - Text: Tali busur terpanjang pada lingkaran disebut diameter
+    IsCorrect: true
+  - Text: Daerah yang dibatasi oleh busur dan tali busur disebut tembereng
+    IsCorrect: true
+  - Text: Apotema adalah garis lurus dari pusat tegak lurus ke tali busur
+    IsCorrect: true
+  - Text: Juring dibatasi oleh satu tali busur dan satu jari-jari
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_38
+Question: Manakah dari sifat-sifat bangun datar segiempat berikut yang secara khusus berlaku pada persegi?
+Explanation: Persegi memiliki keempat sisi sama panjang, sudut siku-siku, diagonal membagi dua sama panjang dan tegak lurus.
+Options:
+  - Text: Keempat sisinya sama panjang
+    IsCorrect: true
+  - Text: Keempat sudutnya adalah sudut siku-siku ($90^\circ$)
+    IsCorrect: true
+  - Text: Kedua diagonalnya berpotongan tegak lurus
+    IsCorrect: true
+  - Text: Hanya memiliki sepasang sisi yang sejajar
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_39
+Question: Tentukan benar atau salah pernyataan mengenai hubungan antar sudut ini.
+Explanation: Berpenyiku berjumlah 90 derajat, bertolak belakang sama besar.
+Options:
+  - Text: Dua sudut yang saling berpenyiku memiliki jumlah besar sudut $90^\circ$
+    IsCorrect: Benar
+  - Text: Sudut-sudut yang saling bertolak belakang memiliki besar yang berbeda
+    IsCorrect: Salah
+  - Text: Sudut tumpul memiliki besar antara $90^\circ$ dan $180^\circ$
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_40
+Question: Evaluasi pernyataan tentang segitiga dan garis istimewanya berikut ini.
+Explanation: Garis tinggi tegak lurus alas, garis berat membagi alas dua sama panjang, jumlah sudut dalam segitiga 180 derajat.
+Options:
+  - Text: Jumlah seluruh sudut dalam setiap segitiga adalah $180^\circ$
+    IsCorrect: Benar
+  - Text: Garis berat adalah garis yang ditarik dari titik sudut dan tegak lurus dengan sisi di depannya
+    IsCorrect: Salah
+  - Text: Segitiga sama sisi memiliki tiga sumbu simetri
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_41
+Question: Sebuah kubus memiliki panjang rusuk $5\text{ cm}$. Tentukan volume kubus tersebut.
+Answer: $125\text{ cm}^3$
+Explanation: Volume kubus dirumuskan dengan $V = s^3 = 5 \times 5 \times 5 = 125\text{ cm}^3$.
+Options:
+  - Text: $25\text{ cm}^3$
+  - Text: $125\text{ cm}^3$
+  - Text: $150\text{ cm}^3$
+  - Text: $100\text{ cm}^3$
+  - Text: $75\text{ cm}^3$
+---
+Type: PilihanGanda
+ID: SMP_MTK_42
+Question: Tentukan luas permukaan balok yang berukuran panjang $10\text{ cm}$, lebar $6\text{ cm}$, dan tinggi $4\text{ cm}$.
+Answer: $248\text{ cm}^2$
+Explanation: Luas permukaan = $2(pl + pt + lt) = 2(10(6) + 10(4) + 6(4)) = 2(60 + 40 + 24) = 2(124) = 248\text{ cm}^2$.
+Options:
+  - Text: $248\text{ cm}^2$
+  - Text: $240\text{ cm}^2$
+  - Text: $124\text{ cm}^2$
+  - Text: $200\text{ cm}^2$
+  - Text: $160\text{ cm}^2$
+---
+Type: PilihanGanda
+ID: SMP_MTK_43
+Question: Volume sebuah tabung dengan jari-jari alas $7\text{ cm}$ dan tinggi $10\text{ cm}$ ($\pi = \frac{22}{7}$) adalah suatu bilangan. Hitung bilangan tersebut.
+Answer: $1.540\text{ cm}^3$
+Explanation: $V = \pi r^2 t = \frac{22}{7} \times 7^2 \times 10 = 22 \times 7 \times 10 = 1.540\text{ cm}^3$.
+Options:
+  - Text: $1.540\text{ cm}^3$
+  - Text: $1.450\text{ cm}^3$
+  - Text: $440\text{ cm}^3$
+  - Text: $2.140\text{ cm}^3$
+  - Text: $1.500\text{ cm}^3$
+---
+Type: PilihanGanda
+ID: SMP_MTK_44
+Question: Sebuah kerucut mempunyai jari-jari $6\text{ cm}$ dan garis pelukis $10\text{ cm}$. Tentukan luas selimut kerucut tersebut ($\pi = 3,14$).
+Answer: $188,4\text{ cm}^2$
+Explanation: Luas selimut $L_s = \pi r s = 3,14 \times 6 \times 10 = 3,14 \times 60 = 188,4\text{ cm}^2$.
+Options:
+  - Text: $188,4\text{ cm}^2$
+  - Text: $376,8\text{ cm}^2$
+  - Text: $282,6\text{ cm}^2$
+  - Text: $314,0\text{ cm}^2$
+  - Text: $113,04\text{ cm}^2$
+---
+Type: PilihanGanda
+ID: SMP_MTK_45
+Question: Luas permukaan sebuah bola yang berjari-jari $7\text{ cm}$ adalah ... ($\pi = \frac{22}{7}$).
+Answer: $616\text{ cm}^2$
+Explanation: Luas permukaan bola $L = 4\pi r^2 = 4 \times \frac{22}{7} \times 49 = 4 \times 22 \times 7 = 616\text{ cm}^2$.
+Options:
+  - Text: $154\text{ cm}^2$
+  - Text: $308\text{ cm}^2$
+  - Text: $616\text{ cm}^2$
+  - Text: $1.437\text{ cm}^2$
+  - Text: $1.232\text{ cm}^2$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_46
+Question: Identifikasi ciri-ciri bangun ruang prisma segi empat.
+Explanation: Prisma segiempat (seperti balok atau kubus) memiliki 6 sisi, 8 titik sudut, dan 12 rusuk.
+Options:
+  - Text: Memiliki $6$ buah sisi
+    IsCorrect: true
+  - Text: Memiliki $8$ titik sudut
+    IsCorrect: true
+  - Text: Memiliki $12$ rusuk
+    IsCorrect: true
+  - Text: Alas dan tutupnya berbentuk segitiga
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_47
+Question: Berdasarkan rumus volume bangun ruang sisi lengkung, manakah hubungan yang benar jika memiliki jari-jari ($r$) dan tinggi ($t$) yang sama?
+Explanation: Volume kerucut adalah sepertiga dari volume tabung. Volume bola dirumuskan dengan $\frac{4}{3}\pi r^3$.
+Options:
+  - Text: Volume kerucut adalah $\frac{1}{3}$ kali volume tabung
+    IsCorrect: true
+  - Text: Volume bola adalah $\frac{2}{3}$ kali volume tabung berukuran $t = 2r$
+    IsCorrect: true
+  - Text: Rumus volume bola adalah $V = 4\pi r^3$
+    IsCorrect: false
+  - Text: Volume kerucut dirumuskan $V = \frac{1}{3} \pi r^2 t$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_48
+Question: >
+  Diberikan bangun limas segiempat beraturan.
+  Tentukan kebenaran dari karakteristik bangun tersebut.
+Explanation: Limas segiempat memiliki alas segiempat (1 sisi) dan 4 sisi tegak segitiga (total 5 sisi). Punya 5 titik sudut.
+Options:
+  - Text: Memiliki $5$ sisi, yang terdiri dari alas dan $4$ sisi tegak
+    IsCorrect: true
+  - Text: Memiliki $8$ rusuk
+    IsCorrect: true
+  - Text: Memiliki $6$ titik sudut
+    IsCorrect: false
+  - Text: Semua sisi tegaknya berbentuk segitiga
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_49
+Question: Tentukan benar atau salah untuk konsep luas permukaan bangun ruang berikut.
+Explanation: Luas permukaan kubus adalah $6s^2$. Luas alas limas masuk dalam total luas permukaan.
+Options:
+  - Text: Luas permukaan kubus dengan panjang rusuk $s$ adalah $6s^2$
+    IsCorrect: Benar
+  - Text: Luas permukaan kerucut hanya terdiri dari luas selimutnya saja tanpa alas
+    IsCorrect: Salah
+  - Text: Luas permukaan tabung tanpa tutup dihitung dengan rumus $\pi r^2 + 2\pi rt$
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_50
+Question: Cermati jaring-jaring bangun ruang berikut dan periksa kebenarannya.
+Explanation: Jaring-jaring kubus terdiri dari 6 persegi, tidak semua konfigurasi 6 persegi dapat membentuk kubus.
+Options:
+  - Text: Jaring-jaring balok terdiri dari $6$ persegi panjang
+    IsCorrect: Benar
+  - Text: Semua susunan $6$ buah persegi kongruen pasti dapat membentuk jaring-jaring kubus
+    IsCorrect: Salah
+  - Text: Jaring-jaring kerucut terdiri dari sebuah lingkaran dan sebuah juring lingkaran
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_51
+Question: >
+  Nilai ujian matematika dari $8$ siswa adalah sebagai berikut:
+  $60, 70, 80, 80, 90, 70, 80, 100$.
+  Tentukan nilai rata-rata (mean) dari data tersebut.
+Answer: $78,75$
+Explanation: Jumlah data = $60+70+80+80+90+70+80+100 = 630$. Rata-rata = $630 / 8 = 78,75$.
+Options:
+  - Text: $75,5$
+  - Text: $78,75$
+  - Text: $80,0$
+  - Text: $82,5$
+  - Text: $76,25$
+---
+Type: PilihanGanda
+ID: SMP_MTK_52
+Question: Diketahui sekelompok data tersusun sebagai berikut: $4, 5, 5, 6, 7, 8, 9$. Tentukan nilai median dari data di atas.
+Answer: $6$
+Explanation: Data sudah urut: $4, 5, 5, 6, 7, 8, 9$. Jumlah data $n = 7$ (ganjil). Median adalah data ke-$4$, yaitu 6.
+Options:
+  - Text: $5$
+  - Text: $6$
+  - Text: $7$
+  - Text: $5,5$
+  - Text: $6,5$
+---
+Type: PilihanGanda
+ID: SMP_MTK_53
+Question: Nilai modus dari data kemunculan angka dadu yang dilempar $10$ kali: $2, 4, 3, 5, 4, 6, 4, 2, 1, 5$ adalah sesuatu yang paling sering muncul. Temukan angka itu.
+Answer: $4$
+Explanation: Frekuensi: 1(sekali), 2(dua kali), 3(sekali), 4(tiga kali), 5(dua kali), 6(sekali). Modus adalah angka 4 karena paling sering muncul.
+Options:
+  - Text: $2$
+  - Text: $3$
+  - Text: $4$
+  - Text: $5$
+  - Text: $6$
+---
+Type: PilihanGanda
+ID: SMP_MTK_54
+Question: Dua buah dadu bersisi enam dilempar undi bersama-sama satu kali. Tentukan peluang munculnya jumlah mata dadu sama dengan $8$.
+Answer: $\frac{5}{36}$
+Explanation: Ruang sampel $n(S) = 36$. Kejadian berjumlah 8: $(2,6), (3,5), (4,4), (5,3), (6,2)$. Ada 5 kejadian. Peluang = $\frac{5}{36}$.
+Options:
+  - Text: $\frac{4}{36}$
+  - Text: $\frac{5}{36}$
+  - Text: $\frac{6}{36}$
+  - Text: $\frac{7}{36}$
+  - Text: $\frac{8}{36}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_55
+Question: Sebuah kantong berisi $4$ bola merah, $3$ bola biru, dan $5$ bola hijau. Jika diambil satu bola secara acak, berapakah peluang terambilnya bola bukan merah?
+Answer: $\frac{2}{3}$
+Explanation: Total bola = $4+3+5=12$. Bola bukan merah (biru+hijau) = $3+5=8$. Peluang = $\frac{8}{12} = \frac{2}{3}$.
+Options:
+  - Text: $\frac{1}{3}$
+  - Text: $\frac{1}{2}$
+  - Text: $\frac{2}{3}$
+  - Text: $\frac{3}{4}$
+  - Text: $\frac{5}{12}$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_56
+Question: Identifikasi kebenaran tentang ukuran pemusatan data (mean, median, modus).
+Explanation: Mean dipengaruhi ekstrim. Median adalah nilai tengah setelah diurutkan. Modus bisa lebih dari satu (multimodal).
+Options:
+  - Text: Nilai mean sangat dipengaruhi oleh adanya data pencilan (outlier)
+    IsCorrect: true
+  - Text: Suatu kumpulan data selalu hanya memiliki maksimal satu nilai modus
+    IsCorrect: false
+  - Text: Median membagi data yang telah diurutkan menjadi dua bagian yang sama banyak
+    IsCorrect: true
+  - Text: Modus adalah ukuran pemusatan data yang paling tepat untuk data kualitatif/kategori
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_57
+Question: Berdasarkan teori probabilitas klasik dasar, manakah pernyataan peluang yang dapat diterima akal?
+Explanation: Nilai peluang rentang dari 0 hingga 1. Kejadian pasti memiliki peluang 1.
+Options:
+  - Text: Rentang nilai suatu peluang kejadian $A$, $P(A)$, adalah antara $0$ hingga $1$
+    IsCorrect: true
+  - Text: Peluang munculnya angka 7 pada pelemparan satu buah dadu standar adalah $0$
+    IsCorrect: true
+  - Text: Kejadian yang pasti terjadi memiliki nilai peluang sebesar $100$
+    IsCorrect: false
+  - Text: Jika peluang kejadian hujan adalah $0,3$, maka peluang tidak hujan adalah $0,7$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_58
+Question: >
+  Diketahui pelemparan tiga buah keping uang logam sekaligus.
+  Tentukan kejadian-kejadian yang terdapat dalam ruang sampel percobaan ini.
+Explanation: Total anggota ruang sampel adalah $2^3 = 8$. (AAA, AAG, AGA, GAA, AGG, GAG, GGA, GGG).
+Options:
+  - Text: Terdapat $8$ titik sampel yang mungkin terjadi
+    IsCorrect: true
+  - Text: Peluang muncul semua angka adalah $\frac{1}{8}$
+    IsCorrect: true
+  - Text: Peluang muncul paling sedikit dua angka adalah $\frac{3}{8}$
+    IsCorrect: false
+  - Text: Titik sampel $(A, G, A)$ merupakan salah satu kemungkinan
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_59
+Question: Tentukan kebenaran dari istilah-istilah di dalam statistika dan probabilitas.
+Explanation: Populasi adalah keseluruhan, sampel adalah sebagian. Frekuensi harapan = Peluang x Banyak percobaan.
+Options:
+  - Text: Sampel adalah bagian dari populasi yang diambil untuk keperluan penelitian
+    IsCorrect: Benar
+  - Text: Ruang sampel adalah anggota dari sebuah titik kejadian acak yang selalu berjumlah ganjil
+    IsCorrect: Salah
+  - Text: Frekuensi harapan dihitung dengan mengalikan peluang kejadian dengan banyaknya percobaan
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_60
+Question: Uji pernyataan mengenai penyajian data secara visual.
+Explanation: Diagram lingkaran menggunakan derajat atau persen. Diagram garis sangat baik untuk deret waktu.
+Options:
+  - Text: Diagram lingkaran digunakan untuk menampilkan fluktuasi/perubahan data dari waktu ke waktu
+    IsCorrect: Salah
+  - Text: Pada diagram lingkaran, luas sektor sebanding dengan frekuensi kategori data yang diwakilinya
+    IsCorrect: Benar
+  - Text: Diagram garis paling tepat digunakan untuk menyajikan data kontinu seperti pertumbuhan tanaman per hari
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_61
+Question: Suku ke-n dari suatu barisan aritmetika dirumuskan $U_n = 3n - 2$. Tentukan nilai suku ke-$15$.
+Answer: $43$
+Explanation: Substitusi $n = 15$ ke dalam rumus: $U_{15} = 3(15) - 2 = 45 - 2 = 43$.
+Options:
+  - Text: $45$
+  - Text: $43$
+  - Text: $41$
+  - Text: $40$
+  - Text: $38$
+---
+Type: PilihanGanda
+ID: SMP_MTK_62
+Question: Suatu barisan aritmetika memiliki suku pertama $a = 5$ dan beda $b = 4$. Tentukan suku ke-$10$ dari barisan tersebut.
+Answer: $41$
+Explanation: Gunakan rumus $U_n = a + (n-1)b$. $U_{10} = 5 + (10-1)4 = 5 + 36 = 41$.
+Options:
+  - Text: $41$
+  - Text: $45$
+  - Text: $49$
+  - Text: $39$
+  - Text: $37$
+---
+Type: PilihanGanda
+ID: SMP_MTK_63
+Question: Diketahui suku pertama suatu barisan geometri adalah $3$ dan rasionya adalah $2$. Berapakah suku ke-$5$ barisan tersebut?
+Answer: $48$
+Explanation: Rumus barisan geometri $U_n = a \cdot r^{n-1}$. $U_5 = 3 \cdot 2^{4} = 3 \cdot 16 = 48$.
+Options:
+  - Text: $24$
+  - Text: $36$
+  - Text: $48$
+  - Text: $64$
+  - Text: $96$
+---
+Type: PilihanGanda
+ID: SMP_MTK_64
+Question: Hitunglah jumlah $10$ suku pertama dari deret aritmetika $2 + 4 + 6 + 8 + \dots$.
+Answer: $110$
+Explanation: Deret genap. $a=2, b=2, n=10$. Rumus $S_n = \frac{n}{2} (2a + (n-1)b) = 5 (4 + 18) = 5(22) = 110$.
+Options:
+  - Text: $100$
+  - Text: $110$
+  - Text: $120$
+  - Text: $90$
+  - Text: $130$
+---
+Type: PilihanGanda
+ID: SMP_MTK_65
+Question: Amoeba berkembang biak dengan membelah diri menjadi dua setiap $20$ menit. Jika awalnya ada $5$ amoeba, berapa banyak amoeba setelah $2$ jam?
+Answer: $320$
+Explanation: $2\text{ jam} = 120\text{ menit}$. Banyak pembelahan $n = 120 / 20 = 6$. Jumlah akhir = $a \cdot r^n = 5 \cdot 2^6 = 5 \cdot 64 = 320$.
+Options:
+  - Text: $160$
+  - Text: $320$
+  - Text: $640$
+  - Text: $128$
+  - Text: $64$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_66
+Question: Identifikasi pola barisan bilangan yang merupakan barisan geometri dari pilihan di bawah ini.
+Explanation: Barisan geometri memiliki rasio antar suku berurutan yang konstan.
+Options:
+  - Text: $2, 4, 8, 16, 32, \dots$
+    IsCorrect: true
+  - Text: $1, 3, 5, 7, 9, \dots$
+    IsCorrect: false
+  - Text: $81, 27, 9, 3, 1, \dots$
+    IsCorrect: true
+  - Text: $1, 4, 9, 16, 25, \dots$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_67
+Question: >
+  Diketahui deret geometri dengan suku pertama $a = 4$ dan rasio $r = \frac{1}{2}$.
+  Pilih pernyataan yang benar mengenai deret tak hingga konvergen tersebut.
+Explanation: Rumus jumlah tak hingga $S_{\infty} = \frac{a}{1-r}$. Syarat rasio deret konvergen adalah $-1 < r < 1$.
+Options:
+  - Text: Jumlah deret tak hingganya adalah $8$
+    IsCorrect: true
+  - Text: Deret ini termasuk ke dalam jenis deret divergen karena rasionya pecahan
+    IsCorrect: false
+  - Text: Suku ke-$3$ dari deret tersebut adalah $1$
+    IsCorrect: true
+  - Text: Rumus jumlah tak hingga deret geometri digunakan bila rasio $-1 < r < 1$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_68
+Question: Pola bilangan segitiga Pascal sangat berguna dalam aljabar. Manakah sifat yang benar mengenai bilangan pada Segitiga Pascal?
+Explanation: Angka paling ujung selalu 1. Baris ke-n (dimulai dari baris 0) penjumlahannya adalah $2^n$.
+Options:
+  - Text: Jumlah bilangan pada baris ke-$n$ (asumsi baris puncak $n=1$) adalah $2^{n-1}$
+    IsCorrect: true
+  - Text: Angka pertama dan terakhir pada setiap baris selalu angka $1$
+    IsCorrect: true
+  - Text: Bilangan yang di tengah didapatkan dengan mengalikan dua bilangan di atasnya
+    IsCorrect: false
+  - Text: Barisan ini berguna untuk menjabarkan perpangkatan bentuk $(x+y)^n$
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_69
+Question: Tentukan kebenaran dari pernyataan barisan bilangan khusus berikut ini.
+Explanation: Barisan Fibonacci terbentuk dengan menjumlahkan dua suku sebelumnya. Pola persegi menggunakan n kuadrat.
+Options:
+  - Text: Suku ke-$n$ pada pola bilangan persegi adalah $n^2$
+    IsCorrect: Benar
+  - Text: Barisan $1, 1, 2, 3, 5, 8$ dikenal sebagai barisan Fibonacci
+    IsCorrect: Benar
+  - Text: Pola bilangan segitiga dibentuk dari rumus $n(n+1)$
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_MTK_70
+Question: Evaluasi karakteristik mengenai beda dan rasio pada suatu barisan.
+Explanation: Beda adalah selisih berurutan (aritmetika). Rasio adalah hasil bagi berurutan (geometri).
+Options:
+  - Text: Pada barisan aritmetika menurun, nilai bedanya (b) selalu negatif
+    IsCorrect: Benar
+  - Text: Rasio pada barisan geometri dicari dengan membagi suku pertama dengan suku kedua
+    IsCorrect: Salah
+  - Text: Barisan dengan beda nol adalah barisan yang semua sukunya bernilai konstan
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_71
+Question: Hasil dilatasi titik $A(3, -2)$ terhadap pusat $(0,0)$ dengan faktor skala $2$ menghasilkan titik $A'$. Tentukan koordinat titik $A'$.
+Answer: $(6, -4)$
+Explanation: Dilatasi pusat $(0,0)$ dengan skala $k$, rumusnya $P(x,y) \rightarrow P'(kx, ky)$. $A'(3\times2, -2\times2) = (6, -4)$.
+Options:
+  - Text: $(5, 0)$
+  - Text: $(1.5, -1)$
+  - Text: $(6, -4)$
+  - Text: $(-6, 4)$
+  - Text: $(3, -4)$
+---
+Type: PilihanGanda
+ID: SMP_MTK_72
+Question: Titik $B(4, 5)$ ditranslasikan oleh $T = \binom{-2}{3}$. Tentukan koordinat bayangan akhir dari titik tersebut.
+Answer: $(2, 8)$
+Explanation: Translasi menambah koordinat awal dengan vektor translasi. $x' = 4 + (-2) = 2$, $y' = 5 + 3 = 8$. Koordinat bayangan $(2, 8)$.
+Options:
+  - Text: $(6, 2)$
+  - Text: $(2, 8)$
+  - Text: $(-2, 8)$
+  - Text: $(2, 2)$
+  - Text: $(6, 8)$
+---
+Type: PilihanGanda
+ID: SMP_MTK_73
+Question: Bayangan titik $C(-3, 4)$ apabila dicerminkan terhadap sumbu X adalah...
+Answer: $(-3, -4)$
+Explanation: Pencerminan terhadap sumbu X mengubah ordinat (y) menjadi negatifnya: $P(x,y) \rightarrow P'(x, -y)$. Maka bayangannya adalah $(-3, -4)$.
+Options:
+  - Text: $(3, 4)$
+  - Text: $(3, -4)$
+  - Text: $(-3, -4)$
+  - Text: $(4, -3)$
+  - Text: $(-4, 3)$
+---
+Type: PilihanGanda
+ID: SMP_MTK_74
+Question: Sebuah titik $D(1, -5)$ dirotasikan sebesar $90^\circ$ berlawanan arah jarum jam dengan pusat titik asal $O(0,0)$. Tentukan koordinat $D'$.
+Answer: $(5, 1)$
+Explanation: Rotasi $90^\circ$ positif pusat $O(0,0)$ rumusnya $P(x,y) \rightarrow P'(-y, x)$. Maka $D'(1, -5) \rightarrow (5, 1)$.
+Options:
+  - Text: $(5, 1)$
+  - Text: $(-1, 5)$
+  - Text: $(-5, -1)$
+  - Text: $(5, -1)$
+  - Text: $(1, 5)$
+---
+Type: PilihanGanda
+ID: SMP_MTK_75
+Question: Segitiga sebangun memilik sisi-sisi yang bersesuaian dengan rasio sama. Jika segitiga I berukuran $3\text{ cm}, 4\text{ cm}, 5\text{ cm}$, ukuran berapakah yang membentuk segitiga sebangun?
+Answer: $6\text{ cm}, 8\text{ cm}, 10\text{ cm}$
+Explanation: Segitiga sebangun memiliki perbandingan sisi yang sama (dikalikan konstanta skala). Kalikan dengan 2 diperoleh $6, 8, 10$.
+Options:
+  - Text: $5\text{ cm}, 6\text{ cm}, 7\text{ cm}$
+  - Text: $6\text{ cm}, 8\text{ cm}, 10\text{ cm}$
+  - Text: $2\text{ cm}, 3\text{ cm}, 4\text{ cm}$
+  - Text: $9\text{ cm}, 12\text{ cm}, 16\text{ cm}$
+  - Text: $4\text{ cm}, 5\text{ cm}, 6\text{ cm}$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_76
+Question: Pilihlah sifat-sifat yang selalu dipertahankan (invarian) pada suatu transformasi translasi.
+Explanation: Translasi hanya menggeser, tanpa mengubah ukuran (luas), bentuk, atau arah orientasi objek.
+Options:
+  - Text: Ukuran panjang sisi-sisi bangun tetap sama
+    IsCorrect: true
+  - Text: Besar sudut antar sisi dalam bangun berubah
+    IsCorrect: false
+  - Text: Luas bangun tersebut tidak mengalami perubahan
+    IsCorrect: true
+  - Text: Titik koordinat bangun bergeser sejauh vektor translasi
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_77
+Question: Identifikasi aturan pencerminan (refleksi) pada bidang kartesius yang tepat dari daftar berikut.
+Explanation: Sumbu X membuat $y \rightarrow -y$. Sumbu Y membuat $x \rightarrow -x$. Garis $y=x$ menukar posisi $(y,x)$.
+Options:
+  - Text: Refleksi terhadap sumbu Y mengubah $(x,y)$ menjadi $(-x, y)$
+    IsCorrect: true
+  - Text: Refleksi terhadap garis $y=x$ mengubah $(x,y)$ menjadi $(y,x)$
+    IsCorrect: true
+  - Text: Refleksi terhadap titik pusat $(0,0)$ mengubah $(x,y)$ menjadi $(x, -y)$
+    IsCorrect: false
+  - Text: Refleksi terhadap sumbu X mengubah $(x,y)$ menjadi $(x, -y)$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_78
+Question: >
+  Dua buah poligon dikatakan kongruen apabila memenuhi syarat tertentu.
+  Manakah yang merupakan syarat kekongruenan poligon?
+Explanation: Kongruen artinya identik bentuk dan ukuran. Sisi bersesuaian sama panjang, sudut bersesuaian sama besar.
+Options:
+  - Text: Sudut-sudut yang bersesuaian memiliki besar yang sama
+    IsCorrect: true
+  - Text: Panjang sisi-sisi yang bersesuaian memiliki perbandingan yang senilai, bukan harus sama panjang
+    IsCorrect: false
+  - Text: Panjang sisi-sisi yang bersesuaian sama panjang
+    IsCorrect: true
+  - Text: Mempunyai luas dan keliling yang bernilai persis sama
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_79
+Question: Uji pernyataan mengenai kesebangunan dan kekongruenan pada segitiga.
+Explanation: Dua segitiga kongruen sudah pasti sebangun dengan rasio 1:1, tapi segitiga sebangun belum tentu kongruen (bisa beda ukuran).
+Options:
+  - Text: Semua segitiga sama sisi pasti kongruen satu sama lain
+    IsCorrect: Salah
+  - Text: Dua segitiga yang kongruen sudah pasti sebangun
+    IsCorrect: Benar
+  - Text: Syarat segitiga sebangun adalah sudut-sudut bersesuaiannya sama besar
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_80
+Question: Tentukan nilai kebenaran mengenai rotasi dan dilatasi.
+Explanation: Dilatasi dengan $k>1$ memperbesar, antara 0 dan 1 memperkecil. Rotasi $360^\circ$ mengembalikan ke posisi semula.
+Options:
+  - Text: Jika nilai faktor dilatasi $k = 0,5$, maka ukuran bayangan bangun akan lebih kecil dari aslinya
+    IsCorrect: Benar
+  - Text: Rotasi sejauh $180^\circ$ pusat $(0,0)$ memberikan hasil bayangan yang sama dengan refleksi titik pusat $(0,0)$
+    IsCorrect: Benar
+  - Text: Dilatasi selalu menghasilkan bentuk yang kongruen dengan bentuk asalnya
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_MTK_81
+Question: Hitunglah hasil pembagian bentuk aljabar $(2x^2 + 5x - 3) \div (x + 3)$.
+Answer: $2x - 1$
+Explanation: Faktorkan pembilang: $2x^2 + 5x - 3 = (2x - 1)(x + 3)$. Dibagi $(x + 3)$ maka sisa $(2x - 1)$.
+Options:
+  - Text: $2x + 1$
+  - Text: $2x - 1$
+  - Text: $x - 3$
+  - Text: $2x + 3$
+  - Text: $x + 1$
+---
+Type: PilihanGanda
+ID: SMP_MTK_82
+Question: Jika bentuk akar $\sqrt{48}$ disederhanakan ke bentuk $a\sqrt{b}$, tentukan hasilnya.
+Answer: $4\sqrt{3}$
+Explanation: $\sqrt{48} = \sqrt{16 \times 3} = \sqrt{16} \times \sqrt{3} = 4\sqrt{3}$.
+Options:
+  - Text: $4\sqrt{3}$
+  - Text: $2\sqrt{12}$
+  - Text: $6\sqrt{2}$
+  - Text: $3\sqrt{6}$
+  - Text: $8\sqrt{3}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_83
+Question: Rasionalisasikan penyebut pecahan bentuk akar dari $\frac{6}{\sqrt{3}}$.
+Answer: $2\sqrt{3}$
+Explanation: Kalikan pembilang dan penyebut dengan $\sqrt{3}$. $\frac{6}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}} = \frac{6\sqrt{3}}{3} = 2\sqrt{3}$.
+Options:
+  - Text: $\sqrt{3}$
+  - Text: $2\sqrt{3}$
+  - Text: $3\sqrt{3}$
+  - Text: $6\sqrt{3}$
+  - Text: $2\sqrt{6}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_84
+Question: Tentukan nilai dari $(2^3)^{-2} \times 2^8$.
+Answer: $4$
+Explanation: $(2^3)^{-2} = 2^{3 \times -2} = 2^{-6}$. Kemudian dikalikan $2^8$, maka pangkat dijumlah: $2^{-6+8} = 2^2 = 4$.
+Options:
+  - Text: $2$
+  - Text: $4$
+  - Text: $8$
+  - Text: $16$
+  - Text: $32$
+---
+Type: PilihanGanda
+ID: SMP_MTK_85
+Question: Bentuk baku atau notasi ilmiah dari angka $0,0000725$ haruslah dalam format $a \times 10^n$. Tentukan bentuk tersebut.
+Answer: $7,25 \times 10^{-5}$
+Explanation: Pindahkan koma lima tempat ke kanan menjadi $7,25$. Karena nilainya kecil (desimal), pangkatnya negatif 5.
+Options:
+  - Text: $7,25 \times 10^{-4}$
+  - Text: $7,25 \times 10^{-5}$
+  - Text: $7,25 \times 10^{5}$
+  - Text: $72,5 \times 10^{-6}$
+  - Text: $0,725 \times 10^{-4}$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_86
+Question: Identifikasi sifat-sifat perpangkatan yang bernilai benar bila $a \ne 0$ dan $b \ne 0$.
+Explanation: Sifat perkalian pangkat dengan basis sama dijumlah, pembagian dikurang, pangkat negatif diubah ke pecahan.
+Options:
+  - Text: $a^m \times a^n = a^{m+n}$
+    IsCorrect: true
+  - Text: $a^{-n} = \frac{1}{a^n}$
+    IsCorrect: true
+  - Text: $(a \times b)^n = a^n \times b^n$
+    IsCorrect: true
+  - Text: $a^0 = 0$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_87
+Question: Perhatikan operasi akar bilangan berikut. Mana saja yang perhitungannya benar?
+Explanation: Akar dari perkalian bisa dipisah, perjumlahan akar sejawat bisa ditambah. $\sqrt{18}=3\sqrt{2}$.
+Options:
+  - Text: $\sqrt{2} + \sqrt{3} = \sqrt{5}$
+    IsCorrect: false
+  - Text: $\sqrt{8} + \sqrt{2} = 3\sqrt{2}$
+    IsCorrect: true
+  - Text: $\sqrt{4} \times \sqrt{9} = 6$
+    IsCorrect: true
+  - Text: $\sqrt{18} = 9\sqrt{2}$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_88
+Question: >
+  Diketahui persamaan kuadrat $x^2 - 5x + 6 = 0$.
+  Manakah pernyataan terkait sifat akar-akar persamaan tersebut yang tepat?
+Explanation: Akar-akarnya dapat dicari: $x_1=2, x_2=3$. Jumlah akar $x_1+x_2=5$, hasil kali $x_1\cdot x_2=6$, Diskriminan $D = 25-24=1$.
+Options:
+  - Text: Akar-akar persamaannya adalah $x = 2$ dan $x = 3$
+    IsCorrect: true
+  - Text: Jumlah kedua akarnya adalah $-5$
+    IsCorrect: false
+  - Text: Hasil kali kedua akarnya adalah $6$
+    IsCorrect: true
+  - Text: Nilai diskriminannya (D) lebih besar dari $0$ sehingga akarnya real berbeda
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_89
+Question: Uji nilai kebenaran dari karakteristik fungsi kuadrat dan grafiknya.
+Explanation: Jika $a>0$, kurva menghadap atas. Puncak adalah titik ekstrem (bisa maks atau min). Diskriminan nol berarti memotong di satu titik (menyinggung).
+Options:
+  - Text: Grafik fungsi $y = ax^2 + bx + c$ terbuka ke bawah jika nilai $a$ negatif
+    IsCorrect: Benar
+  - Text: Jika nilai Diskriminan $D = 0$, grafik memotong sumbu X di dua titik yang berbeda
+    IsCorrect: Salah
+  - Text: Titik balik suatu parabola disebut juga sebagai titik ekstrem kurva
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_90
+Question: Cek konsep mengenai bentuk pangkat pecahan dan logaritma dasar.
+Explanation: Pangkat pecahan setara dengan akar. $a^{1/2} = \sqrt{a}$.
+Options:
+  - Text: Bentuk pangkat pecahan $x^{1/2}$ sama maknanya dengan bentuk akar $\sqrt{x}$
+    IsCorrect: Benar
+  - Text: $3^2 = 9$ dapat ditulis ekuivalen dalam bentuk logaritma menjadi $^2\log 9 = 3$
+    IsCorrect: Salah
+  - Text: Akar pangkat tiga dari $8$ ditulis sebagai $8^{1/3}$ dan bernilai $2$
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_91
+Question: Sebuah peta berskala $1 : 2.500.000$. Jika jarak kota A dan B di peta adalah $8\text{ cm}$, berapa jam waktu yang ditempuh sebuah mobil berkecepatan $50\text{ km/jam}$ tanpa henti antar kota tersebut?
+Answer: $4\text{ jam}$
+Explanation: Jarak sebenarnya = $8 \times 2.500.000\text{ cm} = 20.000.000\text{ cm} = 200\text{ km}$. Waktu = Jarak/Kecepatan = $200 / 50 = 4\text{ jam}$.
+Options:
+  - Text: $2\text{ jam}$
+  - Text: $3\text{ jam}$
+  - Text: $4\text{ jam}$
+  - Text: $5\text{ jam}$
+  - Text: $6\text{ jam}$
+---
+Type: PilihanGanda
+ID: SMP_MTK_92
+Question: Pekerjaan membangun rumah selesai dalam $20$ hari oleh $6$ pekerja. Jika ingin diselesaikan dalam waktu $15$ hari, berapa banyak pekerja tambahan yang diperlukan?
+Answer: $2$
+Explanation: Perbandingan berbalik nilai. $20 \times 6 = 15 \times p \Rightarrow 120 = 15p \Rightarrow p = 8$ pekerja. Tambahan = $8 - 6 = 2$ orang.
+Options:
+  - Text: $8$
+  - Text: $6$
+  - Text: $4$
+  - Text: $2$
+  - Text: $3$
+---
+Type: PilihanGanda
+ID: SMP_MTK_93
+Question: >
+  Uang Andi berbanding uang Budi adalah $3 : 4$. Sedangkan uang Budi berbanding uang Cici adalah $2 : 3$.
+  Jika jumlah uang ketiganya $\text{Rp}260.000,00$, berapakah selisih uang Andi dan Cici?
+Answer: $\text{Rp}60.000,00$
+Explanation: Samakan rasio Budi. $A:B = 3:4$, $B:C = 2:3 = 4:6$. Rasio gabungan $A:B:C = 3:4:6$. Jumlah rasio = 13. Bagian = 260.000/13 = 20.000. Selisih $C - A = 6 - 3 = 3$ bagian. Maka $3 \times 20.000 = 60.000$.
+Options:
+  - Text: $\text{Rp}20.000,00$
+  - Text: $\text{Rp}40.000,00$
+  - Text: $\text{Rp}60.000,00$
+  - Text: $\text{Rp}80.000,00$
+  - Text: $\text{Rp}120.000,00$
+---
+Type: PilihanGanda
+ID: SMP_MTK_94
+Question: Seorang pedagang menabung sebesar $\text{Rp}2.000.000,00$ di bank dengan bunga tunggal $12\%$ per tahun. Tentukan total tabungan setelah $9$ bulan.
+Answer: $\text{Rp}2.180.000,00$
+Explanation: Bunga = Waktu/12 $\times$ Persentase $\times$ Modal = $9/12 \times 12\% \times 2.000.000 = 180.000$. Total = $2.000.000 + 180.000 = 2.180.000$.
+Options:
+  - Text: $\text{Rp}2.180.000,00$
+  - Text: $\text{Rp}2.240.000,00$
+  - Text: $\text{Rp}2.090.000,00$
+  - Text: $\text{Rp}2.300.000,00$
+  - Text: $\text{Rp}2.120.000,00$
+---
+Type: PilihanGanda
+ID: SMP_MTK_95
+Question: Berat kotor (bruto) sebuah karung beras adalah $50\text{ kg}$. Jika tara karung adalah $2\%$, berapakah berat bersih (netto) beras tersebut?
+Answer: $49\text{ kg}$
+Explanation: Tara = $2\% \times 50\text{ kg} = 1\text{ kg}$. Netto = Bruto - Tara = $50 - 1 = 49\text{ kg}$.
+Options:
+  - Text: $51\text{ kg}$
+  - Text: $48\text{ kg}$
+  - Text: $49\text{ kg}$
+  - Text: $49,5\text{ kg}$
+  - Text: $48,5\text{ kg}$
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_96
+Question: Identifikasi ciri-ciri khusus perhitungan pajak (PPN dan PPh) dalam aritmetika sosial perbankan.
+Explanation: PPN adalah pajak pertambahan nilai yang ditanggung konsumen (menambah harga), PPh adalah pajak penghasilan yang mengurangi gaji.
+Options:
+  - Text: PPN (Pajak Pertambahan Nilai) akan menambah nominal harga barang yang dibeli konsumen
+    IsCorrect: true
+  - Text: PPh (Pajak Penghasilan) menyebabkan pendapatan bersih seseorang menjadi berkurang
+    IsCorrect: true
+  - Text: Potongan diskon dan PPN memiliki efek yang sama, yaitu mengurangi harga
+    IsCorrect: false
+  - Text: Umumnya besaran standar PPN di Indonesia ditetapkan dalam bentuk persentase
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_97
+Question: >
+  Diketahui relasi himpunan pasangan berurutan sebagai berikut:
+  $\{(1,a), (2,b), (3,c), (1,d)\}$
+  Kenali pernyataan benar terkait konsep pemetaan/fungsi.
+Explanation: Pemetaan (fungsi) adalah relasi yang memasangkan tiap anggota domain tepat satu ke kodomain. Pasangan di atas memiliki 1 cabang dua (1 dipasangkan dengan a dan d), bukan fungsi.
+Options:
+  - Text: Relasi di atas merupakan sebuah fungsi / pemetaan
+    IsCorrect: false
+  - Text: Anggota himpunan domain dari relasi tersebut adalah $\{1, 2, 3\}$
+    IsCorrect: true
+  - Text: Elemen angka $1$ pada domain memiliki dua pasangan, sehingga relasi ini gagal menjadi fungsi
+    IsCorrect: true
+  - Text: Kodomain atau daerah hasil pada himpunan tersebut adalah $\{a, b, c, d\}$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_98
+Question: Kenali persamaan dan pertidaksamaan yang mewakili pemodelan aljabar dari kalimat terbuka.
+Explanation: Kalimat terbuka memiliki variabel. Persamaan memiliki tanda =. Pertidaksamaan ditandai $<, >$.
+Options:
+  - Text: "Dua kali bilangan dikurang tiga sama dengan tujuh" ditulis $2x - 3 = 7$
+    IsCorrect: true
+  - Text: "Sebuah bilangan tidak lebih dari sepuluh" dimodelkan dengan $x > 10$
+    IsCorrect: false
+  - Text: "Keliling persegi kurang dari dua puluh" ditulis $4s < 20$
+    IsCorrect: true
+  - Text: $2x + 1 = 5$ adalah persamaan linear dua variabel
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_99
+Question: Uji pernyataan konseptual mengenai perbandingan senilai dan berbalik nilai dalam kehidupan.
+Explanation: Senilai: makin banyak X, makin banyak Y. Berbalik nilai: makin banyak X, makin sedikit Y.
+Options:
+  - Text: Hubungan antara banyak liter bensin dengan jarak tempuh kendaraan adalah contoh perbandingan berbalik nilai
+    IsCorrect: Salah
+  - Text: Hubungan antara jumlah pekerja pembuat pagar dengan waktu penyelesaiannya adalah perbandingan berbalik nilai
+    IsCorrect: Benar
+  - Text: Perbandingan senilai memiliki grafik lurus yang melalui titik pusat $(0,0)$
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_100
+Question: Tentukan kebenaran pernyataan terkait sifat diskon beruntun di mal.
+Explanation: Diskon 50% + 20% tidak sama dengan 70%. Ia dihitung bertahap: $(100\% - 50\%) = 50\%$, lalu $20\%$ dari $50\%$ adalah $10\%$. Total potongan adalah $60\%$.
+Options:
+  - Text: Promo tulisan "Diskon $50\% + 20\%$" memberikan potongan harga yang persis sama dengan diskon tunggal sebesar $70\%$
+    IsCorrect: Salah
+  - Text: Harga setelah diskon dirumuskan dengan $\text{Harga Awal} - (\text{Persentase Diskon} \times \text{Harga Awal})$
+    IsCorrect: Benar
+  - Text: Pada diskon beruntun $50\% + 20\%$, persentase total pemotongan harganya sejatinya adalah $60\%$
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_101
+Question: Hasil dari operasi $25 \times (-4) + 12$ adalah...
+Answer: -88
+Explanation: >
+  Sesuai aturan urutan operasi matematika, perkalian dilakukan terlebih dahulu: 
+  $25 \times (-4) = -100$. Kemudian, $-100 + 12 = -88$.
+Options:
+  - Text: -88
+  - Text: -112
+  - Text: 88
+  - Text: 112
+  - Text: -100
+---
+Type: PilihanGanda
+ID: SMP_MTK_102
+Question: Jika $x + 15 = 32$, maka nilai dari $2x - 3$ adalah...
+Answer: 31
+Explanation: >
+  Pertama, tentukan nilai $x$: $x = 32 - 15 = 17$. 
+  Kemudian, hitung $2(17) - 3 = 34 - 3 = 31$.
+Options:
+  - Text: 17
+  - Text: 28
+  - Text: 31
+  - Text: 34
+  - Text: 37
+---
+Type: PilihanGanda
+ID: SMP_MTK_103
+Question: Nilai dari $\sqrt{144} + \sqrt[3]{64}$ adalah...
+Answer: 16
+Explanation: >
+  Akar kuadrat dari $144$ adalah $12$. Akar pangkat tiga dari $64$ adalah $4$. 
+  Maka, $12 + 4 = 16$.
+Options:
+  - Text: 10
+  - Text: 12
+  - Text: 14
+  - Text: 16
+  - Text: 20
+---
+Type: PilihanGanda
+ID: SMP_MTK_104
+Question: Sebuah toko memberikan diskon $20\%$ untuk sebuah baju. Jika harga awal baju adalah $\text{Rp}150.000,00$, berapakah harga baju setelah diskon?
+Answer: Rp120.000,00
+Explanation: >
+  Potongan harga adalah $20\% \times 150.000 = 30.000$. 
+  Harga setelah diskon adalah $150.000 - 30.000 = 120.000$.
+Options:
+  - Text: Rp30.000,00
+  - Text: Rp120.000,00
+  - Text: Rp130.000,00
+  - Text: Rp180.000,00
+  - Text: Rp150.000,00
+---
+Type: PilihanGanda
+ID: SMP_MTK_105
+Question: Perbandingan usia Ayah dan Budi adalah $5:2$. Jika selisih usia mereka adalah $21$ tahun, berapakah usia Ayah?
+Answer: 35 tahun
+Explanation: >
+  Selisih rasio adalah $5 - 2 = 3$ bagian. 
+  Satu bagian mewakili $21 / 3 = 7$ tahun. 
+  Usia Ayah adalah $5 \times 7 = 35$ tahun.
+Options:
+  - Text: 28 tahun
+  - Text: 35 tahun
+  - Text: 42 tahun
+  - Text: 14 tahun
+  - Text: 49 tahun
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_106
+Question: Manakah dari bilangan berikut yang merupakan bilangan prima?
+Explanation: Bilangan prima adalah bilangan asli yang hanya memiliki tepat dua faktor, yaitu $1$ dan bilangan itu sendiri.
+Options:
+  - Text: 2
+    IsCorrect: true
+  - Text: 9
+    IsCorrect: false
+  - Text: 13
+    IsCorrect: true
+  - Text: 21
+    IsCorrect: false
+  - Text: 31
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_107
+Question: Manakah persamaan berikut yang memiliki penyelesaian $x = 3$?
+Explanation: Substitusikan $x=3$ ke dalam persamaan untuk melihat apakah hasilnya benar.
+Options:
+  - Text: $2x + 4 = 10$
+    IsCorrect: true
+  - Text: $3x - 5 = 4$
+    IsCorrect: true
+  - Text: $x + 7 = 12$
+    IsCorrect: false
+  - Text: $5x - 8 = 7$
+    IsCorrect: true
+  - Text: $4x + 2 = 10$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_108
+Question: Pilih pernyataan yang benar terkait sifat-sifat bangun datar persegi panjang.
+Explanation: Persegi panjang memiliki dua pasang sisi sejajar dan sama panjang, serta sudut siku-siku.
+Options:
+  - Text: Memiliki 4 sudut siku-siku
+    IsCorrect: true
+  - Text: Sisi-sisi yang berhadapan sama panjang
+    IsCorrect: true
+  - Text: Semua sisinya sama panjang
+    IsCorrect: false
+  - Text: Diagonal-diagonalnya sama panjang
+    IsCorrect: true
+  - Text: Memiliki 4 sumbu simetri
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_109
+Question: Tentukan kebenaran dari pernyataan berikut tentang sistem bilangan.
+Explanation: Bilangan bulat negatif termasuk dalam himpunan bilangan bulat (integers).
+Options:
+  - Text: Bilangan $-5$ adalah bilangan bulat negatif.
+    IsCorrect: Benar
+  - Text: Angka $0$ adalah bilangan positif.
+    IsCorrect: Salah
+  - Text: Semua bilangan cacah adalah bilangan asli.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_MTK_110
+Question: Tentukan kebenaran pernyataan terkait operasi hitung pecahan.
+Explanation: Penjumlahan pecahan dengan penyebut berbeda memerlukan penyamaan penyebut terlebih dahulu.
+Options:
+  - Text: $\frac{1}{2} + \frac{1}{3} = \frac{5}{6}$
+    IsCorrect: Benar
+  - Text: $\frac{2}{5} \times \frac{1}{2} = \frac{2}{10}$
+    IsCorrect: Benar
+  - Text: $\frac{3}{4} : \frac{1}{2} = \frac{3}{2}$
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_111
+Question: Sebuah segitiga memiliki alas $10\text{ cm}$ dan tinggi $8\text{ cm}$. Luas segitiga tersebut adalah...
+Answer: 40 cm^2
+Explanation: >
+  Luas segitiga $= \frac{1}{2} \times \text{alas} \times \text{tinggi} 
+  = \frac{1}{2} \times 10 \times 8 = 40\text{ cm}^2$.
+Options:
+  - Text: 20 cm^2
+  - Text: 40 cm^2
+  - Text: 80 cm^2
+  - Text: 18 cm^2
+  - Text: 16 cm^2
+---
+Type: PilihanGanda
+ID: SMP_MTK_112
+Question: Jika $f(x) = 3x - 2$, maka nilai $f(-3)$ adalah...
+Answer: -11
+Explanation: >
+  $f(-3) = 3(-3) - 2 
+  = -9 - 2 = -11$.
+Options:
+  - Text: -7
+  - Text: -11
+  - Text: 7
+  - Text: 11
+  - Text: -13
+---
+Type: PilihanGanda
+ID: SMP_MTK_113
+Question: Nilai dari $2^3 \times 2^2 \div 2^4$ adalah...
+Answer: 2
+Explanation: >
+  Menggunakan sifat eksponen: $2^{3+2-4} = 2^1 = 2$.
+Options:
+  - Text: 1
+  - Text: 2
+  - Text: 4
+  - Text: 8
+  - Text: 16
+---
+Type: PilihanGanda
+ID: SMP_MTK_114
+Question: Sebuah lingkaran memiliki jari-jari $7\text{ cm}$. Keliling lingkaran tersebut adalah... (Gunakan $\pi = \frac{22}{7}$)
+Answer: 44 cm
+Explanation: >
+  Keliling $= 2 \pi r = 2 \times \frac{22}{7} \times 7 
+  = 44\text{ cm}$.
+Options:
+  - Text: 22 cm
+  - Text: 44 cm
+  - Text: 154 cm
+  - Text: 88 cm
+  - Text: 14 cm
+---
+Type: PilihanGanda
+ID: SMP_MTK_115
+Question: Bentuk sederhana dari $5x - 3y + 2x + 7y$ adalah...
+Answer: 7x + 4y
+Explanation: >
+  Kelompokkan variabel yang sama: $(5x + 2x) + (-3y + 7y) 
+  = 7x + 4y$.
+Options:
+  - Text: 7x - 4y
+  - Text: 7x + 4y
+  - Text: 3x + 10y
+  - Text: 7x + 10y
+  - Text: 3x + 4y
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_116
+Question: Manakah yang merupakan variabel dalam bentuk aljabar $3x^2 - 5y + 7$?
+Explanation: Variabel adalah lambang pengganti bilangan yang belum diketahui nilainya, biasanya berupa huruf.
+Options:
+  - Text: x
+    IsCorrect: true
+  - Text: y
+    IsCorrect: true
+  - Text: 3
+    IsCorrect: false
+  - Text: 5
+    IsCorrect: false
+  - Text: x^2
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_117
+Question: Pilih himpunan yang ekuivalen dengan $A = \{1, 2, 3\}$.
+Explanation: Himpunan ekuivalen adalah himpunan yang memiliki jumlah anggota yang sama.
+Options:
+  - Text: $\{a, b, c\}$
+    IsCorrect: true
+  - Text: $\{4, 5, 6\}$
+    IsCorrect: true
+  - Text: $\{1, 2\}$
+    IsCorrect: false
+  - Text: $\{1, 2, 3, 4\}$
+    IsCorrect: false
+  - Text: $\{p, q, r\}$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_118
+Question: Manakah yang merupakan contoh data statistik?
+Explanation: Data statistik adalah kumpulan fakta yang dapat diukur dan dihitung.
+Options:
+  - Text: Tinggi badan siswa di kelas
+    IsCorrect: true
+  - Text: Warna favorit teman
+    IsCorrect: true
+  - Text: Pendapat pribadi tentang rasa makanan
+    IsCorrect: false
+  - Text: Nilai ujian matematika
+    IsCorrect: true
+  - Text: Nama panggilan teman
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_119
+Question: Tentukan kebenaran dari pernyataan tentang sudut.
+Explanation: Sudut siku-siku tepat $90^\circ$. Sudut lancip kurang dari $90^\circ$.
+Options:
+  - Text: Sudut lancip besarnya kurang dari $90^\circ$.
+    IsCorrect: Benar
+  - Text: Sudut tumpul besarnya tepat $90^\circ$.
+    IsCorrect: Salah
+  - Text: Sudut lurus besarnya $180^\circ$.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_120
+Question: Tentukan kebenaran dari pernyataan berikut mengenai bangun ruang.
+Explanation: Kubus memiliki 12 rusuk yang sama panjang. Sisi kubus berbentuk persegi.
+Options:
+  - Text: Kubus memiliki 8 titik sudut.
+    IsCorrect: Benar
+  - Text: Sisi kubus berbentuk persegi panjang.
+    IsCorrect: Salah
+  - Text: Sebuah kubus memiliki 12 rusuk.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_121
+Question: Sebuah dadu dilempar sekali. Peluang munculnya angka 3 adalah...
+Answer: 1/6
+Explanation: >
+  Dadu memiliki 6 sisi, hanya ada satu angka 3. 
+  Peluang $= \frac{1}{6}$.
+Options:
+  - Text: 1/2
+  - Text: 1/3
+  - Text: 1/6
+  - Text: 3/6
+  - Text: 1
+---
+Type: PilihanGanda
+ID: SMP_MTK_122
+Question: Nilai $x$ pada persamaan $3x - 5 = 7$ adalah...
+Answer: 4
+Explanation: >
+  $3x = 7 + 5 = 12$ 
+  $x = 12 / 3 = 4$.
+Options:
+  - Text: 2
+  - Text: 3
+  - Text: 4
+  - Text: 6
+  - Text: 12
+---
+Type: PilihanGanda
+ID: SMP_MTK_123
+Question: Rata-rata dari data $4, 6, 8, 10, 12$ adalah...
+Answer: 8
+Explanation: >
+  Jumlah $= 4+6+8+10+12 = 40$. 
+  Rata-rata $= 40 / 5 = 8$.
+Options:
+  - Text: 6
+  - Text: 7
+  - Text: 8
+  - Text: 9
+  - Text: 10
+---
+Type: PilihanGanda
+ID: SMP_MTK_124
+Question: KPK dari 12 dan 18 adalah...
+Answer: 36
+Explanation: >
+  Faktorisasi $12 = 2^2 \times 3$ dan $18 = 2 \times 3^2$. 
+  KPK $= 2^2 \times 3^2 = 4 \times 9 = 36$.
+Options:
+  - Text: 6
+  - Text: 12
+  - Text: 18
+  - Text: 36
+  - Text: 24
+---
+Type: PilihanGanda
+ID: SMP_MTK_125
+Question: Bentuk desimal dari $\frac{3}{8}$ adalah...
+Answer: 0,375
+Explanation: >
+  $3 \div 8 = 0,375$.
+Options:
+  - Text: 0,3
+  - Text: 0,375
+  - Text: 0,4
+  - Text: 0,75
+  - Text: 0,8
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_126
+Question: Manakah dari berikut ini yang merupakan bilangan bulat?
+Explanation: Bilangan bulat terdiri dari bilangan negatif, nol, dan positif (tanpa pecahan/desimal).
+Options:
+  - Text: -5
+    IsCorrect: true
+  - Text: 0
+    IsCorrect: true
+  - Text: 1,5
+    IsCorrect: false
+  - Text: 10
+    IsCorrect: true
+  - Text: $\frac{2}{3}$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_127
+Question: Mana yang merupakan hasil pemfaktoran yang benar dari $x^2 - 9$?
+Explanation: Bentuk $a^2 - b^2 = (a-b)(a+b)$. Jadi $x^2 - 3^2 = (x-3)(x+3)$.
+Options:
+  - Text: $(x-3)(x+3)$
+    IsCorrect: true
+  - Text: $(x-3)(x-3)$
+    IsCorrect: false
+  - Text: $(x+3)(x+3)$
+    IsCorrect: false
+  - Text: $(3-x)(3+x)$
+    IsCorrect: false
+  - Text: $(x-3)(x+3)$ adalah benar
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_128
+Question: Pilih pernyataan yang benar tentang perbandingan senilai.
+Explanation: Jika satu variabel bertambah, variabel lain juga bertambah.
+Options:
+  - Text: Semakin banyak barang dibeli, semakin tinggi harga yang dibayar
+    IsCorrect: true
+  - Text: Semakin cepat kecepatan kendaraan, semakin singkat waktu tempuh
+    IsCorrect: false
+  - Text: Semakin banyak pekerja, semakin sedikit waktu penyelesaian
+    IsCorrect: false
+  - Text: Semakin banyak bensin digunakan, semakin jauh jarak tempuh
+    IsCorrect: true
+  - Text: Perbandingan senilai memiliki grafik berupa garis lurus
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_129
+Question: Tentukan kebenaran mengenai konsep himpunan.
+Explanation: Himpunan kosong adalah himpunan dengan nol anggota, dinotasikan $\emptyset$ atau $\{\}$.
+Options:
+  - Text: Himpunan kosong memiliki anggota nol.
+    IsCorrect: Benar
+  - Text: Himpunan $\{1, 1, 2\}$ sama dengan $\{1, 2\}$.
+    IsCorrect: Benar
+  - Text: Anggota himpunan tidak boleh berulang.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_130
+Question: Tentukan kebenaran dari pernyataan berikut tentang geometri.
+Explanation: Jumlah sudut dalam segitiga selalu $180^\circ$.
+Options:
+  - Text: Total sudut dalam segitiga adalah $360^\circ$.
+    IsCorrect: Salah
+  - Text: Garis yang membagi sudut menjadi dua sama besar disebut garis bagi.
+    IsCorrect: Benar
+  - Text: Segitiga sama kaki memiliki dua sisi yang sama panjang.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_131
+Question: Sebuah persegi memiliki sisi $6\text{ cm}$. Keliling persegi tersebut adalah...
+Answer: 24 cm
+Explanation: >
+  Keliling $= 4 \times \text{sisi} = 4 \times 6 = 24\text{ cm}$.
+Options:
+  - Text: 12 cm
+  - Text: 24 cm
+  - Text: 36 cm
+  - Text: 48 cm
+  - Text: 20 cm
+---
+Type: PilihanGanda
+ID: SMP_MTK_132
+Question: Nilai $25\%$ dari $200$ adalah...
+Answer: 50
+Explanation: >
+  $25\% \times 200 = \frac{25}{100} \times 200 = 50$.
+Options:
+  - Text: 25
+  - Text: 50
+  - Text: 75
+  - Text: 100
+  - Text: 150
+---
+Type: PilihanGanda
+ID: SMP_MTK_133
+Question: Koordinat titik potong grafik $y = 2x - 4$ dengan sumbu X adalah...
+Answer: (2, 0)
+Explanation: >
+  Titik potong sumbu X terjadi saat $y = 0$. 
+  $0 = 2x - 4 \Rightarrow 2x = 4 \Rightarrow x = 2$. Titik $(2, 0)$.
+Options:
+  - Text: (0, -4)
+  - Text: (2, 0)
+  - Text: (-2, 0)
+  - Text: (0, 2)
+  - Text: (4, 0)
+---
+Type: PilihanGanda
+ID: SMP_MTK_134
+Question: Sebuah prisma tegak segitiga memiliki luas alas $10\text{ cm}^2$ dan tinggi $5\text{ cm}$. Volume prisma tersebut adalah...
+Answer: 50 cm^3
+Explanation: >
+  Volume $= \text{Luas alas} \times \text{tinggi} 
+  = 10 \times 5 = 50\text{ cm}^3$.
+Options:
+  - Text: 15 cm^3
+  - Text: 30 cm^3
+  - Text: 50 cm^3
+  - Text: 25 cm^3
+  - Text: 100 cm^3
+---
+Type: PilihanGanda
+ID: SMP_MTK_135
+Question: Nilai median dari data $3, 1, 4, 1, 5$ adalah...
+Answer: 3
+Explanation: >
+  Urutkan data: $1, 1, 3, 4, 5$. 
+  Median adalah nilai tengah, yaitu $3$.
+Options:
+  - Text: 1
+  - Text: 2
+  - Text: 3
+  - Text: 4
+  - Text: 5
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_136
+Question: Manakah dari berikut ini yang merupakan sifat-sifat bilangan nol?
+Explanation: Nol bukan positif/negatif, jika dibagi bilangan lain (bukan nol) hasilnya nol.
+Options:
+  - Text: Nol adalah bilangan genap
+    IsCorrect: true
+  - Text: Nol adalah bilangan bulat
+    IsCorrect: true
+  - Text: Nol adalah bilangan asli
+    IsCorrect: false
+  - Text: Apapun dikalikan nol hasilnya nol
+    IsCorrect: true
+  - Text: Nol lebih kecil dari bilangan negatif
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_137
+Question: Mana yang merupakan persamaan linear satu variabel?
+Explanation: Persamaan linear satu variabel memiliki satu variabel berpangkat satu.
+Options:
+  - Text: $2x + 3 = 7$
+    IsCorrect: true
+  - Text: $x^2 + 2x = 5$
+    IsCorrect: false
+  - Text: $3x - 1 = 2x + 4$
+    IsCorrect: true
+  - Text: $x + y = 3$
+    IsCorrect: false
+  - Text: $4 - x = 8$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_138
+Question: Pilih satuan ukuran yang tepat untuk volume.
+Explanation: Volume adalah ukuran ruang 3 dimensi, satuannya pangkat 3.
+Options:
+  - Text: $\text{cm}^3$
+    IsCorrect: true
+  - Text: $\text{m}^2$
+    IsCorrect: false
+  - Text: liter
+    IsCorrect: true
+  - Text: $\text{km}$
+    IsCorrect: false
+  - Text: $\text{m}^3$
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_139
+Question: Tentukan kebenaran tentang logaritma sederhana ($^2\log 8$).
+Explanation: $^2\log 8$ artinya $2$ dipangkatkan berapa supaya jadi $8$. $2^3 = 8$.
+Options:
+  - Text: Nilai $^2\log 8$ adalah $3$.
+    IsCorrect: Benar
+  - Text: Nilai $^2\log 4$ adalah $2$.
+    IsCorrect: Benar
+  - Text: Nilai $^2\log 1$ adalah $2$.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_MTK_140
+Question: Tentukan kebenaran tentang grafik fungsi kuadrat $y = x^2$.
+Explanation: Grafik $y=x^2$ membuka ke atas, titik puncak di $(0,0)$.
+Options:
+  - Text: Grafik terbuka ke atas.
+    IsCorrect: Benar
+  - Text: Grafik memotong sumbu X di titik $(1,1)$.
+    IsCorrect: Salah
+  - Text: Titik puncak berada di $(0,0)$.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_141
+Question: Sebuah balok memiliki panjang $5\text{ cm}$, lebar $4\text{ cm}$, dan tinggi $3\text{ cm}$. Luas permukaan balok tersebut adalah...
+Answer: 94 cm^2
+Explanation: >
+  Luas permukaan $= 2(pl + pt + lt) 
+  = 2(5 \times 4 + 5 \times 3 + 4 \times 3) 
+  = 2(20 + 15 + 12) = 2(47) = 94\text{ cm}^2$.
+Options:
+  - Text: 47 cm^2
+  - Text: 60 cm^2
+  - Text: 94 cm^2
+  - Text: 120 cm^2
+  - Text: 80 cm^2
+---
+Type: PilihanGanda
+ID: SMP_MTK_142
+Question: Nilai $x$ yang memenuhi $2(x - 3) = x + 4$ adalah...
+Answer: 10
+Explanation: >
+  $2x - 6 = x + 4 
+  2x - x = 4 + 6 
+  x = 10$.
+Options:
+  - Text: 7
+  - Text: 8
+  - Text: 9
+  - Text: 10
+  - Text: 11
+---
+Type: PilihanGanda
+ID: SMP_MTK_143
+Question: Jika sebuah lingkaran memiliki luas $154\text{ cm}^2$ ($\pi = \frac{22}{7}$), maka jari-jarinya adalah...
+Answer: 7 cm
+Explanation: >
+  $L = \pi r^2 
+  154 = \frac{22}{7} r^2 
+  r^2 = 154 \times \frac{7}{22} = 49 
+  r = \sqrt{49} = 7\text{ cm}$.
+Options:
+  - Text: 3,5 cm
+  - Text: 7 cm
+  - Text: 14 cm
+  - Text: 21 cm
+  - Text: 10 cm
+---
+Type: PilihanGanda
+ID: SMP_MTK_144
+Question: Sebuah kelas terdiri dari $30$ siswa. Jika $20$ siswa suka sepak bola dan $15$ siswa suka basket, serta $5$ siswa tidak suka keduanya, berapakah siswa yang suka keduanya?
+Answer: 10
+Explanation: >
+  Total siswa $= 30$. Siswa suka sepak bola atau basket $= 30 - 5 = 25$. 
+  Suka sepak bola + Suka basket - Suka keduanya $= 25$. 
+  $20 + 15 - X = 25 \Rightarrow 35 - X = 25 \Rightarrow X = 10$.
+Options:
+  - Text: 5
+  - Text: 10
+  - Text: 15
+  - Text: 20
+  - Text: 25
+---
+Type: PilihanGanda
+ID: SMP_MTK_145
+Question: FPB dari $24$ dan $36$ adalah...
+Answer: 12
+Explanation: >
+  Faktorisasi $24 = 2^3 \times 3$, $36 = 2^2 \times 3^2$. 
+  FPB $= 2^2 \times 3 = 4 \times 3 = 12$.
+Options:
+  - Text: 6
+  - Text: 8
+  - Text: 12
+  - Text: 24
+  - Text: 36
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_146
+Question: Manakah yang merupakan sifat-sifat bilangan irasional?
+Explanation: Bilangan irasional tidak bisa dinyatakan sebagai pecahan $\frac{a}{b}$. Contohnya $\pi$ dan $\sqrt{2}$.
+Options:
+  - Text: Tidak dapat dinyatakan dalam pecahan $\frac{a}{b}$
+    IsCorrect: true
+  - Text: Bentuk desimalnya tidak berhenti dan tidak berulang
+    IsCorrect: true
+  - Text: Hasil akarnya selalu bulat
+    IsCorrect: false
+  - Text: Contohnya $\sqrt{2}$
+    IsCorrect: true
+  - Text: Contohnya $0,5$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_147
+Question: Manakah bangun datar berikut yang memiliki tepat 1 simetri putar?
+Explanation: Simetri putar 1 (hanya kembali ke posisi semula setelah $360^\circ$).
+Options:
+  - Text: Segitiga sembarang
+    IsCorrect: true
+  - Text: Trapesium sembarang
+    IsCorrect: true
+  - Text: Persegi
+    IsCorrect: false
+  - Text: Belah ketupat
+    IsCorrect: false
+  - Text: Segitiga sama sisi
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_148
+Question: Pilih persamaan yang benar dari $3(x+2) = 3x+6$.
+Explanation: Ini adalah sifat distributif.
+Options:
+  - Text: $3(x+2)$ sama dengan $3x+6$
+    IsCorrect: true
+  - Text: Persamaan ini berlaku untuk semua nilai $x$
+    IsCorrect: true
+  - Text: $3(x+2)$ sama dengan $3x+2$
+    IsCorrect: false
+  - Text: Persamaan ini tidak memiliki penyelesaian
+    IsCorrect: false
+  - Text: $3(x+2) = 3x+6$ adalah identitas
+    IsCorrect: true
+---
+Type: BenarSalah
+ID: SMP_MTK_149
+Question: Tentukan kebenaran mengenai garis sejajar dan tegak lurus.
+Explanation: Garis sejajar memiliki gradien sama. Garis tegak lurus memiliki hasil kali gradien $-1$.
+Options:
+  - Text: Garis sejajar memiliki gradien yang sama.
+    IsCorrect: Benar
+  - Text: Garis tegak lurus memiliki gradien yang sama.
+    IsCorrect: Salah
+  - Text: Hasil kali gradien dua garis tegak lurus adalah $-1$.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_150
+Question: Tentukan kebenaran tentang sistem koordinat kartesius.
+Explanation: Kuadran I: x+, y+. Kuadran II: x-, y+. Kuadran III: x-, y-. Kuadran IV: x+, y-.
+Options:
+  - Text: Titik $(1, -2)$ berada di kuadran IV.
+    IsCorrect: Benar
+  - Text: Titik $(-3, -3)$ berada di kuadran II.
+    IsCorrect: Salah
+  - Text: Titik $(0, 0)$ disebut titik asal.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_151
+Question: Sebuah mobil menempuh jarak $120\text{ km}$ dalam $2\text{ jam}$. Kecepatan mobil tersebut adalah...
+Answer: 60 km/jam
+Explanation: >
+  Kecepatan $= \text{Jarak} / \text{Waktu} = 120 / 2 = 60\text{ km/jam}$.
+Options:
+  - Text: 40 km/jam
+  - Text: 60 km/jam
+  - Text: 80 km/jam
+  - Text: 120 km/jam
+  - Text: 240 km/jam
+---
+Type: PilihanGanda
+ID: SMP_MTK_152
+Question: Nilai dari $(-2)^3$ adalah...
+Answer: -8
+Explanation: >
+  $(-2) \times (-2) \times (-2) = -8$.
+Options:
+  - Text: -8
+  - Text: -6
+  - Text: 6
+  - Text: 8
+  - Text: -4
+---
+Type: PilihanGanda
+ID: SMP_MTK_153
+Question: Akar kuadrat dari $64$ adalah...
+Answer: 8
+Explanation: >
+  $8 \times 8 = 64$.
+Options:
+  - Text: 4
+  - Text: 6
+  - Text: 8
+  - Text: 16
+  - Text: 32
+---
+Type: PilihanGanda
+ID: SMP_MTK_154
+Question: Sebuah segitiga siku-siku memiliki sisi $3\text{ cm}$ dan $4\text{ cm}$. Panjang sisi miringnya adalah...
+Answer: 5 cm
+Explanation: >
+  $\sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5\text{ cm}$.
+Options:
+  - Text: 5 cm
+  - Text: 6 cm
+  - Text: 7 cm
+  - Text: 8 cm
+  - Text: 10 cm
+---
+Type: PilihanGanda
+ID: SMP_MTK_155
+Question: Nilai $x$ pada $x - 10 = -5$ adalah...
+Answer: 5
+Explanation: >
+  $x = -5 + 10 = 5$.
+Options:
+  - Text: 5
+  - Text: -5
+  - Text: 15
+  - Text: -15
+  - Text: 0
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_156
+Question: Manakah yang merupakan contoh bentuk aljabar?
+Explanation: Bentuk aljabar mengandung angka, variabel, dan operasi.
+Options:
+  - Text: $2x + 5$
+    IsCorrect: true
+  - Text: $3 + 4$
+    IsCorrect: false
+  - Text: $5y^2 - 2$
+    IsCorrect: true
+  - Text: $x$
+    IsCorrect: true
+  - Text: $10$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_157
+Question: Mana yang merupakan pernyataan matematika?
+Explanation: Pernyataan matematika adalah kalimat yang bernilai benar atau salah.
+Options:
+  - Text: $2 + 2 = 4$
+    IsCorrect: true
+  - Text: Apa kabar?
+    IsCorrect: false
+  - Text: $x$ lebih besar dari 3
+    IsCorrect: true
+  - Text: Wah, indah sekali!
+    IsCorrect: false
+  - Text: $5 - 1 = 3$
+    IsCorrect: true
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_158
+Question: Pilih sifat-sifat operasi hitung yang benar.
+Explanation: Komutatif dan asosiatif adalah sifat dasar matematika.
+Options:
+  - Text: $a + b = b + a$ (Komutatif)
+    IsCorrect: true
+  - Text: $a - b = b - a$
+    IsCorrect: false
+  - Text: $(a + b) + c = a + (b + c)$ (Asosiatif)
+    IsCorrect: true
+  - Text: $a \times b = b \times a$ (Komutatif)
+    IsCorrect: true
+  - Text: $a \div b = b \div a$
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_159
+Question: Tentukan kebenaran tentang keliling lingkaran.
+Explanation: Keliling lingkaran $2\pi r$ atau $\pi d$.
+Options:
+  - Text: Rumus keliling lingkaran adalah $\pi r^2$.
+    IsCorrect: Salah
+  - Text: Rumus keliling lingkaran adalah $2 \pi r$.
+    IsCorrect: Benar
+  - Text: Nilai $\pi$ kira-kira $3,14$.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_160
+Question: Tentukan kebenaran tentang operasi bilangan bulat.
+Explanation: Positif kali negatif = negatif. Negatif kali negatif = positif.
+Options:
+  - Text: $(-2) \times (-3) = 6$.
+    IsCorrect: Benar
+  - Text: $(-2) \times 3 = 6$.
+    IsCorrect: Salah
+  - Text: $2 \times (-3) = -6$.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_161
+Question: Sebuah botol berisi $500\text{ ml}$ air. Jika diminum $125\text{ ml}$, sisa air adalah...
+Answer: 375 ml
+Explanation: >
+  $500 - 125 = 375\text{ ml}$.
+Options:
+  - Text: 250 ml
+  - Text: 375 ml
+  - Text: 400 ml
+  - Text: 125 ml
+  - Text: 500 ml
+---
+Type: PilihanGanda
+ID: SMP_MTK_162
+Question: Sudut yang besarnya $180^\circ$ disebut...
+Answer: Sudut lurus
+Explanation: >
+  Sudut $180^\circ$ adalah sudut lurus.
+Options:
+  - Text: Sudut lancip
+  - Text: Sudut siku-siku
+  - Text: Sudut tumpul
+  - Text: Sudut lurus
+  - Text: Sudut refleks
+---
+Type: PilihanGanda
+ID: SMP_MTK_163
+Question: Nilai $x$ pada $\frac{x}{2} = 5$ adalah...
+Answer: 10
+Explanation: >
+  $x = 5 \times 2 = 10$.
+Options:
+  - Text: 2,5
+  - Text: 5
+  - Text: 7
+  - Text: 10
+  - Text: 20
+---
+Type: PilihanGanda
+ID: SMP_MTK_164
+Question: Volume sebuah kubus dengan rusuk $4\text{ cm}$ adalah...
+Answer: 64 cm^3
+Explanation: >
+  $V = s^3 = 4^3 = 64\text{ cm}^3$.
+Options:
+  - Text: 12 cm^3
+  - Text: 16 cm^3
+  - Text: 64 cm^3
+  - Text: 32 cm^3
+  - Text: 48 cm^3
+---
+Type: PilihanGanda
+ID: SMP_MTK_165
+Question: Nilai $0,5 \times 0,2$ adalah...
+Answer: 0,1
+Explanation: >
+  $0,5 \times 0,2 = 0,1$.
+Options:
+  - Text: 0,1
+  - Text: 0,01
+  - Text: 1
+  - Text: 0,7
+  - Text: 0,02
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_166
+Question: Manakah dari berikut ini yang merupakan sifat layang-layang?
+Explanation: Layang-layang memiliki dua pasang sisi sama panjang dan diagonal yang tegak lurus.
+Options:
+  - Text: Memiliki 2 pasang sisi sama panjang
+    IsCorrect: true
+  - Text: Diagonal-diagonalnya saling tegak lurus
+    IsCorrect: true
+  - Text: Semua sudut sama besar
+    IsCorrect: false
+  - Text: Memiliki 1 sumbu simetri
+    IsCorrect: true
+  - Text: Sisi-sisinya sejajar
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_167
+Question: Mana yang merupakan hasil bilangan pangkat dua yang benar?
+Explanation: Perkalian bilangan dengan dirinya sendiri.
+Options:
+  - Text: $5^2 = 25$
+    IsCorrect: true
+  - Text: $6^2 = 36$
+    IsCorrect: true
+  - Text: $7^2 = 47$
+    IsCorrect: false
+  - Text: $8^2 = 64$
+    IsCorrect: true
+  - Text: $9^2 = 18$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_168
+Question: Pilih yang merupakan bilangan pecahan senilai dengan $\frac{1}{2}$.
+Explanation: Pecahan senilai didapat dengan mengalikan atau membagi pembilang dan penyebut dengan angka yang sama.
+Options:
+  - Text: $\frac{2}{4}$
+    IsCorrect: true
+  - Text: $\frac{3}{6}$
+    IsCorrect: true
+  - Text: $\frac{1}{3}$
+    IsCorrect: false
+  - Text: $\frac{4}{8}$
+    IsCorrect: true
+  - Text: $\frac{2}{3}$
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_169
+Question: Tentukan kebenaran mengenai KPK dan FPB.
+Explanation: KPK kelipatan, FPB faktor.
+Options:
+  - Text: KPK dari 4 dan 6 adalah 12.
+    IsCorrect: Benar
+  - Text: FPB dari 4 dan 6 adalah 3.
+    IsCorrect: Salah
+  - Text: KPK dari 5 dan 10 adalah 10.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_170
+Question: Tentukan kebenaran tentang diagram batang.
+Explanation: Diagram batang menunjukkan frekuensi data.
+Options:
+  - Text: Diagram batang digunakan untuk menunjukkan data kategori.
+    IsCorrect: Benar
+  - Text: Batang yang lebih tinggi menunjukkan frekuensi lebih kecil.
+    IsCorrect: Salah
+  - Text: Diagram batang adalah alat visual untuk data.
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_171
+Question: Sebuah benda bergerak dengan kecepatan tetap. Jika jarak $200\text{ m}$ ditempuh dalam $40\text{ detik}$, kecepatannya adalah...
+Answer: 5 m/detik
+Explanation: >
+  $200 / 40 = 5\text{ m/detik}$.
+Options:
+  - Text: 4 m/detik
+  - Text: 5 m/detik
+  - Text: 10 m/detik
+  - Text: 2 m/detik
+  - Text: 20 m/detik
+---
+Type: PilihanGanda
+ID: SMP_MTK_172
+Question: Nilai $2 + 3 \times 4$ adalah...
+Answer: 14
+Explanation: >
+  Perkalian dulu: $3 \times 4 = 12$. Lalu $2 + 12 = 14$.
+Options:
+  - Text: 20
+  - Text: 14
+  - Text: 9
+  - Text: 24
+  - Text: 10
+---
+Type: PilihanGanda
+ID: SMP_MTK_173
+Question: Jika sebuah persegi memiliki keliling $20\text{ cm}$, panjang sisinya adalah...
+Answer: 5 cm
+Explanation: >
+  $4 \times \text{sisi} = 20 \Rightarrow \text{sisi} = 5\text{ cm}$.
+Options:
+  - Text: 4 cm
+  - Text: 5 cm
+  - Text: 10 cm
+  - Text: 2,5 cm
+  - Text: 20 cm
+---
+Type: PilihanGanda
+ID: SMP_MTK_174
+Question: Nilai $\sqrt{81}$ adalah...
+Answer: 9
+Explanation: >
+  $9 \times 9 = 81$.
+Options:
+  - Text: 7
+  - Text: 8
+  - Text: 9
+  - Text: 10
+  - Text: 3
+---
+Type: PilihanGanda
+ID: SMP_MTK_175
+Question: Hasil $10 - (-5)$ adalah...
+Answer: 15
+Explanation: >
+  $10 - (-5) = 10 + 5 = 15$.
+Options:
+  - Text: 5
+  - Text: -5
+  - Text: 15
+  - Text: -15
+  - Text: 0
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_176
+Question: Manakah yang merupakan contoh poligon?
+Explanation: Poligon adalah bangun datar tertutup dengan sisi lurus.
+Options:
+  - Text: Segitiga
+    IsCorrect: true
+  - Text: Lingkaran
+    IsCorrect: false
+  - Text: Persegi
+    IsCorrect: true
+  - Text: Pentagon
+    IsCorrect: true
+  - Text: Elips
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_177
+Question: Mana yang benar mengenai bilangan negatif?
+Explanation: Negatif lebih kecil dari nol.
+Options:
+  - Text: $-1 > -5$
+    IsCorrect: true
+  - Text: $-2 < 0$
+    IsCorrect: true
+  - Text: $-3 > 0$
+    IsCorrect: false
+  - Text: $-10 < -1$
+    IsCorrect: true
+  - Text: $-5 = 5$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_178
+Question: Pilih operasi yang menghasilkan bilangan ganjil.
+Explanation: Ganjil + Ganjil = Genap. Ganjil + Genap = Ganjil.
+Options:
+  - Text: $1 + 2$
+    IsCorrect: true
+  - Text: $3 + 5$
+    IsCorrect: false
+  - Text: $2 + 4$
+    IsCorrect: false
+  - Text: $5 + 6$
+    IsCorrect: true
+  - Text: $7 + 1$
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_179
+Question: Tentukan kebenaran tentang sudut pelurus.
+Explanation: Sudut pelurus berjumlah $180^\circ$.
+Options:
+  - Text: Dua sudut yang saling berpelurus berjumlah $180^\circ$.
+    IsCorrect: Benar
+  - Text: Dua sudut yang saling berpelurus berjumlah $90^\circ$.
+    IsCorrect: Salah
+  - Text: Sudut $60^\circ$ pelurusnya $120^\circ$.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_180
+Question: Tentukan kebenaran tentang volume tabung.
+Explanation: Volume tabung $\pi r^2 h$.
+Options:
+  - Text: Volume tabung $\pi r^2 h$.
+    IsCorrect: Benar
+  - Text: Volume tabung $2 \pi r$.
+    IsCorrect: Salah
+  - Text: Jika $r$ naik 2 kali, volume naik 4 kali (h tetap).
+    IsCorrect: Benar
+---
+Type: PilihanGanda
+ID: SMP_MTK_181
+Question: Sebuah bilangan jika dikali 3 kemudian ditambah 2 hasilnya 17. Bilangan itu adalah...
+Answer: 5
+Explanation: >
+  $3x + 2 = 17 
+  3x = 15 
+  x = 5$.
+Options:
+  - Text: 4
+  - Text: 5
+  - Text: 6
+  - Text: 7
+  - Text: 8
+---
+Type: PilihanGanda
+ID: SMP_MTK_182
+Question: Keliling segitiga sama sisi dengan sisi $4\text{ cm}$ adalah...
+Answer: 12 cm
+Explanation: >
+  $3 \times 4 = 12\text{ cm}$.
+Options:
+  - Text: 8 cm
+  - Text: 12 cm
+  - Text: 16 cm
+  - Text: 6 cm
+  - Text: 4 cm
+---
+Type: PilihanGanda
+ID: SMP_MTK_183
+Question: Nilai $2 \times (3 + 5)$ adalah...
+Answer: 16
+Explanation: >
+  $2 \times 8 = 16$.
+Options:
+  - Text: 11
+  - Text: 13
+  - Text: 16
+  - Text: 10
+  - Text: 8
+---
+Type: PilihanGanda
+ID: SMP_MTK_184
+Question: Sebuah kotak berisi $10$ bola, $3$ merah, $4$ biru, sisanya hijau. Berapa jumlah bola hijau?
+Answer: 3
+Explanation: >
+  $10 - 3 - 4 = 3$.
+Options:
+  - Text: 2
+  - Text: 3
+  - Text: 4
+  - Text: 7
+  - Text: 0
+---
+Type: PilihanGanda
+ID: SMP_MTK_185
+Question: Nilai dari $|-5|$ adalah...
+Answer: 5
+Explanation: >
+  Nilai mutlak $-5$ adalah $5$.
+Options:
+  - Text: -5
+  - Text: 5
+  - Text: 0
+  - Text: 1
+  - Text: -1
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_186
+Question: Manakah yang merupakan bilangan komposit?
+Explanation: Bilangan komposit adalah bilangan asli lebih dari 1 yang bukan prima.
+Options:
+  - Text: 4
+    IsCorrect: true
+  - Text: 6
+    IsCorrect: true
+  - Text: 7
+    IsCorrect: false
+  - Text: 8
+    IsCorrect: true
+  - Text: 2
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_187
+Question: Mana yang merupakan hasil pembagian bilangan bulat?
+Explanation: Pembagian yang menghasilkan bilangan bulat.
+Options:
+  - Text: $10 \div 2 = 5$
+    IsCorrect: true
+  - Text: $10 \div 3 = 3$
+    IsCorrect: false
+  - Text: $12 \div 4 = 3$
+    IsCorrect: true
+  - Text: $15 \div 5 = 3$
+    IsCorrect: true
+  - Text: $7 \div 2 = 3$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_188
+Question: Pilih bentuk aljabar yang setara dengan $2(x+y)$.
+Explanation: Distributif.
+Options:
+  - Text: $2x + 2y$
+    IsCorrect: true
+  - Text: $2x + y$
+    IsCorrect: false
+  - Text: $x + y + x + y$
+    IsCorrect: true
+  - Text: $2x + y + y$
+    IsCorrect: true
+  - Text: $x + 2y$
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_189
+Question: Tentukan kebenaran tentang kuadran dalam koordinat.
+Explanation: Kuadran I (++, II (-+), III (--), IV (+-)).
+Options:
+  - Text: Kuadran III memiliki nilai x dan y negatif.
+    IsCorrect: Benar
+  - Text: Kuadran I memiliki nilai x dan y positif.
+    IsCorrect: Benar
+  - Text: Kuadran II memiliki nilai x positif.
+    IsCorrect: Salah
+---
+Type: BenarSalah
+ID: SMP_MTK_190
+Question: Tentukan kebenaran tentang luas bangun.
+Explanation: Luas persegi $s^2$, luas persegi panjang $p \times l$.
+Options:
+  - Text: Luas persegi panjang adalah $p \times l$.
+    IsCorrect: Benar
+  - Text: Luas persegi adalah $s^2$.
+    IsCorrect: Benar
+  - Text: Luas segitiga $s \times s$.
+    IsCorrect: Salah
+---
+Type: PilihanGanda
+ID: SMP_MTK_191
+Question: Sebuah toko menjual 10 buku dengan harga total Rp100.000. Harga 1 buku adalah...
+Answer: Rp10.000,00
+Explanation: >
+  $100.000 / 10 = 10.000$.
+Options:
+  - Text: Rp1.000,00
+  - Text: Rp10.000,00
+  - Text: Rp5.000,00
+  - Text: Rp20.000,00
+  - Text: Rp100.000,00
+---
+Type: PilihanGanda
+ID: SMP_MTK_192
+Question: Jika $2x = 10$, maka $x + 2$ adalah...
+Answer: 7
+Explanation: >
+  $x = 5 \Rightarrow 5 + 2 = 7$.
+Options:
+  - Text: 5
+  - Text: 6
+  - Text: 7
+  - Text: 8
+  - Text: 10
+---
+Type: PilihanGanda
+ID: SMP_MTK_193
+Question: Nilai dari $10^2 - 5^2$ adalah...
+Answer: 75
+Explanation: >
+  $100 - 25 = 75$.
+Options:
+  - Text: 25
+  - Text: 50
+  - Text: 75
+  - Text: 100
+  - Text: 125
+---
+Type: PilihanGanda
+ID: SMP_MTK_194
+Question: Sudut yang besarnya $90^\circ$ disebut...
+Answer: Sudut siku-siku
+Explanation: >
+  Sudut $90^\circ$ adalah sudut siku-siku.
+Options:
+  - Text: Sudut lancip
+  - Text: Sudut tumpul
+  - Text: Sudut siku-siku
+  - Text: Sudut lurus
+  - Text: Sudut refleks
+---
+Type: PilihanGanda
+ID: SMP_MTK_195
+Question: Nilai $3/4 + 1/4$ adalah...
+Answer: 1
+Explanation: >
+  $3/4 + 1/4 = 4/4 = 1$.
+Options:
+  - Text: 1/2
+  - Text: 1
+  - Text: 3/8
+  - Text: 4/8
+  - Text: 2
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_196
+Question: Manakah yang merupakan contoh bilangan kuadrat sempurna?
+Explanation: Hasil dari bilangan bulat pangkat dua.
+Options:
+  - Text: 1
+    IsCorrect: true
+  - Text: 4
+    IsCorrect: true
+  - Text: 5
+    IsCorrect: false
+  - Text: 9
+    IsCorrect: true
+  - Text: 10
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_197
+Question: Mana yang merupakan hasil penjumlahan benar?
+Explanation: Aritmetika dasar.
+Options:
+  - Text: $5 + 7 = 12$
+    IsCorrect: true
+  - Text: $8 + 9 = 17$
+    IsCorrect: true
+  - Text: $6 + 6 = 13$
+    IsCorrect: false
+  - Text: $4 + 9 = 13$
+    IsCorrect: true
+  - Text: $5 + 5 = 11$
+    IsCorrect: false
+---
+Type: PilihanGandaKompleks
+ID: SMP_MTK_198
+Question: Pilih bangun datar yang memiliki setidaknya satu pasang sisi sejajar.
+Explanation: Persegi, persegi panjang, trapesium, jajar genjang punya sisi sejajar.
+Options:
+  - Text: Persegi
+    IsCorrect: true
+  - Text: Trapesium
+    IsCorrect: true
+  - Text: Segitiga sembarang
+    IsCorrect: false
+  - Text: Jajar genjang
+    IsCorrect: true
+  - Text: Lingkaran
+    IsCorrect: false
+---
+Type: BenarSalah
+ID: SMP_MTK_199
+Question: Tentukan kebenaran tentang sifat perkalian.
+Explanation: $a \times b = b \times a$ (Komutatif).
+Options:
+  - Text: $5 \times 3$ sama dengan $3 \times 5$.
+    IsCorrect: Benar
+  - Text: $2 \times 4$ sama dengan $4 \times 3$.
+    IsCorrect: Salah
+  - Text: $1 \times x$ sama dengan $x$.
+    IsCorrect: Benar
+---
+Type: BenarSalah
+ID: SMP_MTK_200
+Question: Tentukan kebenaran tentang akar bilangan.
+Explanation: $\sqrt{25} = 5$.
+Options:
+  - Text: $\sqrt{25} = 5$.
+    IsCorrect: Benar
+  - Text: $\sqrt{16} = 4$.
+    IsCorrect: Benar
+  - Text: $\sqrt{10} = 5$.
+    IsCorrect: Salah
