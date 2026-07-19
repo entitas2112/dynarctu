@@ -8,7 +8,6 @@
  * right.
  */
 import './style.css';
-import './mathjax-setup.js';
 import './nav.js';
 import { startQuiz as apiStartQuiz, submitAnswer, finishQuiz as apiFinishQuiz, resetHistory as apiResetHistory } from './quiz-api.js';
 import { CountdownTimer } from './timer.js';

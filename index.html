@@ -8,7 +8,24 @@
     <!-- Font Google: Poppins -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-    <!-- Konfigurasi MathJax (must run before the CDN script below reads it) -->
+    <!-- MathJax config: this MUST be an inline, synchronous script placed
+         before the CDN script tag below. It used to live in src/mathjax-setup.js,
+         loaded via the bundled `type="module"` script at the end of <body> —
+         but module scripts are deferred until after HTML parsing finishes,
+         while the async CDN script below executes the instant it finishes
+         downloading (often before the module bundle even runs). MathJax reads
+         window.MathJax once at boot and ignores later changes, so the old
+         setup silently lost the `$...$` inline-math delimiter and fell back
+         to MathJax's default (\( \) only). An inline script here is guaranteed
+         to run first, since it executes synchronously the moment the parser
+         reaches it — before the parser even reaches the script tag after it. -->
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+            }
+        };
+    </script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
