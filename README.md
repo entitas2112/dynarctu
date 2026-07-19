@@ -7,7 +7,7 @@ Quiz answers are never sent to the browser. Question selection and grading
 both happen in the serverless functions under `api/`; the client only ever
 receives stripped question payloads (see `api/_lib/quizEngine.ts` →
 `toPublicQuestion()`), and the answer key is checked against the copy kept
-in the session store (Vercel KV), not against anything the client can see
+in the session store (Redis), not against anything the client can see
 or tamper with.
 
 ## Project layout
@@ -20,7 +20,7 @@ data/*.qdf           Question bank, in QDF format (see docs below)
 api/_lib/            Server-only shared code — never imported from src/
   qdf.ts             QDF parser
   quizEngine.ts      Question selection, shuffling, grading
-  kv.ts              Sessions + used-question history (Vercel KV)
+  kv.ts              Sessions + used-question history (Redis, via Upstash)
   security.ts        Signed device cookie, admin token check, headers
   validate.ts        Request validation
   handler.ts         Wraps routes: headers + sanitized error responses
@@ -33,7 +33,7 @@ api/health.ts        Health check
 ## Prerequisites
 
 - Node.js 20+
-- A [Vercel](https://vercel.com) account (for KV storage and deployment)
+- A [Vercel](https://vercel.com) account (for Redis storage and deployment)
 - The [Vercel CLI](https://vercel.com/docs/cli): `npm install --global vercel`
 
 ## Local setup
@@ -47,23 +47,30 @@ Fill in `.env`:
 
 - `ADMIN_TOKEN`, `SESSION_SECRET` — required, app fails fast at boot
   without them. Generate with `openssl rand -base64 32`.
-- `KV_REST_API_URL`, `KV_REST_API_TOKEN` — see **Attach Vercel KV** below.
+- `KV_REST_API_URL`/`KV_REST_API_TOKEN` or `UPSTASH_REDIS_REST_URL`/
+  `UPSTASH_REDIS_REST_TOKEN` — see **Attach Redis (Upstash)** below.
   Don't hand-type these; `vercel env pull` fills them in for you once a
-  KV store is attached.
+  database is attached.
 
-### Attach Vercel KV
+### Attach Redis (Upstash, via Vercel Marketplace)
 
 Sessions and quiz-history dedup used to live in an in-memory dict + local
 SQLite file. Serverless functions are stateless between invocations, so
-that state now lives in Vercel KV (Redis, via Upstash) instead:
+that state now lives in Redis instead — specifically **Upstash Redis**,
+installed as a Vercel Marketplace integration. (The old standalone
+"Vercel KV" product this was originally built against has been
+discontinued; Upstash is its direct successor and existing Vercel KV
+stores were auto-migrated to it.)
 
 1. `vercel link` (links this directory to a Vercel project — creates one
    if it doesn't exist yet).
-2. In the Vercel dashboard: **Storage → Create Database → KV**, then
-   **Connect** it to this project.
+2. In the Vercel dashboard: **Storage → Marketplace Database Providers →
+   Upstash**, create a Redis database, and connect it to this project.
+   (Or from the CLI: `vercel install upstash`.)
 3. `vercel env pull .env.development.local` (or re-run `vercel env pull .env`)
-   to pull the auto-injected `KV_REST_API_URL` / `KV_REST_API_TOKEN` down
-   locally.
+   to pull the auto-injected credentials down locally. The code reads
+   either variable naming via `Redis.fromEnv()` in `api/_lib/kv.ts`, so
+   it works regardless of which one the integration sets.
 
 ### Run it
 
@@ -106,8 +113,8 @@ rather than Vercel's automatic Git integration, so:
 - Set `ADMIN_TOKEN`, `SESSION_SECRET`, and any optional vars from
   `.env.example` in the Vercel dashboard (Project Settings → Environment
   Variables) for the Production environment — the Action deploys prebuilt
-  output, it doesn't upload your local `.env`. `KV_REST_API_URL` /
-  `KV_REST_API_TOKEN` are injected automatically once KV is attached.
+  output, it doesn't upload your local `.env`. The Redis credentials are
+  injected automatically once the Upstash integration is attached.
 
 Every push to `main` then: installs deps → typechecks → builds → (on
 `main` only) deploys to production. Pull requests run typecheck + build
@@ -142,5 +149,5 @@ ready to add SD Matematika content.
 - Every response gets the same security headers, and every thrown error
   is sanitized before reaching the client (`api/_lib/handler.ts`) — no
   stack traces or internal details leak to the browser.
-- Rate limits are enforced per-route via Vercel KV (`checkRateLimit` in
+- Rate limits are enforced per-route via Redis (`checkRateLimit` in
   `kv.ts`) — see `.env.example` for the tunable limits.

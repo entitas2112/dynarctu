@@ -11,7 +11,7 @@
     "vercel-build": "vite build"
   },
   "dependencies": {
-    "@vercel/kv": "^2.0.0",
+    "@upstash/redis": "^1.38.0",
     "cookie": "^0.6.0"
   },
   "devDependencies": {

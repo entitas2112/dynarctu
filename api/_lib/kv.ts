@@ -7,8 +7,16 @@
  * KV_REST_API_URL / KV_REST_API_TOKEN env vars this reads.
  */
 import { randomBytes } from 'node:crypto';
-import { kv } from '@vercel/kv';
+import { Redis } from '@upstash/redis';
 import { getSettings } from './config.js';
+
+// Vercel KV (the old @vercel/kv package) was sunset; Redis on Vercel is now
+// provided via Marketplace integrations (Upstash Redis being the direct
+// successor — existing Vercel KV stores were auto-migrated to it in
+// December 2024). fromEnv() reads either KV_REST_API_URL/KV_REST_API_TOKEN
+// or UPSTASH_REDIS_REST_URL/UPSTASH_REDIS_REST_TOKEN, whichever the
+// integration injects, so this works regardless of which naming you get.
+const kv = Redis.fromEnv();
 
 export interface QuizSession {
   sessionToken: string;
