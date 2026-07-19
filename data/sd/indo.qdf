@@ -1958,3 +1958,1683 @@ Options:
   - Text: Sikap sabar tidak memiliki kaitan sama sekali dengan kebiasaan menabung.
     IsCorrect: Salah
 ---
+ID: SD_INDO_101
+Type: PilihanGanda
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Sifat yang ditunjukkan Pak Tani dalam cerita tersebut adalah...
+Answer: Jujur dan rendah hati
+Explanation: >
+  Pak Tani menunjukkan kejujuran dengan mencari pemilik dompet dan kerendahan hati dengan menolak imbalan.
+Options:
+  - Text: Pemarah dan serakah
+  - Text: Jujur dan rendah hati
+  - Text: Sombong dan licik
+  - Text: Malas dan tidak peduli
+  - Text: Cerdas dan ambisius
+---
+ID: SD_INDO_102
+Type: PilihanGanda
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Mengapa Pak Tani menolak imbalan dari saudagar kaya?
+Answer: Ia hanya ingin membantu sesama tanpa mengharap pamrih
+Explanation: >
+  Teks secara eksplisit menyatakan bahwa ia hanya ingin membantu sesama.
+Options:
+  - Text: Uang tersebut nilainya terlalu sedikit
+  - Text: Ia takut saudagar itu adalah orang jahat
+  - Text: Ia hanya ingin membantu sesama tanpa mengharap pamrih
+  - Text: Saudagar itu memintanya untuk membuang uang tersebut
+  - Text: Pak Tani sudah memiliki banyak uang sendiri
+---
+ID: SD_INDO_103
+Type: PilihanGanda
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Siapakah pemilik dompet yang ditemukan oleh Pak Tani?
+Answer: Saudagar kaya
+Explanation: >
+  Cerita menyebutkan bahwa pemilik dompet adalah saudagar kaya.
+Options:
+  - Text: Teman sekolah Pak Tani
+  - Text: Seorang petani miskin
+  - Text: Saudagar kaya
+  - Text: Seorang pengembara
+  - Text: Anak kecil yang tersesat
+---
+ID: SD_INDO_104
+Type: PilihanGanda
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Apa inti dari paragraf tersebut?
+Answer: Kejujuran Pak Tani dalam mengembalikan barang temuan
+Explanation: >
+  Paragraf membahas aksi kejujuran Pak Tani yang menemukan dan mengembalikan dompet.
+Options:
+  - Text: Pak Tani orang yang paling kaya di desa
+  - Text: Saudagar kaya kehilangan dompetnya karena ceroboh
+  - Text: Kejujuran Pak Tani dalam mengembalikan barang temuan
+  - Text: Pentingnya menabung uang di dompet
+  - Text: Petani yang ingin menjadi seorang saudagar
+---
+ID: SD_INDO_105
+Type: PilihanGanda
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Lawan kata dari 'jujur' adalah...
+Answer: Bohong
+Explanation: >
+  Jujur berarti mengatakan yang sebenarnya, sedangkan bohong adalah sebaliknya.
+Options:
+  - Text: Pandai
+  - Text: Berani
+  - Text: Bohong
+  - Text: Sopan
+  - Text: Rajin
+---
+ID: SD_INDO_106
+Type: PilihanGandaKompleks
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Manakah pernyataan yang sesuai dengan isi cerita di atas? Pilihlah beberapa jawaban benar.
+Explanation: >
+  Pernyataan ini harus sesuai dengan fakta yang tertulis dalam teks.
+Options:
+  - Text: Pak Tani menyimpan uang dalam dompet untuk dirinya sendiri.
+    IsCorrect: false
+  - Text: Pak Tani berhasil menemukan pemilik dompet.
+    IsCorrect: true
+  - Text: Saudagar kaya memberikan tawaran imbalan kepada Pak Tani.
+    IsCorrect: true
+  - Text: Pak Tani merasa marah karena harus mencari pemilik dompet.
+    IsCorrect: false
+---
+ID: SD_INDO_107
+Type: PilihanGandaKompleks
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Nilai moral apa saja yang dapat dipetik dari cerita Pak Tani? Pilihlah jawaban benar.
+Explanation: >
+  Nilai moral adalah pelajaran hidup yang bisa diambil dari perilaku tokoh.
+Options:
+  - Text: Kejujuran akan membuahkan ketenangan hati.
+    IsCorrect: true
+  - Text: Kita harus selalu meminta imbalan jika membantu orang.
+    IsCorrect: false
+  - Text: Berbuat baik kepada sesama adalah tindakan mulia.
+    IsCorrect: true
+  - Text: Mengambil barang temuan adalah tindakan yang benar.
+    IsCorrect: false
+---
+ID: SD_INDO_108
+Type: PilihanGandaKompleks
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Pilihlah kata-kata yang memiliki arti sama (sinonim) dengan kata 'menolak'!
+Explanation: >
+  Menolak berarti tidak menerima atau tidak mengiyakan.
+Options:
+  - Text: Mengingkari
+    IsCorrect: true
+  - Text: Menerima
+    IsCorrect: false
+  - Text: Membantah
+    IsCorrect: true
+  - Text: Mengabulkan
+    IsCorrect: false
+---
+ID: SD_INDO_109
+Type: BenarSalah
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Tentukan Benar atau Salah pada setiap pernyataan berikut!
+Explanation: >
+  Mengevaluasi fakta cerita secara tepat.
+Options:
+  - Text: Pak Tani bekerja sebagai seorang saudagar kaya.
+    IsCorrect: Salah
+  - Text: Pak Tani mengembalikan dompet karena ingin mendapatkan imbalan besar.
+    IsCorrect: Salah
+  - Text: Saudagar kaya adalah pemilik dompet yang ditemukan Pak Tani.
+    IsCorrect: Benar
+---
+ID: SD_INDO_110
+Type: BenarSalah
+Question: >
+  Dahulu kala, ada seorang petani jujur bernama Pak Tani yang menemukan dompet berisi uang di jalan. Ia tidak mengambil uang tersebut, melainkan mencari pemiliknya hingga ketemu. Pemilik dompet adalah saudagar kaya. Saudagar itu memberikan imbalan, namun Pak Tani menolak dengan halus. Ia hanya ingin membantu sesama.
+  
+  Tentukan Benar atau Salah pernyataan logika ini!
+Explanation: >
+  Evaluasi pemahaman alur dan pesan cerita.
+Options:
+  - Text: Menjadi petani membuat seseorang pasti memiliki sifat jujur.
+    IsCorrect: Salah
+  - Text: Tindakan Pak Tani menunjukkan bahwa kebaikan tidak selalu harus dibalas uang.
+    IsCorrect: Benar
+  - Text: Cerita ini menggambarkan konflik yang rumit antara petani dan saudagar.
+    IsCorrect: Salah
+---
+ID: SD_INDO_111
+Type: PilihanGanda
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Apa tujuan dari kegiatan piket di sekolah?
+Answer: Menjaga kebersihan kelas agar belajar menjadi nyaman
+Explanation: >
+  Teks menjelaskan bahwa piket dilakukan untuk menjaga kebersihan agar suasana belajar nyaman.
+Options:
+  - Text: Agar guru bisa istirahat
+  - Text: Menjaga kebersihan kelas agar belajar menjadi nyaman
+  - Text: Agar siswa mendapat nilai tinggi
+  - Text: Untuk mengurangi jumlah siswa
+  - Text: Supaya kelas terlihat mewah
+---
+ID: SD_INDO_112
+Type: PilihanGanda
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Siapa saja yang bertanggung jawab menjaga kebersihan lingkungan sekolah?
+Answer: Seluruh warga sekolah
+Explanation: >
+  Teks menyebutkan kebersihan adalah tanggung jawab bersama.
+Options:
+  - Text: Hanya petugas kebersihan
+  - Text: Hanya guru
+  - Text: Hanya siswa
+  - Text: Seluruh warga sekolah
+  - Text: Kepala sekolah saja
+---
+ID: SD_INDO_113
+Type: PilihanGanda
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Kapan kegiatan piket sebaiknya dilakukan menurut teks?
+Answer: Sebelum pelajaran dimulai
+Explanation: >
+  Teks menyatakan kegiatan piket dilakukan sebelum pelajaran dimulai.
+Options:
+  - Text: Saat pelajaran berlangsung
+  - Text: Sebelum pelajaran dimulai
+  - Text: Setelah pulang sekolah
+  - Text: Saat istirahat siang
+  - Text: Seminggu sekali saja
+---
+ID: SD_INDO_114
+Type: PilihanGanda
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Apa yang terjadi jika kelas dalam keadaan kotor?
+Answer: Suasana belajar menjadi tidak nyaman
+Explanation: >
+  Teks menyebutkan jika kelas kotor maka suasana belajar menjadi tidak nyaman.
+Options:
+  - Text: Siswa menjadi lebih semangat belajar
+  - Text: Guru memberikan hadiah
+  - Text: Suasana belajar menjadi tidak nyaman
+  - Text: Kelas menjadi lebih luas
+  - Text: Siswa bisa bermain bola
+---
+ID: SD_INDO_115
+Type: PilihanGanda
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Kata 'piket' dalam bacaan memiliki arti...
+Answer: Kegiatan membersihkan bersama
+Explanation: >
+  Piket dalam konteks sekolah adalah tugas membersihkan lingkungan atau kelas.
+Options:
+  - Text: Belajar matematika
+  - Text: Kegiatan membersihkan bersama
+  - Text: Bermain di halaman
+  - Text: Menghafal puisi
+  - Text: Istirahat di kantin
+---
+ID: SD_INDO_116
+Type: PilihanGandaKompleks
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Apa saja keuntungan dari kelas yang bersih? Pilihlah jawaban benar.
+Explanation: >
+  Kelas yang bersih meningkatkan kenyamanan belajar.
+Options:
+  - Text: Belajar menjadi lebih fokus dan nyaman.
+    IsCorrect: true
+  - Text: Kesehatan siswa lebih terjaga.
+    IsCorrect: true
+  - Text: Kelas menjadi tempat yang berdebu.
+    IsCorrect: false
+  - Text: Siswa menjadi malas untuk masuk sekolah.
+    IsCorrect: false
+---
+ID: SD_INDO_117
+Type: PilihanGandaKompleks
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Bagaimana cara menjaga kebersihan kelas? Pilihlah jawaban benar.
+Explanation: >
+  Menjaga kebersihan bisa dilakukan dengan banyak cara.
+Options:
+  - Text: Membuang sampah pada tempatnya.
+    IsCorrect: true
+  - Text: Mencoret-coret meja belajar.
+    IsCorrect: false
+  - Text: Menyapu lantai kelas secara rutin.
+    IsCorrect: true
+  - Text: Menumpuk buku di atas meja guru.
+    IsCorrect: false
+---
+ID: SD_INDO_118
+Type: PilihanGandaKompleks
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Apa saja yang termasuk dalam tanggung jawab menjaga lingkungan sekolah? Pilihlah jawaban benar.
+Explanation: >
+  Lingkungan sekolah mencakup semua area sekolah.
+Options:
+  - Text: Membersihkan taman sekolah.
+    IsCorrect: true
+  - Text: Menjaga kebersihan selokan sekolah.
+    IsCorrect: true
+  - Text: Merusak tanaman hias.
+    IsCorrect: false
+  - Text: Membuang sampah di lapangan.
+    IsCorrect: false
+---
+ID: SD_INDO_119
+Type: BenarSalah
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi pemahaman teks tentang tanggung jawab.
+Options:
+  - Text: Menjaga kebersihan adalah tugas utama petugas kebersihan saja.
+    IsCorrect: Salah
+  - Text: Kegiatan piket membantu menciptakan suasana kelas yang bersih.
+    IsCorrect: Benar
+  - Text: Siswa tidak perlu peduli dengan kebersihan kelas.
+    IsCorrect: Salah
+---
+ID: SD_INDO_120
+Type: BenarSalah
+Question: >
+  Kebersihan lingkungan sekolah adalah tanggung jawab bersama. Setiap siswa wajib menjaga kebersihan kelasnya masing-masing. Jika kelas kotor, suasana belajar menjadi tidak nyaman. Guru dan siswa dapat bekerja sama dalam kegiatan piket untuk membersihkan kelas sebelum pelajaran dimulai.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi logis hubungan kebersihan dan kenyamanan.
+Options:
+  - Text: Lingkungan kotor membuat belajar lebih efektif.
+    IsCorrect: Salah
+  - Text: Kerja sama guru dan siswa diperlukan untuk menjaga kelas.
+    IsCorrect: Benar
+  - Text: Piket kelas sebaiknya dilakukan setelah pulang sekolah.
+    IsCorrect: Salah
+---
+ID: SD_INDO_121
+Type: PilihanGanda
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Apa langkah pertama dalam menanam bunga mawar menurut teks?
+Answer: Memilih bibit yang sehat
+Explanation: >
+  Teks menyatakan langkah pertama adalah memilih bibit yang sehat.
+Options:
+  - Text: Menyiapkan pot
+  - Text: Memilih bibit yang sehat
+  - Text: Menyiram air
+  - Text: Menjemur di matahari
+  - Text: Membeli pupuk mahal
+---
+ID: SD_INDO_122
+Type: PilihanGanda
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Tanah seperti apa yang sebaiknya digunakan untuk menanam mawar?
+Answer: Tanah yang gembur dan subur
+Explanation: >
+  Teks menyebutkan pot harus disiapkan dengan tanah yang gembur dan subur.
+Options:
+  - Text: Tanah kering
+  - Text: Tanah berpasir
+  - Text: Tanah yang gembur dan subur
+  - Text: Tanah berlumpur
+  - Text: Tanah berbatu
+---
+ID: SD_INDO_123
+Type: PilihanGanda
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Di mana sebaiknya meletakkan pot bunga mawar yang baru ditanam?
+Answer: Tempat yang terkena sinar matahari cukup
+Explanation: >
+  Langkah terakhir adalah meletakkan pot di tempat yang terkena sinar matahari cukup.
+Options:
+  - Text: Di dalam kamar yang gelap
+  - Text: Di dalam gudang
+  - Text: Di tempat yang terkena sinar matahari cukup
+  - Text: Di bawah meja
+  - Text: Di dalam lemari es
+---
+ID: SD_INDO_124
+Type: PilihanGanda
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Teks tersebut termasuk jenis teks...
+Answer: Prosedur
+Explanation: >
+  Teks yang berisi langkah-langkah melakukan sesuatu disebut teks prosedur.
+Options:
+  - Text: Narasi
+  - Text: Deskripsi
+  - Text: Prosedur
+  - Text: Laporan
+  - Text: Eksposisi
+---
+ID: SD_INDO_125
+Type: PilihanGanda
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Apa arti kata 'gembur' dalam teks tersebut?
+Answer: Tanah yang tidak keras atau mudah ditembus akar
+Explanation: >
+  Gembur berarti kondisi tanah yang tidak padat atau keras, sehingga cocok untuk pertumbuhan akar.
+Options:
+  - Text: Tanah yang keras sekali
+  - Text: Tanah yang tidak keras atau mudah ditembus akar
+  - Text: Tanah yang mengandung banyak air
+  - Text: Tanah yang berwarna putih
+  - Text: Tanah yang banyak semutnya
+---
+ID: SD_INDO_126
+Type: PilihanGandaKompleks
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Apa saja langkah-langkah merawat bunga mawar sesuai teks? Pilihlah jawaban benar.
+Explanation: >
+  Langkah-langkah harus sesuai urutan dalam teks.
+Options:
+  - Text: Memilih bibit yang sehat.
+    IsCorrect: true
+  - Text: Menyiapkan pot dengan tanah subur.
+    IsCorrect: true
+  - Text: Menanam bibit dan menyiram air secukupnya.
+    IsCorrect: true
+  - Text: Meletakkan pot di tempat gelap total.
+    IsCorrect: false
+---
+ID: SD_INDO_127
+Type: PilihanGandaKompleks
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Hal apa saja yang mempengaruhi pertumbuhan bunga mawar? Pilihlah jawaban benar.
+Explanation: >
+  Pertumbuhan dipengaruhi media tanam, air, dan cahaya.
+Options:
+  - Text: Kualitas tanah.
+    IsCorrect: true
+  - Text: Ketersediaan air untuk menyiram.
+    IsCorrect: true
+  - Text: Kualitas bibit yang digunakan.
+    IsCorrect: true
+  - Text: Banyaknya bunga mawar di pot lain.
+    IsCorrect: false
+---
+ID: SD_INDO_128
+Type: PilihanGandaKompleks
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Tujuan dari teks prosedur di atas adalah untuk membantu pembaca agar...
+Explanation: >
+  Tujuan teks prosedur adalah memberikan panduan atau instruksi.
+Options:
+  - Text: Dapat menanam bunga mawar dengan benar.
+    IsCorrect: true
+  - Text: Memahami cara merawat mawar agar subur.
+    IsCorrect: true
+  - Text: Tidak perlu membeli mawar lagi.
+    IsCorrect: false
+  - Text: Tahu sejarah bunga mawar.
+    IsCorrect: false
+---
+ID: SD_INDO_129
+Type: BenarSalah
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Tentukan Benar atau Salah pada pernyataan berikut!
+Explanation: >
+  Evaluasi langkah-langkah menanam mawar.
+Options:
+  - Text: Menyiram mawar harus dengan air yang sangat banyak setiap jam.
+    IsCorrect: Salah
+  - Text: Bibit yang sehat adalah langkah awal menanam bunga.
+    IsCorrect: Benar
+  - Text: Pot harus diletakkan di tempat tanpa sinar matahari.
+    IsCorrect: Salah
+---
+ID: SD_INDO_130
+Type: BenarSalah
+Question: >
+  Bunga mawar membutuhkan perawatan khusus agar dapat tumbuh subur. Langkah pertama, pilihlah bibit yang sehat. Kedua, siapkan pot dengan tanah yang gembur dan subur. Ketiga, tanam bibit mawar ke dalam pot dan siram dengan air secukupnya. Terakhir, letakkan pot di tempat yang terkena sinar matahari cukup.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis logis terkait penanaman bunga.
+Options:
+  - Text: Tanah subur sangat penting bagi pertumbuhan bunga mawar.
+    IsCorrect: Benar
+  - Text: Menanam mawar memerlukan langkah-langkah yang acak (tidak beraturan).
+    IsCorrect: Salah
+  - Text: Cahaya matahari tidak dibutuhkan oleh tanaman bunga mawar.
+    IsCorrect: Salah
+---
+ID: SD_INDO_131
+Type: PilihanGanda
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Apa nama perang yang dipimpin oleh Pangeran Diponegoro?
+Answer: Perang Diponegoro
+Explanation: >
+  Teks secara jelas menyebutkan bahwa beliau memimpin Perang Diponegoro.
+Options:
+  - Text: Perang Kemerdekaan
+  - Text: Perang Diponegoro
+  - Text: Perang Dunia
+  - Text: Perang Paderi
+  - Text: Perang Bandung
+---
+ID: SD_INDO_132
+Type: PilihanGanda
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Strategi apa yang digunakan oleh Pangeran Diponegoro untuk melawan Belanda?
+Answer: Strategi gerilya
+Explanation: >
+  Teks menyebutkan bahwa perang menyulitkan Belanda karena strategi gerilya.
+Options:
+  - Text: Strategi menyerah
+  - Text: Strategi perang laut
+  - Text: Strategi gerilya
+  - Text: Strategi diplomasi
+  - Text: Strategi pertahanan benteng
+---
+ID: SD_INDO_133
+Type: PilihanGanda
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Berapa lama Perang Diponegoro berlangsung?
+Answer: Lima tahun
+Explanation: >
+  Perang terjadi pada 1825-1830, yaitu selama lima tahun.
+Options:
+  - Text: Sepuluh tahun
+  - Text: Lima tahun
+  - Text: Dua tahun
+  - Text: Satu tahun
+  - Text: Sepuluh bulan
+---
+ID: SD_INDO_134
+Type: PilihanGanda
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Sifat Pangeran Diponegoro berdasarkan teks adalah...
+Answer: Pemberani dan teguh pendirian
+Explanation: >
+  Teks secara langsung menyebutkan beliau pemberani dan teguh pendirian.
+Options:
+  - Text: Penakut dan ragu-ragu
+  - Text: Pemberani dan teguh pendirian
+  - Text: Sombong dan licik
+  - Text: Santai dan malas
+  - Text: Cerewet dan kasar
+---
+ID: SD_INDO_135
+Type: PilihanGanda
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Siapakah lawan yang dihadapi oleh Pangeran Diponegoro?
+Answer: Penjajah Belanda
+Explanation: >
+  Teks menyatakan beliau berjuang melawan penjajah Belanda.
+Options:
+  - Text: Penjajah Jepang
+  - Text: Penjajah Spanyol
+  - Text: Penjajah Belanda
+  - Text: Penjajah Inggris
+  - Text: Penjajah Portugis
+---
+ID: SD_INDO_136
+Type: PilihanGandaKompleks
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Pernyataan mana yang sesuai dengan isi teks? Pilihlah jawaban benar.
+Explanation: >
+  Fakta sejarah berdasarkan teks.
+Options:
+  - Text: Pangeran Diponegoro melawan penjajah Belanda.
+    IsCorrect: true
+  - Text: Perang Diponegoro terjadi dari tahun 1825 sampai 1830.
+    IsCorrect: true
+  - Text: Belanda sangat mudah mengalahkan Pangeran Diponegoro.
+    IsCorrect: false
+  - Text: Pangeran Diponegoro adalah pahlawan yang penakut.
+    IsCorrect: false
+---
+ID: SD_INDO_137
+Type: PilihanGandaKompleks
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Mengapa Perang Diponegoro sangat menyulitkan Belanda? Pilihlah jawaban benar.
+Explanation: >
+  Strategi gerilya sangat menyulitkan tentara musuh.
+Options:
+  - Text: Karena Pangeran Diponegoro menggunakan strategi gerilya.
+    IsCorrect: true
+  - Text: Karena Pangeran Diponegoro memiliki jumlah tentara yang sangat sedikit.
+    IsCorrect: false
+  - Text: Karena pasukan Belanda tidak siap berperang.
+    IsCorrect: false
+  - Text: Karena strategi gerilya membuat musuh sulit memprediksi serangan.
+    IsCorrect: true
+---
+ID: SD_INDO_138
+Type: PilihanGandaKompleks
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Kata apa saja yang menggambarkan kepribadian Pangeran Diponegoro?
+Explanation: >
+  Sifat tokoh digambarkan sebagai pemberani dan teguh pendirian.
+Options:
+  - Text: Pemberani
+    IsCorrect: true
+  - Text: Teguh pendirian
+    IsCorrect: true
+  - Text: Pengecut
+    IsCorrect: false
+  - Text: Mudah terpengaruh
+    IsCorrect: false
+---
+ID: SD_INDO_139
+Type: BenarSalah
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi fakta sejarah Pangeran Diponegoro.
+Options:
+  - Text: Pangeran Diponegoro bekerja sama dengan Belanda untuk menjajah Indonesia.
+    IsCorrect: Salah
+  - Text: Perang Diponegoro berlangsung selama lima tahun.
+    IsCorrect: Benar
+  - Text: Strategi gerilya yang digunakan membuat Belanda kewalahan.
+    IsCorrect: Benar
+---
+ID: SD_INDO_140
+Type: BenarSalah
+Question: >
+  Pangeran Diponegoro adalah salah satu pahlawan besar Indonesia yang berjuang melawan penjajah Belanda. Beliau memimpin Perang Diponegoro (1825-1830). Perang ini sangat menyulitkan Belanda karena strategi gerilya yang digunakan oleh Pangeran Diponegoro. Beliau merupakan sosok yang pemberani dan teguh pendirian.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis logis tokoh pahlawan.
+Options:
+  - Text: Pangeran Diponegoro adalah salah satu tokoh pahlawan besar Indonesia.
+    IsCorrect: Benar
+  - Text: Strategi gerilya adalah strategi yang sangat mudah dipatahkan.
+    IsCorrect: Salah
+  - Text: Pangeran Diponegoro berjuang sendirian tanpa adanya semangat pemberani.
+    IsCorrect: Salah
+---
+ID: SD_INDO_141
+Type: PilihanGanda
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Mengapa makhluk hidup membutuhkan air?
+Answer: Untuk bertahan hidup
+Explanation: >
+  Teks menyatakan semua makhluk hidup butuh air untuk bertahan hidup.
+Options:
+  - Text: Untuk bermain-main
+  - Text: Untuk bertahan hidup
+  - Text: Untuk merusak lingkungan
+  - Text: Supaya terlihat bersih
+  - Text: Untuk dibuang ke selokan
+---
+ID: SD_INDO_142
+Type: PilihanGanda
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Apa yang terjadi pada tumbuhan jika tidak mendapatkan air?
+Answer: Tumbuhan akan layu
+Explanation: >
+  Teks menyatakan tanpa air, tumbuhan akan layu.
+Options:
+  - Text: Tumbuhan akan tumbuh besar
+  - Text: Tumbuhan akan layu
+  - Text: Tumbuhan akan berbuah manis
+  - Text: Tumbuhan akan berwarna hijau
+  - Text: Tumbuhan akan menjadi kayu
+---
+ID: SD_INDO_143
+Type: PilihanGanda
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Apa kegunaan air bersih bagi manusia?
+Answer: Untuk minum, mandi, dan memasak
+Explanation: >
+  Teks menyebutkan air bersih penting bagi manusia untuk minum, mandi, dan memasak.
+Options:
+  - Text: Hanya untuk mencuci mobil
+  - Text: Untuk minum, mandi, dan memasak
+  - Text: Untuk berenang sepanjang hari
+  - Text: Agar bisa memancing ikan
+  - Text: Untuk menyiram jalanan
+---
+ID: SD_INDO_144
+Type: PilihanGanda
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Apa tindakan yang harus dilakukan terhadap penggunaan air?
+Answer: Menghemat penggunaan air setiap hari
+Explanation: >
+  Teks menyimpulkan kita harus menghemat penggunaan air setiap hari.
+Options:
+  - Text: Membuang air sebanyak mungkin
+  - Text: Menggunakan air untuk bermain
+  - Text: Menghemat penggunaan air setiap hari
+  - Text: Menunggu air habis baru mencari
+  - Text: Menggunakan air hanya untuk mandi
+---
+ID: SD_INDO_145
+Type: PilihanGanda
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Apa dampak jika hewan tidak mendapatkan air?
+Answer: Hewan akan mati kehausan
+Explanation: >
+  Teks menyebutkan tanpa air, hewan akan mati kehausan.
+Options:
+  - Text: Hewan akan menjadi sehat
+  - Text: Hewan akan mati kehausan
+  - Text: Hewan akan mencari tempat tidur
+  - Text: Hewan akan bermain dengan manusia
+  - Text: Hewan akan berkembang biak
+---
+ID: SD_INDO_146
+Type: PilihanGandaKompleks
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Pilihlah pernyataan yang sesuai dengan isi teks!
+Explanation: >
+  Pernyataan harus mencerminkan isi bacaan.
+Options:
+  - Text: Semua makhluk hidup butuh air untuk hidup.
+    IsCorrect: true
+  - Text: Tumbuhan tetap segar meski tidak ada air.
+    IsCorrect: false
+  - Text: Manusia menggunakan air untuk memasak.
+    IsCorrect: true
+  - Text: Kita boleh membuang air sebanyak-banyaknya.
+    IsCorrect: false
+---
+ID: SD_INDO_147
+Type: PilihanGandaKompleks
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Kegiatan manusia apa saja yang memerlukan air bersih?
+Explanation: >
+  Air bersih digunakan untuk berbagai aktivitas.
+Options:
+  - Text: Memasak nasi.
+    IsCorrect: true
+  - Text: Mandi di kamar mandi.
+    IsCorrect: true
+  - Text: Membeli es krim di toko.
+    IsCorrect: false
+  - Text: Minum saat merasa haus.
+    IsCorrect: true
+---
+ID: SD_INDO_148
+Type: PilihanGandaKompleks
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Apa yang terjadi pada tumbuhan dan hewan tanpa adanya air?
+Explanation: >
+  Air adalah kebutuhan pokok makhluk hidup.
+Options:
+  - Text: Tumbuhan akan layu.
+    IsCorrect: true
+  - Text: Hewan akan mati kehausan.
+    IsCorrect: true
+  - Text: Makhluk hidup akan semakin sehat.
+    IsCorrect: false
+  - Text: Jumlah makhluk hidup akan bertambah banyak.
+    IsCorrect: false
+---
+ID: SD_INDO_149
+Type: BenarSalah
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi pemahaman teks tentang air.
+Options:
+  - Text: Air hanya dibutuhkan oleh manusia saja.
+    IsCorrect: Salah
+  - Text: Menghemat air adalah tindakan yang bijaksana.
+    IsCorrect: Benar
+  - Text: Tumbuhan tidak membutuhkan air sama sekali.
+    IsCorrect: Salah
+---
+ID: SD_INDO_150
+Type: BenarSalah
+Question: >
+  Semua makhluk hidup membutuhkan air untuk bertahan hidup. Tanpa air, tumbuhan akan layu dan hewan akan mati kehausan. Air bersih juga penting bagi manusia untuk minum, mandi, dan memasak. Oleh karena itu, kita harus menghemat penggunaan air setiap hari.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis logis kegunaan air.
+Options:
+  - Text: Air bersih tidak diperlukan manusia untuk memasak.
+    IsCorrect: Salah
+  - Text: Hewan akan mati jika tidak minum air dalam waktu lama.
+    IsCorrect: Benar
+  - Text: Hemat air membuat ketersediaan air tetap terjaga.
+    IsCorrect: Benar
+---
+ID: SD_INDO_151
+Type: PilihanGanda
+Question: >
+  Kucing itu melompat dengan lincah. Kata 'lincah' dalam kalimat tersebut berarti...
+Answer: Gesit
+Explanation: >
+  Lincah artinya gesit atau cepat dalam bergerak.
+Options:
+  - Text: Lambat
+  - Text: Gesit
+  - Text: Lemah
+  - Text: Takut
+  - Text: Besar
+---
+ID: SD_INDO_152
+Type: PilihanGanda
+Question: >
+  Sinonim dari kata 'rajin' adalah...
+Answer: Tekun
+Explanation: >
+  Rajin dan tekun memiliki arti yang sama dalam hal kesungguhan melakukan sesuatu.
+Options:
+  - Text: Malas
+  - Text: Tekun
+  - Text: Bodoh
+  - Text: Nakal
+  - Text: Lemah
+---
+ID: SD_INDO_153
+Type: PilihanGanda
+Question: >
+  Antonim (lawan kata) dari 'panas' adalah...
+Answer: Dingin
+Explanation: >
+  Lawan kata dari panas adalah dingin.
+Options:
+  - Text: Hangat
+  - Text: Dingin
+  - Text: Sejuk
+  - Text: Segar
+  - Text: Basah
+---
+ID: SD_INDO_154
+Type: PilihanGanda
+Question: >
+  Budi sedang membaca buku di perpustakaan. Objek dalam kalimat tersebut adalah...
+Answer: Buku
+Explanation: >
+  Subjek (Budi), Predikat (membaca), Objek (buku).
+Options:
+  - Text: Budi
+  - Text: Sedang
+  - Text: Membaca
+  - Text: Buku
+  - Text: Perpustakaan
+---
+ID: SD_INDO_155
+Type: PilihanGanda
+Question: >
+  Ibu sedang memasak nasi di dapur. Keterangan tempat pada kalimat tersebut adalah...
+Answer: Di dapur
+Explanation: >
+  Keterangan tempat menunjukkan lokasi kejadian, yaitu di dapur.
+Options:
+  - Text: Ibu
+  - Text: Sedang
+  - Text: Memasak
+  - Text: Nasi
+  - Text: Di dapur
+---
+ID: SD_INDO_156
+Type: PilihanGandaKompleks
+Question: >
+  Pilihlah kata-kata yang termasuk golongan antonim (lawan kata)!
+Explanation: >
+  Antonim adalah pasangan kata yang berlawanan arti.
+Options:
+  - Text: Besar - Kecil
+    IsCorrect: true
+  - Text: Cepat - Lambat
+    IsCorrect: true
+  - Text: Pintar - Cerdas
+    IsCorrect: false
+  - Text: Tinggi - Pendek
+    IsCorrect: true
+---
+ID: SD_INDO_157
+Type: PilihanGandaKompleks
+Question: >
+  Pilihlah kata-kata yang termasuk golongan sinonim (persamaan kata)!
+Explanation: >
+  Sinonim adalah pasangan kata yang memiliki arti sama atau serupa.
+Options:
+  - Text: Pintar - Pandai
+    IsCorrect: true
+  - Text: Melihat - Menatap
+    IsCorrect: true
+  - Text: Sedih - Senang
+    IsCorrect: false
+  - Text: Kuat - Lemah
+    IsCorrect: false
+---
+ID: SD_INDO_158
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan kalimat: "Ayah membaca koran." Pilihlah komponen kalimat yang tepat!
+Explanation: >
+  Ayah (S), membaca (P), koran (O).
+Options:
+  - Text: Ayah sebagai subjek.
+    IsCorrect: true
+  - Text: Membaca sebagai predikat.
+    IsCorrect: true
+  - Text: Koran sebagai objek.
+    IsCorrect: true
+  - Text: Ayah sebagai objek.
+    IsCorrect: false
+---
+ID: SD_INDO_159
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pasangan kata berikut (Sinonim)!
+Explanation: >
+  Pengecekan apakah pasangan kata memiliki arti yang sama.
+Options:
+  - Text: Bahagia dan senang (Sinonim)
+    IsCorrect: Benar
+  - Text: Jauh dan dekat (Sinonim)
+    IsCorrect: Salah
+  - Text: Pintar dan pandai (Sinonim)
+    IsCorrect: Benar
+---
+ID: SD_INDO_160
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pasangan kata berikut (Antonim)!
+Explanation: >
+  Pengecekan apakah pasangan kata berlawanan arti.
+Options:
+  - Text: Hitam dan putih (Antonim)
+    IsCorrect: Benar
+  - Text: Maju dan mundur (Antonim)
+    IsCorrect: Benar
+  - Text: Rajin dan tekun (Antonim)
+    IsCorrect: Salah
+---
+ID: SD_INDO_161
+Type: PilihanGanda
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Kapan waktu istirahat siswa berdasarkan jadwal?
+Answer: 09.00 - 09.30
+Explanation: >
+  Berdasarkan jadwal, istirahat berlangsung pukul 09.00 - 09.30.
+Options:
+  - Text: 07.00 - 07.30
+  - Text: 07.30 - 09.00
+  - Text: 09.00 - 09.30
+  - Text: 09.30 - 11.00
+  - Text: 11.00 - 12.00
+---
+ID: SD_INDO_162
+Type: PilihanGanda
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Pelajaran apa yang dipelajari setelah istirahat?
+Answer: Bahasa Indonesia
+Explanation: >
+  Setelah istirahat (09.00 - 09.30), pelajaran berikutnya adalah Bahasa Indonesia.
+Options:
+  - Text: Matematika
+  - Text: Upacara Bendera
+  - Text: Bahasa Indonesia
+  - Text: Olahraga
+  - Text: Seni Budaya
+---
+ID: SD_INDO_163
+Type: PilihanGanda
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Berapa lama durasi pelajaran Matematika?
+Answer: 1 jam 30 menit
+Explanation: >
+  07.30 ke 09.00 adalah 1 jam 30 menit.
+Options:
+  - Text: 30 menit
+  - Text: 1 jam
+  - Text: 1 jam 30 menit
+  - Text: 2 jam
+  - Text: 2 jam 30 menit
+---
+ID: SD_INDO_164
+Type: PilihanGanda
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Kegiatan apa yang dilakukan pertama kali di sekolah?
+Answer: Upacara Bendera
+Explanation: >
+  Kegiatan pertama dimulai pukul 07.00 yaitu Upacara Bendera.
+Options:
+  - Text: Pelajaran Matematika
+  - Text: Upacara Bendera
+  - Text: Istirahat
+  - Text: Pelajaran Bahasa Indonesia
+  - Text: Pulang sekolah
+---
+ID: SD_INDO_165
+Type: PilihanGanda
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Berapa lama durasi upacara bendera?
+Answer: 30 menit
+Explanation: >
+  07.00 ke 07.30 adalah 30 menit.
+Options:
+  - Text: 15 menit
+  - Text: 30 menit
+  - Text: 1 jam
+  - Text: 1 jam 30 menit
+  - Text: 2 jam
+---
+ID: SD_INDO_166
+Type: PilihanGandaKompleks
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Pilihlah pernyataan yang benar berdasarkan jadwal!
+Explanation: >
+  Mencocokkan informasi dengan jadwal.
+Options:
+  - Text: Pelajaran Matematika dimulai setelah upacara.
+    IsCorrect: true
+  - Text: Istirahat berlangsung selama 30 menit.
+    IsCorrect: true
+  - Text: Pelajaran Bahasa Indonesia dimulai pukul 10.00.
+    IsCorrect: false
+  - Text: Upacara bendera berlangsung selama 1 jam.
+    IsCorrect: false
+---
+ID: SD_INDO_167
+Type: PilihanGandaKompleks
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Manakah pelajaran yang memiliki durasi sama?
+Explanation: >
+  Matematika (1.5 jam) dan Bahasa Indonesia (1.5 jam).
+Options:
+  - Text: Matematika
+    IsCorrect: true
+  - Text: Bahasa Indonesia
+    IsCorrect: true
+  - Text: Upacara Bendera
+    IsCorrect: false
+  - Text: Istirahat
+    IsCorrect: false
+---
+ID: SD_INDO_168
+Type: PilihanGandaKompleks
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Pilihlah waktu yang benar untuk kegiatan berikut!
+Explanation: >
+  Mencocokkan kegiatan dengan waktunya.
+Options:
+  - Text: Upacara pada 07.00 - 07.30.
+    IsCorrect: true
+  - Text: Pelajaran Matematika pada 07.30 - 09.00.
+    IsCorrect: true
+  - Text: Pelajaran Bahasa Indonesia pada 09.00 - 09.30.
+    IsCorrect: false
+  - Text: Istirahat pada 09.30 - 11.00.
+    IsCorrect: false
+---
+ID: SD_INDO_169
+Type: BenarSalah
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi informasi jadwal.
+Options:
+  - Text: Pelajaran Matematika lebih lama dari pelajaran Bahasa Indonesia.
+    IsCorrect: Salah
+  - Text: Kegiatan upacara bendera dilakukan sebelum belajar Matematika.
+    IsCorrect: Benar
+  - Text: Waktu istirahat adalah 30 menit.
+    IsCorrect: Benar
+---
+ID: SD_INDO_170
+Type: BenarSalah
+Question: >
+  Jadwal Kegiatan Sekolah:
+  07.00 - 07.30: Upacara Bendera
+  07.30 - 09.00: Pelajaran Matematika
+  09.00 - 09.30: Istirahat
+  09.30 - 11.00: Pelajaran Bahasa Indonesia
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis durasi kegiatan.
+Options:
+  - Text: Total durasi pelajaran Matematika dan Bahasa Indonesia adalah 3 jam.
+    IsCorrect: Benar
+  - Text: Pelajaran Matematika dimulai pukul 08.00.
+    IsCorrect: Salah
+  - Text: Upacara bendera berlangsung selama 1 jam.
+    IsCorrect: Salah
+---
+ID: SD_INDO_171
+Type: PilihanGanda
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Mengapa kelinci kalah dalam perlombaan?
+Answer: Kelinci sombong dan berhenti untuk tidur
+Explanation: >
+  Kelinci merasa sombong dan tidur, sehingga kura-kura bisa menyusul.
+Options:
+  - Text: Kelinci terlalu cepat berlari
+  - Text: Kelinci sombong dan berhenti untuk tidur
+  - Text: Kura-kura berlari lebih cepat dari kelinci
+  - Text: Kelinci tidak mau ikut lomba
+  - Text: Kura-kura curang dalam perlombaan
+---
+ID: SD_INDO_172
+Type: PilihanGanda
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Bagaimana sifat kura-kura dalam cerita?
+Answer: Pantang menyerah
+Explanation: >
+  Kura-kura tetap berjalan tanpa henti, menunjukkan sifat pantang menyerah.
+Options:
+  - Text: Sombong
+  - Text: Malas
+  - Text: Pantang menyerah
+  - Text: Curang
+  - Text: Cepat marah
+---
+ID: SD_INDO_173
+Type: PilihanGanda
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Pesan moral dari cerita tersebut adalah...
+Answer: Jangan sombong dan harus tetap berusaha
+Explanation: >
+  Sombong membuat kelinci kalah, sementara usaha keras membuat kura-kura menang.
+Options:
+  - Text: Kelinci lebih hebat dari kura-kura
+  - Text: Jangan sombong dan harus tetap berusaha
+  - Text: Lomba lari tidak baik dilakukan
+  - Text: Tidur itu dilarang saat siang hari
+  - Text: Berjalan lambat lebih baik dari berlari
+---
+ID: SD_INDO_174
+Type: PilihanGanda
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Apa yang dilakukan kelinci saat kura-kura berjalan lambat?
+Answer: Berhenti untuk tidur
+Explanation: >
+  Teks menyebutkan kelinci berhenti untuk tidur sejenak karena sombong.
+Options:
+  - Text: Terus berlari kencang
+  - Text: Mengajak kura-kura makan
+  - Text: Berhenti untuk tidur
+  - Text: Kembali ke rumah
+  - Text: Mengejek kura-kura
+---
+ID: SD_INDO_175
+Type: PilihanGanda
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Apa sifat kelinci dalam cerita?
+Answer: Sombong
+Explanation: >
+  Teks secara langsung menyatakan kelinci merasa sombong.
+Options:
+  - Text: Pantang menyerah
+  - Text: Rajin
+  - Text: Sombong
+  - Text: Jujur
+  - Text: Bijaksana
+---
+ID: SD_INDO_176
+Type: PilihanGandaKompleks
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Pilihlah pernyataan yang sesuai dengan cerita!
+Explanation: >
+  Fakta dalam cerita kelinci dan kura-kura.
+Options:
+  - Text: Kura-kura memenangkan perlombaan.
+    IsCorrect: true
+  - Text: Kelinci kalah karena terlalu sombong.
+    IsCorrect: true
+  - Text: Kura-kura berhenti untuk tidur sejenak.
+    IsCorrect: false
+  - Text: Kelinci berlari lebih lambat dari kura-kura.
+    IsCorrect: false
+---
+ID: SD_INDO_177
+Type: PilihanGandaKompleks
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Sifat apa saja yang ditunjukkan kura-kura? Pilihlah jawaban benar.
+Explanation: >
+  Kura-kura menunjukkan ketekunan.
+Options:
+  - Text: Pantang menyerah.
+    IsCorrect: true
+  - Text: Tekun berjalan hingga finis.
+    IsCorrect: true
+  - Text: Sombong atas kemampuannya.
+    IsCorrect: false
+  - Text: Suka mengejek orang lain.
+    IsCorrect: false
+---
+ID: SD_INDO_178
+Type: PilihanGandaKompleks
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Pilihlah kata yang menggambarkan sifat kelinci!
+Explanation: >
+  Kelinci sombong dan meremehkan lawannya.
+Options:
+  - Text: Sombong.
+    IsCorrect: true
+  - Text: Meremehkan lawan.
+    IsCorrect: true
+  - Text: Pantang menyerah.
+    IsCorrect: false
+  - Text: Bijaksana.
+    IsCorrect: false
+---
+ID: SD_INDO_179
+Type: BenarSalah
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi isi cerita.
+Options:
+  - Text: Kelinci tidur karena lelah berlari sangat cepat.
+    IsCorrect: Salah
+  - Text: Kura-kura memenangkan lomba dengan terus berjalan.
+    IsCorrect: Benar
+  - Text: Kelinci merasa sombong sehingga meremehkan kura-kura.
+    IsCorrect: Benar
+---
+ID: SD_INDO_180
+Type: BenarSalah
+Question: >
+  Kelinci dan kura-kura berlomba lari. Kelinci berlari sangat cepat, sedangkan kura-kura berjalan lambat. Kelinci merasa sombong dan berhenti untuk tidur sejenak. Kura-kura terus berjalan tanpa henti hingga sampai di garis finis. Kelinci terbangun dan terkejut karena kura-kura sudah menang.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis nilai moral.
+Options:
+  - Text: Kita harus meniru sifat sombong kelinci.
+    IsCorrect: Salah
+  - Text: Kesabaran dan usaha keras membawa hasil yang baik.
+    IsCorrect: Benar
+  - Text: Kelinci kalah karena kura-kura berbuat curang.
+    IsCorrect: Salah
+---
+ID: SD_INDO_181
+Type: PilihanGanda
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Apa nama pakaian adat yang disebutkan dalam teks?
+Answer: Kebaya
+Explanation: >
+  Teks menyebutkan pakaian adat tersebut adalah Kebaya.
+Options:
+  - Text: Batik
+  - Text: Sarung
+  - Text: Kebaya
+  - Text: Blangkon
+  - Text: Ulos
+---
+ID: SD_INDO_182
+Type: PilihanGanda
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Kapan biasanya perempuan Indonesia menggunakan Kebaya?
+Answer: Dalam acara formal atau upacara adat
+Explanation: >
+  Teks menyebutkan digunakan dalam acara formal atau upacara adat.
+Options:
+  - Text: Saat bermain di taman
+  - Text: Dalam acara formal atau upacara adat
+  - Text: Saat tidur di rumah
+  - Text: Hanya saat berolahraga
+  - Text: Saat pergi ke pasar
+---
+ID: SD_INDO_183
+Type: PilihanGanda
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Apa ciri khas dari Kebaya menurut teks?
+Answer: Memiliki motif yang indah
+Explanation: >
+  Teks menyatakan Kebaya memiliki motif yang indah.
+Options:
+  - Text: Terbuat dari plastik
+  - Text: Tidak memiliki motif
+  - Text: Memiliki motif yang indah
+  - Text: Hanya berwarna hitam
+  - Text: Sangat berat dipakai
+---
+ID: SD_INDO_184
+Type: PilihanGanda
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Indonesia memiliki pakaian adat yang...
+Answer: Banyak
+Explanation: >
+  Teks menyatakan Indonesia memiliki banyak pakaian adat.
+Options:
+  - Text: Sedikit
+  - Text: Banyak
+  - Text: Tidak ada
+  - Text: Hanya satu
+  - Text: Tidak dikenal
+---
+ID: SD_INDO_185
+Type: PilihanGanda
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Siapa yang biasanya menggunakan Kebaya?
+Answer: Perempuan Indonesia
+Explanation: >
+  Teks menyebutkan digunakan oleh perempuan Indonesia.
+Options:
+  - Text: Laki-laki Indonesia
+  - Text: Anak laki-laki
+  - Text: Perempuan Indonesia
+  - Text: Orang asing saja
+  - Text: Semua orang tanpa terkecuali
+---
+ID: SD_INDO_186
+Type: PilihanGandaKompleks
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Pernyataan yang benar mengenai Kebaya adalah...
+Explanation: >
+  Berdasarkan fakta dalam teks.
+Options:
+  - Text: Kebaya adalah pakaian adat Indonesia.
+    IsCorrect: true
+  - Text: Kebaya digunakan perempuan dalam acara formal.
+    IsCorrect: true
+  - Text: Kebaya hanya digunakan untuk tidur.
+    IsCorrect: false
+  - Text: Kebaya tidak memiliki motif yang indah.
+    IsCorrect: false
+---
+ID: SD_INDO_187
+Type: PilihanGandaKompleks
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Mengapa Kebaya penting bagi budaya Indonesia?
+Explanation: >
+  Kebaya menunjukkan ciri khas budaya daerah.
+Options:
+  - Text: Menunjukkan ciri khas budaya daerah.
+    IsCorrect: true
+  - Text: Merupakan bagian dari warisan pakaian adat.
+    IsCorrect: true
+  - Text: Agar bisa dijual mahal ke luar negeri.
+    IsCorrect: false
+  - Text: Agar semua orang terpaksa memakainya.
+    IsCorrect: false
+---
+ID: SD_INDO_188
+Type: PilihanGandaKompleks
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Kapan saja Kebaya dapat digunakan?
+Explanation: >
+  Teks menyebutkan acara formal dan upacara adat.
+Options:
+  - Text: Acara formal.
+    IsCorrect: true
+  - Text: Upacara adat.
+    IsCorrect: true
+  - Text: Bermain bola.
+    IsCorrect: false
+  - Text: Berenang.
+    IsCorrect: false
+---
+ID: SD_INDO_189
+Type: BenarSalah
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi isi teks.
+Options:
+  - Text: Indonesia hanya memiliki satu jenis pakaian adat.
+    IsCorrect: Salah
+  - Text: Kebaya digunakan oleh perempuan dalam acara formal.
+    IsCorrect: Benar
+  - Text: Kebaya tidak menunjukkan ciri khas budaya daerah.
+    IsCorrect: Salah
+---
+ID: SD_INDO_190
+Type: BenarSalah
+Question: >
+  Indonesia memiliki banyak pakaian adat. Salah satunya adalah Kebaya. Kebaya sering digunakan dalam acara formal atau upacara adat oleh perempuan Indonesia. Kebaya memiliki motif yang indah dan menunjukkan ciri khas budaya daerah tertentu.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis logis tentang pakaian adat.
+Options:
+  - Text: Pakaian adat adalah bagian dari kekayaan budaya Indonesia.
+    IsCorrect: Benar
+  - Text: Kebaya biasanya tidak memiliki motif yang indah.
+    IsCorrect: Salah
+  - Text: Upacara adat merupakan salah satu acara yang menggunakan Kebaya.
+    IsCorrect: Benar
+---
+ID: SD_INDO_191
+Type: PilihanGanda
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Apa manfaat perkembangan teknologi bagi anak-anak?
+Answer: Dapat belajar menggunakan komputer dan internet
+Explanation: >
+  Teks menyebutkan anak-anak dapat belajar menggunakan komputer dan internet.
+Options:
+  - Text: Bermain game sepanjang hari
+  - Text: Dapat belajar menggunakan komputer dan internet
+  - Text: Menghindari belajar
+  - Text: Menjadi malas
+  - Text: Merusak komputer
+---
+ID: SD_INDO_192
+Type: PilihanGanda
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Mengapa anak-anak harus didampingi orang tua saat mengakses internet?
+Answer: Agar terhindar dari konten negatif
+Explanation: >
+  Teks menyatakan anak harus didampingi agar terhindar dari konten negatif.
+Options:
+  - Text: Agar internet menjadi lebih cepat
+  - Text: Agar terhindar dari konten negatif
+  - Text: Supaya komputer tidak rusak
+  - Text: Karena orang tua tidak punya pekerjaan
+  - Text: Agar bisa bermain game bersama
+---
+ID: SD_INDO_193
+Type: PilihanGanda
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Bagaimana perkembangan teknologi informasi saat ini?
+Answer: Berkembang pesat
+Explanation: >
+  Teks menyebutkan teknologi informasi berkembang pesat.
+Options:
+  - Text: Sangat lambat
+  - Text: Tidak berkembang
+  - Text: Berkembang pesat
+  - Text: Menurun
+  - Text: Menghilang
+---
+ID: SD_INDO_194
+Type: PilihanGanda
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Apa yang sebaiknya dilakukan orang tua terhadap anak yang menggunakan internet?
+Answer: Mendampingi
+Explanation: >
+  Teks menyarankan anak didampingi orang tua.
+Options:
+  - Text: Membiarkan saja
+  - Text: Melarang total
+  - Text: Mendampingi
+  - Text: Membeli komputer baru
+  - Text: Menjual internet
+---
+ID: SD_INDO_195
+Type: PilihanGanda
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Apa arti dari 'konten negatif'?
+Answer: Materi yang tidak baik atau berbahaya bagi anak
+Explanation: >
+  Konten negatif adalah materi yang tidak pantas dikonsumsi anak.
+Options:
+  - Text: Materi yang sangat baik
+  - Text: Materi yang tidak baik atau berbahaya bagi anak
+  - Text: Materi pelajaran sekolah
+  - Text: Materi hiburan yang lucu
+  - Text: Materi pengetahuan sains
+---
+ID: SD_INDO_196
+Type: PilihanGandaKompleks
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Pilihlah pernyataan yang benar sesuai teks!
+Explanation: >
+  Fakta mengenai teknologi dan pendampingan orang tua.
+Options:
+  - Text: Teknologi informasi berkembang pesat.
+    IsCorrect: true
+  - Text: Anak-anak bisa belajar lewat internet.
+    IsCorrect: true
+  - Text: Orang tua tidak perlu mendampingi anak.
+    IsCorrect: false
+  - Text: Konten negatif berbahaya bagi anak.
+    IsCorrect: true
+---
+ID: SD_INDO_197
+Type: PilihanGandaKompleks
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Apa saja tindakan yang bijak dalam menggunakan internet bagi anak?
+Explanation: >
+  Tindakan bijak untuk anak.
+Options:
+  - Text: Meminta dampingan orang tua.
+    IsCorrect: true
+  - Text: Mempelajari hal-hal positif.
+    IsCorrect: true
+  - Text: Mengakses konten negatif dengan sengaja.
+    IsCorrect: false
+  - Text: Menggunakan komputer sendirian secara sembunyi.
+    IsCorrect: false
+---
+ID: SD_INDO_198
+Type: PilihanGandaKompleks
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Manakah tujuan dari pendampingan orang tua saat anak menggunakan internet?
+Explanation: >
+  Tujuan pendampingan adalah keamanan anak.
+Options:
+  - Text: Menghindari konten yang buruk.
+    IsCorrect: true
+  - Text: Mengarahkan belajar anak.
+    IsCorrect: true
+  - Text: Membatasi anak agar tidak bisa belajar.
+    IsCorrect: false
+  - Text: Membuat anak takut menggunakan internet.
+    IsCorrect: false
+---
+ID: SD_INDO_199
+Type: BenarSalah
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Evaluasi isi teks tentang internet.
+Options:
+  - Text: Internet tidak memiliki konten negatif.
+    IsCorrect: Salah
+  - Text: Orang tua berperan dalam mendampingi anak belajar online.
+    IsCorrect: Benar
+  - Text: Belajar komputer dapat membantu anak.
+    IsCorrect: Benar
+---
+ID: SD_INDO_200
+Type: BenarSalah
+Question: >
+  Teknologi informasi sangat berkembang pesat saat ini. Anak-anak dapat belajar menggunakan komputer dan internet. Namun, anak-anak harus didampingi orang tua saat mengakses internet agar terhindar dari konten negatif.
+  
+  Tentukan Benar atau Salah pernyataan berikut!
+Explanation: >
+  Analisis logis penggunaan teknologi.
+Options:
+  - Text: Teknologi informasi hanya merugikan anak.
+    IsCorrect: Salah
+  - Text: Orang tua sebaiknya membiarkan anak mengakses semua konten internet.
+    IsCorrect: Salah
+  - Text: Mendampingi anak saat internetan adalah langkah keamanan.
+    IsCorrect: Benar
+---

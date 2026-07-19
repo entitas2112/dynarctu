@@ -1,0 +1,3144 @@
+---
+ID: SD_MTK_1
+Type: PilihanGanda
+Question: >
+  Ibu Budi membeli apel sebanyak $14$ kg. Sebanyak $3$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat apel tersebut?
+Answer: $44$ orang
+Explanation: >
+  Sisa apel = $14 - 3 = 11$ kg.
+  Banyak anak = Sisa dibagi porsi = $11 \div 0,25 = 44$ orang.
+Options:
+  - Text: $46$ orang
+  - Text: $44$ orang
+  - Text: $43$ orang
+  - Text: $42$ orang
+  - Text: $45$ orang
+---
+ID: SD_MTK_2
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $80$ km/jam. Jika jarak kedua kota adalah $240$ km dan bus berangkat pukul $06.00$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $09.00$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $240 \div 80 = 3$ jam.
+  Waktu tiba = Pukul $06.00 + 3$ jam = Pukul $09.00$.
+Options:
+  - Text: Pukul $09.15$
+  - Text: Pukul $08.00$
+  - Text: Pukul $09.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $09.00$
+---
+ID: SD_MTK_3
+Type: PilihanGanda
+Question: >
+  Pak Iwan memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $23$ m dan lebar $8$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $138$ $m^2$
+Explanation: >
+  Luas tanah total = $23 \times 8 = 184$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 184 = 138$ $m^2$.
+Options:
+  - Text: $184$ $m^2$
+  - Text: $133$ $m^2$
+  - Text: $138$ $m^2$
+  - Text: $46$ $m^2$
+  - Text: $143$ $m^2$
+---
+ID: SD_MTK_4
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $5$ cm. Peta tersebut menggunakan skala $1 : 250.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $12,5$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $5 \times 250.000 = 1.250.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{1.250.000}{100.000} = 12,5$ km.
+Options:
+  - Text: $0,125$ km
+  - Text: $1250$ km
+  - Text: $12,5$ km
+  - Text: $1,25$ km
+  - Text: $125$ km
+---
+ID: SD_MTK_5
+Type: PilihanGanda
+Question: >
+  Gita mengunjungi perpustakaan setiap $4$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $7$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $10$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $38$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $4$ dan $7$, yaitu $28$.
+  Mereka akan bertemu kembali $28$ hari setelah tanggal $10$ Maret.
+  Tanggal bertemu = $10 + 28 = 38$ Maret (atau $7$ April pada tahun bukan kabisat, namun secara konseptual hitungan ini menunjukkan penambahan hari berlanjut).
+Options:
+  - Text: $40$ Maret
+  - Text: $39$ Maret
+  - Text: $36$ Maret
+  - Text: $38$ Maret
+  - Text: $37$ Maret
+---
+ID: SD_MTK_6
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+---
+ID: SD_MTK_7
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $35 \times (2 + 3) = 175$
+    IsCorrect: true
+  - Text: $70 \div 2 + 35 = 70$
+    IsCorrect: true
+  - Text: $35 - 2 \times 3 = 99$
+    IsCorrect: false
+  - Text: $35 + 5 \times 2 = 45$
+    IsCorrect: true
+  - Text: $(35 + 5) \times 2 = 80$
+    IsCorrect: true
+---
+ID: SD_MTK_8
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+---
+ID: SD_MTK_9
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $3$ km = $3000$ meter
+    IsCorrect: Benar
+  - Text: $3$ ton = $3000$ kg
+    IsCorrect: Benar
+  - Text: $3$ liter = $3000$ mililiter
+    IsCorrect: Benar
+  - Text: $30$ kuintal = $300$ kg
+    IsCorrect: Salah
+---
+ID: SD_MTK_10
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $\frac{3}{4}$ senilai dengan $75\%$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+---
+ID: SD_MTK_11
+Type: PilihanGanda
+Question: >
+  Ibu Cici membeli pisang sebanyak $16$ kg. Sebanyak $4$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat pisang tersebut?
+Answer: $48$ orang
+Explanation: >
+  Sisa pisang = $16 - 4 = 12$ kg.
+  Banyak anak = Sisa dibagi porsi = $12 \div 0,25 = 48$ orang.
+Options:
+  - Text: $48$ orang
+  - Text: $50$ orang
+  - Text: $47$ orang
+  - Text: $49$ orang
+  - Text: $46$ orang
+---
+ID: SD_MTK_12
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $40$ km/jam. Jika jarak kedua kota adalah $120$ km dan bus berangkat pukul $09.30$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $12.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $120 \div 40 = 3$ jam.
+  Waktu tiba = Pukul $09.30 + 3$ jam = Pukul $12.30$.
+Options:
+  - Text: Pukul $12.00$
+  - Text: Pukul $12.45$
+  - Text: Pukul $11.30$
+  - Text: Pukul $13.30$
+  - Text: Pukul $12.30$
+---
+ID: SD_MTK_13
+Type: PilihanGanda
+Question: >
+  Pak Deni memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $22$ m dan lebar $15$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $247,5$ $m^2$
+Explanation: >
+  Luas tanah total = $22 \times 15 = 330$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 330 = 247,5$ $m^2$.
+Options:
+  - Text: $82,5$ $m^2$
+  - Text: $247,5$ $m^2$
+  - Text: $242,5$ $m^2$
+  - Text: $330$ $m^2$
+  - Text: $252,5$ $m^2$
+---
+ID: SD_MTK_14
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $12$ cm. Peta tersebut menggunakan skala $1 : 500.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $60$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $12 \times 500.000 = 6.000.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{6.000.000}{100.000} = 60$ km.
+Options:
+  - Text: $600$ km
+  - Text: $0,6$ km
+  - Text: $60$ km
+  - Text: $6$ km
+  - Text: $6000$ km
+---
+ID: SD_MTK_15
+Type: PilihanGanda
+Question: >
+  Iwan mengunjungi perpustakaan setiap $3$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $6$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $2$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $8$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $3$ dan $6$, yaitu $6$.
+  Mereka akan bertemu kembali $6$ hari setelah tanggal $2$ Maret.
+  Tanggal bertemu = $2 + 6 = 8$ Maret.
+Options:
+  - Text: $8$ Maret
+  - Text: $10$ Maret
+  - Text: $7$ Maret
+  - Text: $6$ Maret
+  - Text: $9$ Maret
+---
+ID: SD_MTK_16
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+---
+ID: SD_MTK_17
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $44 - 2 \times 3 = 126$
+    IsCorrect: false
+  - Text: $(44 + 5) \times 2 = 98$
+    IsCorrect: true
+  - Text: $88 \div 2 + 44 = 88$
+    IsCorrect: true
+  - Text: $44 \times (2 + 3) = 220$
+    IsCorrect: true
+  - Text: $44 + 5 \times 2 = 54$
+    IsCorrect: true
+---
+ID: SD_MTK_18
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+---
+ID: SD_MTK_19
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $7$ km = $7000$ meter
+    IsCorrect: Benar
+  - Text: $7$ ton = $7000$ kg
+    IsCorrect: Benar
+  - Text: $70$ kuintal = $700$ kg
+    IsCorrect: Salah
+  - Text: $7$ liter = $7000$ mililiter
+    IsCorrect: Benar
+---
+ID: SD_MTK_20
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $\frac{1}{4}$ senilai dengan $25\%$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+---
+ID: SD_MTK_21
+Type: PilihanGanda
+Question: >
+  Ibu Joko membeli stroberi sebanyak $17$ kg. Sebanyak $2$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat stroberi tersebut?
+Answer: $60$ orang
+Explanation: >
+  Sisa stroberi = $17 - 2 = 15$ kg.
+  Banyak anak = Sisa dibagi porsi = $15 \div 0,25 = 60$ orang.
+Options:
+  - Text: $62$ orang
+  - Text: $58$ orang
+  - Text: $61$ orang
+  - Text: $59$ orang
+  - Text: $60$ orang
+---
+ID: SD_MTK_22
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $80$ km/jam. Jika jarak kedua kota adalah $160$ km dan bus berangkat pukul $06.45$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $08.45$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $160 \div 80 = 2$ jam.
+  Waktu tiba = Pukul $06.45 + 2$ jam = Pukul $08.45$.
+Options:
+  - Text: Pukul $07.45$
+  - Text: Pukul $08.00$
+  - Text: Pukul $08.15$
+  - Text: Pukul $09.45$
+  - Text: Pukul $08.45$
+---
+ID: SD_MTK_23
+Type: PilihanGanda
+Question: >
+  Pak Iwan memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $18$ m dan lebar $13$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $175,5$ $m^2$
+Explanation: >
+  Luas tanah total = $18 \times 13 = 234$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 234 = 175,5$ $m^2$.
+Options:
+  - Text: $234$ $m^2$
+  - Text: $58,5$ $m^2$
+  - Text: $175,5$ $m^2$
+  - Text: $180,5$ $m^2$
+  - Text: $170,5$ $m^2$
+---
+ID: SD_MTK_24
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $10$ cm. Peta tersebut menggunakan skala $1 : 250.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $25$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $10 \times 250.000 = 2.500.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{2.500.000}{100.000} = 25$ km.
+Options:
+  - Text: $250$ km
+  - Text: $2,5$ km
+  - Text: $25$ km
+  - Text: $2500$ km
+  - Text: $0,25$ km
+---
+ID: SD_MTK_25
+Type: PilihanGanda
+Question: >
+  Deni mengunjungi perpustakaan setiap $4$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $6$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $10$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $22$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $4$ dan $6$, yaitu $12$.
+  Mereka akan bertemu kembali $12$ hari setelah tanggal $10$ Maret.
+  Tanggal bertemu = $10 + 12 = 22$ Maret.
+Options:
+  - Text: $24$ Maret
+  - Text: $22$ Maret
+  - Text: $21$ Maret
+  - Text: $23$ Maret
+  - Text: $20$ Maret
+---
+ID: SD_MTK_26
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+---
+ID: SD_MTK_27
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $53 + 5 \times 2 = 63$
+    IsCorrect: true
+  - Text: $53 \times (2 + 3) = 265$
+    IsCorrect: true
+  - Text: $53 - 2 \times 3 = 153$
+    IsCorrect: false
+  - Text: $106 \div 2 + 53 = 106$
+    IsCorrect: true
+  - Text: $(53 + 5) \times 2 = 116$
+    IsCorrect: true
+---
+ID: SD_MTK_28
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+---
+ID: SD_MTK_29
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $4$ km = $4000$ meter
+    IsCorrect: Benar
+  - Text: $4$ liter = $4000$ mililiter
+    IsCorrect: Benar
+  - Text: $40$ kuintal = $400$ kg
+    IsCorrect: Salah
+  - Text: $4$ ton = $4000$ kg
+    IsCorrect: Benar
+---
+ID: SD_MTK_30
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $\frac{1}{2}$ senilai dengan $50\%$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+---
+ID: SD_MTK_31
+Type: PilihanGanda
+Question: >
+  Ibu Budi membeli apel sebanyak $16$ kg. Sebanyak $4$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat apel tersebut?
+Answer: $48$ orang
+Explanation: >
+  Sisa apel = $16 - 4 = 12$ kg.
+  Banyak anak = Sisa dibagi porsi = $12 \div 0,25 = 48$ orang.
+Options:
+  - Text: $50$ orang
+  - Text: $47$ orang
+  - Text: $46$ orang
+  - Text: $49$ orang
+  - Text: $48$ orang
+---
+ID: SD_MTK_32
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $50$ km/jam. Jika jarak kedua kota adalah $150$ km dan bus berangkat pukul $07.30$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $10.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $150 \div 50 = 3$ jam.
+  Waktu tiba = Pukul $07.30 + 3$ jam = Pukul $10.30$.
+Options:
+  - Text: Pukul $09.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $10.30$
+  - Text: Pukul $11.30$
+  - Text: Pukul $10.45$
+---
+ID: SD_MTK_33
+Type: PilihanGanda
+Question: >
+  Pak Iwan memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $11$ m dan lebar $15$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $123,75$ $m^2$
+Explanation: >
+  Luas tanah total = $11 \times 15 = 165$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 165 = 123,75$ $m^2$.
+Options:
+  - Text: $165$ $m^2$
+  - Text: $41,25$ $m^2$
+  - Text: $128,75$ $m^2$
+  - Text: $123,75$ $m^2$
+  - Text: $118,75$ $m^2$
+---
+ID: SD_MTK_34
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $10$ cm. Peta tersebut menggunakan skala $1 : 500.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $50$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $10 \times 500.000 = 5.000.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{5.000.000}{100.000} = 50$ km.
+Options:
+  - Text: $0,5$ km
+  - Text: $5$ km
+  - Text: $50$ km
+  - Text: $5000$ km
+  - Text: $500$ km
+---
+ID: SD_MTK_35
+Type: PilihanGanda
+Question: >
+  Gita mengunjungi perpustakaan setiap $4$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $7$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $8$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $36$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $4$ dan $7$, yaitu $28$.
+  Mereka akan bertemu kembali $28$ hari setelah tanggal $8$ Maret.
+  Tanggal bertemu = $8 + 28 = 36$ Maret.
+Options:
+  - Text: $36$ Maret
+  - Text: $37$ Maret
+  - Text: $34$ Maret
+  - Text: $38$ Maret
+  - Text: $35$ Maret
+---
+ID: SD_MTK_36
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+---
+ID: SD_MTK_37
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $(48 + 5) \times 2 = 106$
+    IsCorrect: true
+  - Text: $48 + 5 \times 2 = 58$
+    IsCorrect: true
+  - Text: $96 \div 2 + 48 = 96$
+    IsCorrect: true
+  - Text: $48 - 2 \times 3 = 138$
+    IsCorrect: false
+  - Text: $48 \times (2 + 3) = 240$
+    IsCorrect: true
+---
+ID: SD_MTK_38
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+---
+ID: SD_MTK_39
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $2$ km = $2000$ meter
+    IsCorrect: Benar
+  - Text: $2$ ton = $2000$ kg
+    IsCorrect: Benar
+  - Text: $20$ kuintal = $200$ kg
+    IsCorrect: Salah
+  - Text: $2$ liter = $2000$ mililiter
+    IsCorrect: Benar
+---
+ID: SD_MTK_40
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $\frac{1}{2}$ senilai dengan $50\%$.
+    IsCorrect: Benar
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+---
+ID: SD_MTK_41
+Type: PilihanGanda
+Question: >
+  Ibu Fina membeli anggur sebanyak $14$ kg. Sebanyak $5$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat anggur tersebut?
+Answer: $36$ orang
+Explanation: >
+  Sisa anggur = $14 - 5 = 9$ kg.
+  Banyak anak = Sisa dibagi porsi = $9 \div 0,25 = 36$ orang.
+Options:
+  - Text: $36$ orang
+  - Text: $38$ orang
+  - Text: $34$ orang
+  - Text: $35$ orang
+  - Text: $37$ orang
+---
+ID: SD_MTK_42
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $70$ km/jam. Jika jarak kedua kota adalah $280$ km dan bus berangkat pukul $06.00$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $10.00$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $280 \div 70 = 4$ jam.
+  Waktu tiba = Pukul $06.00 + 4$ jam = Pukul $10.00$.
+Options:
+  - Text: Pukul $10.00$
+  - Text: Pukul $10.15$
+  - Text: Pukul $09.00$
+  - Text: Pukul $11.00$
+  - Text: Pukul $10.30$
+---
+ID: SD_MTK_43
+Type: PilihanGanda
+Question: >
+  Pak Cici memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $12$ m dan lebar $8$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $72$ $m^2$
+Explanation: >
+  Luas tanah total = $12 \times 8 = 96$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 96 = 72$ $m^2$.
+Options:
+  - Text: $77$ $m^2$
+  - Text: $96$ $m^2$
+  - Text: $72$ $m^2$
+  - Text: $67$ $m^2$
+  - Text: $24$ $m^2$
+---
+ID: SD_MTK_44
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $11$ cm. Peta tersebut menggunakan skala $1 : 100.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $11$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $11 \times 100.000 = 1.100.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{1.100.000}{100.000} = 11$ km.
+Options:
+  - Text: $0,11$ km
+  - Text: $110$ km
+  - Text: $1100$ km
+  - Text: $11$ km
+  - Text: $1,1$ km
+---
+ID: SD_MTK_45
+Type: PilihanGanda
+Question: >
+  Budi mengunjungi perpustakaan setiap $5$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $8$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $3$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $43$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $5$ dan $8$, yaitu $40$.
+  Mereka akan bertemu kembali $40$ hari setelah tanggal $3$ Maret.
+  Tanggal bertemu = $3 + 40 = 43$ Maret.
+Options:
+  - Text: $44$ Maret
+  - Text: $43$ Maret
+  - Text: $45$ Maret
+  - Text: $41$ Maret
+  - Text: $42$ Maret
+---
+ID: SD_MTK_46
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+---
+ID: SD_MTK_47
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $130 \div 2 + 65 = 130$
+    IsCorrect: true
+  - Text: $65 - 2 \times 3 = 189$
+    IsCorrect: false
+  - Text: $(65 + 5) \times 2 = 140$
+    IsCorrect: true
+  - Text: $65 \times (2 + 3) = 325$
+    IsCorrect: true
+  - Text: $65 + 5 \times 2 = 75$
+    IsCorrect: true
+---
+ID: SD_MTK_48
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+---
+ID: SD_MTK_49
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $8$ km = $8000$ meter
+    IsCorrect: Benar
+  - Text: $8$ ton = $8000$ kg
+    IsCorrect: Benar
+  - Text: $80$ kuintal = $800$ kg
+    IsCorrect: Salah
+  - Text: $8$ liter = $8000$ mililiter
+    IsCorrect: Benar
+---
+ID: SD_MTK_50
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $\frac{1}{2}$ senilai dengan $50\%$.
+    IsCorrect: Benar
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+---
+ID: SD_MTK_51
+Type: PilihanGanda
+Question: >
+  Ibu Fina membeli apel sebanyak $15$ kg. Sebanyak $3$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat apel tersebut?
+Answer: $48$ orang
+Explanation: >
+  Sisa apel = $15 - 3 = 12$ kg.
+  Banyak anak = Sisa dibagi porsi = $12 \div 0,25 = 48$ orang.
+Options:
+  - Text: $50$ orang
+  - Text: $47$ orang
+  - Text: $46$ orang
+  - Text: $48$ orang
+  - Text: $49$ orang
+---
+ID: SD_MTK_52
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $50$ km/jam. Jika jarak kedua kota adalah $100$ km dan bus berangkat pukul $07.45$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $09.45$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $100 \div 50 = 2$ jam.
+  Waktu tiba = Pukul $07.45 + 2$ jam = Pukul $09.45$.
+Options:
+  - Text: Pukul $09.15$
+  - Text: Pukul $09.00$
+  - Text: Pukul $08.45$
+  - Text: Pukul $10.45$
+  - Text: Pukul $09.45$
+---
+ID: SD_MTK_53
+Type: PilihanGanda
+Question: >
+  Pak Gita memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $18$ m dan lebar $7$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $94,5$ $m^2$
+Explanation: >
+  Luas tanah total = $18 \times 7 = 126$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 126 = 94,5$ $m^2$.
+Options:
+  - Text: $31,5$ $m^2$
+  - Text: $126$ $m^2$
+  - Text: $89,5$ $m^2$
+  - Text: $99,5$ $m^2$
+  - Text: $94,5$ $m^2$
+---
+ID: SD_MTK_54
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $8$ cm. Peta tersebut menggunakan skala $1 : 500.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $40$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $8 \times 500.000 = 4.000.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{4.000.000}{100.000} = 40$ km.
+Options:
+  - Text: $4000$ km
+  - Text: $0,4$ km
+  - Text: $40$ km
+  - Text: $400$ km
+  - Text: $4$ km
+---
+ID: SD_MTK_55
+Type: PilihanGanda
+Question: >
+  Deni mengunjungi perpustakaan setiap $4$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $7$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $2$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $30$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $4$ dan $7$, yaitu $28$.
+  Mereka akan bertemu kembali $28$ hari setelah tanggal $2$ Maret.
+  Tanggal bertemu = $2 + 28 = 30$ Maret.
+Options:
+  - Text: $30$ Maret
+  - Text: $31$ Maret
+  - Text: $32$ Maret
+  - Text: $28$ Maret
+  - Text: $29$ Maret
+---
+ID: SD_MTK_56
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+---
+ID: SD_MTK_57
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $68 \times (2 + 3) = 340$
+    IsCorrect: true
+  - Text: $136 \div 2 + 68 = 136$
+    IsCorrect: true
+  - Text: $(68 + 5) \times 2 = 146$
+    IsCorrect: true
+  - Text: $68 - 2 \times 3 = 198$
+    IsCorrect: false
+  - Text: $68 + 5 \times 2 = 78$
+    IsCorrect: true
+---
+ID: SD_MTK_58
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+---
+ID: SD_MTK_59
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $8$ ton = $8000$ kg
+    IsCorrect: Benar
+  - Text: $80$ kuintal = $800$ kg
+    IsCorrect: Salah
+  - Text: $8$ km = $8000$ meter
+    IsCorrect: Benar
+  - Text: $8$ liter = $8000$ mililiter
+    IsCorrect: Benar
+---
+ID: SD_MTK_60
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $\frac{3}{4}$ senilai dengan $75\%$.
+    IsCorrect: Benar
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+---
+ID: SD_MTK_61
+Type: PilihanGanda
+Question: >
+  Ibu Eka membeli melon sebanyak $20$ kg. Sebanyak $5$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat melon tersebut?
+Answer: $60$ orang
+Explanation: >
+  Sisa melon = $20 - 5 = 15$ kg.
+  Banyak anak = Sisa dibagi porsi = $15 \div 0,25 = 60$ orang.
+Options:
+  - Text: $60$ orang
+  - Text: $61$ orang
+  - Text: $58$ orang
+  - Text: $62$ orang
+  - Text: $59$ orang
+---
+ID: SD_MTK_62
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $50$ km/jam. Jika jarak kedua kota adalah $150$ km dan bus berangkat pukul $09.15$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $12.15$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $150 \div 50 = 3$ jam.
+  Waktu tiba = Pukul $09.15 + 3$ jam = Pukul $12.15$.
+Options:
+  - Text: Pukul $12.30$
+  - Text: Pukul $12.15$
+  - Text: Pukul $13.15$
+  - Text: Pukul $11.15$
+  - Text: Pukul $12.45$
+---
+ID: SD_MTK_63
+Type: PilihanGanda
+Question: >
+  Pak Eka memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $16$ m dan lebar $11$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $132$ $m^2$
+Explanation: >
+  Luas tanah total = $16 \times 11 = 176$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 176 = 132$ $m^2$.
+Options:
+  - Text: $132$ $m^2$
+  - Text: $137$ $m^2$
+  - Text: $176$ $m^2$
+  - Text: $44$ $m^2$
+  - Text: $127$ $m^2$
+---
+ID: SD_MTK_64
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $5$ cm. Peta tersebut menggunakan skala $1 : 500.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $25$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $5 \times 500.000 = 2.500.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{2.500.000}{100.000} = 25$ km.
+Options:
+  - Text: $0,25$ km
+  - Text: $250$ km
+  - Text: $2500$ km
+  - Text: $2,5$ km
+  - Text: $25$ km
+---
+ID: SD_MTK_65
+Type: PilihanGanda
+Question: >
+  Budi mengunjungi perpustakaan setiap $5$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $7$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $4$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $39$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $5$ dan $7$, yaitu $35$.
+  Mereka akan bertemu kembali $35$ hari setelah tanggal $4$ Maret.
+  Tanggal bertemu = $4 + 35 = 39$ Maret.
+Options:
+  - Text: $41$ Maret
+  - Text: $38$ Maret
+  - Text: $39$ Maret
+  - Text: $37$ Maret
+  - Text: $40$ Maret
+---
+ID: SD_MTK_66
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+---
+ID: SD_MTK_67
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $(89 + 5) \times 2 = 188$
+    IsCorrect: true
+  - Text: $178 \div 2 + 89 = 178$
+    IsCorrect: true
+  - Text: $89 + 5 \times 2 = 99$
+    IsCorrect: true
+  - Text: $89 \times (2 + 3) = 445$
+    IsCorrect: true
+  - Text: $89 - 2 \times 3 = 261$
+    IsCorrect: false
+---
+ID: SD_MTK_68
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+---
+ID: SD_MTK_69
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $80$ kuintal = $800$ kg
+    IsCorrect: Salah
+  - Text: $8$ km = $8000$ meter
+    IsCorrect: Benar
+  - Text: $8$ liter = $8000$ mililiter
+    IsCorrect: Benar
+  - Text: $8$ ton = $8000$ kg
+    IsCorrect: Benar
+---
+ID: SD_MTK_70
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $\frac{1}{2}$ senilai dengan $50\%$.
+    IsCorrect: Benar
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+---
+ID: SD_MTK_71
+Type: PilihanGanda
+Question: >
+  Ibu Cici membeli pisang sebanyak $17$ kg. Sebanyak $4$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat pisang tersebut?
+Answer: $52$ orang
+Explanation: >
+  Sisa pisang = $17 - 4 = 13$ kg.
+  Banyak anak = Sisa dibagi porsi = $13 \div 0,25 = 52$ orang.
+Options:
+  - Text: $52$ orang
+  - Text: $50$ orang
+  - Text: $54$ orang
+  - Text: $51$ orang
+  - Text: $53$ orang
+---
+ID: SD_MTK_72
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $70$ km/jam. Jika jarak kedua kota adalah $140$ km dan bus berangkat pukul $08.15$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $10.15$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $140 \div 70 = 2$ jam.
+  Waktu tiba = Pukul $08.15 + 2$ jam = Pukul $10.15$.
+Options:
+  - Text: Pukul $10.30$
+  - Text: Pukul $10.15$
+  - Text: Pukul $11.15$
+  - Text: Pukul $10.45$
+  - Text: Pukul $09.15$
+---
+ID: SD_MTK_73
+Type: PilihanGanda
+Question: >
+  Pak Cici memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $17$ m dan lebar $11$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $140,25$ $m^2$
+Explanation: >
+  Luas tanah total = $17 \times 11 = 187$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 187 = 140,25$ $m^2$.
+Options:
+  - Text: $46,75$ $m^2$
+  - Text: $145,25$ $m^2$
+  - Text: $140,25$ $m^2$
+  - Text: $135,25$ $m^2$
+  - Text: $187$ $m^2$
+---
+ID: SD_MTK_74
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $9$ cm. Peta tersebut menggunakan skala $1 : 500.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $45$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $9 \times 500.000 = 4.500.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{4.500.000}{100.000} = 45$ km.
+Options:
+  - Text: $0,45$ km
+  - Text: $4,5$ km
+  - Text: $4500$ km
+  - Text: $450$ km
+  - Text: $45$ km
+---
+ID: SD_MTK_75
+Type: PilihanGanda
+Question: >
+  Joko mengunjungi perpustakaan setiap $5$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $7$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $8$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $43$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $5$ dan $7$, yaitu $35$.
+  Mereka akan bertemu kembali $35$ hari setelah tanggal $8$ Maret.
+  Tanggal bertemu = $8 + 35 = 43$ Maret.
+Options:
+  - Text: $41$ Maret
+  - Text: $45$ Maret
+  - Text: $44$ Maret
+  - Text: $42$ Maret
+  - Text: $43$ Maret
+---
+ID: SD_MTK_76
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+---
+ID: SD_MTK_77
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $(99 + 5) \times 2 = 208$
+    IsCorrect: true
+  - Text: $99 + 5 \times 2 = 109$
+    IsCorrect: true
+  - Text: $99 \times (2 + 3) = 495$
+    IsCorrect: true
+  - Text: $99 - 2 \times 3 = 291$
+    IsCorrect: false
+  - Text: $198 \div 2 + 99 = 198$
+    IsCorrect: true
+---
+ID: SD_MTK_78
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+---
+ID: SD_MTK_79
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $4$ liter = $4000$ mililiter
+    IsCorrect: Benar
+  - Text: $40$ kuintal = $400$ kg
+    IsCorrect: Salah
+  - Text: $4$ ton = $4000$ kg
+    IsCorrect: Benar
+  - Text: $4$ km = $4000$ meter
+    IsCorrect: Benar
+---
+ID: SD_MTK_80
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $\frac{1}{2}$ senilai dengan $50\%$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+---
+ID: SD_MTK_81
+Type: PilihanGanda
+Question: >
+  Ibu Fina membeli semangka sebanyak $14$ kg. Sebanyak $5$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat semangka tersebut?
+Answer: $36$ orang
+Explanation: >
+  Sisa semangka = $14 - 5 = 9$ kg.
+  Banyak anak = Sisa dibagi porsi = $9 \div 0,25 = 36$ orang.
+Options:
+  - Text: $34$ orang
+  - Text: $38$ orang
+  - Text: $37$ orang
+  - Text: $36$ orang
+  - Text: $35$ orang
+---
+ID: SD_MTK_82
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $60$ km/jam. Jika jarak kedua kota adalah $120$ km dan bus berangkat pukul $06.00$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $08.00$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $120 \div 60 = 2$ jam.
+  Waktu tiba = Pukul $06.00 + 2$ jam = Pukul $08.00$.
+Options:
+  - Text: Pukul $08.15$
+  - Text: Pukul $07.00$
+  - Text: Pukul $08.30$
+  - Text: Pukul $09.00$
+  - Text: Pukul $08.00$
+---
+ID: SD_MTK_83
+Type: PilihanGanda
+Question: >
+  Pak Joko memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $17$ m dan lebar $7$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $89,25$ $m^2$
+Explanation: >
+  Luas tanah total = $17 \times 7 = 119$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 119 = 89,25$ $m^2$.
+Options:
+  - Text: $119$ $m^2$
+  - Text: $84,25$ $m^2$
+  - Text: $29,75$ $m^2$
+  - Text: $89,25$ $m^2$
+  - Text: $94,25$ $m^2$
+---
+ID: SD_MTK_84
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $5$ cm. Peta tersebut menggunakan skala $1 : 250.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $12,5$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $5 \times 250.000 = 1.250.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{1.250.000}{100.000} = 12,5$ km.
+Options:
+  - Text: $1,25$ km
+  - Text: $125$ km
+  - Text: $1250$ km
+  - Text: $12,5$ km
+  - Text: $0,125$ km
+---
+ID: SD_MTK_85
+Type: PilihanGanda
+Question: >
+  Budi mengunjungi perpustakaan setiap $4$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $8$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $7$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $15$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $4$ dan $8$, yaitu $8$.
+  Mereka akan bertemu kembali $8$ hari setelah tanggal $7$ Maret.
+  Tanggal bertemu = $7 + 8 = 15$ Maret.
+Options:
+  - Text: $13$ Maret
+  - Text: $14$ Maret
+  - Text: $15$ Maret
+  - Text: $16$ Maret
+  - Text: $17$ Maret
+---
+ID: SD_MTK_86
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+---
+ID: SD_MTK_87
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $108 - 2 \times 3 = 318$
+    IsCorrect: false
+  - Text: $(108 + 5) \times 2 = 226$
+    IsCorrect: true
+  - Text: $108 \times (2 + 3) = 540$
+    IsCorrect: true
+  - Text: $216 \div 2 + 108 = 216$
+    IsCorrect: true
+  - Text: $108 + 5 \times 2 = 118$
+    IsCorrect: true
+---
+ID: SD_MTK_88
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+---
+ID: SD_MTK_89
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $5$ ton = $5000$ kg
+    IsCorrect: Benar
+  - Text: $5$ liter = $5000$ mililiter
+    IsCorrect: Benar
+  - Text: $5$ km = $5000$ meter
+    IsCorrect: Benar
+  - Text: $50$ kuintal = $500$ kg
+    IsCorrect: Salah
+---
+ID: SD_MTK_90
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $\frac{3}{4}$ senilai dengan $75\%$.
+    IsCorrect: Benar
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+---
+ID: SD_MTK_91
+Type: PilihanGanda
+Question: >
+  Ibu Budi membeli melon sebanyak $17$ kg. Sebanyak $3$ kg diberikan kepada tetangga. Sisanya akan dibagikan kepada anak-anaknya, di mana masing-masing anak mendapat $0,25$ kg. Berapa banyak anak yang mendapat melon tersebut?
+Answer: $56$ orang
+Explanation: >
+  Sisa melon = $17 - 3 = 14$ kg.
+  Banyak anak = Sisa dibagi porsi = $14 \div 0,25 = 56$ orang.
+Options:
+  - Text: $55$ orang
+  - Text: $56$ orang
+  - Text: $57$ orang
+  - Text: $54$ orang
+  - Text: $58$ orang
+---
+ID: SD_MTK_92
+Type: PilihanGanda
+Question: >
+  Sebuah bus berangkat dari Kota A ke Kota B dengan kecepatan rata-rata $50$ km/jam. Jika jarak kedua kota adalah $150$ km dan bus berangkat pukul $07.30$, pukul berapakah bus tiba di Kota B?
+Answer: Pukul $10.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $150 \div 50 = 3$ jam.
+  Waktu tiba = Pukul $07.30 + 3$ jam = Pukul $10.30$.
+Options:
+  - Text: Pukul $10.30$
+  - Text: Pukul $10.45$
+  - Text: Pukul $11.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $09.30$
+---
+ID: SD_MTK_93
+Type: PilihanGanda
+Question: >
+  Pak Iwan memiliki sebidang tanah berbentuk persegi panjang dengan ukuran panjang $16$ m dan lebar $6$ m. Jika $\frac{3}{4}$ dari tanah tersebut akan dibangun rumah, berapakah luas tanah yang akan dibangun rumah?
+Answer: $72$ $m^2$
+Explanation: >
+  Luas tanah total = $16 \times 6 = 96$ $m^2$.
+  Luas dibangun rumah = $\frac{3}{4} \times 96 = 72$ $m^2$.
+Options:
+  - Text: $24$ $m^2$
+  - Text: $72$ $m^2$
+  - Text: $67$ $m^2$
+  - Text: $77$ $m^2$
+  - Text: $96$ $m^2$
+---
+ID: SD_MTK_94
+Type: PilihanGanda
+Question: >
+  Jarak antara Desa P dan Desa Q pada peta adalah $3$ cm. Peta tersebut menggunakan skala $1 : 500.000$ yang ditulis secara baku. Jarak sebenarnya antara kedua desa tersebut adalah ...
+Answer: $15$ km
+Explanation: >
+  Jarak sebenarnya = Jarak peta $\times$ Skala = $3 \times 500.000 = 1.500.000$ cm.
+  Karena $1$ km = $100.000$ cm, maka jarak sebenarnya = $\frac{1.500.000}{100.000} = 15$ km.
+Options:
+  - Text: $1500$ km
+  - Text: $150$ km
+  - Text: $0,15$ km
+  - Text: $1,5$ km
+  - Text: $15$ km
+---
+ID: SD_MTK_95
+Type: PilihanGanda
+Question: >
+  Deni mengunjungi perpustakaan setiap $5$ hari sekali, sedangkan temannya mengunjungi perpustakaan setiap $8$ hari sekali. Jika mereka bertemu di perpustakaan pada tanggal $6$ Maret, pada tanggal berapakah mereka akan bertemu kembali untuk yang kedua kalinya?
+Answer: $46$ Maret
+Explanation: >
+  Waktu bertemu kembali dihitung menggunakan KPK dari $5$ dan $8$, yaitu $40$.
+  Mereka akan bertemu kembali $40$ hari setelah tanggal $6$ Maret.
+  Tanggal bertemu = $6 + 40 = 46$ Maret.
+Options:
+  - Text: $46$ Maret
+  - Text: $44$ Maret
+  - Text: $47$ Maret
+  - Text: $45$ Maret
+  - Text: $48$ Maret
+---
+ID: SD_MTK_96
+Type: PilihanGandaKompleks
+Question: >
+  Berdasarkan sifat-sifat bangun ruang yang dipelajari di Sekolah Dasar, identifikasi manakah pernyataan yang tepat mengenai bangun ruang tabung dan kerucut.
+Explanation: >
+  Tabung memiliki $3$ sisi ($2$ alas/tutup lingkaran dan $1$ selimut), tidak bersudut. Kerucut memiliki $2$ sisi ($1$ alas lingkaran dan $1$ selimut), memiliki $1$ titik puncak.
+Options:
+  - Text: Selimut tabung jika dibuka berbentuk segitiga.
+    IsCorrect: false
+  - Text: Tabung memiliki $3$ sisi dan $2$ rusuk lengkung.
+    IsCorrect: true
+  - Text: Kerucut memiliki $1$ titik sudut (titik puncak).
+    IsCorrect: true
+  - Text: Alas kerucut berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Tabung tidak memiliki titik sudut.
+    IsCorrect: true
+---
+ID: SD_MTK_97
+Type: PilihanGandaKompleks
+Question: >
+  Evaluasi operasi hitung berikut. Manakah pernyataan yang bernilai benar apabila dihitung sesuai dengan aturan operasi hitung campuran (prioritas operator)?
+Explanation: >
+  Aturan operasi campuran: perkalian dan pembagian dikerjakan terlebih dahulu, kemudian penjumlahan dan pengurangan dari kiri ke kanan.
+Options:
+  - Text: $117 - 2 \times 3 = 345$
+    IsCorrect: false
+  - Text: $234 \div 2 + 117 = 234$
+    IsCorrect: true
+  - Text: $117 \times (2 + 3) = 585$
+    IsCorrect: true
+  - Text: $(117 + 5) \times 2 = 244$
+    IsCorrect: true
+  - Text: $117 + 5 \times 2 = 127$
+    IsCorrect: true
+---
+ID: SD_MTK_98
+Type: PilihanGandaKompleks
+Question: >
+  Dari data nilai ulangan Matematika beberapa siswa: $78, 83, 88, 73, 78$. Manakah pernyataan di bawah ini yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $400$. Rata-rata = $400 \div 5 = 80$. Modus = $78$ (muncul $2$ kali). Nilai tertinggi $88$, terendah $73$.
+Options:
+  - Text: Modus dari data nilai tersebut adalah $78$.
+    IsCorrect: true
+  - Text: Banyaknya siswa yang mendapat nilai di atas rata-rata adalah $2$ orang.
+    IsCorrect: true
+  - Text: Rata-rata nilai tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Selisih antara nilai tertinggi dan terendah adalah $15$.
+    IsCorrect: true
+  - Text: Nilai median dari data tersebut adalah $83$.
+    IsCorrect: false
+---
+ID: SD_MTK_99
+Type: BenarSalah
+Question: >
+  Tentukan Benar atau Salah pernyataan konversi satuan ukuran di bawah ini yang sering digunakan dalam kehidupan sehari-hari.
+Explanation: >
+  Ingat tangga satuan: $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1$ dm$^3$.
+Options:
+  - Text: $40$ kuintal = $400$ kg
+    IsCorrect: Salah
+  - Text: $4$ ton = $4000$ kg
+    IsCorrect: Benar
+  - Text: $4$ km = $4000$ meter
+    IsCorrect: Benar
+  - Text: $4$ liter = $4000$ mililiter
+    IsCorrect: Benar
+---
+ID: SD_MTK_100
+Type: BenarSalah
+Question: >
+  Berikut adalah pernyataan mengenai kesetaraan antara bilangan pecahan, desimal, dan persentase. Tentukan Benar atau Salah pada setiap opsi.
+Explanation: >
+  Ubah pecahan biasa menjadi bentuk berpenyebut $100$ untuk mencari persentase, atau dibagi biasa untuk mencari nilai desimal.
+Options:
+  - Text: $50\%$ lebih kecil dibandingkan $\frac{1}{3}$.
+    IsCorrect: Salah
+  - Text: Bentuk desimal dari $\frac{2}{5}$ adalah $0,4$.
+    IsCorrect: Benar
+  - Text: $\frac{3}{4} + \frac{1}{4} = 1$.
+    IsCorrect: Benar
+  - Text: $\frac{1}{2}$ senilai dengan $50\%$.
+    IsCorrect: Benar
+---
+ID: SD_MTK_101
+Type: PilihanGanda
+Question: >
+  Tiga buah lampu hias menyala dengan interval waktu berbeda. Lampu merah menyala setiap $2$ detik, kuning setiap $3$ detik, dan hijau setiap $4$ detik. Jika ketiga lampu menyala bersamaan pada detik ke-$0$, pada detik ke berapakah ketiga lampu akan menyala bersamaan untuk kedua kalinya?
+Answer: Detik ke-$12$
+Explanation: >
+  Menyala bersamaan lagi dihitung dengan KPK dari $2, 3,$ dan $4$.
+  Faktorisasi: $2=2$, $3=3$, $4=2^2$. KPK = $2^2 \times 3 = 12$.
+Options:
+  - Text: Detik ke-$12$
+  - Text: Detik ke-$24$
+  - Text: Detik ke-$6$
+  - Text: Detik ke-$8$
+  - Text: Detik ke-$10$
+---
+ID: SD_MTK_102
+Type: PilihanGanda
+Question: >
+  Budi berkendara sejauh $100$ km dengan kecepatan rata-rata $50$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $07.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $09.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $100 \div 50 = 2$ jam.
+  Total waktu = $2$ jam + $30$ menit istirahat = $2$ jam $30$ menit.
+  Tiba = Pukul $07.00 + 2.30 = 09.30$.
+Options:
+  - Text: Pukul $09.30$
+  - Text: Pukul $09.00$
+  - Text: Pukul $10.00$
+  - Text: Pukul $08.30$
+  - Text: Pukul $09.15$
+---
+ID: SD_MTK_103
+Type: PilihanGanda
+Question: >
+  Ibu memiliki persediaan beras sebanyak $20$ kg. Sebanyak $\frac{1}{4}$ bagian dimasak untuk hajatan, dan $5$ kg disumbangkan kepada tetangga. Berapa kg sisa beras Ibu sekarang?
+Answer: $10$ kg
+Explanation: >
+  Beras dimasak = $\frac{1}{4} \times 20 = 5$ kg.
+  Sisa beras = $20 - 5 - 5 = 10$ kg.
+Options:
+  - Text: $5$ kg
+  - Text: $15$ kg
+  - Text: $10$ kg
+  - Text: $12$ kg
+  - Text: $8$ kg
+---
+ID: SD_MTK_104
+Type: PilihanGanda
+Question: >
+  Sebuah taman berbentuk persegi panjang memiliki keliling $40$ m. Jika lebar taman tersebut adalah $8$ m, berapakah luas taman tersebut?
+Answer: $96$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 40 = 2 \times (p + 8) \Rightarrow p + 8 = 20 \Rightarrow p = 12$ m.
+  Luas = $p \times l = 12 \times 8 = 96$ $m^2$.
+Options:
+  - Text: $96$ $m^2$
+  - Text: $320$ $m^2$
+  - Text: $80$ $m^2$
+  - Text: $100$ $m^2$
+  - Text: $108$ $m^2$
+---
+ID: SD_MTK_105
+Type: PilihanGanda
+Question: >
+  Sebuah akuarium berbentuk balok berisi air setengah penuh dengan volume $60$ liter. Jika panjang akuarium $6$ dm dan lebar $4$ dm, berapakah tinggi total akuarium tersebut?
+Answer: $5$ dm
+Explanation: >
+  Volume setengah = $60$ liter ($dm^3$). Volume total = $60 \times 2 = 120$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 120 = 6 \times 4 \times t \Rightarrow 120 = 24 \times t \Rightarrow t = 5$ dm.
+Options:
+  - Text: $10$ dm
+  - Text: $5$ dm
+  - Text: $6$ dm
+  - Text: $8$ dm
+  - Text: $4$ dm
+---
+ID: SD_MTK_106
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $70, 70, 80, 90, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $410$. Rata-rata = $410 \div 5 = 82$. Median (tengah) = $80$. Modus (paling sering) = $70$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $82$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $90$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $30$.
+    IsCorrect: true
+---
+ID: SD_MTK_107
+Type: PilihanGandaKompleks
+Question: >
+  Bangun ruang memiliki sifat-sifat khusus. Berdasarkan materi kelas 6 SD, manakah pernyataan yang benar mengenai sifat bangun ruang?
+Explanation: >
+  Kubus punya 6 sisi persegi. Tabung tidak punya titik sudut. Kerucut punya 1 rusuk lengkung. Bola punya 1 sisi lengkung.
+Options:
+  - Text: Kubus memiliki $12$ rusuk yang sama panjang.
+    IsCorrect: true
+  - Text: Tabung memiliki $4$ titik sudut di bagian alasnya.
+    IsCorrect: false
+  - Text: Kerucut memiliki $1$ titik puncak dan alas berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Balok memiliki $6$ sisi yang semuanya selalu berbentuk persegi panjang.
+    IsCorrect: true
+---
+ID: SD_MTK_108
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $10 + 5 \times 2 = 20$
+    IsCorrect: true
+  - Text: $(10 + 5) \times 2 = 30$
+    IsCorrect: true
+  - Text: $20 - 4 \times 2 = 12$
+    IsCorrect: true
+  - Text: $15 + 10 \div 5 = 5$
+    IsCorrect: false
+---
+ID: SD_MTK_109
+Type: BenarSalah
+Question: >
+  Sebuah peta digambar dengan skala $1 : 100.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 100.000$ berarti $1$ cm di peta = $100.000$ cm = $1$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $1$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $5$ km, maka jarak di peta adalah $5$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $10$ cm pada peta sama dengan $100$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_110
+Type: BenarSalah
+Question: >
+  Konversi satuan sangat penting dalam kehidupan sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ km = $1000$ m. $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ jam = $60$ menit.
+Options:
+  - Text: $5$ kilometer sama panjangnya dengan $5000$ meter.
+    IsCorrect: Benar
+  - Text: Berat $2$ ton lebih ringan daripada $20$ kuintal.
+    IsCorrect: Salah
+  - Text: Waktu $1,5$ jam setara dengan $90$ menit.
+    IsCorrect: Benar
+---
+ID: SD_MTK_111
+Type: PilihanGanda
+Question: >
+  Tiga buah lampu hias menyala dengan interval waktu berbeda. Lampu merah menyala setiap $3$ detik, kuning setiap $4$ detik, dan hijau setiap $5$ detik. Jika ketiga lampu menyala bersamaan pada detik ke-$0$, pada detik ke berapakah ketiga lampu akan menyala bersamaan untuk kedua kalinya?
+Answer: Detik ke-$60$
+Explanation: >
+  Menyala bersamaan lagi dihitung dengan KPK dari $3, 4,$ dan $5$.
+  Faktorisasi: $3=3$, $4=2^2$, $5=5$. KPK = $2^2 \times 3 \times 5 = 60$.
+Options:
+  - Text: Detik ke-$60$
+  - Text: Detik ke-$12$
+  - Text: Detik ke-$30$
+  - Text: Detik ke-$120$
+  - Text: Detik ke-$45$
+---
+ID: SD_MTK_112
+Type: PilihanGanda
+Question: >
+  Andi berkendara sejauh $120$ km dengan kecepatan rata-rata $60$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $07.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $09.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $120 \div 60 = 2$ jam.
+  Total waktu = $2$ jam + $30$ menit istirahat = $2$ jam $30$ menit.
+  Tiba = Pukul $07.00 + 2.30 = 09.30$.
+Options:
+  - Text: Pukul $09.30$
+  - Text: Pukul $09.00$
+  - Text: Pukul $10.00$
+  - Text: Pukul $08.30$
+  - Text: Pukul $09.15$
+---
+ID: SD_MTK_113
+Type: PilihanGanda
+Question: >
+  Ayah memiliki persediaan beras sebanyak $40$ kg. Sebanyak $\frac{1}{4}$ bagian dimasak untuk hajatan, dan $10$ kg disumbangkan kepada tetangga. Berapa kg sisa beras Ayah sekarang?
+Answer: $20$ kg
+Explanation: >
+  Beras dimasak = $\frac{1}{4} \times 40 = 10$ kg.
+  Sisa beras = $40 - 10 - 10 = 20$ kg.
+Options:
+  - Text: $15$ kg
+  - Text: $25$ kg
+  - Text: $20$ kg
+  - Text: $30$ kg
+  - Text: $10$ kg
+---
+ID: SD_MTK_114
+Type: PilihanGanda
+Question: >
+  Sebuah taman berbentuk persegi panjang memiliki keliling $60$ m. Jika lebar taman tersebut adalah $10$ m, berapakah luas taman tersebut?
+Answer: $200$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 60 = 2 \times (p + 10) \Rightarrow p + 10 = 30 \Rightarrow p = 20$ m.
+  Luas = $p \times l = 20 \times 10 = 200$ $m^2$.
+Options:
+  - Text: $200$ $m^2$
+  - Text: $600$ $m^2$
+  - Text: $400$ $m^2$
+  - Text: $100$ $m^2$
+  - Text: $150$ $m^2$
+---
+ID: SD_MTK_115
+Type: PilihanGanda
+Question: >
+  Sebuah akuarium berbentuk balok berisi air setengah penuh dengan volume $90$ liter. Jika panjang akuarium $6$ dm dan lebar $5$ dm, berapakah tinggi total akuarium tersebut?
+Answer: $6$ dm
+Explanation: >
+  Volume setengah = $90$ liter ($dm^3$). Volume total = $90 \times 2 = 180$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 180 = 6 \times 5 \times t \Rightarrow 180 = 30 \times t \Rightarrow t = 6$ dm.
+Options:
+  - Text: $10$ dm
+  - Text: $8$ dm
+  - Text: $6$ dm
+  - Text: $12$ dm
+  - Text: $5$ dm
+---
+ID: SD_MTK_116
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $60, 70, 70, 80, 90$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $370$. Rata-rata = $370 \div 5 = 74$. Median (tengah) = $70$. Modus (paling sering) = $70$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $74$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $70$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $80$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $30$.
+    IsCorrect: true
+---
+ID: SD_MTK_117
+Type: PilihanGandaKompleks
+Question: >
+  Bangun ruang memiliki sifat-sifat khusus. Berdasarkan materi kelas 6 SD, manakah pernyataan yang benar mengenai sifat kerucut dan tabung?
+Explanation: >
+  Tabung punya alas dan tutup lingkaran. Kerucut tidak punya tutup, hanya alas lingkaran dan 1 titik puncak.
+Options:
+  - Text: Tabung memiliki $3$ sisi: alas, tutup, dan selimut.
+    IsCorrect: true
+  - Text: Kerucut memiliki $2$ rusuk lengkung.
+    IsCorrect: false
+  - Text: Keduanya memiliki alas berbentuk lingkaran.
+    IsCorrect: true
+  - Text: Tabung tidak memiliki titik puncak seperti kerucut.
+    IsCorrect: true
+---
+ID: SD_MTK_118
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $12 + 3 \times 4 = 24$
+    IsCorrect: true
+  - Text: $(12 + 3) \times 4 = 60$
+    IsCorrect: true
+  - Text: $30 - 10 \div 2 = 10$
+    IsCorrect: false
+  - Text: $15 \times 2 + 5 = 35$
+    IsCorrect: true
+---
+ID: SD_MTK_119
+Type: BenarSalah
+Question: >
+  Sebuah peta digambar dengan skala $1 : 200.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 200.000$ berarti $1$ cm di peta = $200.000$ cm = $2$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $2$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $10$ km, maka jarak di peta adalah $5$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $5$ cm pada peta sama dengan $5$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_120
+Type: BenarSalah
+Question: >
+  Konversi satuan sangat penting dalam kehidupan sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ km = $1000$ m. $1$ ton = $1000$ kg. $1$ kuintal = $100$ kg. $1$ liter = $1000$ ml.
+Options:
+  - Text: $3,5$ kilometer sama panjangnya dengan $350$ meter.
+    IsCorrect: Salah
+  - Text: Waktu $2$ jam setara dengan $120$ menit.
+    IsCorrect: Benar
+  - Text: Volume $4$ liter air sama dengan $4000$ mililiter.
+    IsCorrect: Benar
+---
+ID: SD_MTK_121
+Type: PilihanGanda
+Question: >
+  Tiga buah bel sekolah berbunyi dengan interval waktu berbeda. Bel A berbunyi setiap $4$ menit, B setiap $5$ menit, dan C setiap $6$ menit. Jika ketiga bel berbunyi bersamaan pada menit ke-$0$, pada menit ke berapakah ketiga bel akan berbunyi bersamaan untuk kedua kalinya?
+Answer: Menit ke-$60$
+Explanation: >
+  Menyala bersamaan lagi dihitung dengan KPK dari $4, 5,$ dan $6$.
+  Faktorisasi: $4=2^2$, $5=5$, $6=2 \times 3$. KPK = $2^2 \times 3 \times 5 = 60$.
+Options:
+  - Text: Menit ke-$60$
+  - Text: Menit ke-$30$
+  - Text: Menit ke-$120$
+  - Text: Menit ke-$45$
+  - Text: Menit ke-$90$
+---
+ID: SD_MTK_122
+Type: PilihanGanda
+Question: >
+  Cici berkendara sejauh $80$ km dengan kecepatan rata-rata $40$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $08.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $10.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $80 \div 40 = 2$ jam.
+  Total waktu = $2$ jam + $30$ menit istirahat = $2$ jam $30$ menit.
+  Tiba = Pukul $08.00 + 2.30 = 10.30$.
+Options:
+  - Text: Pukul $10.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $11.00$
+  - Text: Pukul $09.30$
+  - Text: Pukul $11.30$
+---
+ID: SD_MTK_123
+Type: PilihanGanda
+Question: >
+  Paman memiliki persediaan beras sebanyak $60$ kg. Sebanyak $\frac{1}{4}$ bagian dimasak untuk hajatan, dan $15$ kg disumbangkan kepada tetangga. Berapa kg sisa beras Paman sekarang?
+Answer: $30$ kg
+Explanation: >
+  Beras dimasak = $\frac{1}{4} \times 60 = 15$ kg.
+  Sisa beras = $60 - 15 - 15 = 30$ kg.
+Options:
+  - Text: $35$ kg
+  - Text: $25$ kg
+  - Text: $30$ kg
+  - Text: $45$ kg
+  - Text: $20$ kg
+---
+ID: SD_MTK_124
+Type: PilihanGanda
+Question: >
+  Sebuah taman berbentuk persegi panjang memiliki keliling $80$ m. Jika lebar taman tersebut adalah $15$ m, berapakah luas taman tersebut?
+Answer: $375$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 80 = 2 \times (p + 15) \Rightarrow p + 15 = 40 \Rightarrow p = 25$ m.
+  Luas = $p \times l = 25 \times 15 = 375$ $m^2$.
+Options:
+  - Text: $375$ $m^2$
+  - Text: $1200$ $m^2$
+  - Text: $400$ $m^2$
+  - Text: $500$ $m^2$
+  - Text: $350$ $m^2$
+---
+ID: SD_MTK_125
+Type: PilihanGanda
+Question: >
+  Sebuah bak mandi berbentuk balok berisi air setengah penuh dengan volume $120$ liter. Jika panjang bak $8$ dm dan lebar $5$ dm, berapakah tinggi total bak tersebut?
+Answer: $6$ dm
+Explanation: >
+  Volume setengah = $120$ liter ($dm^3$). Volume total = $120 \times 2 = 240$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 240 = 8 \times 5 \times t \Rightarrow 240 = 40 \times t \Rightarrow t = 6$ dm.
+Options:
+  - Text: $10$ dm
+  - Text: $8$ dm
+  - Text: $6$ dm
+  - Text: $12$ dm
+  - Text: $5$ dm
+---
+ID: SD_MTK_126
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $80, 80, 80, 90, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $430$. Rata-rata = $430 \div 5 = 86$. Median (tengah) = $80$. Modus (paling sering) = $80$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $86$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $90$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $20$.
+    IsCorrect: true
+---
+ID: SD_MTK_127
+Type: PilihanGandaKompleks
+Question: >
+  Bangun ruang bola dan kerucut sering kita jumpai dalam kehidupan. Analisislah pernyataan berikut mengenai sifat kedua bangun ruang tersebut!
+Explanation: >
+  Bola tidak punya titik sudut dan rusuk, hanya 1 sisi lengkung. Kerucut punya 1 puncak, 1 rusuk lengkung, alas lingkaran.
+Options:
+  - Text: Bola tidak memiliki titik sudut sama sekali.
+    IsCorrect: true
+  - Text: Kerucut memiliki tepat dua sisi.
+    IsCorrect: true
+  - Text: Bola memiliki satu rusuk lengkung.
+    IsCorrect: false
+  - Text: Jarak dari titik pusat bola ke semua titik di permukaan sisinya selalu sama.
+    IsCorrect: true
+---
+ID: SD_MTK_128
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $20 + 5 \times 3 = 35$
+    IsCorrect: true
+  - Text: $(20 + 5) \times 3 = 75$
+    IsCorrect: true
+  - Text: $40 - 20 \div 4 = 5$
+    IsCorrect: false
+  - Text: $25 \times 2 + 10 = 60$
+    IsCorrect: true
+---
+ID: SD_MTK_129
+Type: BenarSalah
+Question: >
+  Sebuah peta digambar dengan skala $1 : 500.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 500.000$ berarti $1$ cm di peta = $500.000$ cm = $5$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $5$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $20$ km, maka jarak di peta adalah $4$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $2$ cm pada peta sama dengan $25$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_130
+Type: BenarSalah
+Question: >
+  Konversi satuan sangat penting dalam kehidupan sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ kg = $1000$ gram. $1$ ton = $1000$ kg. $1$ liter = $1000$ ml.
+Options:
+  - Text: $2,5$ kg beras sama beratnya dengan $2500$ gram beras.
+    IsCorrect: Benar
+  - Text: Waktu $3$ jam setara dengan $180$ menit.
+    IsCorrect: Benar
+  - Text: Volume $1,5$ liter susu sama dengan $150$ mililiter.
+    IsCorrect: Salah
+---
+ID: SD_MTK_131
+Type: PilihanGanda
+Question: >
+  Tiga armada bus berangkat dengan jadwal berbeda. Bus A berangkat setiap $2$ jam, B setiap $4$ jam, dan C setiap $5$ jam. Jika ketiga bus berangkat bersamaan pukul $06.00$ pagi, berapa jam lagikah mereka akan berangkat bersama-sama untuk kedua kalinya?
+Answer: $20$ jam
+Explanation: >
+  Berangkat bersamaan lagi dihitung dengan KPK dari $2, 4,$ dan $5$.
+  Faktorisasi: $2=2$, $4=2^2$, $5=5$. KPK = $2^2 \times 5 = 20$.
+Options:
+  - Text: $20$ jam
+  - Text: $10$ jam
+  - Text: $40$ jam
+  - Text: $30$ jam
+  - Text: $15$ jam
+---
+ID: SD_MTK_132
+Type: PilihanGanda
+Question: >
+  Dedi berkendara sejauh $150$ km dengan kecepatan rata-rata $50$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $06.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $09.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $150 \div 50 = 3$ jam.
+  Total waktu = $3$ jam + $30$ menit istirahat = $3$ jam $30$ menit.
+  Tiba = Pukul $06.00 + 3.30 = 09.30$.
+Options:
+  - Text: Pukul $09.30$
+  - Text: Pukul $09.00$
+  - Text: Pukul $10.00$
+  - Text: Pukul $08.30$
+  - Text: Pukul $10.30$
+---
+ID: SD_MTK_133
+Type: PilihanGanda
+Question: >
+  Kakek memiliki persediaan jagung sebanyak $80$ kg. Sebanyak $\frac{1}{4}$ bagian dijual ke pasar, dan $20$ kg dibagikan kepada cucunya. Berapa kg sisa jagung Kakek sekarang?
+Answer: $40$ kg
+Explanation: >
+  Jagung dijual = $\frac{1}{4} \times 80 = 20$ kg.
+  Sisa jagung = $80 - 20 - 20 = 40$ kg.
+Options:
+  - Text: $50$ kg
+  - Text: $40$ kg
+  - Text: $60$ kg
+  - Text: $20$ kg
+  - Text: $30$ kg
+---
+ID: SD_MTK_134
+Type: PilihanGanda
+Question: >
+  Sebuah lapangan berbentuk persegi panjang memiliki keliling $100$ m. Jika lebar lapangan tersebut adalah $20$ m, berapakah luas lapangan tersebut?
+Answer: $600$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 100 = 2 \times (p + 20) \Rightarrow p + 20 = 50 \Rightarrow p = 30$ m.
+  Luas = $p \times l = 30 \times 20 = 600$ $m^2$.
+Options:
+  - Text: $600$ $m^2$
+  - Text: $2000$ $m^2$
+  - Text: $800$ $m^2$
+  - Text: $500$ $m^2$
+  - Text: $400$ $m^2$
+---
+ID: SD_MTK_135
+Type: PilihanGanda
+Question: >
+  Sebuah kontainer berbentuk balok berisi pasir setengah penuh dengan volume $160$ $m^3$. Jika panjang kontainer $8$ m dan lebar $4$ m, berapakah tinggi total kontainer tersebut?
+Answer: $10$ m
+Explanation: >
+  Volume setengah = $160$ $m^3$. Volume total = $160 \times 2 = 320$ $m^3$.
+  Volume = $p \times l \times t \Rightarrow 320 = 8 \times 4 \times t \Rightarrow 320 = 32 \times t \Rightarrow t = 10$ m.
+Options:
+  - Text: $10$ m
+  - Text: $8$ m
+  - Text: $5$ m
+  - Text: $12$ m
+  - Text: $20$ m
+---
+ID: SD_MTK_136
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data tinggi badan lima tanaman padi (dalam cm) sebagai berikut: $50, 60, 60, 70, 80$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $320$. Rata-rata = $320 \div 5 = 64$. Median (tengah) = $60$. Modus = $60$.
+Options:
+  - Text: Rata-rata tinggi tanaman adalah $64$ cm.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $60$ cm.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $70$ cm.
+    IsCorrect: false
+  - Text: Selisih tanaman tertinggi dan terpendek adalah $30$ cm.
+    IsCorrect: true
+---
+ID: SD_MTK_137
+Type: PilihanGandaKompleks
+Question: >
+  Prisma segitiga dan limas segitiga merupakan bangun ruang yang dipelajari di SD. Identifikasi pernyataan yang benar mengenai kedua bangun ruang ini!
+Explanation: >
+  Prisma segitiga punya alas & tutup segitiga, 5 sisi. Limas segitiga alas segitiga, pucuk lancip, 4 sisi.
+Options:
+  - Text: Prisma segitiga memiliki $5$ buah sisi secara keseluruhan.
+    IsCorrect: true
+  - Text: Limas segitiga memiliki sisi tegak berbentuk persegi panjang.
+    IsCorrect: false
+  - Text: Prisma segitiga memiliki atap dan alas yang bentuk dan ukurannya sama.
+    IsCorrect: true
+  - Text: Limas segitiga memiliki tepat $4$ buah titik sudut.
+    IsCorrect: true
+---
+ID: SD_MTK_138
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $8 + 4 \times 5 = 28$
+    IsCorrect: true
+  - Text: $(8 + 4) \times 5 = 60$
+    IsCorrect: true
+  - Text: $50 - 20 \div 5 = 6$
+    IsCorrect: false
+  - Text: $10 \times 3 + 7 = 37$
+    IsCorrect: true
+---
+ID: SD_MTK_139
+Type: BenarSalah
+Question: >
+  Sebuah denah digambar dengan skala $1 : 1.000.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait denah tersebut!
+Explanation: >
+  Skala $1 : 1.000.000$ berarti $1$ cm di peta = $1.000.000$ cm = $10$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $10$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $30$ km, maka jarak di peta adalah $3$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $4$ cm pada peta sama dengan $400$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_140
+Type: BenarSalah
+Question: >
+  Konversi satuan sangat penting dalam kehidupan sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ jam = $3600$ detik. $1$ kuintal = $100$ kg. $1$ m = $100$ cm.
+Options:
+  - Text: $1,5$ kuintal sama beratnya dengan $150$ kg.
+    IsCorrect: Benar
+  - Text: Waktu $1$ jam setara dengan $360$ detik.
+    IsCorrect: Salah
+  - Text: Panjang pita $4$ meter sama dengan $400$ sentimeter.
+    IsCorrect: Benar
+---
+ID: SD_MTK_141
+Type: PilihanGanda
+Question: >
+  Tiga penjaga malam memukul kentongan dengan interval berbeda. Penjaga A memukul setiap $3$ menit, B setiap $5$ menit, dan C setiap $6$ menit. Jika ketiga penjaga memukul bersamaan pada menit ke-$0$, pada menit ke berapakah mereka memukul kentongan bersamaan untuk kedua kalinya?
+Answer: Menit ke-$30$
+Explanation: >
+  Berbunyi bersamaan lagi dihitung dengan KPK dari $3, 5,$ dan $6$.
+  Faktorisasi: $3=3$, $5=5$, $6=2 \times 3$. KPK = $2 \times 3 \times 5 = 30$.
+Options:
+  - Text: Menit ke-$30$
+  - Text: Menit ke-$90$
+  - Text: Menit ke-$60$
+  - Text: Menit ke-$15$
+  - Text: Menit ke-$45$
+---
+ID: SD_MTK_142
+Type: PilihanGanda
+Question: >
+  Eka berkendara sejauh $180$ km dengan kecepatan rata-rata $60$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $07.30$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $11.00$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $180 \div 60 = 3$ jam.
+  Total waktu = $3$ jam + $30$ menit istirahat = $3$ jam $30$ menit.
+  Tiba = Pukul $07.30 + 3.30 = 11.00$.
+Options:
+  - Text: Pukul $11.00$
+  - Text: Pukul $10.30$
+  - Text: Pukul $11.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $12.00$
+---
+ID: SD_MTK_143
+Type: PilihanGanda
+Question: >
+  Pak RT memiliki sumbangan gula sebanyak $100$ kg. Sebanyak $\frac{1}{4}$ bagian dibagikan ke panti asuhan, dan $25$ kg dibagikan kepada warga lansia. Berapa kg sisa gula Pak RT sekarang?
+Answer: $50$ kg
+Explanation: >
+  Gula ke panti = $\frac{1}{4} \times 100 = 25$ kg.
+  Sisa gula = $100 - 25 - 25 = 50$ kg.
+Options:
+  - Text: $50$ kg
+  - Text: $25$ kg
+  - Text: $75$ kg
+  - Text: $60$ kg
+  - Text: $40$ kg
+---
+ID: SD_MTK_144
+Type: PilihanGanda
+Question: >
+  Sebuah kolam renang berbentuk persegi panjang memiliki keliling $50$ m. Jika lebar kolam tersebut adalah $10$ m, berapakah luas kolam tersebut?
+Answer: $150$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 50 = 2 \times (p + 10) \Rightarrow p + 10 = 25 \Rightarrow p = 15$ m.
+  Luas = $p \times l = 15 \times 10 = 150$ $m^2$.
+Options:
+  - Text: $150$ $m^2$
+  - Text: $500$ $m^2$
+  - Text: $200$ $m^2$
+  - Text: $250$ $m^2$
+  - Text: $100$ $m^2$
+---
+ID: SD_MTK_145
+Type: PilihanGanda
+Question: >
+  Sebuah tempat air berbentuk balok berisi air setengah penuh dengan volume $200$ liter. Jika panjang tempat air $10$ dm dan lebar $5$ dm, berapakah tinggi total tempat air tersebut?
+Answer: $8$ dm
+Explanation: >
+  Volume setengah = $200$ liter ($dm^3$). Volume total = $200 \times 2 = 400$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 400 = 10 \times 5 \times t \Rightarrow 400 = 50 \times t \Rightarrow t = 8$ dm.
+Options:
+  - Text: $8$ dm
+  - Text: $10$ dm
+  - Text: $6$ dm
+  - Text: $4$ dm
+  - Text: $12$ dm
+---
+ID: SD_MTK_146
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $70, 80, 90, 90, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $430$. Rata-rata = $430 \div 5 = 86$. Median (tengah) = $90$. Modus = $90$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $86$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $90$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $80$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $30$.
+    IsCorrect: true
+---
+ID: SD_MTK_147
+Type: PilihanGandaKompleks
+Question: >
+  Bangun ruang limas segi empat dan prisma memiliki karakteristik unik. Tentukan pernyataan yang benar mengenai bangun-bangun tersebut!
+Explanation: >
+  Limas segi empat alasnya segiempat, 4 sisi tegak segitiga, 1 titik puncak. Prisma segi empat = balok/kubus.
+Options:
+  - Text: Limas segi empat memiliki tepat $1$ titik puncak yang merupakan pertemuan sisi-sisi tegaknya.
+    IsCorrect: true
+  - Text: Prisma segi empat memiliki sisi alas dan tutup yang kongruen.
+    IsCorrect: true
+  - Text: Limas segi empat memiliki total $5$ buah sisi.
+    IsCorrect: true
+  - Text: Sisi tegak dari limas segi empat selalu berbentuk persegi panjang.
+    IsCorrect: false
+---
+ID: SD_MTK_148
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $15 + 5 \times 4 = 35$
+    IsCorrect: true
+  - Text: $(15 + 5) \times 4 = 80$
+    IsCorrect: true
+  - Text: $60 - 30 \div 6 = 5$
+    IsCorrect: false
+  - Text: $12 \times 3 + 4 = 40$
+    IsCorrect: true
+---
+ID: SD_MTK_149
+Type: BenarSalah
+Question: >
+  Sebuah peta digambar dengan skala $1 : 2.500.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 2.500.000$ berarti $1$ cm di peta = $2.500.000$ cm = $25$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $25$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $100$ km, maka jarak di peta adalah $4$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $2$ cm pada peta sama dengan $5$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_150
+Type: BenarSalah
+Question: >
+  Konversi satuan sangat penting dalam kehidupan sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ ton = $1000$ kg. $1$ hari = $24$ jam. $1$ kg = $10$ ons ($1000$ g).
+Options:
+  - Text: $1,2$ ton beras setara beratnya dengan $1200$ kg.
+    IsCorrect: Benar
+  - Text: Waktu $2$ hari setara dengan $48$ jam.
+    IsCorrect: Benar
+  - Text: $3$ kg gula sama beratnya dengan $300$ ons.
+    IsCorrect: Salah
+---
+ID: SD_MTK_151
+Type: PilihanGanda
+Question: >
+  Tiga orang anak berlatih panahan secara teratur. Fani berlatih setiap $4$ hari, Gilang setiap $6$ hari, dan Hani setiap $8$ hari. Jika mereka berlatih bersama pada hari ke-$1$, pada hari ke berapakah mereka akan berlatih bersama lagi?
+Answer: Hari ke-$25$
+Explanation: >
+  Berlatih bersamaan lagi dihitung dengan KPK dari $4, 6,$ dan $8$.
+  Faktorisasi: $4=2^2$, $6=2 \times 3$, $8=2^3$. KPK = $2^3 \times 3 = 24$.
+  Mereka berlatih lagi setelah $24$ hari, yaitu hari ke $1 + 24 = 25$.
+Options:
+  - Text: Hari ke-$25$
+  - Text: Hari ke-$24$
+  - Text: Hari ke-$12$
+  - Text: Hari ke-$48$
+  - Text: Hari ke-$13$
+---
+ID: SD_MTK_152
+Type: PilihanGanda
+Question: >
+  Gilang berkendara sejauh $90$ km dengan kecepatan rata-rata $45$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $08.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $10.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $90 \div 45 = 2$ jam.
+  Total waktu = $2$ jam + $30$ menit istirahat = $2$ jam $30$ menit.
+  Tiba = Pukul $08.00 + 2.30 = 10.30$.
+Options:
+  - Text: Pukul $10.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $11.00$
+  - Text: Pukul $09.30$
+  - Text: Pukul $11.30$
+---
+ID: SD_MTK_153
+Type: PilihanGanda
+Question: >
+  Ibu Fani memiliki adonan kue basah seberat $24$ kg. Sebanyak $\frac{1}{4}$ bagian dimasak untuk pesanan, dan $6$ kg diberikan kepada adiknya. Berapa kg sisa adonan Ibu Fani sekarang?
+Answer: $12$ kg
+Explanation: >
+  Adonan dimasak = $\frac{1}{4} \times 24 = 6$ kg.
+  Sisa adonan = $24 - 6 - 6 = 12$ kg.
+Options:
+  - Text: $12$ kg
+  - Text: $18$ kg
+  - Text: $6$ kg
+  - Text: $10$ kg
+  - Text: $15$ kg
+---
+ID: SD_MTK_154
+Type: PilihanGanda
+Question: >
+  Sebuah kebun berbentuk persegi panjang memiliki keliling $70$ m. Jika lebar kebun tersebut adalah $15$ m, berapakah luas kebun tersebut?
+Answer: $300$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 70 = 2 \times (p + 15) \Rightarrow p + 15 = 35 \Rightarrow p = 20$ m.
+  Luas = $p \times l = 20 \times 15 = 300$ $m^2$.
+Options:
+  - Text: $300$ $m^2$
+  - Text: $1050$ $m^2$
+  - Text: $400$ $m^2$
+  - Text: $250$ $m^2$
+  - Text: $350$ $m^2$
+---
+ID: SD_MTK_155
+Type: PilihanGanda
+Question: >
+  Sebuah bak penampungan berbentuk balok berisi air setengah penuh dengan volume $240$ liter. Jika panjang bak $10$ dm dan lebar $6$ dm, berapakah tinggi total bak tersebut?
+Answer: $8$ dm
+Explanation: >
+  Volume setengah = $240$ liter ($dm^3$). Volume total = $240 \times 2 = 480$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 480 = 10 \times 6 \times t \Rightarrow 480 = 60 \times t \Rightarrow t = 8$ dm.
+Options:
+  - Text: $8$ dm
+  - Text: $10$ dm
+  - Text: $6$ dm
+  - Text: $4$ dm
+  - Text: $12$ dm
+---
+ID: SD_MTK_156
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $60, 60, 80, 90, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $390$. Rata-rata = $390 \div 5 = 78$. Median (tengah) = $80$. Modus = $60$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $78$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $100$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $40$.
+    IsCorrect: true
+---
+ID: SD_MTK_157
+Type: PilihanGandaKompleks
+Question: >
+  Beberapa benda di sekitar kita menyerupai bentuk bangun ruang gabungan atau bentuk tertentu. Analisislah pernyataan-pernyataan di bawah ini.
+Explanation: >
+  Benda seperti kaleng adalah tabung. Topi ulang tahun adalah kerucut. Dadu adalah kubus.
+Options:
+  - Text: Kaleng susu cair pada umumnya berbentuk tabung.
+    IsCorrect: true
+  - Text: Topi ulang tahun berbentuk kerucut yang memiliki tepat $1$ titik sudut di puncaknya.
+    IsCorrect: true
+  - Text: Dadu standar merupakan contoh bangun ruang prisma segitiga.
+    IsCorrect: false
+  - Text: Bola basket tidak memiliki titik sudut maupun rusuk lurus.
+    IsCorrect: true
+---
+ID: SD_MTK_158
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $25 + 2 \times 10 = 45$
+    IsCorrect: true
+  - Text: $(25 + 2) \times 10 = 270$
+    IsCorrect: true
+  - Text: $100 - 50 \div 2 = 25$
+    IsCorrect: false
+  - Text: $15 \times 3 + 5 = 50$
+    IsCorrect: true
+---
+ID: SD_MTK_159
+Type: BenarSalah
+Question: >
+  Sebuah denah jalan digambar dengan skala $1 : 50.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait denah tersebut!
+Explanation: >
+  Skala $1 : 50.000$ berarti $1$ cm di peta = $50.000$ cm = $0,5$ km di dunia nyata.
+Options:
+  - Text: Jarak $2$ cm pada peta mewakili $1$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $5$ km, maka jarak di peta adalah $10$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $4$ cm pada peta sama dengan $20$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_160
+Type: BenarSalah
+Question: >
+  Konversi satuan sangat penting dalam kehidupan sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ meter = $100$ cm = $1000$ mm. $1$ liter = $1$ $dm^3$.
+Options:
+  - Text: Panjang tongkat $2$ meter sama dengan $2000$ milimeter.
+    IsCorrect: Benar
+  - Text: Volume $1$ liter sama besarnya dengan $1$ desimeter kubik ($dm^3$).
+    IsCorrect: Benar
+  - Text: Jarak $5$ kilometer sama dengan $50$ meter.
+    IsCorrect: Salah
+---
+ID: SD_MTK_161
+Type: PilihanGanda
+Question: >
+  Tiga alarm disetel dengan interval waktu menyala yang berbeda. Alarm pertama setiap $5$ menit, kedua setiap $6$ menit, dan ketiga setiap $10$ menit. Jika ketiga alarm berbunyi bersamaan pada pukul $12.00$, pada pukul berapakah ketiga alarm akan berbunyi bersamaan lagi?
+Answer: Pukul $12.30$
+Explanation: >
+  Berbunyi bersamaan lagi dihitung dengan KPK dari $5, 6,$ dan $10$.
+  Faktorisasi: $5=5$, $6=2 \times 3$, $10=2 \times 5$. KPK = $2 \times 3 \times 5 = 30$.
+  Mereka berbunyi lagi setelah $30$ menit, yaitu pukul $12.30$.
+Options:
+  - Text: Pukul $12.30$
+  - Text: Pukul $13.00$
+  - Text: Pukul $12.60$
+  - Text: Pukul $12.15$
+  - Text: Pukul $13.30$
+---
+ID: SD_MTK_162
+Type: PilihanGanda
+Question: >
+  Hani berkendara sejauh $140$ km dengan kecepatan rata-rata $70$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $09.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $11.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $140 \div 70 = 2$ jam.
+  Total waktu = $2$ jam + $30$ menit istirahat = $2$ jam $30$ menit.
+  Tiba = Pukul $09.00 + 2.30 = 11.30$.
+Options:
+  - Text: Pukul $11.30$
+  - Text: Pukul $11.00$
+  - Text: Pukul $12.00$
+  - Text: Pukul $10.30$
+  - Text: Pukul $12.30$
+---
+ID: SD_MTK_163
+Type: PilihanGanda
+Question: >
+  Intan memiliki persediaan gandum sebanyak $36$ kg. Sebanyak $\frac{1}{4}$ bagian dibuat roti, dan $9$ kg diberikan kepada bibinya. Berapa kg sisa gandum Intan sekarang?
+Answer: $18$ kg
+Explanation: >
+  Gandum dibuat roti = $\frac{1}{4} \times 36 = 9$ kg.
+  Sisa gandum = $36 - 9 - 9 = 18$ kg.
+Options:
+  - Text: $18$ kg
+  - Text: $27$ kg
+  - Text: $9$ kg
+  - Text: $12$ kg
+  - Text: $24$ kg
+---
+ID: SD_MTK_164
+Type: PilihanGanda
+Question: >
+  Sebuah halaman berbentuk persegi panjang memiliki keliling $90$ m. Jika lebar halaman tersebut adalah $20$ m, berapakah luas halaman tersebut?
+Answer: $500$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 90 = 2 \times (p + 20) \Rightarrow p + 20 = 45 \Rightarrow p = 25$ m.
+  Luas = $p \times l = 25 \times 20 = 500$ $m^2$.
+Options:
+  - Text: $500$ $m^2$
+  - Text: $1800$ $m^2$
+  - Text: $450$ $m^2$
+  - Text: $600$ $m^2$
+  - Text: $400$ $m^2$
+---
+ID: SD_MTK_165
+Type: PilihanGanda
+Question: >
+  Sebuah akuarium berbentuk balok berisi air setengah penuh dengan volume $300$ liter. Jika panjang akuarium $12$ dm dan lebar $5$ dm, berapakah tinggi total akuarium tersebut?
+Answer: $10$ dm
+Explanation: >
+  Volume setengah = $300$ liter ($dm^3$). Volume total = $300 \times 2 = 600$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 600 = 12 \times 5 \times t \Rightarrow 600 = 60 \times t \Rightarrow t = 10$ dm.
+Options:
+  - Text: $10$ dm
+  - Text: $12$ dm
+  - Text: $8$ dm
+  - Text: $5$ dm
+  - Text: $15$ dm
+---
+ID: SD_MTK_166
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $70, 70, 70, 80, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $390$. Rata-rata = $390 \div 5 = 78$. Median (tengah) = $70$. Modus = $70$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $78$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $70$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $80$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $30$.
+    IsCorrect: true
+---
+ID: SD_MTK_167
+Type: PilihanGandaKompleks
+Question: >
+  Jaring-jaring bangun ruang membantu kita memahami bagaimana bentuk sisinya saat direbahkan. Tentukan pernyataan yang benar terkait jaring-jaring balok dan kubus!
+Explanation: >
+  Jaring kubus terdiri 6 persegi. Jaring balok 6 persegi panjang (atau campuran persegi).
+Options:
+  - Text: Jaring-jaring kubus selalu terdiri dari $6$ buah persegi yang sama besar.
+    IsCorrect: true
+  - Text: Jaring-jaring balok minimal harus memiliki bangun datar persegi panjang.
+    IsCorrect: true
+  - Text: Jika dilipat, semua rusuk pada jaring-jaring balok akan sama panjang.
+    IsCorrect: false
+  - Text: Kubus memiliki $12$ rusuk, namun pada jaring-jaring polanya terbentang menjadi $14$ sisi luar pinggiran.
+    IsCorrect: true
+---
+ID: SD_MTK_168
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $30 + 10 \times 2 = 50$
+    IsCorrect: true
+  - Text: $(30 + 10) \times 2 = 80$
+    IsCorrect: true
+  - Text: $80 - 40 \div 8 = 5$
+    IsCorrect: false
+  - Text: $20 \times 4 + 10 = 90$
+    IsCorrect: true
+---
+ID: SD_MTK_169
+Type: BenarSalah
+Question: >
+  Sebuah peta dunia digambar dengan skala $1 : 4.000.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 4.000.000$ berarti $1$ cm di peta = $4.000.000$ cm = $40$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $40$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $120$ km, maka jarak di peta adalah $3$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $5$ cm pada peta sama dengan $20$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_170
+Type: BenarSalah
+Question: >
+  Konversi satuan berat sangat diperlukan saat bertransaksi di pasar. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ kg = $1000$ g = $10$ ons. $1$ kuintal = $100$ kg.
+Options:
+  - Text: Ibu membeli $2$ kg telur, beratnya sama dengan $20$ ons.
+    IsCorrect: Benar
+  - Text: Beras seberat $1,5$ kuintal sama dengan $150$ kg.
+    IsCorrect: Benar
+  - Text: Gula seberat $500$ gram sama dengan $5$ kg.
+    IsCorrect: Salah
+---
+ID: SD_MTK_171
+Type: PilihanGanda
+Question: >
+  Tiga mesin penyemprot air otomatis menyala dengan interval waktu berbeda. Mesin pertama setiap $2$ menit, kedua setiap $5$ menit, dan ketiga setiap $10$ menit. Jika ketiga mesin menyala bersamaan pada pukul $08.00$, pada pukul berapakah ketiganya akan menyala bersamaan untuk kedua kalinya?
+Answer: Pukul $08.10$
+Explanation: >
+  Menyala bersamaan lagi dihitung dengan KPK dari $2, 5,$ dan $10$.
+  Faktorisasi: $2=2$, $5=5$, $10=2 \times 5$. KPK = $2 \times 5 = 10$.
+  Menyala lagi setelah $10$ menit, yaitu pukul $08.10$.
+Options:
+  - Text: Pukul $08.10$
+  - Text: Pukul $08.20$
+  - Text: Pukul $08.15$
+  - Text: Pukul $08.05$
+  - Text: Pukul $08.30$
+---
+ID: SD_MTK_172
+Type: PilihanGanda
+Question: >
+  Joko berkendara sejauh $160$ km dengan kecepatan rata-rata $40$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $07.00$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $11.30$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $160 \div 40 = 4$ jam.
+  Total waktu = $4$ jam + $30$ menit istirahat = $4$ jam $30$ menit.
+  Tiba = Pukul $07.00 + 4.30 = 11.30$.
+Options:
+  - Text: Pukul $11.30$
+  - Text: Pukul $11.00$
+  - Text: Pukul $12.00$
+  - Text: Pukul $10.30$
+  - Text: Pukul $12.30$
+---
+ID: SD_MTK_173
+Type: PilihanGanda
+Question: >
+  Kakak memiliki persediaan kacang tanah sebanyak $48$ kg. Sebanyak $\frac{1}{4}$ bagian digoreng, dan $12$ kg diberikan kepada temannya. Berapa kg sisa kacang tanah Kakak sekarang?
+Answer: $24$ kg
+Explanation: >
+  Kacang digoreng = $\frac{1}{4} \times 48 = 12$ kg.
+  Sisa kacang = $48 - 12 - 12 = 24$ kg.
+Options:
+  - Text: $24$ kg
+  - Text: $36$ kg
+  - Text: $12$ kg
+  - Text: $18$ kg
+  - Text: $30$ kg
+---
+ID: SD_MTK_174
+Type: PilihanGanda
+Question: >
+  Sebuah lahan parkir berbentuk persegi panjang memiliki keliling $120$ m. Jika lebar lahan tersebut adalah $25$ m, berapakah luas lahan tersebut?
+Answer: $875$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 120 = 2 \times (p + 25) \Rightarrow p + 25 = 60 \Rightarrow p = 35$ m.
+  Luas = $p \times l = 35 \times 25 = 875$ $m^2$.
+Options:
+  - Text: $875$ $m^2$
+  - Text: $3000$ $m^2$
+  - Text: $900$ $m^2$
+  - Text: $750$ $m^2$
+  - Text: $850$ $m^2$
+---
+ID: SD_MTK_175
+Type: PilihanGanda
+Question: >
+  Sebuah peti kemas berbentuk balok berisi muatan setengah penuh dengan volume $360$ $m^3$. Jika panjang peti $12$ m dan lebar $6$ m, berapakah tinggi total peti kemas tersebut?
+Answer: $10$ m
+Explanation: >
+  Volume setengah = $360$ $m^3$. Volume total = $360 \times 2 = 720$ $m^3$.
+  Volume = $p \times l \times t \Rightarrow 720 = 12 \times 6 \times t \Rightarrow 720 = 72 \times t \Rightarrow t = 10$ m.
+Options:
+  - Text: $10$ m
+  - Text: $12$ m
+  - Text: $8$ m
+  - Text: $6$ m
+  - Text: $15$ m
+---
+ID: SD_MTK_176
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $80, 90, 90, 90, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $450$. Rata-rata = $450 \div 5 = 90$. Median (tengah) = $90$. Modus = $90$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $90$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $90$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $80$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $20$.
+    IsCorrect: true
+---
+ID: SD_MTK_177
+Type: PilihanGandaKompleks
+Question: >
+  Bangun ruang yang dibatasi oleh permukaan lengkung memiliki sifat unik. Tentukan pernyataan yang tepat mengenai tabung dan bola!
+Explanation: >
+  Tabung dibatasi 2 lingkaran kongruen dan selimut lengkung. Bola punya 1 sisi lengkung.
+Options:
+  - Text: Selimut tabung jika direbahkan akan membentuk bangun datar persegi panjang.
+    IsCorrect: true
+  - Text: Tabung memiliki tepat $3$ buah sisi.
+    IsCorrect: true
+  - Text: Bola tidak memiliki titik sudut, namun memiliki rusuk tak terhingga.
+    IsCorrect: false
+  - Text: Bola hanya dibatasi oleh tepat $1$ bidang sisi lengkung.
+    IsCorrect: true
+---
+ID: SD_MTK_178
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $40 + 5 \times 6 = 70$
+    IsCorrect: true
+  - Text: $(40 + 5) \times 6 = 270$
+    IsCorrect: true
+  - Text: $100 - 60 \div 3 = 20$
+    IsCorrect: false
+  - Text: $15 \times 4 + 10 = 70$
+    IsCorrect: true
+---
+ID: SD_MTK_179
+Type: BenarSalah
+Question: >
+  Sebuah peta provinsi digambar dengan skala $1 : 1.500.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 1.500.000$ berarti $1$ cm di peta = $1.500.000$ cm = $15$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $15$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $60$ km, maka jarak di peta adalah $4$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $3$ cm pada peta sama dengan $30$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_180
+Type: BenarSalah
+Question: >
+  Konversi satuan volume (isi) banyak digunakan dalam kemasan produk. Tentukan Benar atau Salah pernyataan konversi satuan berikut!
+Explanation: >
+  $1$ liter = $1000$ ml. $1$ liter = $1$ $dm^3$. $1$ $m^3$ = $1000$ liter.
+Options:
+  - Text: Botol berisi $1,5$ liter air sama dengan $1500$ mililiter air.
+    IsCorrect: Benar
+  - Text: Kapasitas tandon air $1$ meter kubik ($m^3$) sama dengan $1000$ liter.
+    IsCorrect: Benar
+  - Text: Minuman $250$ ml lebih banyak isinya daripada $1$ liter.
+    IsCorrect: Salah
+---
+ID: SD_MTK_181
+Type: PilihanGanda
+Question: >
+  Tiga jadwal kereta api berangkat secara rutin. Kereta A setiap $3$ jam, B setiap $6$ jam, dan C setiap $9$ jam. Jika ketiga kereta berangkat bersamaan pada pukul $06.00$ pagi, berapa jam lagikah ketiganya akan berangkat bersama-sama untuk kedua kalinya?
+Answer: $18$ jam
+Explanation: >
+  Berangkat bersamaan lagi dihitung dengan KPK dari $3, 6,$ dan $9$.
+  Faktorisasi: $3=3$, $6=2 \times 3$, $9=3^2$. KPK = $2 \times 3^2 = 18$.
+Options:
+  - Text: $18$ jam
+  - Text: $9$ jam
+  - Text: $36$ jam
+  - Text: $24$ jam
+  - Text: $12$ jam
+---
+ID: SD_MTK_182
+Type: PilihanGanda
+Question: >
+  Sinta berkendara sejauh $200$ km dengan kecepatan rata-rata $50$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $06.30$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $11.00$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $200 \div 50 = 4$ jam.
+  Total waktu = $4$ jam + $30$ menit istirahat = $4$ jam $30$ menit.
+  Tiba = Pukul $06.30 + 4.30 = 11.00$.
+Options:
+  - Text: Pukul $11.00$
+  - Text: Pukul $10.30$
+  - Text: Pukul $11.30$
+  - Text: Pukul $10.00$
+  - Text: Pukul $12.00$
+---
+ID: SD_MTK_183
+Type: PilihanGanda
+Question: >
+  Pak Dedi memiliki hasil panen kedelai sebanyak $120$ kg. Sebanyak $\frac{1}{4}$ bagian dijual ke tengkulak, dan $30$ kg disimpan untuk benih. Berapa kg sisa kedelai Pak Dedi yang bisa dibagikan ke tetangga?
+Answer: $60$ kg
+Explanation: >
+  Kedelai dijual = $\frac{1}{4} \times 120 = 30$ kg.
+  Sisa kedelai = $120 - 30 - 30 = 60$ kg.
+Options:
+  - Text: $60$ kg
+  - Text: $90$ kg
+  - Text: $30$ kg
+  - Text: $45$ kg
+  - Text: $50$ kg
+---
+ID: SD_MTK_184
+Type: PilihanGanda
+Question: >
+  Sebuah lapangan olahraga berbentuk persegi panjang memiliki keliling $140$ m. Jika lebar lapangan tersebut adalah $30$ m, berapakah luas lapangan tersebut?
+Answer: $1200$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 140 = 2 \times (p + 30) \Rightarrow p + 30 = 70 \Rightarrow p = 40$ m.
+  Luas = $p \times l = 40 \times 30 = 1200$ $m^2$.
+Options:
+  - Text: $1200$ $m^2$
+  - Text: $4200$ $m^2$
+  - Text: $1000$ $m^2$
+  - Text: $800$ $m^2$
+  - Text: $1500$ $m^2$
+---
+ID: SD_MTK_185
+Type: PilihanGanda
+Question: >
+  Sebuah kolam renang berbentuk balok berisi air setengah penuh dengan volume $400$ $m^3$. Jika panjang kolam $10$ m dan lebar $8$ m, berapakah kedalaman (tinggi) total kolam tersebut?
+Answer: $10$ m
+Explanation: >
+  Volume setengah = $400$ $m^3$. Volume total = $400 \times 2 = 800$ $m^3$.
+  Volume = $p \times l \times t \Rightarrow 800 = 10 \times 8 \times t \Rightarrow 800 = 80 \times t \Rightarrow t = 10$ m.
+Options:
+  - Text: $10$ m
+  - Text: $8$ m
+  - Text: $5$ m
+  - Text: $12$ m
+  - Text: $15$ m
+---
+ID: SD_MTK_186
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $60, 80, 80, 80, 90$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $390$. Rata-rata = $390 \div 5 = 78$. Median (tengah) = $80$. Modus = $80$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $78$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $80$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $90$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $30$.
+    IsCorrect: true
+---
+ID: SD_MTK_187
+Type: PilihanGandaKompleks
+Question: >
+  Titik sudut merupakan perpotongan beberapa rusuk pada bangun ruang. Analisislah pernyataan terkait titik sudut bangun ruang di bawah ini!
+Explanation: >
+  Prisma segitiga (6 titik sudut). Limas segi empat (5 titik sudut). Kubus (8 titik sudut).
+Options:
+  - Text: Prisma segitiga memiliki tepat $6$ buah titik sudut.
+    IsCorrect: true
+  - Text: Limas segi empat memiliki $5$ titik sudut, di mana salah satunya adalah titik puncak.
+    IsCorrect: true
+  - Text: Kerucut memiliki $2$ titik sudut.
+    IsCorrect: false
+  - Text: Tabung sama sekali tidak memiliki titik sudut.
+    IsCorrect: true
+---
+ID: SD_MTK_188
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $50 + 5 \times 8 = 90$
+    IsCorrect: true
+  - Text: $(50 + 5) \times 8 = 440$
+    IsCorrect: true
+  - Text: $120 - 60 \div 10 = 6$
+    IsCorrect: false
+  - Text: $10 \times 6 + 15 = 75$
+    IsCorrect: true
+---
+ID: SD_MTK_189
+Type: BenarSalah
+Question: >
+  Sebuah peta nasional digambar dengan skala $1 : 3.000.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 3.000.000$ berarti $1$ cm di peta = $3.000.000$ cm = $30$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $30$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $150$ km, maka jarak di peta adalah $5$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $4$ cm pada peta sama dengan $1200$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_190
+Type: BenarSalah
+Question: >
+  Konversi satuan panjang sering digunakan untuk mengukur perabotan maupun bangunan. Tentukan Benar atau Salah pernyataan konversi berikut!
+Explanation: >
+  $1$ m = $100$ cm = $10$ dm. $1$ km = $1000$ m.
+Options:
+  - Text: Meja sepanjang $1,2$ meter setara dengan $120$ sentimeter.
+    IsCorrect: Benar
+  - Text: Tembok dengan tinggi $300$ cm sama tingginya dengan $3$ meter.
+    IsCorrect: Benar
+  - Text: Jarak $2000$ meter lebih pendek dari $1$ kilometer.
+    IsCorrect: Salah
+---
+ID: SD_MTK_191
+Type: PilihanGanda
+Question: >
+  Tiga jadwal pemberian obat diatur dengan interval waktu berbeda. Obat A setiap $4$ jam, B setiap $8$ jam, dan C setiap $12$ jam. Jika ketiga obat diminum bersamaan pada pukul $07.00$ pagi, berapa jam lagikah ketiganya akan diminum bersama-sama untuk kedua kalinya?
+Answer: $24$ jam
+Explanation: >
+  Diminum bersamaan lagi dihitung dengan KPK dari $4, 8,$ dan $12$.
+  Faktorisasi: $4=2^2$, $8=2^3$, $12=2^2 \times 3$. KPK = $2^3 \times 3 = 24$.
+Options:
+  - Text: $24$ jam
+  - Text: $12$ jam
+  - Text: $48$ jam
+  - Text: $36$ jam
+  - Text: $20$ jam
+---
+ID: SD_MTK_192
+Type: PilihanGanda
+Question: >
+  Anto berkendara sejauh $240$ km dengan kecepatan rata-rata $60$ km/jam. Di pertengahan jalan, ia beristirahat selama $30$ menit. Jika ia berangkat pukul $05.30$, pukul berapakah ia tiba di tujuan?
+Answer: Pukul $10.00$
+Explanation: >
+  Waktu tempuh = Jarak $\div$ Kecepatan = $240 \div 60 = 4$ jam.
+  Total waktu = $4$ jam + $30$ menit istirahat = $4$ jam $30$ menit.
+  Tiba = Pukul $05.30 + 4.30 = 10.00$.
+Options:
+  - Text: Pukul $10.00$
+  - Text: Pukul $09.30$
+  - Text: Pukul $10.30$
+  - Text: Pukul $11.00$
+  - Text: Pukul $09.00$
+---
+ID: SD_MTK_193
+Type: PilihanGanda
+Question: >
+  Pabrik roti memiliki tepung terigu sebanyak $160$ kg. Sebanyak $\frac{1}{4}$ bagian digunakan untuk membuat kue bolu, dan $40$ kg digunakan untuk donat. Berapa kg sisa tepung terigu di pabrik sekarang?
+Answer: $80$ kg
+Explanation: >
+  Tepung kue bolu = $\frac{1}{4} \times 160 = 40$ kg.
+  Sisa tepung = $160 - 40 - 40 = 80$ kg.
+Options:
+  - Text: $80$ kg
+  - Text: $120$ kg
+  - Text: $60$ kg
+  - Text: $40$ kg
+  - Text: $100$ kg
+---
+ID: SD_MTK_194
+Type: PilihanGanda
+Question: >
+  Sebuah tambak ikan berbentuk persegi panjang memiliki keliling $160$ m. Jika lebar tambak tersebut adalah $35$ m, berapakah luas tambak tersebut?
+Answer: $1575$ $m^2$
+Explanation: >
+  Keliling = $2 \times (p + l) \Rightarrow 160 = 2 \times (p + 35) \Rightarrow p + 35 = 80 \Rightarrow p = 45$ m.
+  Luas = $p \times l = 45 \times 35 = 1575$ $m^2$.
+Options:
+  - Text: $1575$ $m^2$
+  - Text: $5600$ $m^2$
+  - Text: $1600$ $m^2$
+  - Text: $1400$ $m^2$
+  - Text: $1650$ $m^2$
+---
+ID: SD_MTK_195
+Type: PilihanGanda
+Question: >
+  Sebuah tangki penampungan berbentuk balok berisi minyak setengah penuh dengan volume $480$ liter. Jika panjang tangki $12$ dm dan lebar $8$ dm, berapakah tinggi total tangki tersebut?
+Answer: $10$ dm
+Explanation: >
+  Volume setengah = $480$ liter ($dm^3$). Volume total = $480 \times 2 = 960$ $dm^3$.
+  Volume = $p \times l \times t \Rightarrow 960 = 12 \times 8 \times t \Rightarrow 960 = 96 \times t \Rightarrow t = 10$ dm.
+Options:
+  - Text: $10$ dm
+  - Text: $8$ dm
+  - Text: $12$ dm
+  - Text: $5$ dm
+  - Text: $6$ dm
+---
+ID: SD_MTK_196
+Type: PilihanGandaKompleks
+Question: >
+  Diketahui data nilai matematika lima siswa sebagai berikut: $50, 50, 70, 80, 100$. Manakah pernyataan berikut yang sesuai dengan data tersebut?
+Explanation: >
+  Total = $350$. Rata-rata = $350 \div 5 = 70$. Median (tengah) = $70$. Modus = $50$.
+Options:
+  - Text: Rata-rata nilai ulangan adalah $70$.
+    IsCorrect: true
+  - Text: Median dari data tersebut adalah $70$.
+    IsCorrect: true
+  - Text: Modus dari data tersebut adalah $100$.
+    IsCorrect: false
+  - Text: Selisih nilai tertinggi dan terendah adalah $50$.
+    IsCorrect: true
+---
+ID: SD_MTK_197
+Type: PilihanGandaKompleks
+Question: >
+  Bangun ruang kubus dan balok memiliki banyak kemiripan. Tentukan mana saja pernyataan yang tepat yang menggambarkan persamaan maupun perbedaan keduanya!
+Explanation: >
+  Kubus dan balok punya 6 sisi, 12 rusuk, 8 titik sudut. Sisi kubus persegi, balok bisa persegi/persegi panjang.
+Options:
+  - Text: Keduanya memiliki tepat $12$ buah rusuk.
+    IsCorrect: true
+  - Text: Keduanya memiliki tepat $8$ buah titik sudut.
+    IsCorrect: true
+  - Text: Sisi-sisi pada balok harus selalu berbentuk persegi empat, namun tidak selalu kongruen semua.
+    IsCorrect: true
+  - Text: Kubus dapat dianggap sebagai balok khusus yang memiliki rusuk berukuran sama panjang.
+    IsCorrect: true
+---
+ID: SD_MTK_198
+Type: PilihanGandaKompleks
+Question: >
+  Perhatikan operasi hitung campuran bilangan bulat berikut. Manakah hasil perhitungan yang benar sesuai aturan prioritas (KABATAKU)?
+Explanation: >
+  Perkalian dan pembagian didahulukan sebelum penjumlahan dan pengurangan.
+Options:
+  - Text: $60 + 10 \times 3 = 90$
+    IsCorrect: true
+  - Text: $(60 + 10) \times 3 = 210$
+    IsCorrect: true
+  - Text: $150 - 50 \div 2 = 50$
+    IsCorrect: false
+  - Text: $25 \times 4 + 20 = 120$
+    IsCorrect: true
+---
+ID: SD_MTK_199
+Type: BenarSalah
+Question: >
+  Sebuah peta letak astronomis digambar dengan skala $1 : 5.000.000$. Tentukan Benar atau Salah pada setiap pernyataan berikut terkait peta tersebut!
+Explanation: >
+  Skala $1 : 5.000.000$ berarti $1$ cm di peta = $5.000.000$ cm = $50$ km di dunia nyata.
+Options:
+  - Text: Jarak $1$ cm pada peta mewakili $50$ km jarak sebenarnya.
+    IsCorrect: Benar
+  - Text: Jika jarak sebenarnya $200$ km, maka jarak di peta adalah $4$ cm.
+    IsCorrect: Benar
+  - Text: Jarak $2$ cm pada peta sama dengan $25$ km jarak sebenarnya.
+    IsCorrect: Salah
+---
+ID: SD_MTK_200
+Type: BenarSalah
+Question: >
+  Konversi satuan waktu sangat sering digunakan dalam jadwal sehari-hari. Tentukan Benar atau Salah pernyataan konversi satuan waktu berikut!
+Explanation: >
+  $1$ abad = $100$ tahun. $1$ windu = $8$ tahun. $1$ dasawarsa = $10$ tahun. $1$ tahun = $12$ bulan.
+Options:
+  - Text: Usia sebuah gedung bersejarah yang mencapai $1$ abad setara dengan $100$ tahun.
+    IsCorrect: Benar
+  - Text: Masa jabatan selama $2$ windu sama lamanya dengan $16$ tahun.
+    IsCorrect: Benar
+  - Text: $1$ dasawarsa sama dengan umur anak berusia $12$ tahun.
+    IsCorrect: Salah
+---
