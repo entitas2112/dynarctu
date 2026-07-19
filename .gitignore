@@ -1,6 +1,7 @@
+node_modules/
+dist/
+.vercel/
 .env
-var/
-__pycache__/
-*.pyc
-.venv/
+.env.local
+*.log
 .DS_Store

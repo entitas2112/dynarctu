@@ -1,136 +1,146 @@
-# DYNARCTU — Sistem Evaluasi Belajar
+# DYNARCTU
 
-A quiz/evaluation platform for Indonesian TKA prep (SD/SMP/SMA), rebuilt
-on a security-hardened, single-process FastAPI backend.
+Interactive TKA (Tes Kemampuan Akademik) practice-quiz app for SD/SMP/SMA,
+rebuilt as a Vite frontend + Vercel serverless-function backend.
 
-## Quick start
+Quiz answers are never sent to the browser. Question selection and grading
+both happen in the serverless functions under `api/`; the client only ever
+receives stripped question payloads (see `api/_lib/quizEngine.ts` →
+`toPublicQuestion()`), and the answer key is checked against the copy kept
+in the session store (Vercel KV), not against anything the client can see
+or tamper with.
+
+## Project layout
+
+```
+index.html          Landing page + quiz UI shell
+src/                 Frontend (vanilla JS, bundled by Vite)
+public/              Static assets (logos) served as-is
+data/*.qdf           Question bank, in QDF format (see docs below)
+api/_lib/            Server-only shared code — never imported from src/
+  qdf.ts             QDF parser
+  quizEngine.ts      Question selection, shuffling, grading
+  kv.ts              Sessions + used-question history (Vercel KV)
+  security.ts        Signed device cookie, admin token check, headers
+  validate.ts        Request validation
+  handler.ts         Wraps routes: headers + sanitized error responses
+  config.ts          Env var loading
+api/quiz/            Public routes: catalog, start, answer, finish, history
+api/admin/           Admin routes (bearer token required)
+api/health.ts        Health check
+```
+
+## Prerequisites
+
+- Node.js 20+
+- A [Vercel](https://vercel.com) account (for KV storage and deployment)
+- The [Vercel CLI](https://vercel.com/docs/cli): `npm install --global vercel`
+
+## Local setup
 
 ```bash
-python server.py
+npm install
+cp .env.example .env
 ```
 
-That's it. On first run this will:
+Fill in `.env`:
 
-1. Install any missing Python dependencies (from `requirements.txt`).
-2. Generate a `.env` file with a fresh, random admin token and session
-   secret (printed once to the terminal — save the admin token somewhere
-   safe if you plan to use the admin API).
-3. Create the local SQLite database under `var/`.
-4. Start the server at `http://0.0.0.0:8000`.
+- `ADMIN_TOKEN`, `SESSION_SECRET` — required, app fails fast at boot
+  without them. Generate with `openssl rand -base64 32`.
+- `KV_REST_API_URL`, `KV_REST_API_TOKEN` — see **Attach Vercel KV** below.
+  Don't hand-type these; `vercel env pull` fills them in for you once a
+  KV store is attached.
 
-Open `http://localhost:8000` in a browser. Requires Python 3.10+.
+### Attach Vercel KV
 
-To stop, press `Ctrl+C`. Re-running `python server.py` reuses the same
-`.env`/database — it will not overwrite your admin token.
+Sessions and quiz-history dedup used to live in an in-memory dict + local
+SQLite file. Serverless functions are stateless between invocations, so
+that state now lives in Vercel KV (Redis, via Upstash) instead:
 
-## Configuration
+1. `vercel link` (links this directory to a Vercel project — creates one
+   if it doesn't exist yet).
+2. In the Vercel dashboard: **Storage → Create Database → KV**, then
+   **Connect** it to this project.
+3. `vercel env pull .env.development.local` (or re-run `vercel env pull .env`)
+   to pull the auto-injected `KV_REST_API_URL` / `KV_REST_API_TOKEN` down
+   locally.
 
-All configuration lives in `.env` (auto-generated, git-ignored). Notable
-options:
+### Run it
 
-| Variable | Default | Purpose |
-|---|---|---|
-| `HOST` / `PORT` | `0.0.0.0` / `8000` | Bind address |
-| `ADMIN_TOKEN` | random | Bearer token for `/api/admin/*` |
-| `SESSION_SECRET` | random | HMAC key signing the anonymous device-history cookie |
-| `ENABLE_HSTS` | `false` | Set `true` only when served over HTTPS |
-| `ALLOWED_ORIGINS` | empty | Extra origins allowed to call the API cross-origin (leave empty for same-origin deployments — the default and recommended setup) |
-| `SSL_CERTFILE` / `SSL_KEYFILE` | empty | Let Uvicorn terminate TLS directly, instead of a reverse proxy |
-| `RATE_LIMIT_*` | see `.env` | Per-minute request caps per client IP |
+Vite serves the frontend on `:5173` and proxies `/api/*` to `vercel dev`
+on `:3000` (see `vite.config.js`), so run both:
 
-For a real production deployment, put this behind a reverse proxy (nginx,
-Caddy, or a cloud load balancer) that terminates TLS and forwards
-`X-Forwarded-For`.
-
-## Architecture
-
-```
-server.py            Single-command launcher: bootstraps deps/secrets, starts Uvicorn
-backend/
-  main.py            FastAPI app: middleware, error handling, routers, static mount
-  config.py           Typed settings from .env
-  qdf.py               Server-only QDF (Question Data Format) parser
-  quiz_engine.py       Question selection + server-authoritative grading
-  sessions.py          In-memory, TTL'd quiz session store
-  db.py                Async SQLite (parameterized queries) for question-rotation history
-  security.py          Signed device-id cookie, secure headers, rate limiter, admin auth
-  schemas.py            Pydantic request validation
-  routers/
-    quiz.py             Public quiz API
-    admin.py            Bearer-token-protected admin API
-web/                    Static frontend (HTML/CSS/JS) — served as-is, no build step
-data/                   Question banks (.qdf) — server-side only, never mounted publicly
-docs/                   QDF format specification (reference material)
+```bash
+vercel dev          # terminal 1 — serves api/* on :3000
+npm run dev          # terminal 2 — serves the frontend on :5173, proxies /api to :3000
 ```
 
-### Why the backend was restructured
+Open http://localhost:5173.
 
-The original version shipped raw `.qdf` question-bank files (containing the
-correct answers) straight to the browser as static files, and graded
-answers in client-side JavaScript. That means anyone could open dev tools
-(or just `curl /data/sd/mtk.qdf`) and read every answer key.
+### Typecheck & build
 
-This rebuild moves all of that server-side:
-
-- The browser only ever receives a *stripped* question payload (question
-  text + option text, no `Answer`/`IsCorrect` fields).
-- Question selection, shuffling, and grading happen in `quiz_engine.py`,
-  against the full record kept only in server memory (`sessions.py`).
-- `data/` lives outside the static-file mount (`web/`), so it's not
-  reachable via any HTTP route at all.
-
-### Security measures implemented
-
-- **No client-side secrets**: answers, grading logic, and the question
-  bank never leave the server.
-- **Strict input validation**: `jenjang`/`mapel` are checked against a
-  whitelist built from the actual files on disk (prevents path traversal);
-  `jumlah`/`durasi` are constrained to the same fixed option sets the UI
-  offers.
-- **Parameterized SQL** everywhere (`aiosqlite`, `?` placeholders) — no
-  string-built queries.
-- **Rate limiting** per client IP on quiz start/answer/finish and admin
-  endpoints.
-- **Secure headers** on every response: CSP (no inline scripts allowed —
-  MathJax config/nav JS were externalized for this reason), 
-  X-Frame-Options, X-Content-Type-Options, Referrer-Policy,
-  Permissions-Policy, optional HSTS.
-- **Locked-down CORS**: disabled by default (same-origin only); only
-  enabled if you explicitly configure `ALLOWED_ORIGINS`.
-- **Auth model**: quiz endpoints use short-lived, server-issued bearer
-  session tokens (returned in the JSON body, kept in JS memory — never a
-  cookie), which sidesteps CSRF for those routes entirely. Admin
-  endpoints require a separate `Authorization: Bearer <ADMIN_TOKEN>`
-  header (RBAC: public vs. admin). The only cookie set is an
-  HMAC-signed, HttpOnly, SameSite=Lax anonymous device id used solely to
-  track which non-sensitive question IDs a browser has already seen.
-- **Sanitized error handling**: unhandled exceptions return a generic
-  `{"error": "internal server error"}` (full details go to the server
-  log only, never to the client).
-- **API docs disabled in production** (`/api/docs`, `/api/openapi.json`)
-  to reduce endpoint enumeration surface; enable by setting `ENV=development`.
-- **Secrets management**: `ADMIN_TOKEN`/`SESSION_SECRET` are generated
-  randomly on first run, stored in a git-ignored, `chmod 600` `.env` file,
-  and never logged.
-
-### Admin API
-
-```
-GET  /api/admin/catalog        -> question counts per jenjang/mapel (no content/answers)
-POST /api/admin/cache/reload   -> clears the in-memory parsed-bank cache
+```bash
+npm run typecheck    # tsc --noEmit over api/**/*.ts
+npm run build         # vite build → dist/
 ```
 
-Both require `Authorization: Bearer <ADMIN_TOKEN>` (see your `.env`).
+## Deploying
 
-## Editing question banks
+`vercel.json` configures the build (`vite build` → `dist/`), bundles
+`data/**` alongside the serverless functions (so `api/_lib/quizEngine.ts`
+can read the `.qdf` files at runtime), and sets security headers (CSP,
+HSTS, X-Frame-Options, etc.) on every response.
 
-Question banks are plain-text `.qdf` files under `data/<jenjang>/<mapel>.qdf`.
-See `docs/data-format-new.md` for the full format spec. After editing a
-file, either restart the server or call `POST /api/admin/cache/reload`
-(with your admin token) to pick up the change without a restart.
+This repo deploys via the GitHub Action in `.github/workflows/deploy.yml`
+rather than Vercel's automatic Git integration, so:
 
-## Development
+- **Disable Vercel's automatic Git deploys** for this project (Vercel
+  dashboard → Project Settings → Git → disconnect, or set the production
+  branch to something that never gets pushed to) — otherwise pushes to
+  `main` will trigger two competing deployments.
+- Add these repo secrets (**GitHub → Settings → Secrets and variables →
+  Actions**):
+  - `VERCEL_TOKEN` — Vercel dashboard → Account Settings → Tokens
+  - `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` — found in `.vercel/project.json`
+    after running `vercel link` locally once
+- Set `ADMIN_TOKEN`, `SESSION_SECRET`, and any optional vars from
+  `.env.example` in the Vercel dashboard (Project Settings → Environment
+  Variables) for the Production environment — the Action deploys prebuilt
+  output, it doesn't upload your local `.env`. `KV_REST_API_URL` /
+  `KV_REST_API_TOKEN` are injected automatically once KV is attached.
 
-Set `ENV=development` in `.env` to re-enable `/api/docs` and allow the
-device cookie to be issued without `Secure` (useful for local HTTP
-testing). Do not use this setting in production.
+Every push to `main` then: installs deps → typechecks → builds → (on
+`main` only) deploys to production. Pull requests run typecheck + build
+only, no deploy.
+
+## Question bank (QDF format)
+
+`.qdf` files live under `data/<jenjang>/<mapel>.qdf` (e.g.
+`data/sma/mtk.qdf`). `discoverCatalog()` in `api/_lib/quizEngine.ts` scans
+this directory tree at request time to build the jenjang/mapel whitelist —
+that whitelist, not raw client input, is what request validation checks
+against, which is what prevents path traversal via the `jenjang`/`mapel`
+request parameters.
+
+**Note:** `data/sd/mtk.qdf` is currently an empty file (0 bytes) — this
+was already the case in the original question bank, not something the
+migration introduced. The catalog will still list SD → Matematika as a
+choice, but starting a quiz with it returns zero questions; the frontend
+already handles this gracefully ("Bank soal untuk pilihan ini masih
+kosong"). Fill in that file with QDF-formatted questions whenever you're
+ready to add SD Matematika content.
+
+## Security notes
+
+- Answers never leave the server — see `toPublicQuestion()` in
+  `api/_lib/quizEngine.ts`.
+- Admin routes (`api/admin/**`) require a bearer token matching
+  `ADMIN_TOKEN`, checked with a timing-safe comparison
+  (`api/_lib/security.ts`).
+- Device identity is a signed HMAC cookie (`security.ts`), not a raw
+  client-supplied ID.
+- Every response gets the same security headers, and every thrown error
+  is sanitized before reaching the client (`api/_lib/handler.ts`) — no
+  stack traces or internal details leak to the browser.
+- Rate limits are enforced per-route via Vercel KV (`checkRateLimit` in
+  `kv.ts`) — see `.env.example` for the tunable limits.
